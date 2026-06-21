@@ -1,0 +1,372 @@
+{
+  "slug": "verb",
+  "title": "Verb",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Parts of Speech", "SSC CGL"],
+
+  "definition": {
+    "english": "A verb is a word that expresses an action, state, or possession.",
+    "marathi": "क्रिया, अवस्था किंवा मालकी दर्शवणाऱ्या शब्दाला Verb म्हणतात.",
+    "examples": [
+      {
+        "word": "Play",
+        "tag": "Action"
+      },
+      {
+        "word": "Is",
+        "tag": "State"
+      },
+      {
+        "word": "Has",
+        "tag": "Possession"
+      }
+    ]
+  },
+
+  "tables": [
+    {
+      "id": "verb-forms",
+      "title": "Verb Forms",
+      "columns": ["form", "meaning", "example"],
+      "rows": [
+        {
+          "form": "V1",
+          "meaning": "Base Form",
+          "example": "Go"
+        },
+        {
+          "form": "V2",
+          "meaning": "Past Form",
+          "example": "Went"
+        },
+        {
+          "form": "V3",
+          "meaning": "Past Participle",
+          "example": "Gone"
+        },
+        {
+          "form": "V4",
+          "meaning": "ING Form",
+          "example": "Going"
+        },
+        {
+          "form": "V5",
+          "meaning": "S/ES Form",
+          "example": "Goes"
+        }
+      ]
+    }
+  ],
+
+  "types": [
+    {
+      "name": "Main Verb",
+      "english": "Shows the main action or state.",
+      "marathi": "वाक्याचा मुख्य अर्थ सांगते.",
+      "examples": ["Play", "Write", "Eat", "Go"]
+    },
+    {
+      "name": "Helping Verb",
+      "english": "Helps the main verb.",
+      "marathi": "मुख्य Verb ला मदत करते.",
+      "examples": [
+        "Am",
+        "Is",
+        "Are",
+        "Was",
+        "Were",
+        "Have",
+        "Has",
+        "Had",
+        "Do",
+        "Does",
+        "Did"
+      ]
+    },
+    {
+      "name": "Modal Verb",
+      "english": "Expresses ability, possibility, permission or advice.",
+      "marathi": "क्षमता, शक्यता, परवानगी किंवा सल्ला दर्शवते.",
+      "examples": [
+        "Can",
+        "Could",
+        "May",
+        "Might",
+        "Shall",
+        "Should",
+        "Will",
+        "Would",
+        "Must"
+      ]
+    },
+    {
+      "name": "Transitive Verb",
+      "english": "Requires an object.",
+      "marathi": "Object आवश्यक असतो.",
+      "examples": [
+        "He wrote a letter.",
+        "She bought a car."
+      ]
+    },
+    {
+      "name": "Intransitive Verb",
+      "english": "Does not require an object.",
+      "marathi": "Object लागत नाही.",
+      "examples": [
+        "Birds fly.",
+        "He sleeps."
+      ]
+    },
+    {
+      "name": "Linking Verb",
+      "english": "Links subject with complement.",
+      "marathi": "Subject बद्दल माहिती देते.",
+      "examples": [
+        "Become",
+        "Seem",
+        "Appear",
+        "Look",
+        "Feel",
+        "Taste",
+        "Smell"
+      ]
+    }
+  ],
+
+  "nonFiniteVerbs": [
+    {
+      "name": "Infinitive",
+      "english": "To + V1",
+      "marathi": "To + V1",
+      "examples": [
+        "To study",
+        "To play",
+        "To write"
+      ]
+    },
+    {
+      "name": "Gerund",
+      "english": "Ving used as a noun.",
+      "marathi": "Ving जे Noun सारखे काम करते.",
+      "examples": [
+        "Reading is useful.",
+        "Swimming is good exercise."
+      ]
+    },
+    {
+      "name": "Participle",
+      "english": "Verb used as an adjective.",
+      "marathi": "Verb जे Adjective सारखे काम करते.",
+      "examples": [
+        "Running water",
+        "Broken chair"
+      ]
+    }
+  ],
+
+  "specialStructures": [
+    {
+      "name": "Ought To",
+      "formula": "Ought To + V1",
+      "example": "You ought to obey elders."
+    },
+    {
+      "name": "Used To",
+      "formula": "Used To + V1",
+      "example": "I used to play cricket."
+    },
+    {
+      "name": "Had Better",
+      "formula": "Had Better + V1",
+      "example": "You had better leave now."
+    },
+    {
+      "name": "Would Rather",
+      "formula": "Would Rather + V1",
+      "example": "I would rather stay home."
+    }
+  ],
+
+  "causativeVerbs": [
+    {
+      "formula": "Let + Object + V1",
+      "example": "Let him go."
+    },
+    {
+      "formula": "Make + Object + V1",
+      "example": "The teacher made him stand."
+    },
+    {
+      "formula": "Have + Object + V1",
+      "example": "I had him repair the bike."
+    },
+    {
+      "formula": "Get + Object + To + V1",
+      "example": "I got him to repair the bike."
+    }
+  ],
+
+  "rules": [
+    {
+      "id": 1,
+      "title": "Be Verb + V4",
+      "marathi": "Continuous Tense मध्ये वापरतात.",
+      "examples": [
+        "She is studying.",
+        "They were playing."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Be Verb + V3",
+      "marathi": "Passive Voice मध्ये वापरतात.",
+      "examples": [
+        "The work is completed.",
+        "The letter was written."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Have / Has / Had + V3",
+      "marathi": "Perfect Tense मध्ये वापरतात.",
+      "examples": [
+        "He has written a letter.",
+        "They had completed the task."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Do / Does / Did + V1",
+      "wrongRight": [
+        {
+          "wrong": "Did he went there?",
+          "right": "Did he go there?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Modal + V1",
+      "wrongRight": [
+        {
+          "wrong": "She can sings.",
+          "right": "She can sing."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Preposition + Ving",
+      "examples": [
+        "Interested in learning",
+        "Good at solving",
+        "Thank you for helping"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Stative Verbs",
+      "examples": [
+        "Know",
+        "Believe",
+        "Understand",
+        "Love",
+        "Hate",
+        "Own",
+        "Belong"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "I am knowing the answer.",
+          "right": "I know the answer."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Inversion",
+      "examples": [
+        "Where are you going?",
+        "What are you doing?",
+        "Why did he leave?"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Parallelism",
+      "wrongRight": [
+        {
+          "wrong": "He likes reading and to write.",
+          "right": "He likes reading and writing."
+        }
+      ]
+    }
+  ],
+
+  "goldenRevision": [
+    "Do/Does/Did → V1",
+    "Has/Have/Had → V3",
+    "Modal → V1",
+    "Be + V4",
+    "Be + V3",
+    "To + V1",
+    "Preposition + Ving",
+    "Used To + V1",
+    "Ought To + V1",
+    "Had Better + V1",
+    "Would Rather + V1",
+    "Gerund = Noun",
+    "Participle = Adjective",
+    "Finite Verb changes with Subject/Tense",
+    "Non-Finite Verb does not change"
+  ],
+
+  "pyqTraps": [
+    {
+      "wrong": "Did he went there?",
+      "right": "Did he go there?"
+    },
+    {
+      "wrong": "She can sings.",
+      "right": "She can sing."
+    },
+    {
+      "wrong": "He has wrote a letter.",
+      "right": "He has written a letter."
+    },
+    {
+      "wrong": "I enjoy to read books.",
+      "right": "I enjoy reading books."
+    },
+    {
+      "wrong": "Let him to go.",
+      "right": "Let him go."
+    },
+    {
+      "wrong": "I am knowing the answer.",
+      "right": "I know the answer."
+    }
+  ],
+
+  "examStrategy": [
+    {
+      "label": "Tier-1",
+      "text": "Golden Revision + PYQ Traps पुरेसे आहेत."
+    },
+    {
+      "label": "Tier-2",
+      "text": "Finite, Non-Finite, Gerund, Participle, Inversion आणि Parallelism revise करा."
+    },
+    {
+      "label": "Practice",
+      "text": "50–60 Verb PYQs सोडवा."
+    },
+    {
+      "label": "Exam पूर्वी",
+      "text": "फक्त Golden Revision Page वाचा."
+    }
+  ],
+
+  "finalVerdict": "हे Notes SSC CGL Tier-1 + Tier-2 साठी Verb chapter जवळपास 100% cover करतात. 🚀📚"
+}
+

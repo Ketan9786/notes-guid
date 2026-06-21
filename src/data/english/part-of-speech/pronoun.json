@@ -1,0 +1,451 @@
+
+{
+  "slug": "pronoun",
+  "title": "Pronoun",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Parts of Speech", "SSC CGL"],
+
+  "definition": {
+    "english": "A word used in place of a noun is called a pronoun.",
+    "marathi": "Noun च्या जागी वापरल्या जाणाऱ्या शब्दाला Pronoun म्हणतात.",
+    "examples": [
+      {
+        "word": "He",
+        "tag": "Ram च्या जागी"
+      },
+      {
+        "word": "She",
+        "tag": "Sita च्या जागी"
+      },
+      {
+        "word": "They",
+        "tag": "People च्या जागी"
+      }
+    ]
+  },
+
+  "cases": [
+    {
+      "name": "Subjective Case",
+      "english": "Pronoun used as subject.",
+      "marathi": "कर्ता म्हणून वापरले जाणारे Pronoun.",
+      "examples": ["I", "We", "You", "He", "She", "It", "They"]
+    },
+    {
+      "name": "Objective Case",
+      "english": "Pronoun used as object.",
+      "marathi": "कर्म म्हणून वापरले जाणारे Pronoun.",
+      "examples": ["Me", "Us", "You", "Him", "Her", "It", "Them"]
+    },
+    {
+      "name": "Possessive Case",
+      "english": "Pronoun showing ownership.",
+      "marathi": "मालकी दर्शवणारे Pronoun.",
+      "examples": ["Mine", "Yours", "His", "Hers", "Ours", "Theirs"]
+    }
+  ],
+
+  "tables": [
+    {
+      "id": "table-1",
+      "title": "Pronoun Forms",
+      "columns": [
+        "subject",
+        "object",
+        "possessiveAdjective",
+        "possessivePronoun",
+        "reflexivePronoun"
+      ],
+      "rows": [
+        {
+          "subject": "I",
+          "object": "me",
+          "possessiveAdjective": "my",
+          "possessivePronoun": "mine",
+          "reflexivePronoun": "myself"
+        },
+        {
+          "subject": "We",
+          "object": "us",
+          "possessiveAdjective": "our",
+          "possessivePronoun": "ours",
+          "reflexivePronoun": "ourselves"
+        },
+        {
+          "subject": "You",
+          "object": "you",
+          "possessiveAdjective": "your",
+          "possessivePronoun": "yours",
+          "reflexivePronoun": "yourself / yourselves"
+        },
+        {
+          "subject": "He",
+          "object": "him",
+          "possessiveAdjective": "his",
+          "possessivePronoun": "his",
+          "reflexivePronoun": "himself"
+        },
+        {
+          "subject": "She",
+          "object": "her",
+          "possessiveAdjective": "her",
+          "possessivePronoun": "hers",
+          "reflexivePronoun": "herself"
+        },
+        {
+          "subject": "It",
+          "object": "it",
+          "possessiveAdjective": "its",
+          "possessivePronoun": "-",
+          "reflexivePronoun": "itself"
+        },
+        {
+          "subject": "They",
+          "object": "them",
+          "possessiveAdjective": "their",
+          "possessivePronoun": "theirs",
+          "reflexivePronoun": "themselves"
+        }
+      ]
+    }
+  ],
+
+  "types": [
+    {
+      "name": "Personal Pronoun",
+      "english": "Pronouns used instead of names of persons.",
+      "marathi": "व्यक्तीच्या नावाऐवजी वापरले जाणारे Pronouns.",
+      "examples": ["I", "You", "He", "She", "It", "We", "They"]
+    },
+    {
+      "name": "Possessive Pronoun",
+      "english": "Pronouns showing possession without a noun.",
+      "marathi": "Noun शिवाय मालकी दर्शवणारे Pronouns.",
+      "examples": ["Mine", "Yours", "His", "Hers", "Ours", "Theirs"]
+    },
+    {
+      "name": "Demonstrative Pronoun",
+      "english": "Pronouns used to point out persons or things.",
+      "marathi": "व्यक्ती किंवा वस्तू दाखवण्यासाठी वापरले जाणारे Pronouns.",
+      "examples": ["This", "That", "These", "Those"]
+    },
+    {
+      "name": "Distributive Pronoun",
+      "english": "Refers to persons/things one at a time.",
+      "marathi": "एकावेळी एका व्यक्ती/वस्तूचा उल्लेख करणारे Pronouns.",
+      "examples": ["Each", "Either", "Neither"]
+    },
+    {
+      "name": "Reciprocal Pronoun",
+      "english": "Shows mutual relationship.",
+      "marathi": "परस्पर संबंध दर्शवते.",
+      "examples": ["Each Other", "One Another"]
+    },
+    {
+      "name": "Reflexive Pronoun",
+      "english": "Subject and object are same.",
+      "marathi": "कर्ता आणि कर्म एकच असल्यास.",
+      "examples": [
+        "Myself",
+        "Yourself",
+        "Himself",
+        "Herself",
+        "Ourselves",
+        "Themselves"
+      ]
+    },
+    {
+      "name": "Emphatic Pronoun",
+      "english": "Used for emphasis.",
+      "marathi": "भर देण्यासाठी वापरतात.",
+      "examples": ["Myself", "Himself", "Themselves"]
+    },
+    {
+      "name": "Indefinite Pronoun",
+      "english": "Refers to persons/things generally.",
+      "marathi": "अनिश्चित व्यक्ती किंवा वस्तू.",
+      "examples": [
+        "Someone",
+        "Anyone",
+        "Everyone",
+        "Nobody",
+        "Something"
+      ]
+    },
+    {
+      "name": "Relative Pronoun",
+      "english": "Connects clauses.",
+      "marathi": "Clauses जोडते.",
+      "examples": ["Who", "Whom", "Whose", "Which", "That"]
+    },
+    {
+      "name": "Interrogative Pronoun",
+      "english": "Used for asking questions.",
+      "marathi": "प्रश्न विचारण्यासाठी वापरतात.",
+      "examples": ["Who", "Whom", "Whose", "Which", "What"]
+    }
+  ],
+
+  "rules": [
+    {
+      "id": 1,
+      "title": "Order Of Pronouns (Positive Sentence)",
+      "english": "Use 231 order.",
+      "marathi": "Positive Sentence मध्ये 2-3-1 क्रम वापरतात.",
+      "examples": ["You, he and I have completed the work."],
+      "wrongRight": [
+        {
+          "wrong": "I, you and he have completed the work.",
+          "right": "You, he and I have completed the work."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Order Of Pronouns (Negative Sentence)",
+      "english": "Use 123 order.",
+      "marathi": "Negative किंवा blame sentence मध्ये 1-2-3 क्रम.",
+      "examples": ["I, you and he are responsible for the mistake."],
+      "wrongRight": [
+        {
+          "wrong": "You, he and I are responsible for the mistake.",
+          "right": "I, you and he are responsible for the mistake."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Each / Every Rule",
+      "english": "After Each and Every, singular pronouns are generally used.",
+      "marathi": "Each / Every नंतर सामान्यतः Singular Pronoun.",
+      "examples": ["Each student should perform his duty."],
+      "wrongRight": [
+        {
+          "wrong": "Every boy must complete their work.",
+          "right": "Every boy must complete his work."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Preposition + Objective Case",
+      "english": "After a preposition, objective pronouns are used.",
+      "marathi": "Preposition नंतर Objective Pronoun वापरतात.",
+      "examples": ["The gift is for her.", "Along with him."],
+      "wrongRight": [
+        {
+          "wrong": "Between you and I.",
+          "right": "Between you and me."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Let Rule",
+      "english": "After Let, objective pronouns are used.",
+      "marathi": "Let नंतर Objective Pronoun वापरतात.",
+      "examples": ["Let me speak.", "Let them decide."],
+      "wrongRight": [
+        {
+          "wrong": "Let he go.",
+          "right": "Let him go."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Comparison Rule",
+      "english": "In formal comparisons, subjective pronouns are often preferred.",
+      "marathi": "तुलना करताना सामान्यतः Subjective Pronoun वापरतात.",
+      "examples": ["No other employee is as efficient as he."],
+      "wrongRight": [
+        {
+          "wrong": "He is taller than her.",
+          "right": "He is taller than she."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Apostrophe Rule (Its vs It's)",
+      "english": "Possessive pronouns do not take apostrophes.",
+      "marathi": "Possessive Pronouns मध्ये Apostrophe (') वापरत नाहीत.",
+      "examples": ["This pen is yours."],
+      "wrongRight": [
+        {
+          "wrong": "It's tail is long.",
+          "right": "Its tail is long."
+        },
+        {
+          "wrong": "This pen is your's.",
+          "right": "This pen is yours."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Reflexive Pronoun Agreement",
+      "english": "Reflexive pronouns must agree with their subjects and cannot be used as subjects alone.",
+      "marathi": "Reflexive Pronoun हे Subject शी जुळले पाहिजे आणि ते एकटे Subject म्हणून वापरता येत नाही.",
+      "examples": ["She prepared herself.", "They enjoyed themselves."],
+      "wrongRight": [
+        {
+          "wrong": "Myself completed the work.",
+          "right": "I completed the work myself."
+        },
+        {
+          "wrong": "I blamed himself.",
+          "right": "I blamed myself."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Collective Noun Rule",
+      "english": "A collective noun used as one unit takes a singular pronoun; if members act separately, use plural.",
+      "marathi": "Collective Noun एक गट म्हणून असेल तर Singular Pronoun, सदस्य स्वतंत्र असल्यास Plural Pronoun.",
+      "examples": ["The team won its match.", "The jury expressed their opinions."],
+      "wrongRight": [
+        {
+          "wrong": "The committee submitted their report.",
+          "right": "The committee submitted its report."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Same Case Rule",
+      "english": "Pronouns joined by 'and' should remain in the same case.",
+      "marathi": "And ने जोडलेले Pronouns एकाच Case (Subjective/Objective) मध्ये असावेत.",
+      "examples": ["He and I are classmates.", "The teacher praised him and me."],
+      "wrongRight": [
+        {
+          "wrong": "Him and I are classmates.",
+          "right": "He and I are classmates."
+        },
+        {
+          "wrong": "The teacher praised he and I.",
+          "right": "The teacher praised him and me."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Who vs Whom Rule",
+      "english": "Who acts as subject (He/She/They), Whom acts as object (Him/Her/Them).",
+      "marathi": "Who चा वापर Subject म्हणून तर Whom चा वापर Object म्हणून होतो.",
+      "examples": ["The boy who won the race is my friend.", "The man whom I met was helpful."],
+      "wrongRight": [
+        {
+          "wrong": "The man who I met.",
+          "right": "The man whom I met."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "That Rule (Superlative & Mixed Antecedents)",
+      "english": "Use 'that' after superlative degrees and when a person + thing/animal are combined.",
+      "marathi": "Superlative Degree नंतर आणि व्यक्ती + वस्तू/प्राणी एकत्र आल्यास 'that' वापरतात.",
+      "examples": ["Virat is the best player that India has produced.", "The man and the dog that we saw belonged to our neighbour."],
+      "wrongRight": [
+        {
+          "wrong": "The man and the dog who we saw.",
+          "right": "The man and the dog that we saw."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "That / Those Repetition Rule",
+      "english": "Use 'that of' for singular and 'those of' for plural nouns to avoid repetition.",
+      "marathi": "Noun ची पुनरावृत्ती टाळण्यासाठी Singular साठी that of आणि Plural साठी those of वापरतात.",
+      "examples": ["The climate of Pune is better than that of Mumbai.", "The rivers of India are larger than those of America."],
+      "wrongRight": [
+        {
+          "wrong": "The salary of a manager is higher than a clerk.",
+          "right": "The salary of a manager is higher than that of a clerk."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Reciprocal Pronouns (Each other / One another)",
+      "english": "Use 'each other' for two entities, and 'one another' for more than two.",
+      "marathi": "दोन व्यक्ती/वस्तूंसाठी Each other आणि दोनपेक्षा जास्तीसाठी One another वापरतात.",
+      "examples": ["Ram and Shyam help each other.", "The students help one another."],
+      "wrongRight": [
+        {
+          "wrong": "The two sisters love one another.",
+          "right": "The two sisters love each other."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "One -> One's Rule",
+      "english": "When the subject is 'One', its possessive form must be 'One's'.",
+      "marathi": "Subject 'One' असल्यास त्याचा Possessive Form 'One's' असावा.",
+      "examples": ["One must perform one's duty sincerely."],
+      "wrongRight": [
+        {
+          "wrong": "One should respect his parents.",
+          "right": "One should respect one's parents."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Either of / Neither of Structural Rule",
+      "english": "Either of / Neither of takes a plural noun/pronoun but always requires a singular verb.",
+      "marathi": "Either of / Neither of नंतर Plural Noun/Pronoun येतो, पण Verb नेहमी Singular असतो.",
+      "examples": ["Neither of the boys is absent.", "Either of them has qualified."],
+      "wrongRight": [
+        {
+          "wrong": "Neither of the boys are absent.",
+          "right": "Neither of the boys is absent."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "It is + Subjective Case",
+      "english": "Pronouns following a form of the verb 'to be' (is/was/were) must be in the subjective case.",
+      "marathi": "To Be च्या रूपांनंतर (is/was/were) नेहमी Subjective Case वापरतात.",
+      "examples": ["If I were he, I would accept the offer."],
+      "wrongRight": [
+        {
+          "wrong": "It is me who solved the problem.",
+          "right": "It is I who solved the problem."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Gerund + Possessive Adjective",
+      "english": "Use a possessive adjective before a gerund (v+ing acting as a noun).",
+      "marathi": "Gerund (v+ing) च्या आधी नेहमी Possessive Adjective (my, his, your) वापरतात.",
+      "examples": ["He insisted on my staying there."],
+      "wrongRight": [
+        {
+          "wrong": "I didn't like him coming late.",
+          "right": "I didn't like his coming late."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "But (Except) Preposition Rule",
+      "english": "When 'but' means 'except', it acts as a preposition and takes an objective pronoun.",
+      "marathi": "जेव्हा 'but' चा अर्थ 'शिवाय/खेरीज' (except) असतो, तेव्हा ते Preposition असते व त्यानंतर Objective Case येते.",
+      "examples": ["All failed but him."],
+      "wrongRight": [
+        {
+          "wrong": "Everyone was invited but she.",
+          "right": "Everyone was invited but her."
+        }
+      ]
+    }
+  ]
+}
+

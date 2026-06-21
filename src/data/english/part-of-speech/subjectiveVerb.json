@@ -1,0 +1,287 @@
+{
+  "slug": "subject-verb-agreement",
+  "title": "Subject Verb Agreement (SVA)",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Subject Verb Agreement", "SSC CGL"],
+
+  "definition": {
+    "english": "Subject Verb Agreement means the verb must agree with the subject in number and person.",
+    "marathi": "Subject आणि Verb यांच्यात Number (Singular/Plural) आणि Person चा मेळ असणे म्हणजे Subject Verb Agreement.",
+    "examples": [
+      {
+        "sentence": "He plays cricket.",
+        "type": "Singular Subject + Singular Verb"
+      },
+      {
+        "sentence": "They play cricket.",
+        "type": "Plural Subject + Plural Verb"
+      }
+    ]
+  },
+
+  "rules": [
+    {
+      "id": 1,
+      "title": "AND Rule",
+      "marathi": "दोन Singular Subjects AND ने जोडले असतील तर Verb Plural येतो.",
+      "examples": [
+        "Ram and Shyam are friends.",
+        "Mohan and Sohan have arrived."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Same Person / Same Thing",
+      "marathi": "दोन Nouns एकाच व्यक्ती किंवा वस्तूसाठी वापरले असतील तर Singular Verb.",
+      "examples": [
+        "The Secretary and Principal is coming.",
+        "The poet and philosopher was honored."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Each / Every + And",
+      "marathi": "Each किंवा Every असल्यास Singular Verb.",
+      "examples": [
+        "Every boy and girl was present.",
+        "Each man and woman was invited."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Every boy and girl were present.",
+          "right": "Every boy and girl was present."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Each / Either / Neither",
+      "marathi": "Each, Either, Neither नेहमी Singular Verb घेतात.",
+      "examples": [
+        "Each of the boys is present.",
+        "Either of the roads leads to Pune.",
+        "Neither of the girls has arrived."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Either...Or / Neither...Nor",
+      "marathi": "Verb Nearest Subject नुसार येतो.",
+      "examples": [
+        "Either Ram or his friends are coming.",
+        "Either the boys or Ram is coming.",
+        "Neither Ram nor his friends are ready.",
+        "Neither the boys nor Ram is ready."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Not Only...But Also",
+      "marathi": "Verb Nearest Subject नुसार येतो.",
+      "examples": [
+        "Not only Ram but also his friends are present.",
+        "Not only the boys but also Ram is present."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Along With / As Well As",
+      "marathi": "Verb First Subject नुसार येतो.",
+      "keywords": [
+        "Along With",
+        "As Well As",
+        "Together With",
+        "With",
+        "Besides",
+        "Like",
+        "Unlike",
+        "In Addition To"
+      ],
+      "examples": [
+        "Ram along with his friends is coming.",
+        "The teacher as well as students was present."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Many A / More Than One",
+      "marathi": "Singular Noun + Singular Verb",
+      "examples": [
+        "Many a man has failed.",
+        "More than one student has passed."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "A Number Of / The Number Of",
+      "examples": [
+        "A number of students are absent.",
+        "The number of students is increasing."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "One Of",
+      "marathi": "One Of + Plural Noun + Singular Verb",
+      "examples": [
+        "One of the boys is absent.",
+        "One of the books was lost."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "All / Some / Most / Half",
+      "marathi": "Object नुसार Verb येतो.",
+      "examples": [
+        "All the milk is spoiled.",
+        "All the students are present.",
+        "Half of the money is spent.",
+        "Half of the students are absent."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Collective Nouns",
+      "marathi": "Group म्हणून वापरल्यास Singular, Members वेगळे असल्यास Plural.",
+      "examples": [
+        "The committee has taken its decision.",
+        "The team is winning.",
+        "The committee are divided."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "News / Physics / Mathematics",
+      "marathi": "Plural दिसतात पण Singular Verb घेतात.",
+      "examples": [
+        "News is important.",
+        "Physics is difficult.",
+        "Mathematics is my favorite subject."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Distance / Time / Money",
+      "marathi": "एक Unit मानल्यास Singular Verb.",
+      "examples": [
+        "Ten kilometers is a long distance.",
+        "Ten years is a long time.",
+        "Five hundred rupees is enough."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "There / Here",
+      "marathi": "Verb Actual Subject नुसार येतो.",
+      "examples": [
+        "There is a book on the table.",
+        "There are books on the table.",
+        "Here comes the bus."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Titles of Books / Movies",
+      "marathi": "Title Singular मानला जातो.",
+      "examples": [
+        "The Ramayana is a great epic.",
+        "Gulliver's Travels is a famous book."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Pair Nouns",
+      "marathi": "Scissors, Trousers, Spectacles हे Plural Verb घेतात.",
+      "examples": [
+        "My scissors are sharp.",
+        "His trousers are expensive.",
+        "These spectacles are new."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Fractions & Percentages",
+      "marathi": "Object नुसार Verb येतो.",
+      "examples": [
+        "50% of the work is completed.",
+        "50% of the students are absent.",
+        "One-third of the cake is eaten."
+      ]
+    }
+  ],
+
+  "goldenRevision": [
+    "Singular Subject → Singular Verb",
+    "Plural Subject → Plural Verb",
+    "AND → Plural Verb",
+    "Same Person → Singular Verb",
+    "Each / Every → Singular Verb",
+    "Each Of → Singular Verb",
+    "Either Of → Singular Verb",
+    "Neither Of → Singular Verb",
+    "Either-Or → Nearest Subject",
+    "Neither-Nor → Nearest Subject",
+    "Not Only-But Also → Nearest Subject",
+    "Along With → First Subject",
+    "As Well As → First Subject",
+    "Many A → Singular Verb",
+    "More Than One → Singular Verb",
+    "A Number Of → Plural Verb",
+    "The Number Of → Singular Verb",
+    "One Of → Singular Verb",
+    "Collective Noun → Context Based",
+    "News / Physics / Mathematics → Singular",
+    "Distance / Time / Money → Singular",
+    "Pair Nouns → Plural",
+    "Fractions & Percentages → Object Based",
+    "There / Here → Actual Subject"
+  ],
+
+  "pyqTraps": [
+    {
+      "wrong": "Every boy and girl were present.",
+      "right": "Every boy and girl was present."
+    },
+    {
+      "wrong": "Neither of the girls have arrived.",
+      "right": "Neither of the girls has arrived."
+    },
+    {
+      "wrong": "Ram along with his friends are coming.",
+      "right": "Ram along with his friends is coming."
+    },
+    {
+      "wrong": "More than one students have passed.",
+      "right": "More than one student has passed."
+    },
+    {
+      "wrong": "The number of students are increasing.",
+      "right": "The number of students is increasing."
+    },
+    {
+      "wrong": "One of the boys are absent.",
+      "right": "One of the boys is absent."
+    }
+  ],
+
+  "examStrategy": [
+    {
+      "label": "Tier-1",
+      "text": "Golden Revision + PYQ Traps revise करा."
+    },
+    {
+      "label": "Tier-2",
+      "text": "Advanced Error Detection आणि PYQs सोडवा."
+    },
+    {
+      "label": "Practice",
+      "text": "100+ SVA PYQs सोडवा."
+    },
+    {
+      "label": "Exam पूर्वी",
+      "text": "फक्त Golden Revision Page वाचा."
+    }
+  ],
+
+  "finalVerdict": "हे Notes SSC CGL Tier-1 + Tier-2 साठी Subject Verb Agreement chapter जवळपास 95-100% cover करतात. 🚀📚"
+}

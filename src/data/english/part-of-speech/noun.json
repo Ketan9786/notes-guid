@@ -1,0 +1,290 @@
+{
+  "slug": "noun",
+  "title": "Noun",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Parts of Speech", "SSC CGL"],
+
+  "definition": {
+    "english": "A noun is the name of a person, place, thing, quality, feeling, or idea.",
+    "marathi": "व्यक्ती, स्थळ, वस्तू, गुण, भावना किंवा कल्पनेच्या नावाला Noun म्हणतात.",
+    "examples": [
+      { "word": "Ram", "tag": "व्यक्ती" },
+      { "word": "Mumbai", "tag": "स्थळ" },
+      { "word": "Pen", "tag": "वस्तू" },
+      { "word": "Honesty", "tag": "गुण" },
+      { "word": "Love", "tag": "भावना" }
+    ]
+  },
+
+  "types": [
+    {
+      "name": "Proper Noun",
+      "english": "Specific name of a particular person, place, or thing.",
+      "marathi": "विशिष्ट व्यक्ती, स्थळ किंवा वस्तूचे नाव.",
+      "examples": ["India", "Sachin Tendulkar", "Delhi"]
+    },
+    {
+      "name": "Common Noun",
+      "english": "General name of a person, place, or thing.",
+      "marathi": "सामान्य नाव.",
+      "examples": ["Boy", "City", "Country"]
+    },
+    {
+      "name": "Material Noun",
+      "english": "Name of the substance from which things are made.",
+      "marathi": "ज्या पदार्थापासून वस्तू बनतात त्यांची नावे.",
+      "examples": ["Gold", "Wood", "Water"]
+    },
+    {
+      "name": "Abstract Noun",
+      "english": "Name of a quality, feeling, or idea.",
+      "marathi": "गुण, भावना, अवस्था किंवा कल्पना दर्शवणारी नावे.",
+      "examples": ["Love", "Honesty", "Anger"]
+    },
+    {
+      "name": "Collective Noun",
+      "english": "Name of a group taken as one whole.",
+      "marathi": "समूहाचे नाव.",
+      "examples": ["Team", "Jury", "Committee"]
+    }
+  ],
+
+  "countability": [
+    {
+      "name": "Countable Nouns",
+      "english": "Nouns that can be counted.",
+      "marathi": "मोजता येणारी नावे.",
+      "examples": ["Book → Books", "Apple → Apples"],
+      "question": "How many?"
+    },
+    {
+      "name": "Uncountable Nouns",
+      "english": "Nouns that cannot be counted directly.",
+      "marathi": "मोजता न येणारी नावे.",
+      "examples": ["Advice", "Furniture", "Information", "Scenery", "Machinery", "Luggage", "Baggage", "Poetry", "Mischief"],
+      "question": "How much?"
+    }
+  ],
+
+  "rules": [
+    {
+      "id": 1,
+      "title": "Uncountable Nouns",
+      "marathi": "Uncountable nouns नेहमी Singular असतात.",
+      "english": "Uncountable nouns are always singular.",
+      "wrongRight": [
+        { "wrong": "Advices", "right": "Advice" },
+        { "wrong": "Informations", "right": "Information" },
+        { "wrong": "Furnitures", "right": "Furniture" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Nouns Always Used in Plural",
+      "marathi": "हे शब्द नेहमी Plural असतात.",
+      "examples": ["Trousers", "Spectacles", "Scissors", "Jeans", "Shorts", "Premises"],
+      "wrongRight": [
+        { "wrong": "Trouser is new.", "right": "Trousers are new." }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Singular Form but Plural Meaning",
+      "marathi": "दिसायला Singular पण अर्थाने Plural.",
+      "examples": ["Police", "Cattle", "People", "Poultry", "Gentry"],
+      "wrongRight": [
+        { "wrong": "Police has arrived.", "right": "Police have arrived." }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Plural Form but Singular Meaning",
+      "marathi": "दिसायला Plural पण अर्थाने Singular.",
+      "examples": ["News", "Mathematics", "Physics", "Politics", "Economics", "Measles"],
+      "wrongRight": [
+        { "wrong": "Mathematics are difficult.", "right": "Mathematics is difficult." }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Same Singular and Plural",
+      "marathi": "Singular आणि Plural दोन्ही सारखे असतात.",
+      "examples": ["Sheep", "Deer", "Fish", "Species", "Series", "Means"],
+      "wrongRight": [
+        { "wrong": "Sheeps", "right": "Sheep" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Change in Meaning After Adding S/ES",
+      "marathi": "Singular आणि Plural चा अर्थ वेगळा होतो.",
+      "tableType": "meaningChange",
+      "table": [
+        { "singular": "Wood", "singularMeaning": "लाकूड", "plural": "Woods", "pluralMeaning": "जंगल" },
+        { "singular": "Iron", "singularMeaning": "लोखंड", "plural": "Irons", "pluralMeaning": "बेड्या" },
+        { "singular": "Cloth", "singularMeaning": "कापड", "plural": "Clothes", "pluralMeaning": "कपडे" },
+        { "singular": "Work", "singularMeaning": "काम", "plural": "Works", "pluralMeaning": "साहित्य" }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Irregular Plurals",
+      "tableType": "plural",
+      "table": [
+        { "singular": "Mouse", "plural": "Mice" },
+        { "singular": "Ox", "plural": "Oxen" },
+        { "singular": "Datum", "plural": "Data" },
+        { "singular": "Criterion", "plural": "Criteria" },
+        { "singular": "Phenomenon", "plural": "Phenomena" },
+        { "singular": "Child", "plural": "Children" },
+        { "singular": "Foot", "plural": "Feet" },
+        { "singular": "Tooth", "plural": "Teeth" },
+        { "singular": "Man", "plural": "Men" },
+        { "singular": "Woman", "plural": "Women" }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Foreign Plurals",
+      "tableType": "plural",
+      "table": [
+        { "singular": "Analysis", "plural": "Analyses" },
+        { "singular": "Basis", "plural": "Bases" },
+        { "singular": "Thesis", "plural": "Theses" },
+        { "singular": "Crisis", "plural": "Crises" },
+        { "singular": "Appendix", "plural": "Appendices" },
+        { "singular": "Index", "plural": "Indices" }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Noun + Preposition + Same Noun",
+      "marathi": "Noun + Preposition + Same Noun असल्यास Singular Verb वापरतात.",
+      "examples": ["Town after town was destroyed.", "Village after village has disappeared."]
+    },
+    {
+      "id": 10,
+      "title": "One of / Each of",
+      "marathi": "One of, Each of नंतर Noun Plural येतो.",
+      "wrongRight": [
+        { "wrong": "One of my friend.", "right": "One of my friends." },
+        { "wrong": "Each of the student.", "right": "Each of the students." }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Number of / A Number of",
+      "marathi": "",
+      "subpoints": [
+        { "label": "The number of + Plural Noun → Singular Verb", "example": "The number of students is increasing." },
+        { "label": "A number of + Plural Noun → Plural Verb", "example": "A number of students are absent." }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "A Pair Of",
+      "marathi": "A pair of आल्यास Verb Singular येतो.",
+      "examples": [
+        "A pair of scissors is lying on the table.",
+        "A pair of trousers was purchased yesterday."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Collective Noun",
+      "subpoints": [
+        { "label": "Group as a unit → Singular Verb", "example": "The committee has submitted its report." },
+        { "label": "Members acting separately → Plural Verb", "example": "The committee are divided in their opinions." }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Compound Nouns",
+      "marathi": "Plural मुख्य Noun ला लावतात.",
+      "tableType": "plural",
+      "table": [
+        { "singular": "Father-in-law", "plural": "Fathers-in-law" },
+        { "singular": "Commander-in-chief", "plural": "Commanders-in-chief" },
+        { "singular": "Passer-by", "plural": "Passers-by" }
+      ],
+      "wrongRight": [
+        { "wrong": "Father-in-laws", "right": "Fathers-in-law" }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Possessive Case (Apostrophe)",
+      "marathi": "मालकी दाखवण्यासाठी ('s) वापरतात.",
+      "examples": ["Ram's book", "Mohan's pen"],
+      "subsections": [
+        {
+          "title": "Proper Nouns Ending in S",
+          "marathi": "S ने संपणाऱ्या नावांनंतर फक्त (') वापरतात.",
+          "wrongRight": [{ "wrong": "James's pen", "right": "James' pen" }]
+        },
+        {
+          "title": "Non-Living Things",
+          "marathi": "निर्जीव वस्तूंसाठी सामान्यतः 's वापरत नाहीत.",
+          "wrongRight": [{ "wrong": "Chair's leg", "right": "Leg of the chair" }]
+        },
+        {
+          "title": "Time, Distance, Value",
+          "marathi": "Time, Distance आणि Value साठी 's वापरतात.",
+          "examples": ["A day's work", "Two hours' journey", "A week's holiday", "Ten rupees' worth of milk"]
+        },
+        {
+          "title": "Joint Possession",
+          "marathi": "शेवटच्या नावाला 's → संयुक्त मालकी.",
+          "examples": ["Ram and Shyam's shop."]
+        },
+        {
+          "title": "Separate Possession",
+          "marathi": "दोघांनाही 's → वेगळी मालकी.",
+          "examples": ["Ram's and Shyam's houses."]
+        }
+      ]
+    }
+  ],
+
+  "goldenRevision": [
+    "Advice, Information, Furniture → Singular",
+    "Trousers, Scissors, Jeans → Always Plural",
+    "Police, Cattle → Plural Meaning",
+    "Mathematics, News → Singular Meaning",
+    "Sheep, Deer → Same Singular/Plural",
+    "Mouse → Mice",
+    "Child → Children",
+    "One of + Plural Noun",
+    "Each of + Plural Noun",
+    "The number of + Plural Noun + Singular Verb",
+    "A number of + Plural Noun + Plural Verb",
+    "A pair of + Plural Noun + Singular Verb",
+    "Ram's book → Possession",
+    "Ram and Shyam's shop → Joint Possession",
+    "Ram's and Shyam's houses → Separate Possession"
+  ],
+
+  "pyqTraps": [
+    { "wrong": "Advices", "right": "Advice" },
+    { "wrong": "Informations", "right": "Information" },
+    { "wrong": "Furnitures", "right": "Furniture" },
+    { "wrong": "Sheeps", "right": "Sheep" },
+    { "wrong": "Police has arrested him.", "right": "Police have arrested him." },
+    { "wrong": "One of my friend.", "right": "One of my friends." },
+    { "wrong": "Each of the student.", "right": "Each of the students." },
+    { "wrong": "Mathematics are difficult.", "right": "Mathematics is difficult." },
+    { "wrong": "The number of students are increasing.", "right": "The number of students is increasing." },
+    { "wrong": "A number of students is absent.", "right": "A number of students are absent." },
+    { "wrong": "A pair of scissors are lying here.", "right": "A pair of scissors is lying here." },
+    { "wrong": "Father-in-laws", "right": "Fathers-in-law" }
+  ],
+
+  "examStrategy": [
+    { "label": "Tier-1", "text": "Golden Revision + PYQ Traps पुरेसे आहेत." },
+    { "label": "Tier-2", "text": "सर्व Rules + Foreign Plurals + Compound Nouns revise करा." },
+    { "label": "Practice", "text": "50–60 Noun PYQs सोडवा." },
+    { "label": "Exam पूर्वी", "text": "फक्त Golden Revision Page वाचा." }
+  ],
+
+  "finalVerdict": "हे Notes SSC CGL Tier-1 + Tier-2 साठी Noun chapter जवळपास 95–100% cover करतात. हे 5–6 pages मध्ये बसतील आणि revision-friendly आहेत. 🚀📚 \"Read → Revise → Solve PYQs → Re-revise\" = Noun Chapter Fit. ✅"
+}
