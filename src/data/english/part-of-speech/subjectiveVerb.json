@@ -9,12 +9,12 @@
     "marathi": "Subject आणि Verb यांच्यात Number (Singular/Plural) आणि Person चा मेळ असणे म्हणजे Subject Verb Agreement.",
     "examples": [
       {
-        "sentence": "He plays cricket.",
-        "type": "Singular Subject + Singular Verb"
+        "word": "He plays cricket.",
+        "tag": "Singular Subject + Singular Verb"
       },
       {
-        "sentence": "They play cricket.",
-        "type": "Plural Subject + Plural Verb"
+        "word": "They play cricket.",
+        "tag": "Plural Subject + Plural Verb"
       }
     ]
   },
@@ -196,16 +196,6 @@
         "My scissors are sharp.",
         "His trousers are expensive.",
         "These spectacles are new."
-      ]
-    },
-    {
-      "id": 18,
-      "title": "Fractions & Percentages",
-      "marathi": "Object नुसार Verb येतो.",
-      "examples": [
-        "50% of the work is completed.",
-        "50% of the students are absent.",
-        "One-third of the cake is eaten."
       ]
     }
   ],

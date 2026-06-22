@@ -1,0 +1,69 @@
+[
+  {
+    "subject": "English",
+    "chapters": [
+      {
+        "chapter": "Grammar",
+        "topics": [
+          {
+            "topic": "Parts of Speech",
+            "subTopics": [
+              {
+                "name": "Noun",
+                "path": "/english/grammar/pos/noun"
+              },
+              {
+                "name": "Pronoun",
+                "path": "/english/grammar/pos/pronoun"
+              },
+              {
+                "name": "Verb",
+                "path": "/english/grammar/pos/verb"
+              },
+              {
+                "name": "Subject Verb Agreement",
+                "path": "/english/grammar/pos/sva"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Maths",
+    "chapters": [
+      {
+        "chapter": "Arithmetic",
+        "topics": [
+          {
+            "topic": "Percentage",
+             "subTopics": [
+              {
+                "name": "Percentage",
+                "path": "/maths/arithmetic/percentage"
+              }]
+          }
+
+    
+        ]
+      },{
+        "chapter": "Advance",
+        "topics": [
+          {
+            "topic": "Mensuration 2D",
+             "subTopics": [
+              {
+                "name": "Mensuration 2D",
+                "path": "/maths/arithmetic/mensuration2d"
+              }]
+          }
+
+    
+        ]
+      }
+      
+    ]
+  }
+]
+

@@ -26,28 +26,8 @@ import { NavLink } from "react-router-dom";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import palette from "../theme/Theme.jsx"
+import menuData from "../data/menuData.json";
 
-const menuData = [
-  {
-    subject: "English",
-    chapters: [
-      {
-        chapter: "Grammar",
-        topics: [
-          {
-            topic: "Parts of Speech",
-            subTopics: [
-              { name: "Noun", path: "/english/grammar/pos/noun" },
-              { name: "Pronoun", path: "/english/grammar/pos/pronoun" },
-              { name: "Verb", path: "/english/grammar/pos/verb" },
-              { name: "Subjective Verb", path: "/english/grammar/pos/sva" },
-            ],
-          },
-        ],
-      },
-    ],
-  }
-];
 
 // One row, reused for chapter/topic levels — keeps spacing & the chevron
 // rotation logic in a single place instead of duplicated per level.
@@ -85,7 +65,6 @@ const Branch = ({ label, depth, open, onClick }) => (
 );
 
 const Sidebar = () => {
-  const [openSubject, setOpenSubject] = useState("");
   const [openChapter, setOpenChapter] = useState("");
   const [openTopic, setOpenTopic] = useState("");
 
