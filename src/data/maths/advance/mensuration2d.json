@@ -1,0 +1,588 @@
+{
+  "mensuration_2d": {
+    "chapter": "Mensuration 2D",
+    "subject": "Maths",
+    "exam": "SSC CGL",
+    "topics": [
+      {
+        "id": "triangle",
+        "title": "Triangle",
+        "icon": "📐",
+        "badge": "Q1, Q2, Q3",
+        "badgeColor": "blue",
+        "summary": "Scalene, isosceles and equilateral triangles — area, perimeter and special properties.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Scalene triangle",
+            "formulas": [
+              "Perimeter = a + b + c",
+              "Area = √[s(s−a)(s−b)(s−c)]  where s = (a+b+c)/2  (Heron's formula)",
+              "Area = ½ × base × height",
+              "Area = ½ bc sinA = ½ ab sinC = ½ ac sinB"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Equilateral triangle",
+            "badge": "Q1, Q3",
+            "badgeColor": "green",
+            "formulas": [
+              "Area = (√3/4) a²",
+              "Height = (√3/2) a"
+            ],
+            "steps": [
+              "Side increased by 2 units: new area − old area = given increase → solve for a",
+              "Equate equilateral area to Heron's area of scalene triangle to find unknown side"
+            ],
+            "examples": [
+              "Q1 (Practice): Side increased by 2 → area ↑ by 3+√3 → side = 1 unit",
+              "Q3 (Practice): Equilateral area = area of (50,70,80) triangle → x ≈ 63.2 m"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Isosceles triangle",
+            "badge": "Digital Notes",
+            "badgeColor": "amber",
+            "steps": [
+              "Altitude = 12 cm, perimeter = 48 cm → equal sides = (48−base)/2",
+              "Use altitude to split into two right triangles → find base",
+              "Area = ½ × base × altitude"
+            ],
+            "examples": [
+              "Altitude=12, perimeter=48 → equal side=15, base=18 → Area = ½×18×12 = 108 cm²",
+              "Equal side : base = 3:5, Area=80√11 → a=4 → Perimeter=22a=88 cm"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Triangle with inscribed circle",
+            "badge": "Digital Notes",
+            "badgeColor": "red",
+            "steps": [
+              "Tangent segments from external point are equal",
+              "If BD=8, DC=6, radius=4 → let AF=AE=a",
+              "AB = a+8, AC = a+6; use Heron's on (a+8, a+6, 14) with r=4",
+              "Area = r × s → solve for a"
+            ],
+            "examples": [
+              "a=7 → AB=15 cm, AC=13 cm",
+              "Quarter circle R with inscribed circle r: R = r(√2+1) → R:r = (√2+1):1"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Triangle sides as coordinates (Q2 Practice)",
+            "badge": "Q2",
+            "badgeColor": "blue",
+            "formulas": [
+              "Sides: √(a²+b²), √(4a²+b²), √(a²+4b²)",
+              "Area = (3/2)ab  [by coordinate method]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "quadrilateral",
+        "title": "Quadrilateral & Square",
+        "icon": "⬜",
+        "badge": "Q1–Q5, Q11, Q28",
+        "badgeColor": "blue",
+        "summary": "Square, rectangle, parallelogram, rhombus, kite, trapezium and general quadrilateral.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Square",
+            "formulas": [
+              "Perimeter = 4a",
+              "Area = a²",
+              "Diagonal = a√2"
+            ],
+            "steps": [
+              "Square inscribed inside square: going one level in → side ÷ √2",
+              "Ratio largest:smallest (2 levels) = a² : (a/2)² = 4:1",
+              "Triple area → new a = a√3 → new diagonal = a√3 × √2 = a√6"
+            ],
+            "examples": [
+              "Diagonal of square = 8 cm → area of square with 3× area → diagonal = 8√6 cm",
+              "Man walks diagonally in 5 min at 3 km/h → diagonal=250 m → area=31250 m²",
+              "Largest:smallest square ratio = 4:1 (Q28 Practice)",
+              "Largest square in semicircle (r=5): a²+a²/4=r² → a²=20 cm²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Rectangle",
+            "formulas": [
+              "Perimeter = 2(l+b)",
+              "Area = l × b",
+              "Diagonal = √(l²+b²)"
+            ],
+            "steps": [
+              "l:b = 3:2, perimeter=730 → 10x=730 → x=73 → Area = 6x² = 31974 cm²",
+              "Diagonal=53, area=1260 → l²+b²=53², lb=1260 → (l+b)²=53²+2×1260 → 2(l+b)=146"
+            ],
+            "examples": [
+              "l:b=3:2, perimeter=730 cm → Area=31,974 cm² (Q4 Digital Notes)",
+              "Diagonal=53 cm, area=1260 cm² → Perimeter=146 cm (Q5 Digital Notes)",
+              "Diagonal=53 cm, area=1260 cm² → cost of fencing @₹25/cm = ₹3650 (Q20 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Parallelogram",
+            "formulas": [
+              "Perimeter = 2(a+b)",
+              "Area = base × height"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Rhombus",
+            "formulas": [
+              "Perimeter = 4a",
+              "Area = ½ × d₁ × d₂",
+              "Area = base × height",
+              "If d₁+d₂ = L and perimeter = 4P → Area = ¼(L²−4P²)"
+            ],
+            "steps": [
+              "(d₁+d₂)²=L² → d₁²+d₂²+2d₁d₂=L²",
+              "d₁²+d₂²=4P² (from side=P)",
+              "→ ½d₁d₂ = (L²−4P²)/4"
+            ],
+            "examples": [
+              "Sum of diagonals=L, perimeter=4P → Area = ¼(L²−4P²)",
+              "Smaller diagonal = side = 4 cm → larger diagonal=4√3 cm → equilateral triangle area=12√3 cm² (Q27 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Kite",
+            "formulas": [
+              "Perimeter = 2(a+b)",
+              "Area = ½ × d₁ × d₂"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Trapezium",
+            "formulas": [
+              "Perimeter = a+b+c+d",
+              "Area = ½(a+b) × h"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "General quadrilateral (area)",
+            "formulas": [
+              "Area = ½ × diagonal × (h₁+h₂)",
+              "ABCD: Area = ½ × BD × (AL+CM)"
+            ],
+            "examples": [
+              "BD=70, AL=18, CM=20 → Area = ½×70×38 = 1330 cm²",
+              "BD=15, perp=5 and 7 → Area = ½×15×12 = 90 cm² (Q11 Practice)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "circle",
+        "title": "Circle & Parts",
+        "icon": "⭕",
+        "badge": "Q4–Q10, Q14, Q36",
+        "badgeColor": "blue",
+        "summary": "Full circle, semicircle, sector, segment, arc, concentric circles and intersecting circles.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Circle and semicircle",
+            "formulas": [
+              "Circumference = 2πr",
+              "Area = πr²",
+              "Semicircle perimeter = πr + d = πr + 2r",
+              "Semicircle area = ½πr²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Sector and arc",
+            "formulas": [
+              "Arc length = (θ/360) × 2πr",
+              "Sector perimeter = 2r + arc length",
+              "Sector area = (θ/360) × πr²"
+            ],
+            "steps": [
+              "Given area=209, perimeter=63, radius integer → 2r+arc=63, (θ/360)×πr²=209 → r=11, θ≈49.5°",
+              "Minute hand sweeps 270° in 45 min → Area=(270/360)×π×20² = 6600/7 cm²"
+            ],
+            "examples": [
+              "r=14, area of sector=231 → θ=135°",
+              "r=14, 30 min → half circle arc = (22/7)×14 = 44 cm",
+              "Q4 (Practice): r=11 (integer), θ≈49.5°",
+              "Q5 (Practice): r=20, 45 min → Area=6600/7 cm², perimeter=940/7 cm"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Segment of a circle",
+            "formulas": [
+              "Segment area = (θ/360)×πr² − ½r²sinθ"
+            ],
+            "examples": [
+              "r=6, θ=60° → Area = (1/6)π×36 − (√3/4)×36 = 6π−9√3 cm²",
+              "r=42, θ=60° → Area = 924−441√3/2 = 924−220.5√3 (Q9 Practice)",
+              "r=42, arc=44 cm → θ = (44×360)/(2π×42) → then compute segment (Q10 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Circumference minus diameter",
+            "formulas": [
+              "2πr − 2r = 120 → r(22/7 − 1) = 60 → r = 28",
+              "Area = πr² = (22/7)×28×28 = 2464 cm²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Concentric circles",
+            "formulas": [
+              "Ring area = π(R²−r²)",
+              "Radii in AP: middle circumference = AP mean of smallest and largest"
+            ],
+            "examples": [
+              "Radii 4:5:7 → inner ring area: outer ring area = π(25−16):π(49−25) = 9:24 = 3:8",
+              "Smallest circ=6π, largest=14π → middle = (6π+14π)/2 = 10π (Q in Digital Notes)",
+              "Radius decreased 10% → area change = −10−10+(100/100) = −19%"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Intersecting circles",
+            "badge": "Q36",
+            "badgeColor": "red",
+            "formulas": [
+              "Common area = 2 × [sector area − triangle area]",
+              "= 2 × [(θ/360)πr² − ½r²sinθ]"
+            ],
+            "steps": [
+              "Common chord = 7, radius = 7 → triangle is equilateral → θ=60°",
+              "Common area = 2×[(1/6)π×49 − (√3/4)×49] = 98(π/6−√3/4)"
+            ],
+            "examples": [
+              "r=7, chord=7 → Common area = 98(π/6−√3/4)",
+              "r=14, chord=14 → Common area = 392(π/6−√3/4) (Q36 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Square inscribed in semicircle",
+            "formulas": [
+              "a² + (a/2)² = r²  →  a² = 4r²/5"
+            ],
+            "examples": [
+              "r=5 → a²=20 cm² (Digital Notes)",
+              "r=15 → a²=180 cm² (Q18 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Quarter circle with inscribed circle",
+            "formulas": [
+              "R = r√2 + r = r(√2+1)  →  R:r = (√2+1):1"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hexagon",
+        "title": "Regular Hexagon",
+        "icon": "⬡",
+        "badge": "Q23, Q24, Q25",
+        "badgeColor": "green",
+        "summary": "Area, perimeter and triangle relationships for regular hexagon.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Regular hexagon formulas",
+            "formulas": [
+              "Area = (3√3/2) s²  where s = side length",
+              "Perimeter = 6s"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Square vs hexagon (same circumscribed circle)",
+            "badge": "Q23",
+            "badgeColor": "green",
+            "formulas": [
+              "Square inscribed in circle r: Area = 2r²",
+              "Regular hexagon inscribed in circle r: Area = (3√3/2)r²",
+              "Ratio = 2r² : (3√3/2)r² = 4 : 3√3"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Triangle PQR from midpoints of hexagon sides",
+            "badge": "Q24",
+            "badgeColor": "green",
+            "examples": [
+              "Hexagon side=12 cm, PQR joins midpoints of AB, CD, EF → Area=81√3 cm²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Hexagon with equilateral triangle extensions",
+            "badge": "Q25",
+            "badgeColor": "amber",
+            "examples": [
+              "Hexagon side=6, 4 equilateral triangles (APF, QAB, DCR, DES) → shaded area = 72√3 cm²"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "path_and_border",
+        "title": "Path & Border Problems",
+        "icon": "🛤",
+        "badge": "Q8, Q17, Q34",
+        "badgeColor": "amber",
+        "summary": "Paths around rectangles, circles and squares — inside or outside.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Path outside rectangle",
+            "formulas": [
+              "Outer area = (l+2w)(b+2w)",
+              "Path area = Outer area − Inner area"
+            ],
+            "examples": [
+              "240×80, path width=4 → (248×88)−(240×80) = 2624 m²",
+              "14×7 lawn, path width=2 outside + cross path 1m inside → cost@₹25 = ₹3000 (Q34 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Path around circle",
+            "formulas": [
+              "Path area = π[(r+w)²−r²] = π(2rw+w²)"
+            ],
+            "examples": [
+              "r=14, w=1.5 → π(15.5²−14²) = 22/7×29.5×1.5 = 139 m²",
+              "Circular garden diameter=10, path=1m → % increase = (6²−5²)/5² ×100 = 44%",
+              "Pond r≈14 m (total area 804.25, pond alone 615.75) (Q8 Practice)"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Cross roads inside square park",
+            "steps": [
+              "Two roads of width w parallel to sides of square with side a",
+              "Road area = 2×a×w − w² (subtract intersection once)"
+            ],
+            "examples": [
+              "Square 22m, road width 2m → 22×2+22×2−4 = 84 m² → cost@₹100 = ₹8400"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Horses grazing in square park",
+            "badge": "Q17",
+            "badgeColor": "amber",
+            "steps": [
+              "Each horse at adjacent corner with rope length r → grazes quarter circle",
+              "Ungrazed area = total area − 2×(πr²/4)"
+            ],
+            "examples": [
+              "Square 15m, rope=7m → ungrazed = 225 − 2×(22/7×49/4) = 225−77 = 148 m² (Q17 Practice)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "string_around_circles",
+        "title": "String Around Circles",
+        "icon": "🔗",
+        "badge": "Q7",
+        "badgeColor": "green",
+        "summary": "Length of string tightly wound around n touching circles of diameter d.",
+        "cards": [
+          {
+            "type": "table",
+            "title": "String length formula by circle count",
+            "rows": [
+              [
+                "2 circles",
+                "2πr + 2d",
+                "straight sections + wrap"
+              ],
+              [
+                "3 circles",
+                "2πr + 3d",
+                "triangle arrangement"
+              ],
+              [
+                "4 circles",
+                "2πr + 4d",
+                "square arrangement"
+              ]
+            ],
+            "tip": "The 2πr is always constant (one full circle worth of wrap). Add n×d for n circles in a row."
+          },
+          {
+            "type": "concept",
+            "title": "Three touching circles",
+            "formulas": [
+              "String length = 2πr + 3d  (triangle arrangement)"
+            ],
+            "examples": [
+              "r=6 → 12π+36 cm (Digital Notes)",
+              "r=9 → 18π+54 cm (Q7 Practice)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "composite_shapes",
+        "title": "Composite Shapes",
+        "icon": "🔷",
+        "badge": "Q16, Q29, Q32, Q33, Q35",
+        "badgeColor": "amber",
+        "summary": "Shapes formed by combining rectangles, triangles, semicircles, and quadrants.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Rectangle + semicircle + triangle (field)",
+            "badge": "Q16",
+            "badgeColor": "amber",
+            "steps": [
+              "Total area = rectangle area + triangle area + semicircle area",
+              "Rectangle: 25×18=450, Triangle: ½×12×15=90, Semicircle: ½π×21²=693",
+              "Total = 1233... check with answer"
+            ],
+            "examples": [
+              "Q16 (Practice): 25×18 + ½×12×15 + ½π×21² → 1926 m², cost@₹8 = ₹15408"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Rectangle with semicircles on sides",
+            "steps": [
+              "Length = 2×breadth (given)",
+              "Add two semicircles on shorter sides (radius=b/2) and two on longer sides (radius=l/2)",
+              "Total area = l×b + 2×(π(b/2)²/2) + 2×(π(l/2)²/2)"
+            ],
+            "examples": [
+              "Small side=12 → l=24, b=12 → 24×12 + π(6²+12²) = 288+3.14×180 = 853.2 m²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Semicircles on triangle sides (Q35 Practice)",
+            "steps": [
+              "Draw semicircles outward on each side of a right triangle",
+              "Shaded area = area of semicircle on hypotenuse − area of triangle"
+            ],
+            "examples": [
+              "AB=21, BC=28, AC=35 (right triangle) → Shaded = ½π(17.5)² − ½×21×28 = 294 cm²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Triangle at each vertex with circles",
+            "steps": [
+              "Sum of angles of triangle = 180° → sectors sum to one full circle",
+              "Area excl. circles = Triangle area − πr²"
+            ],
+            "examples": [
+              "Sides 24,26,10 (right triangle), r=4.2 → 120 − (22/7)×4.2² = 120−27.72 = 92.28 cm²"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Wire bent to square then circle",
+            "steps": [
+              "Perimeter of square = 4a",
+              "Same wire = circumference of circle → 2πr = 4a",
+              "Area of circle = πr²"
+            ],
+            "examples": [
+              "Area of square=169 → a=13 → perimeter=52 → r=26/π → area=π×(26/π)² = 215 cm²"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "carpet_cost",
+        "title": "Cost Problems",
+        "icon": "💰",
+        "badge": "Digital Notes",
+        "badgeColor": "amber",
+        "summary": "Find cost after % change in dimensions. Multiply dimension change factors.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Carpet cost with % dimension change",
+            "steps": [
+              "New length = old length × (1+40/100), New breadth = old breadth × (1+25/100)",
+              "New area = New length × New breadth",
+              "Cost = New area × rate per m²"
+            ],
+            "examples": [
+              "Original: b=6m, l=1.44×6=8.64m. New: l↑40%, b↑25% → 6×(5/4)×6×(144/100)×(14/10)×45 = ₹4082.40"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Roller / playground area",
+            "badge": "Q22",
+            "badgeColor": "amber",
+            "formulas": [
+              "Area covered per revolution = 2πr × length of roller",
+              "Total area = revolutions × area per revolution"
+            ],
+            "examples": [
+              "Diameter=35cm, length=100cm, 200 revolutions → 200×(22/7)×17.5×100 = 11,00,000 cm² = 110 m²"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "octagon_special",
+        "title": "Octagon & Special",
+        "icon": "🔲",
+        "badge": "Q23, Q26",
+        "badgeColor": "blue",
+        "summary": "Regular octagon from rectangle and special inscribed figure problems.",
+        "cards": [
+          {
+            "type": "concept",
+            "title": "Octagon from rectangle (cut corners)",
+            "badge": "Q26",
+            "badgeColor": "blue",
+            "steps": [
+              "Rectangle l=8, b=6. Cut isosceles right triangles from corners",
+              "Let cut length = x at each corner",
+              "Octagon side = x√2 (the cut hypotenuse) or (remaining side)",
+              "All 8 sides equal → solve: b−2x = x√2"
+            ],
+            "examples": [
+              "Q26 (Practice): l=8, b=6 → side = 3(√11)−7 cm"
+            ]
+          },
+          {
+            "type": "concept",
+            "title": "Square and hexagon in same circle",
+            "badge": "Q23",
+            "badgeColor": "blue",
+            "formulas": [
+              "Square area = 2r²",
+              "Hexagon area = (3√3/2)r²",
+              "Ratio = 4 : 3√3"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
