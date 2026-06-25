@@ -6,6 +6,10 @@ import Verb from "../features/notes/English/part-of-speech/Verb";
 import SubjectiveVerb from "../features/notes/English/part-of-speech/SubjectiveVerb";
 import Percentage from "../features/notes/Maths/Airthmetic/Percentage";
 import Menusration2D from "../features/notes/Maths/Advance/Mensuration2D";
+import AncientHistory from "../features/gk/history/AncientHistory";
+import Adjective from "../features/notes/English/part-of-speech/Adjective";
+import Sports from "../features/gk/static/Sports";
+import MedievalHistory from "../features/gk/history/MedievalHistory";
 
 
 const AppRoutes = () => {
@@ -43,8 +47,29 @@ const AppRoutes = () => {
             path="/english/grammar/pos/sva"
             element={<SubjectiveVerb />}
           />
+          <Route
+            path="/english/grammar/pos/adjective"
+            element={<Adjective />}
+          />
+
+ {/* GK NOTES */}
+          <Route
+            path="/gk/history/ancient"
+            element={<AncientHistory />}
+          />
+          <Route
+            path="/gk/history/medieval"
+            element={<MedievalHistory />}
+          />
+      
 
 
+      {/* GK NOTES Static */}
+
+          <Route
+            path="/gk/static/sports"
+            element={<Sports />}
+          />
 
 {/* MATHS ROUTES  */}
 {/* Airthematic */}
@@ -59,6 +84,9 @@ const AppRoutes = () => {
             path="/maths/arithmetic/mensuration2d"
             element={<Menusration2D />}
           />
+
+
+         
         </Routes>
       </main>
     </div>

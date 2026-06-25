@@ -23,47 +23,75 @@
               {
                 "name": "Subject Verb Agreement",
                 "path": "/english/grammar/pos/sva"
+              },
+              {
+                "name": "Adjective",
+                "path": "/english/grammar/pos/adjective"
+              },
+              {
+                "name": "Adverb",
+                "path": "/english/grammar/pos/adverb"
+              },
+              {
+                "name": "Preposition",
+                "path": "/english/grammar/pos/preposition"
+              },
+              {
+                "name": "Conjunction",
+                "path": "/english/grammar/pos/conjunction"
+              },
+              {
+                "name": "Interjection",
+                "path": "/english/grammar/pos/interjection"
               }
             ]
           }
         ]
       }
     ]
-  },
-  {
-    "subject": "Maths",
-    "chapters": [
-      {
-        "chapter": "Arithmetic",
-        "topics": [
-          {
-            "topic": "Percentage",
-             "subTopics": [
-              {
-                "name": "Percentage",
-                "path": "/maths/arithmetic/percentage"
-              }]
-          }
-
-    
-        ]
-      },{
-        "chapter": "Advance",
-        "topics": [
-          {
-            "topic": "Mensuration 2D",
-             "subTopics": [
-              {
-                "name": "Mensuration 2D",
-                "path": "/maths/arithmetic/mensuration2d"
-              }]
-          }
-
-    
-        ]
-      }
-      
-    ]
-  }
+  },{
+  "subject": "GK",
+  "chapters": [
+    {
+      "chapter": "History",
+      "topics": [
+        {
+          "topic": "Ancient History",
+          "subTopics":[
+            {
+              "name": "Ancient History",
+              "path": "/gk/history/ancient"
+            }
+          ]
+          
+        },{
+          "topic": "Medieval History",
+          "subTopics":[
+            {
+              "name": "Medieval History",
+              "path": "/gk/history/medieval"
+            }
+          ]
+          
+        }
+      ]
+    },
+     {
+      "chapter": "Static GK",
+      "topics": [
+        {
+          "topic": "Sports",
+          "subTopics":[
+            {
+              "name": "Sports",
+              "path": "/gk/static/sports"
+            }
+          ]
+          
+        }
+      ]
+    }
+  ]
+}
 ]
 

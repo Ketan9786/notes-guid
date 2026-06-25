@@ -1,0 +1,1097 @@
+{
+  "title": "Complete Ancient History – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police 2026",
+  "total_questions_covered": 116,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Chapter-wise Weightage Analysis (SSC PYQs)",
+      "type": "summary",
+      "table": [
+        {"topic": "Prehistoric Period", "sub_areas": "Paleolithic, Mesolithic, Neolithic, Metal Age, early humans", "questions": 6, "weightage": "Moderate"},
+        {"topic": "Indus Valley Civilization (Harappan)", "sub_areas": "Town planning, drainage, seals, crops, sites, materials, economy", "questions": 20, "weightage": "Very High"},
+        {"topic": "Vedic Period", "sub_areas": "Rigveda, Samaveda, Yajurveda, Atharvaveda, Vedangas, varna, rituals", "questions": 16, "weightage": "Very High"},
+        {"topic": "Religious Movements (Buddhism & Jainism)", "sub_areas": "Buddha, Mahavira, Councils, doctrines, texts, symbols, places", "questions": 14, "weightage": "High"},
+        {"topic": "Mahajanapadas & Magadha Rise", "sub_areas": "Bimbisara, Ajatashatru, capitals, alliances, dynasties", "questions": 6, "weightage": "Moderate"},
+        {"topic": "Mauryan Empire", "sub_areas": "Chandragupta, Ashoka, administration, inscriptions, pillars", "questions": 9, "weightage": "High"},
+        {"topic": "Post-Mauryan Period", "sub_areas": "Kushanas, Satavahanas, Indo-Greek influence", "questions": 4, "weightage": "Low–Moderate"},
+        {"topic": "Gupta Empire", "sub_areas": "Administration, inscriptions, officers, religion, economy", "questions": 11, "weightage": "Very High"},
+        {"topic": "Ancient Art & Architecture", "sub_areas": "Stupas, caves, Gandhara–Mathura art, temples, forts", "questions": 12, "weightage": "Very High"},
+        {"topic": "Ancient Literature & Scholars", "sub_areas": "Panini, Charaka, Arthashastra, Kalidasa, Banabhatta", "questions": 6, "weightage": "Moderate"},
+        {"topic": "South Indian Administration & Culture", "sub_areas": "Ur, Alvars, village councils", "questions": 2, "weightage": "Low"},
+        {"topic": "Foreign Accounts & Contacts", "sub_areas": "Megasthenes, Greek terms, foreign references", "questions": 2, "weightage": "Low"}
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Prehistoric Period",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Correct Order of Prehistoric Periods",
+          "content": [
+            "Correct order: Paleolithic → Mesolithic → Neolithic → Metal Age",
+            "PYQ Answer: B (SSC CGL)"
+          ]
+        },
+        {
+          "name": "Old Stone Age / Palaeolithic Period",
+          "period": "50,000 BC – 10,000 BC",
+          "content": [
+            "Tools: Handaxes, cleavers, and choppers",
+            "Lifestyle: Purely nomadic hunter-gatherers",
+            "Material: Quartzite stone; borers made from flakes",
+            "Fire: Traces of ash found in Kurnool caves",
+            "Ostrich egg shells found in Patne, Maharashtra"
+          ],
+          "major_sites": [
+            "Soan Valley (now in Pakistan)",
+            "Belan Valley (U.P.)",
+            "Bhimbetka (Madhya Pradesh) – cave paintings",
+            "Didwana, Rajasthan",
+            "Bori, Maharashtra",
+            "Hunasagi (caves), Karnataka",
+            "Luni Valley, Rajasthan",
+            "Purulia, West Bengal",
+            "Nevasa, Maharashtra",
+            "Belum Caves – Largest & Longest cave system, Kurnool, Andhra Pradesh #imp"
+          ]
+        },
+        {
+          "name": "Middle Stone Age / Mesolithic Period",
+          "period": "12,000 BC – 10,000 BC",
+          "content": [
+            "Tools: Microliths (geometric forms – triangles, lunates, trapezes) – tiny stone tools (1–5 cm), used as arrowheads and barbed spears",
+            "Lifestyle: Nomadic to semi-sedentary",
+            "Bow and Arrow revolutionized hunting",
+            "Fishing and fowling also became important",
+            "PYQ: Mesolithic weapon used for hunting = Barbed spears (Microliths) – Ans B (SSC CGL)"
+          ],
+          "major_sites": [
+            "Adamgarh (M.P.) – earliest evidence for domestication of animals",
+            "Tilwara, Bagor (Rajasthan) – microlith industry & pottery introduced",
+            "Langhnaj (Gujarat) – earliest evidence of human burial",
+            "Moharana Pahara (U.P.) – earliest evidence of burial",
+            "Mahadaha & Sarai Nahar Rai (U.P.) – burials with skeletons of very tall people",
+            "Sundargarh, Sambalpur, Mayurbhanj, Keonjhar (Odisha)",
+            "Biharanpur (West Bengal)",
+            "Ezhuthu, Guha (Kerala)",
+            "Gouri Gundam (Andhra Pradesh)",
+            "Patne, Hatkhambe (Maharashtra)",
+            "Damdama, Chopani, Mando (U.P.)",
+            "Panchmarhi, Bhimbetaka (M.P.)",
+            "Roopkund Lake, Himalayas – popularly known as Skeleton Lake"
+          ]
+        },
+        {
+          "name": "New Stone Age / Neolithic Period",
+          "period": "7000 BC – 1000 BC",
+          "content": [
+            "Tools: Axes called 'Celt', sickles, grinding stones (well-rounded and symmetrical shapes)",
+            "Lifestyle: Humans became food producers (farmers)",
+            "Innovations: Mud-brick houses, Cultivation, Wheel, Pottery for storing grains",
+            "Domestication of Animals",
+            "Pit dwellings (Circular/Oval) found in Burzahom and Gufkral (Kashmir – 'a cave of potters')"
+          ],
+          "major_sites": [
+            "Koldihwa (Uttar Pradesh) – First Neolithic site noticed in India; rice & fragmentary animal bones found #imp",
+            "Mehrgarh (Balochistan, Pakistan) #imp – Oldest Neolithic site in South Asia; River Bolan; square & rectangular houses; first evidence of cotton (7000 years ago); earliest known centre of Agriculture in South Asia",
+            "Burzahom (Sri Nagar) #imp",
+            "Inamgoan (Maharashtra) #imp – River Ghod; Regional Centre of Bhima valley",
+            "Gufkral (Kashmir) #imp",
+            "Utnur (Telangana)",
+            "Kunal (Haryana)",
+            "Sanganakallu (Karnataka)",
+            "Paiyampali, Tamil Nadu #imp",
+            "Nagarjunakonda (Andhra Pradesh)",
+            "Hallur, Maski, Brahmagiri, Takkalkota (Karnataka)",
+            "Chirand, Chechar (Bihar) – Animal Bone tools",
+            "Piklihal (Karnataka) – People used to domesticate Cattle & ash mounds",
+            "Mahagara (U.P.) – Rice & cattle hoof marks on Clay; Cattle-Pen found #imp",
+            "Catal Huyuk – 1st Proto City, modern city of Konya, south central Turkey",
+            "Hallur (Karnataka) – Earliest Iron Age site; River Tungabhadra",
+            "Daojali Hading (Dima Hasao, Assam) – Jadeite stone, 4 types of ceramics: Cord-Marked, Incised, Stamped & plain fine red ware"
+          ]
+        },
+        {
+          "name": "Metal Age",
+          "content": [
+            "First metal used by early humans in ancient India: Copper (Ans: D – SSC CHSL)",
+            "Bronze = Alloy (mixture); Copper was used first",
+            "Aryans introduced Iron"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Indus Valley Civilization (IVC / Harappan)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Overview",
+          "content": [
+            "Oldest known civilization of Indian subcontinent (Ans: C – SSC CHSL)",
+            "Primary Residents: Dravidian & Mediterranean",
+            "Mesopotamia Edict: Meluha word, Haja-Bird (Peacock)",
+            "Indo-Greeks called this region: Indoi or Indike (Ans: B – SSC CHSL)",
+            "First Director-General of ASI: Alexander Cunningham (established ASI in 1861)",
+            "First Indian Director-General of ASI: Daya Ram Sahni (1931–1935)",
+            "First Woman Director-General of ASI: Dr. Debala Mitra (1981–1983) – Diamond Triangle (Ratnagiri, Lalitgiri, Udayagiri), Odisha",
+            "In 1912, Harappan seals with then-unknown symbols discovered by J Fleet",
+            "Black Painted Utensils",
+            "Sweetness: Honey"
+          ]
+        },
+        {
+          "name": "Characteristics of IVC",
+          "content": [
+            "Rectangular Grid Pattern: Roads at 90 degree intersection",
+            "At Lothal: houses built of mud bricks; drains made of burnt bricks",
+            "Use of burnt clay bricks and ornate brick (Kali Bangan), wood & Gypsum mortar",
+            "Only Lothal city's houses doors opened towards main road; others toward backyard",
+            "City classified into Upper Part (Citadel – huge mud brick platform) and Lower Part",
+            "Unit of measurement: 16 ratio – made of stone called Chert (Cubical with no marking)",
+            "Lower denominations of weights: Binary",
+            "Higher denominations of weights: Decimal",
+            "Harappans were first in Eurasia to grow Cotton (Ans: D – SSC CHSL)",
+            "IVC was first civilization to use fire-baked bricks",
+            "All bricks same ratio: 1:2:4; Most common size 7cm high, 14cm wide, 28cm long",
+            "Bricks laid in 'header and stretcher' pattern; joined using mud mortar or gypsum for waterproofing",
+            "Wide roads of 7.2 mt run North to South and East to West; cut perpendicular",
+            "City divided into square blocks (Mohallas or Colonies)",
+            "Gates of houses opened in streets (1.8mt thick)",
+            "IVC cities enclosed with: Fortified walls with gateways (Ans: B – SSC CHSL)",
+            "Standardized building material: Burnt mud-bricks (Ans: A – SSC CHSL)",
+            "Drainage system: Highly advanced and well planned (Ans: B – SSC CHSL)",
+            "NOT a feature: Extensive use of iron tools (Ans: B – SSC CHSL)",
+            "IVC cities had Rectangular grid pattern (Ans: B – SSC CHSL)",
+            "No evidence for practice of Sati (Ans: C – SSC CGL – NOT true)"
+          ]
+        },
+        {
+          "name": "Characteristics of Seals",
+          "content": [
+            "A horned animal on seal of Harappa; Motif",
+            "Steatite seals used for business; Pictograph Language",
+            "God: Yoni, Phallus; Sacred: Bull, Peeple Tree",
+            "Public Hospitals: Not Available",
+            "Pashupati Mahadev Seal (Male Deity)",
+            "Citadel: Granaries, Bath, Fire Altars, Assembly / Pillared Halls, Warehouses",
+            "Main Crops: Wheat & Barley",
+            "Ornaments: Gold, Silver, Copper & Bronze",
+            "Fortified Walls & Gateways",
+            "Harappan seals made of Steatite; bear animal figures and obscure script (Ans: A – SSC CGL)",
+            "Unicorn → Single Horned → Pictographs",
+            "Seals → Trade → Commerce"
+          ]
+        },
+        {
+          "name": "IVC Imported Goods & Regions",
+          "type": "table",
+          "table": [
+            {"good": "Copper", "region": "Khetri (Rajasthan), Baluchistan, Oman (Magan)"},
+            {"good": "Silver", "region": "Afghanistan, Iran"},
+            {"good": "Gold", "region": "Karnataka, Afghanistan, Iran"},
+            {"good": "Tin", "region": "Afghanistan, Iran"},
+            {"good": "Lajwart (Lapis Lazuli – Blue Stone)", "region": "Shortughai, Afghanistan #imp"},
+            {"good": "Led", "region": "Iran"},
+            {"good": "Shell", "region": "Nageshwar & Balakot"},
+            {"good": "Steatite", "region": "Rajasthan"},
+            {"good": "Carnelian (Red Stone)", "region": "Bharuch in Gujarat"}
+          ]
+        },
+        {
+          "name": "Mohenjodaro",
+          "content": [
+            "Biggest city in IVC",
+            "Location: Sindh, Pakistan",
+            "River: Sindhu (Indus River)",
+            "Discovered: 1922; Excavated: 1925",
+            "Excavator: R.D. Banerjee (Rakhal Das Banerjee)",
+            "Drainage system notable: each house connected to a covered street drain (Ans: C – SSC CGL)",
+            "Findings: Great Bath, Granary/Warehouse, Dancing Girl (Bronze), Priest-King, Bull Seal, Pashupati Seal, Terracotta Toys & Carts, Woven Cotton Cloth, Ancient Coins, Covered Drainage System, Shell Ornaments & Weights, Wooden Doors"
+          ]
+        },
+        {
+          "name": "Harappa",
+          "content": [
+            "Location: Montgomery, Punjab, Pakistan",
+            "River: Ravi River",
+            "Discovered: 1921 (First site to be discovered)",
+            "Excavator: D.R. Sahini (Daya Ram Sahini)",
+            "Findings: Granaries (with circular bricks), Coffin Burial, 1st Town (sandstone statues of Human anatomy), Bullock Carts",
+            "Harappans brought Gold from Karnataka",
+            "Cemetery H and Cemetery R-37",
+            "Dancing Natraja (made of stone)",
+            "Only place having evidence of coffin burial",
+            "Harappa site discovered on banks of: Ravi River (Ans: A – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "Dholavira",
+          "content": [
+            "Location: Kutch, Gujarat",
+            "River: Luni",
+            "Discovered: 1968 by Jagat Pati Joshi",
+            "Excavated commercially by R.S. Bisht, 1990–2005",
+            "Findings: Bullock cart driven by nude human, Water Harvesting & Reservoirs, Rocks used for construction, Drainage system, Livelihood, Wells, Bullocks, Embankments, Large cemetery with cenotaphs of 6 types, Bead processing workshops, Fallen Signboard",
+            "16 water reservoir tanks between Mansar and Manhat Stream",
+            "Divided into 3 parts: Citadel, Lower Town & Middle Town"
+          ]
+        },
+        {
+          "name": "Lothal",
+          "content": [
+            "Location: Ahmedabad, Gujarat",
+            "River: Bhogwa (Gulf of Khambat) – Right tributary of Sabarmati River",
+            "Discovered: 1954; Excavation: 1955",
+            "Excavator: S. Rangnath Rao",
+            "Findings: Dockyard, Bead making factory, Button seal, Fire Altars, Painted Jar, Earliest cultivation of Rice, set of Elephant Teeth, Chess Board",
+            "Drainage System made of Burnt Bricks",
+            "Biggest Dockyard of IVC; Also 1st man-made port",
+            "Manchester of IVC (cotton production)",
+            "Terracotta figures of horse and ship; jar depicting 'cunning fox' of Panchatantra",
+            "Carnelian (stone for beads) mostly found in: Gujarat (Bharuch) – Ans: B – SSC CHSL"
+          ]
+        },
+        {
+          "name": "Rakhigarhi",
+          "content": [
+            "Location: Hisar, Haryana",
+            "River: Ghaggar",
+            "Discovered: 1963 by Prof. Surajbhan",
+            "Excavator: Shri Amarendra Nath",
+            "Biggest/Largest Site of IVC in India (Ans: D – SSC CHSL)",
+            "Findings: Terracotta, Wheels, Toys, Figurines, Pottery",
+            "2 new sites: Tighrana & Mitathal in Bhiwani, Haryana",
+            "NOTE: Oldest Discovered site of IVC = Bhirrana (near Rakhigarhi), Fatehabad, Haryana"
+          ]
+        },
+        {
+          "name": "Kalibangan",
+          "content": [
+            "Location: SriGanga Nagar, Rajasthan",
+            "River: Ghaggar / Sarasvati River",
+            "Discovered: 1951 by Amlananda Ghosh",
+            "Excavator: Brij Basi Lal & Bal Krishna Thapar (1960)",
+            "Findings: Baked/Burnt Bangles, Fire Altars, Shiva Lingam, Bones of Camel, Wooden Plough",
+            "Agricultural evidence: Burnt clay plough marks in fields (Ans: B – SSC CGL)"
+          ]
+        },
+        {
+          "name": "Banawali",
+          "content": [
+            "Location: Fatehabad, Haryana",
+            "River: Ghaggar / Sarasvati River",
+            "Discovered: 1973",
+            "Excavator: R.S. Bisht",
+            "Findings: Barley, Terracotta Figure of plough",
+            "Suitable for observing Harappan civilization architecture"
+          ]
+        },
+        {
+          "name": "Chanhudaro",
+          "content": [
+            "Location: Sindh, Pakistan",
+            "River: Sindhu / Indus",
+            "Discovered: 1931",
+            "Excavator: N. Gopal Mazumdar & Mackey (Foreign)",
+            "Findings: Bead Making Factory, Use of Lipstick, Black Liner, Comb, Foot print of a dog chasing a cat",
+            "Only Harappan city without a Citadel (fortification) – Ans: C – SSC CGL",
+            "Centre for: Bead-making (Ans: C – SSC CGL)"
+          ]
+        },
+        {
+          "name": "Other Important IVC Sites",
+          "content": [
+            "Kot-Diji: River Indus; Excavator Fazal Ahmed Khan; 1953; Sindh (Pakistan); nearest to Mohenjo-Daro; Findings: Pottery, Stones, Arrow Heads, Bangles, metallurgy",
+            "Sutkagen Dor: Baluchistan; River Dasht; Discovered 1875 by Major Edward Mockler; Excavated 1928 by Aurelstein and George Dales; Biggest Dockyard – trade point between Harappa and Babylon (Iraq)",
+            "Daimabad (Ahmednagar, Maharashtra): On Pravara River (tributary of Godavari) – Ans: D – SSC CHSL",
+            "Manda (J&K): Chenab River"
+          ]
+        },
+        {
+          "name": "Names of IVC",
+          "content": [
+            "Harappan Civilization",
+            "Sindhu-Sarasvati Civilization",
+            "Indus Civilization",
+            "NOT: Mesopotamian Civilization – Ans: B – SSC CHSL"
+          ]
+        },
+        {
+          "name": "Theories of Decline of IVC",
+          "content": [
+            "Aryan's Theory – Moritimer Wheeler",
+            "Natural Calamity – KVR Kenedy",
+            "Ecological Imbalance – Walter Fairservis",
+            "Flooding – Marshall, Mackay & S.R. Rao",
+            "External Attack – Garden Childe",
+            "Calamatic Change – A.N. Ghosh"
+          ]
+        },
+        {
+          "name": "Seven Rivers (Saptasindhu)",
+          "content": [
+            "Sindhu (Indus or Singi Khamben)",
+            "Vitasta (Jhelum / Hydaspes)",
+            "Asikni (Chenab / Chandrabagha)",
+            "Parushni (Ravi / Airavati)",
+            "Vipash (Beas)",
+            "Shutudri (Sutlej / Zarodros)",
+            "Saraswati"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Vedic Period",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Rigvedic Period (1500–1000 BC)",
+          "content": [
+            "Daughter: 'Duhitri' denoted Milker of cows",
+            "'Yava' denoted Barley",
+            "'Godhume' used denote Wheat",
+            "'Vrihi' to denote rice",
+            "Jana was the largest social unit",
+            "Egalitarian Society; No caste division",
+            "2 Assemblies: Sabha and Samiti",
+            "Holy Animal: COW (Non-Perishable Animal)",
+            "Holy River: Saraswati (Most Prominent in Rigvedic Period)",
+            "Wealthy people called Gomat; Guest: Goghana",
+            "Nishka coin (currency) used – earlier it was a throat ornament",
+            "Gavishti: Battle or Search for cows",
+            "Battle of the 10 Kings – 7th Division of Rigveda",
+            "Vedic hymns composed by: Rishis and Rishikas (Ans: D – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "Rigveda",
+          "content": [
+            "Collection of 1028 Hymns / Suktas",
+            "Divided into 10 Mandalas #imp 2024",
+            "Oldest Religious Text; Included in UNESCO",
+            "Depicts life of Early Vedic Period",
+            "Rucha = 10600 verses",
+            "Starts with 'Agnimele Purohitam'",
+            "Two priests who played major part: Vasishtha and Vishwamitra",
+            "Contains knowledge of Chemistry & Medical Science",
+            "Rik = Sacred Hymn (Ans: C – SSC CGL)",
+            "Term for collection of hymns in Rigveda: Suktas (Ans: C – SSC CGL)",
+            "Rigveda has 1028 hymns (Ans: C – SSC CHSL)",
+            "Rigveda divided into 10 Mandalas (Ans: C – SSC CGL)",
+            "3rd Division (Mandal): Vishwamitra used Gayatri Mantra; dedicated to Savitri",
+            "8th Mandal: handwritten hymns i.e., Khil",
+            "9th Mandal: God Soma",
+            "10th Division: Purush-Sukta – discusses 4 Varnas (Brahmin, Kshatriya, Vaishya, Shudra)",
+            "Varna system belongs to later Vedic Period",
+            "Readers: Hotri (Experts of Rig Veda)",
+            "Brahmin Text: Aitareya Brahmin, Kaushitaki Brahmin",
+            "Upveda: Ayurveda",
+            "Name 'Bharata' first appears in: Rig Veda (Ans: B – SSC CHSL)",
+            "Bharata Clan → Rigveda → Bharat = India"
+          ]
+        },
+        {
+          "name": "Yajurveda – Book of Rituals",
+          "content": [
+            "Hymns: 1975; Adhayas (chapters): 40",
+            "Contains knowledge of all Sacrificial Formulas & Weapons",
+            "Experts: Adhvaryu (Readers)",
+            "Only Veda divided into two parts: Krishna Yajur Veda (Black) & Shukla Yajur Veda (White)",
+            "UpVeda: Dhanur Veda",
+            "Specialty: both in Prose & Verse",
+            "Brahmin Text: Shatpath Brahmin, Taittiriya Brahmin",
+            "Veda with ritual formulas and sacrifices: Yajurveda (Ans: B – SSC CGL)"
+          ]
+        },
+        {
+          "name": "Samaveda",
+          "content": [
+            "Father of Indian Music",
+            "Hymns: 1875 (Unique Hymns: 1549); Adhayas: 6",
+            "Origin of Indian Classical Music",
+            "Sama Vedic hymns sung by priests called Udgatri",
+            "UpVeda: Gandharwa Veda",
+            "Has Mantras related to worship of Surya Dev",
+            "Contains hymns mostly taken from Rigveda, arranged for singing (Ans: A – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "Atharvaveda – Veda of Magical Formulas",
+          "content": [
+            "Also called 'Black Magic Veda'",
+            "Hymns: 730; Khandas (chapters): 20",
+            "Collection of spells & incantations; Contains Ayurveda knowledge",
+            "Saying 'War begins in the minds of men' from Atharva Veda",
+            "Experts: Brahman",
+            "UpVeda: Shilpa Veda",
+            "Author: Atharwa Rishi",
+            "Sabha & Samiti considered two daughters of Prajapati",
+            "Blasphemy of the birth of Girls",
+            "Brahmin Text: Gopatha Brahmin",
+            "No Temple, No God → Rigvedic Age"
+          ]
+        },
+        {
+          "name": "Vedangas (6 in total) #imp 2024",
+          "content": [
+            "Phonetics (Pronunciation): Shiksha",
+            "Ritual (Ceremony): Kalpa",
+            "Grammar: Vyakaran",
+            "Etymology (Origin of words): Nirukta (Explanation)",
+            "Metrics: Chhanda",
+            "Astrology: Jyotisha",
+            "NOT a Vedanga: Charaka (Ans: D – SSC CGL)"
+          ]
+        },
+        {
+          "name": "6 Principal Schools of Hindu Vedic Darshan #imp",
+          "table": [
+            {"school": "Samkhya", "founder": "Kapila"},
+            {"school": "Yoga", "founder": "Patanjali"},
+            {"school": "Nayaya", "founder": "Akshpaad Gautam"},
+            {"school": "Vaisheshika", "founder": "Kanada (Kashyapa)"},
+            {"school": "Mimamsa", "founder": "Jaimini"},
+            {"school": "Vedanta / Brahma Sutra", "founder": "Badarayana"}
+          ]
+        },
+        {
+          "name": "Vedic Text Categories",
+          "content": [
+            "Samhitas – Collection of hymns",
+            "Brahmanas – Explain mantras and sacrificial rituals in prose form (Ans: C – SSC CHSL)",
+            "Aranyakas – Forest texts",
+            "Upanishads – Philosophical texts",
+            "Atman in Upanishads = The inner self or soul (Ans: D – SSC CHSL)",
+            "Brahdaranya Upanishad – First to give doctrine of Transmigration of Soul and Karma",
+            "Mundaka Upanishad – 'Satyameva Jayate'"
+          ]
+        },
+        {
+          "name": "Varna System",
+          "content": [
+            "During Vedic period, society organized into 4 Varnas (Ans: Both I and II – SSC CHSL)",
+            "4 stages of life (Ashrams) prescribed by early Hindu philosophy",
+            "Vaishya – responsible for trade and business (Ans: A – SSC CHSL)",
+            "Brahmin (Knowledge/Teaching), Kshatriya (Protection), Vaishya (Trade), Shudra (Service)"
+          ]
+        },
+        {
+          "name": "Panini's Ashtadhyayi",
+          "content": [
+            "Panini's grammar consists of over 4000 grammatical rules (Ans: C – SSC CHSL)",
+            "Written during Nanda Dynasty",
+            "Sanskrit Grammar text"
+          ]
+        },
+        {
+          "name": "Jaherthan (Santhal Tribe)",
+          "content": [
+            "Sacred grove",
+            "Religious practices of the Santhal tribe",
+            "Sacrificial rituals: Erok Sim",
+            "Inhabited by spirits and deities including Jaherera – the Lady of the Sacred Grove (guardian)",
+            "PYQ (Steno Exam Shift I – 7/08/2025): Both A and R are correct, and R is the correct explanation of A (Ans: B)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "Buddhism",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Life of Gautama Buddha",
+          "content": [
+            "Birth: 563 BC, Lumbini, Nepal (Ans: A – SSC CHSL)",
+            "Names: Siddhartha, Gautam, Tathagat / Shakya Muni",
+            "Father: Suddhodana (Ruler of Kapilvastu)",
+            "Mother: Mahamaya Devi (Kosala Dynasty)",
+            "Foster Mother: Pajapati Gotami (1st Disciple)",
+            "Austerity Duration: 6 Years",
+            "Home sacrifice (Mahabhinishkraman): at age of 29",
+            "He was Contemporary to Bimbisara & Udayan",
+            "Nirvana: at age of 35 at Uruvela (Niranjana River), Gaya",
+            "Sambodhi: took Bodhtawa on 49th day from starting Meditation in Gaya (Bodh Gaya) – Ans: B – SSC CHSL",
+            "1st Sermon: Dharmachakkaparvatna in Sarnath near Varanasi (Dhamek Stupa built by Ashoka)",
+            "Maximum Sermon at Shravasti",
+            "Death: 483 BC, Kushinagar"
+          ]
+        },
+        {
+          "name": "Five Disciples of Buddha",
+          "content": [
+            "Asvajit, Upali, Mogallana, Sariputra, Ananda",
+            "NOT a disciple: Susima (Ans: D – SSC CGL)"
+          ]
+        },
+        {
+          "name": "Five Great Symbols of Lord Buddha",
+          "content": [
+            "Birth: Lotus, Elephant & Bull",
+            "Great Departure / Renunciation: Horse",
+            "Enlightenment (Nirvana): Bodhi Tree",
+            "First Sermon: Wheel (Noble Path / Dharm Chakra Parvartan)",
+            "Death: Stupa & Foot Print (Parinirvana)"
+          ]
+        },
+        {
+          "name": "Buddhist Terminology",
+          "content": [
+            "Dukkha: Suffering – 'unsatisfactoriness'",
+            "Anicca (Anitya): The doctrine of impermanence",
+            "Anatta (Anatman): The concept of 'no-self'",
+            "Pratityasamutpada: Dependent Origination – law of causality",
+            "Nirvana (Nibbana): The ultimate goal; liberation from cycle of rebirth",
+            "Samsara: The cycle of repeated birth, mundane existence, dying",
+            "Metta: Fellow Feeling (Ans: C – SSC CGL)",
+            "Arhat: A person who has attained Nirvana (ideal in Theravada)",
+            "Bodhisattva: A being who seeks enlightenment for all sentient beings (ideal in Mahayana)",
+            "Two causes of human suffering: Ignorance (Avijja) and Attachment (Tanha) – Ans: C – SSC CHSL"
+          ]
+        },
+        {
+          "name": "Buddhist Texts",
+          "content": [
+            "Buddhist texts written in Pali language",
+            "Jainism texts written in Prakrit"
+          ]
+        },
+        {
+          "name": "Buddhist Councils",
+          "type": "table",
+          "table": [
+            {"council": "1st – Rajgriha (Bihar), Sataparni cave", "period": "483 BC", "king": "AjatShatru (Haryankya Dynasty)", "chairman": "Mahakassapa", "outcome": "Vinay pitaka & Sutta Pitaka were written"},
+            {"council": "2nd – Vaishali (Bihar)", "period": "383 BC", "king": "KalAshoka (ShishuNaga Dynasty)", "chairman": "Sarvakamini", "outcome": "1st time Buddhism divided into two sects: Sithavira & Mahasnghiska"},
+            {"council": "3rd – Pataliputra (Bihar), Kundalvan", "period": "255 BC", "king": "Ashoka (Mauryan Dynasty)", "chairman": "MoggaliPutta Tisya", "outcome": "AbhiDhamma Pitaka was written"},
+            {"council": "4th – Kushana (Kashmir) #imp 2024", "period": "1st Century AD (72 AD)", "king": "Kanishka (Kushana Dynasty)", "chairman": "Vasumitra & Ashyagosha", "outcome": "Buddhism divided into: Hinayana & Mahayana"},
+            {"council": "5th", "period": "1871 AD", "king": "-", "chairman": "-", "outcome": "Held in Burma"},
+            {"council": "6th", "period": "1954 AD", "king": "-", "chairman": "-", "outcome": "Held in Burma"}
+          ]
+        },
+        {
+          "name": "Features of Stupa",
+          "content": [
+            "Medhi: Circular Terrace between railing & dome (Earth/Foundation/Path – symbolizes base of Mount Meru)",
+            "Toranas: Wall with decorated Gateways",
+            "Anda: Hemispherical Mound (Water/The Universe/Infinite Space)",
+            "Chattra: Central Pillar supporting a triple umbrella form (Air & Space / Royalty & Protection)",
+            "Harmika: A Square Railing (Fire / Abode of the Gods)",
+            "Sanchi: Hemispherical dome – Oldest Stupa (M.P.)",
+            "Kesariya Stupa: Largest Stupa in India (Bihar)",
+            "Harmika of Stupa = symbolic abode of deities at top (Ans: C – SSC CGL)",
+            "Chaityas = Congregational halls for teaching and interaction (Prayer Halls) – Ans: D – SSC CHSL",
+            "Viharas = Residence of Monks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Ancient Art & Architecture",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Gandhara vs Mathura Art (Comparison Table)",
+          "type": "comparison",
+          "table": [
+            {"feature": "Origin/Location", "gandhara": "Modern-day Pakistan & Afghanistan (Peshawar Valley)", "mathura": "Mathura, Uttar Pradesh (Banks of Yamuna)"},
+            {"feature": "Influence", "gandhara": "Greco-Roman (Hellenistic); also 'Indo-Greek'", "mathura": "Indigenous; purely Indian traditions"},
+            {"feature": "Material Used", "gandhara": "Grey Schist (bluish-grey sandstone); later stucco/mud", "mathura": "Spotted Red Sandstone"},
+            {"feature": "Buddha's Hair", "gandhara": "Wavy hair (like Greek God Apollo)", "mathura": "Curly hair or shaven head"},
+            {"feature": "Physical Build", "gandhara": "Muscular, athletic, anatomically realistic", "mathura": "Yaksha-like, stout, fleshy, and more robust"},
+            {"feature": "Drapery", "gandhara": "Thick, heavy folds, toga-style robes", "mathura": "Fine, thin, or transparent muslin drapery"},
+            {"feature": "Halo", "gandhara": "Generally plain or minimally decorated", "mathura": "Profusely decorated with geometric/floral motifs"},
+            {"feature": "Facial Detail", "gandhara": "Often includes a moustache and beard", "mathura": "Generally clean-shaven; peaceful/serene smile"}
+          ],
+          "exam_tips": [
+            "PYQ: Art form developed from fusion of Greek and Indian styles = Gandhara art (Ans: C – SSC CHSL)",
+            "Gandhara art depicted Buddha in indigenous Yaksha-like style – FALSE; that's Mathura (Ans: D – SSC CGL)",
+            "Mathura art depicted Buddha in indigenous Yaksha-like style; Gandhara showed Hellenistic features",
+            "Chronological order of Buddhist sculpture: Sanchi Stupa-1 → Bharhut → Mathura (Answer: c-b-a = C – SSC CGL)",
+            "Sanchi & Bharhut = Symbolic (no human Buddha); Mathura & Gandhara = Human figures",
+            "Both Gandhara & Mathura patronized by Kushanas (Kanishka)",
+            "Gandhara credited with FIRST sculptural representation of Buddha in human form",
+            "Earlier Indian art (like Sanchi) was aniconic – used symbols like footprints or lotus",
+            "Kankalitila site (Mathura) – Famous for early Jain sculptures (Tirthankaras)",
+            "Royal Statues: Headless statue of Kanishka found at Mathura",
+            "Mathura art reached pinnacle during Gupta Period – transparent drapery"
+          ],
+          "amaravati_tip": "If question mentions White Marble → answer is almost always Amaravati School (South India, Krishna-Godavari valley, patronized by Satavahanas)"
+        },
+        {
+          "name": "Architectural Styles Comparison",
+          "content": [
+            "Indo-Islamic Style features: domes, minarets, arches (pointed but without flying buttresses), marble or red sandstone; NO ribbed vaults, flying buttresses, or stained glass",
+            "South India (Deccan/Dravidian) Style: vimanas (temple spires), gopurams (monumental gateways), pillared mandapas",
+            "Gothic (Victorian) Architecture: Medieval European (12th–16th century); Pointed Arches, Ribbed Vaults, Flying Buttresses, Stained Glass Windows",
+            "Gothic buildings in India: Chhatrapati Shivaji Maharaj Terminus (Mumbai, F.W. Stevens), St. Paul's Cathedral (Kolkata), Rajabai Clock Tower & Mumbai University (Sir George Gilbert Scott), St. Philomena's Church (Mysuru), High Court of Bombay",
+            "Romanesque: Rounded (Semi-circular), Thick, heavy, load-bearing, Small, narrow, dark, Massive internal columns",
+            "PYQ: Architecture with ribbed vaults, pointed arches, flying buttresses, stained glass = Gothic (Ans: D – Steno Exam)"
+          ]
+        },
+        {
+          "name": "Golden Age of Indian Temple Architecture",
+          "content": [
+            "Gupta Period = Golden age of Indian temple architecture (Ans: A – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "Mahajanapadas & Magadha",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Mahajanapadas Overview",
+          "content": [
+            "Vajji, Malla & Assaka (Ashmaka) were Republics; rest all were Monarchy",
+            "'Bhaga' was the tax collected on crops at the rate of 1/6th",
+            "Magadh (most powerful) surrounded by river Ganga & Son",
+            "Anguttar Nikaya (Buddhist Scripture) describes 16 Mahajanapadas",
+            "Second urbanization in Ganga valley: 6th century BCE",
+            "First Dynasty to rule Magadh: Haryanka Dynasty"
+          ]
+        },
+        {
+          "name": "16 Mahajanapadas – Capitals",
+          "type": "table",
+          "table": [
+            {"mahajanapada": "Magadha", "capital": "Girivraj or Rajgriha", "location": "District Patna, Gaya & Part of Shahabad in Bihar"},
+            {"mahajanapada": "Anga", "capital": "Champa or Champanagari", "location": "Munger & Bhagalpur district of Bihar"},
+            {"mahajanapada": "Kashi", "capital": "Varanasi", "location": "Varanasi district of U.P."},
+            {"mahajanapada": "Koasala", "capital": "Saravasti", "location": "Faizabad, Gonda Region or Eastern U.P."},
+            {"mahajanapada": "Malla", "capital": "Kushinagar or Pawa", "location": "South of Vaishali distt. in U.P."},
+            {"mahajanapada": "Kuru", "capital": "Hastinapur / Indraprastha", "location": "Haryana & Delhi / Merrut-Delhi region"},
+            {"mahajanapada": "Chedi", "capital": "Shuktimata/Suktimati", "location": "Eastern Part of Bundelkhand"},
+            {"mahajanapada": "Panchal", "capital": "Ahichharta, Kampilya", "location": "Rohilkhand western U.P."},
+            {"mahajanapada": "Sursena", "capital": "Mathura", "location": "Brajmandal Mathura Region"},
+            {"mahajanapada": "Matsya", "capital": "Viratnagar", "location": "Alwar, Jaipur, Bharatpur in Rajasthan"},
+            {"mahajanapada": "Avanti", "capital": "Malwa/Ujjain/Mahishmati", "location": "Ujjain District"},
+            {"mahajanapada": "Gandhara", "capital": "Taxila", "location": "Western part of Pakistan & Afghanistan"},
+            {"mahajanapada": "Kamboj", "capital": "Rajapur / Hataka", "location": "Punch area in Kashmir & Hazara District of Pakistan"},
+            {"mahajanapada": "Ashmika/Asmaka", "capital": "Podana / Patali or Pratisthan / Paithan", "location": "Between river Narmada & Godavari"},
+            {"mahajanapada": "Vatsa", "capital": "Kaushambi", "location": "Dist. of Allahabad Mirzapur of U.P."},
+            {"mahajanapada": "Vajji", "capital": "Vaishali", "location": "Vaishali district of Bihar"}
+          ]
+        },
+        {
+          "name": "Anga Mahajanapada",
+          "content": [
+            "Capital at Champa (Ans: B – SSC CHSL)",
+            "Located in Munger & Bhagalpur district of Bihar"
+          ]
+        },
+        {
+          "name": "Taxila",
+          "content": [
+            "Famous centre of learning",
+            "Capital of Gandhara Mahajanapada (Ans: B – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "Haryanka Dynasty (544–413 BC)",
+          "content": [
+            "Founder/1st Ruler: Bimbisara (son of Bhattiya) (544–491 BC)",
+            "Also called: Sreniya / Seniya",
+            "Capital (Magadh): Grivraja / Rajgirha",
+            "Contemporary of Buddha; Jain literature: Shrenika/Seniya",
+            "Three wives: Mahakosala, Chellana & Kshema",
+            "Mahakosala = Sister of Kosal ruler Prasenjit; got Kasi as dowry",
+            "Chellana = Lichchhavi Princess; got Vriji (Vaishali) region",
+            "He defeated Anga & annexed it",
+            "Sent Physician Jivak to treat Chand Pradyot of Avanti",
+            "Prisoned by son Ajatshatru; died in 493 BC",
+            "Ajatshatru (2nd ruler) – held 1st Buddhist Council at Rajagriha in 483 BC"
+          ]
+        },
+        {
+          "name": "Shishunaga Dynasty (413–343 BC)",
+          "content": [
+            "Founder/1st Ruler: Shishu Naga (Minister of Naga dasak; killed Naga dasak)",
+            "413–395 BC; Shifted capital to Vaishali #imp",
+            "Won Avanti Area to Magadha",
+            "2nd Ruler: Kalashoka (son of Shishu Naga)",
+            "2nd Buddhist Council held at Vaishali under Kalashoka #imp",
+            "Other Name of Kalashoka: KAKAVARIN",
+            "395–367 BC; Shifted capital to Patliputra #imp",
+            "Last Ruler: Mahanandin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "Mauryan Empire (321–184 BC)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Mauryan Dynasty Overview",
+          "content": [
+            "Chandragupta Maurya established Mauryan Empire in 321 BC (Ans: B – SSC CHSL)",
+            "Arthashastra written by Chanakya / Kautilya (guide to statecraft)"
+          ]
+        },
+        {
+          "name": "Ashoka (3rd Ruler) – 268–232 BC",
+          "content": [
+            "Dev Nama Piya (Beloved of Gods)",
+            "Built the Sanchi Stupa (Madhya Pradesh)",
+            "Sent son Mehendra and daughter Sanghmitra to Sri Lanka (Ceylon) and Lakshadweep for propagation of Buddhism",
+            "Southernmost side-city in Mauryan Empire: Brahmagiri",
+            "Kalinga War: 261 BCE; Dhauli elephant sculpture associated with Kalinga War – symbolizes Ashoka's transformation",
+            "Dhauli elephant = one of earliest examples of rock-cut animal sculpture in India",
+            "Mauryan architecture advanced most during Ashoka's reign (Ans: C – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "Mauryan Administration",
+          "content": [
+            "18 Tirthas",
+            "Amatyas: Civil servants for day-to-day administration",
+            "Rajukas: Responsible for clerical & accounting; could give capital punishment",
+            "Patliputra (capital) administered by 6 Committees, each with 5 Members",
+            "Kantaka Sodhana: Court of criminal justice",
+            "5 Provincial Centres of Magadh: 1) Taxila (Trade Route), 2) Ujjayani (Trade Route), 3) Tosali, 4) Suvarnagiri (Gold trade with Karnataka), 5) Patliputra (Main Capital)"
+          ]
+        },
+        {
+          "name": "Mauryan Important Superintendents (Adhyakshas)",
+          "table": [
+            {"officer": "Panyaadhyaksha", "role": "Trade"},
+            {"officer": "Sansthaadhyaksha", "role": "Market, checking wrong practices"},
+            {"officer": "Pautavadhyaksha", "role": "Weights and measures"},
+            {"officer": "Navadhyaksha", "role": "State's navy / ships"},
+            {"officer": "Sulkadhyaksha", "role": "Toll / border duty"},
+            {"officer": "Akaradhyaksha", "role": "Mines"},
+            {"officer": "Lohadhyaksha", "role": "Iron"},
+            {"officer": "Savarnika", "role": "Gold"},
+            {"officer": "Sitadhyaksha", "role": "Royal land"},
+            {"officer": "Aksha Pataladhyaksha", "role": "Accounts"},
+            {"officer": "Rathadhyaksha", "role": "Chariots"},
+            {"officer": "Hastyadhyaksha", "role": "Elephant army"},
+            {"officer": "Ayudhagaradhyaksha", "role": "Weapons production and maintenance"},
+            {"officer": "Kosadhyaksha", "role": "State treasury"},
+            {"officer": "Koshthagaradhyaksha", "role": "Storehouse"},
+            {"officer": "Kupyadhyaksha", "role": "Forest produce"},
+            {"officer": "Manadhyaksha", "role": "Monitoring measurements"},
+            {"officer": "Mudradhyaksha", "role": "Passport"},
+            {"officer": "Pattanadhyaksha", "role": "Port"},
+            {"officer": "Ganikadhyaksha", "role": "Prostitution"},
+            {"officer": "Devatadhyaksha", "role": "Religious institutions"},
+            {"officer": "Lakshanadhyaksha", "role": "Coinage / minting"},
+            {"officer": "Ashvadhyaksha", "role": "Cavalry general"},
+            {"officer": "Lohadhyaksha", "role": "Metallurgy officer"}
+          ]
+        },
+        {
+          "name": "Ashokan Pillar Sites",
+          "content": [
+            "Lauriya Nandangarh – Bihar (Correctly matched Ans: A – SSC CGL)",
+            "Sarnath – Uttar Pradesh (NOT Gujarat)",
+            "Sanchi – Madhya Pradesh (NOT Odisha)",
+            "Amaravati – Andhra Pradesh (NOT M.P.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Post-Mauryan Period",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Kanishka (Kushana Dynasty, 78–144 AD)",
+          "content": [
+            "Also known as 2nd Ashoka",
+            "Started Saka Era (78 AD)",
+            "Title: Devputra, 'Shah Naushahi'",
+            "2 Capitals: Peshawar (1st) & Mathura (2nd)",
+            "Silk route in central Asia",
+            "Last great Kushan ruler: Vasudeva I",
+            "Bamiyan: Standing Buddhist Statue",
+            "Scholars in Kanishka's court:",
+            "  - Charaka (Rajvaidya) – Charak Samhita",
+            "  - Ashwaghosh – Buddhacharitra (Ramayana of Buddhism) & Saundarananda (Sanskrit)",
+            "  - Vasumitra – Mahaavibhaash Sootra; Head Priest – Confederacy",
+            "  - Nagarjuna (Einstein of India by Chinese traveler Xuanzang / Hiuen Tsang)",
+            "  - Vatsyayan – Kamasutra",
+            "4th Buddhist Council held under Kanishka in Kashmir"
+          ]
+        },
+        {
+          "name": "Post-Mauryan Buddhist Stupas",
+          "content": [
+            "Post-Mauryan Buddhist stupas clearly show regional variations in architectural form",
+            "Cruciform bases (seen in Gandhara region)",
+            "Pyramidal or tiered superstructures (north-western regions)",
+            "Differences in dome shape, harmika, and railings across regions",
+            "Variations due to locally available materials, regional construction techniques, and local cultures / foreign contacts"
+          ]
+        },
+        {
+          "name": "Udayagiri & Khandagiri Caves",
+          "content": [
+            "Near Bhubaneswar – meant for Jain monks (Ans: A – Steno Exam)",
+            "Not Buddhist temples"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Gupta Empire",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Gupta Dynasty Overview",
+          "content": [
+            "Founder/1st Ruler: Sri Gupta (Vaishya Clan), 240–280 AD; Title: Maharaja; Feudatories of Kushanas",
+            "3rd Ruler: Chandragupta I (319–330 AD) – Real founder of Gupta Empire; son of Ghatotakacha",
+            "Enhanced power by marrying Kumara Devi (Princess of Lachchavi Clan of Nepal)",
+            "Their son: Samudra Gupta",
+            "Title of CG I: 'Maharajadhiraj & Dhiraja'",
+            "Ruled over Magadh, Saket & Prayag; Empire: Bihar, Uttar Pradesh and Bengal"
+          ]
+        },
+        {
+          "name": "Samudra Gupta (4th Ruler, 330–380 AD)",
+          "content": [
+            "Greatest Ruler of Gupta Empire (Prakramana)",
+            "Napoleon of India (by historian V.A. Smith) – Ans: B – SSC CHSL",
+            "Title: 'Kaviraj & Vikramanka'",
+            "Interested in Music; issued coins showing him playing Vina",
+            "Achievements mentioned in Prayag-Prashasti composed by Harisena",
+            "Prayag Prashasti = Allahabad Pillar Inscriptions (Eran Inscriptions, M.P.)",
+            "Harisena and Vasubandhu adorned his court; Harisena wrote Brihat Katha Kosh",
+            "He defeated 12 rulers of Dakshinapatha",
+            "Ashwamedha Yajna & Yupa type Gold Coins",
+            "Harisena's offices: 1) Mahadandanayaka (Chief Judicial Officer), 2) Kumar Amatya (important Minister), 3) Sandhi-Vigrahika (Minister of war and peace)",
+            "Composer of Allahabad Pillar Inscription: Harisena (Ans: C – SSC CHSL)",
+            "Primary literary source of Gupta period: Allahabad Pillar inscription (Ans: C – SSC CGL)"
+          ]
+        },
+        {
+          "name": "Chandragupta II / Vikramaditya (5th Ruler, 380–415 AD)",
+          "content": [
+            "1st Gupta to issue silver coins named 'Rupaka'; period called Golden Period #imp",
+            "Court at Ujjain",
+            "Got title of 'Vikramaditya' by defeating Rudrasimha-3 (Kshatrap king of Ujjain) #imp",
+            "Iron Pillar Inscription (near Qutab Minar, Delhi) mentions king Chandra #imp",
+            "Court adorned by celebrated Nine Gems (Navaratnas) including Kalidasa #imp",
+            "Chinese Pilgrim 'Fahien' visited India during his reign #imp 2024",
+            "Married princess Kubernaga (Naga Alliance); daughter Prabhavati",
+            "Married daughter to Rudrasena-2 of Vakataka Dynasty #imp 2024",
+            "Defeated Saka king Rudrasimha III → title: SAKARI",
+            "Mehrauli Iron Pillar inscription: authority over NW India and part of Bengal #imp",
+            "Virasena's Udaigiri Cave inscription: conquest of the whole world",
+            "Made Ujjain his second capital",
+            "Veerasena Saba = court poet and minister of Chandragupta II #imp",
+            "Amarkhaddava = Army General",
+            "Issued silver and copper coins; predecessors issued only gold coins",
+            "Gold coins called 'Dinara'"
+          ]
+        },
+        {
+          "name": "Navaratnas of Chandragupta II #imp",
+          "type": "table",
+          "table": [
+            {"name": "Varahamihira", "role": "Astrologer"},
+            {"name": "Kalidas", "role": "Poet"},
+            {"name": "Sanku", "role": "Architect"},
+            {"name": "Vararuchi", "role": "Grammar and Sanskrit Scholar"},
+            {"name": "Kahapanaka", "role": "Astrologer"},
+            {"name": "Amar Singh / Amar Simha", "role": "Poet and Sanskrit Lexicographer (Amarkosha)"},
+            {"name": "Harisena", "role": "Poet"},
+            {"name": "Dhanvantri", "role": "Physician"},
+            {"name": "VetalBhatta", "role": "Magician (wrote Mantrashastra)"}
+          ]
+        },
+        {
+          "name": "Kumar Gupta I (6th Ruler, 415–455 AD)",
+          "content": [
+            "Founded Nalanda University (Bihar)",
+            "Fought with 'Hunas' & died during war",
+            "Title: Shakraditya, Mahendraditya"
+          ]
+        },
+        {
+          "name": "Skanda Gupta (7th Ruler, 455–467 AD)",
+          "content": [
+            "Title: Kramaditya, Shakropam",
+            "Defeated Hunas 2 times",
+            "Repaired Sudarshan Lake",
+            "Last known ruler: VishnuGupta (540–550 AD)"
+          ]
+        },
+        {
+          "name": "Gupta Era Fiscal Terms",
+          "content": [
+            "Bhaga: King's share of produce (1/6th) – Ans: C – SSC CGL",
+            "Visti / Veti: Forced/corvée labour – Ans: D – SSC CGL",
+            "Hiranya: Cash tax (NOT compulsory labour service)",
+            "Dasaparadha: Fines from ten offences",
+            "Bhoga: Free-labour levy",
+            "Adeya: Registry-keeping duty"
+          ]
+        },
+        {
+          "name": "Gupta Administration Officials",
+          "content": [
+            "Utkhetayita: Tax/dues collector from public",
+            "Dhruvdhikaranika: Collects revenue (Bhaga) in grain; 'Dhruv' = certainty of revenue",
+            "Pustapala: Record Keeper / Registrar – land details, boundaries, ownership",
+            "Bhandagaradhikrita: Head of Royal Treasury / Warehouse",
+            "Prathamakulika: Chief Craftsman / Head of Craftsmen's Guild",
+            "Gramik: Village Head – lowest administrative officer",
+            "Talavatka: Lower-level military/police officer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": "Post-Gupta Period – Regional Dynasties",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Palas of Bengal (Capital – Monghyr)",
+          "content": [
+            "1st Ruler: Gopala (750–770 AD)",
+            "2nd Ruler: Dharmapala (770–810 AD) – son of Gopala",
+            "Dharmapala founded Vikramsila University and revived Nalanda University",
+            "Built Somapuri Monastery in Bihar",
+            "Fought battles against Pratiharas and Rashtrakutas in Tripartite Struggle",
+            "Imperial titles: Paramabhattaraka, Paramesvara & Maharajadhiraja",
+            "Devapala – 3rd Ruler; Court Poet: Buddhist Scholar Vajra datta (author of Lokesvarasataka)",
+            "Syadvada: Philosophical system developed by Lord Mahavira (Ans: B – SSC CHSL)"
+          ]
+        },
+        {
+          "name": "French Colonial Architecture",
+          "content": [
+            "Blend of European design principles adapted to Indian climate and local influences",
+            "Symmetry and balance",
+            "Wide verandas or galleries for shade and ventilation in tropical climates",
+            "Tall doors and windows for natural light and cross-ventilation",
+            "Sloped or pitched tiled roofs for efficient rainwater drainage in monsoons",
+            "Raised basements to protect from flooding",
+            "Minimal ornamentation in early stages; later incorporated local decorative elements or wrought iron",
+            "Columns and porticos reflecting classical European architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": "Jainism",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts – Jainism",
+          "content": [
+            "Lord Mahavira developed Syadvada philosophical system (Ans: B – SSC CHSL)",
+            "Syadvada = Doctrine of 'perhaps' / conditional predication",
+            "Jain texts written in Prakrit language"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": "Mesopotamian Civilization",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "River: Tigris and Euphrates (now part of Iraq)",
+            "Known for: Astronomy, Mathematics and Literature",
+            "Very Prosperous; Language: Sumerian",
+            "Later gradually replaced by the Akkadian Civilization",
+            "They used to write on tablets made of Clay #imp",
+            "NOT a name for Indus-Sarasvati Civilization (Ans: B – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter": "Important PYQ Quick-Fire Facts",
+      "type": "summary",
+      "pyqs": [
+        {"q_num": "Q1", "exam": "SSC CGL", "question": "Term 'Rik' in Rigveda = Sacred Hymn", "answer": "C"},
+        {"q_num": "Q2", "exam": "SSC CGL", "question": "Correct order of prehistoric periods = Paleolithic, Mesolithic, Neolithic, Metal Age", "answer": "B"},
+        {"q_num": "Q3", "exam": "SSC CGL", "question": "Key difference between Mathura and Gandhara art – Mathura depicted Buddha in indigenous Yaksha style; Gandhara reflected Hellenistic (Greco-Roman) features", "answer": "D"},
+        {"q_num": "Q4", "exam": "SSC CGL", "question": "NOT true about Harappan culture – There is clear evidence for practice of Sati", "answer": "C"},
+        {"q_num": "Q5", "exam": "SSC CGL", "question": "Buddhist Councils and locations – First Buddhist Council: Rajagriha", "answer": "A"},
+        {"q_num": "Q7", "exam": "SSC CGL", "question": "Term for collection of hymns in Rigveda = Suktas", "answer": "C"},
+        {"q_num": "Q8", "exam": "SSC CGL", "question": "NOT a Vedanga = Charaka", "answer": "D"},
+        {"q_num": "Q10", "exam": "SSC CGL", "question": "Gupta fiscal term – Visti = forced or corvée labour", "answer": "D"},
+        {"q_num": "Q15", "exam": "SSC CGL", "question": "Chronological order of Buddhist sculpture = c-b-a (Sanchi Stupa-1 → Bharhut → Mathura)", "answer": "C"},
+        {"q_num": "Q19", "exam": "SSC CGL", "question": "Ashokan pillar – Lauriya Nandangarh is in Bihar", "answer": "A"},
+        {"q_num": "Q20", "exam": "SSC CGL", "question": "Drainage system at Mohenjodaro – each house connected to a covered street drain", "answer": "C"},
+        {"q_num": "Q22", "exam": "SSC CGL", "question": "Gupta era obligations – Veti = forced labour", "answer": "D"},
+        {"q_num": "Q25", "exam": "SSC CGL", "question": "Metta in Buddhism = Fellow feeling", "answer": "C"},
+        {"q_num": "Q26", "exam": "SSC CGL", "question": "Agricultural evidence at Kalibangan = Burnt clay plough marks in fields", "answer": "B"},
+        {"q_num": "Q28", "exam": "SSC CGL", "question": "Chanhudaro primarily centre for = Bead-making", "answer": "C"},
+        {"q_num": "Q29", "exam": "SSC CGL", "question": "Mesolithic weapons for hunting = Barbed spears (Microliths)", "answer": "B"},
+        {"q_num": "Q31", "exam": "SSC CGL", "question": "NOT a disciple of Buddha = Susima", "answer": "D"},
+        {"q_num": "Q34", "exam": "Steno", "question": "Architecture with ribbed vaults, pointed arches, flying buttresses, stained glass = Gothic", "answer": "D"},
+        {"q_num": "Q36", "exam": "Steno", "question": "Oldest known civilisation of Indian subcontinent = Indus Valley Civilization", "answer": "C"},
+        {"q_num": "Q38", "exam": "Steno", "question": "Circular brick platforms at Harappa used for religious ceremonies – A is false but R is true", "answer": "D"},
+        {"q_num": "Q41", "exam": "Steno", "question": "Jaherthan plays a central role in sacrificial rituals of Arok Sim – Both A and R correct", "answer": "B"},
+        {"q_num": "Q44", "exam": "Steno", "question": "Udayagiri and Khandagiri – near Bhubaneswar, meant for Jain monks = Only 1", "answer": "A"},
+        {"q_num": "Q48", "exam": "SSC CGL", "question": "Primary literary source of Gupta period = Allahabad Pillar inscription of Samudragupta", "answer": "C"},
+        {"q_num": "Q51", "exam": "SSC CGL", "question": "Rigveda divided into = 10 Mandalas", "answer": "C"},
+        {"q_num": "Q53", "exam": "SSC CGL", "question": "Harmika of a stupa = symbolic abode of deities at the top; Statement II (relics kept there) is false", "answer": "C"},
+        {"q_num": "Q54", "exam": "SSC CGL", "question": "Harappan seals – made using steatite; bear animal figures and obscure script = Both 1 and 2", "answer": "A"},
+        {"q_num": "Q55", "exam": "SSC CGL", "question": "Veda with ritual formulas and sacrifices = Yajurveda", "answer": "B"},
+        {"q_num": "Q57", "exam": "SSC CHSL", "question": "Panini's grammar = over 4000 grammatical rules", "answer": "C"},
+        {"q_num": "Q59", "exam": "SSC CHSL", "question": "NOT a feature of Indus Valley cities = Extensive use of iron tools", "answer": "B"},
+        {"q_num": "Q61", "exam": "SSC CHSL", "question": "Veda with hymns arranged for singing = Samaveda", "answer": "A"},
+        {"q_num": "Q62", "exam": "SSC CHSL", "question": "Atman in Upanishads = inner self or soul", "answer": "D"},
+        {"q_num": "Q63", "exam": "SSC CHSL", "question": "IVC cities enclosed with = Fortified walls with gateways", "answer": "B"},
+        {"q_num": "Q64", "exam": "SSC CHSL", "question": "Golden age of Indian temple architecture = Gupta Period", "answer": "A"},
+        {"q_num": "Q67", "exam": "SSC CHSL", "question": "Harappan cities had ____ grid pattern = Rectangular", "answer": "B"},
+        {"q_num": "Q68", "exam": "SSC CHSL", "question": "Varna responsible for trade and business = Vaishya", "answer": "A"},
+        {"q_num": "Q69", "exam": "SSC CHSL", "question": "IVC used standardized ____ as building material = Burnt mud-bricks", "answer": "A"},
+        {"q_num": "Q70", "exam": "SSC CHSL", "question": "Second Buddhist Council held during reign of = Kalashoka", "answer": "C"},
+        {"q_num": "Q71", "exam": "SSC CHSL", "question": "Vedic text category explaining mantras in prose = Brahmanas", "answer": "C"},
+        {"q_num": "Q72", "exam": "SSC CHSL", "question": "Rik signifies = Sacred Hymn", "answer": "C"},
+        {"q_num": "Q73", "exam": "SSC CHSL", "question": "First metal used by early humans in India = Copper", "answer": "D"},
+        {"q_num": "Q75", "exam": "SSC CHSL", "question": "Mahajanapada Anga capital in Bihar = Champa", "answer": "B"},
+        {"q_num": "Q76", "exam": "SSC CHSL", "question": "Siddhartha Gautam meditated for many days at = Bodh Gaya", "answer": "B"},
+        {"q_num": "Q77", "exam": "SSC CHSL", "question": "Harappa discovered on banks of = Ravi River", "answer": "A"},
+        {"q_num": "Q78", "exam": "SSC CHSL", "question": "Main function of Chaityas = Congregational halls for teaching and interaction", "answer": "D"},
+        {"q_num": "Q79", "exam": "SSC CHSL", "question": "Taxila was capital of = Gandhara Mahajanapada", "answer": "B"},
+        {"q_num": "Q84", "exam": "SSC CHSL", "question": "Harappans first in Eurasia to grow = Cotton", "answer": "D"},
+        {"q_num": "Q87", "exam": "SSC CHSL", "question": "Name Bharata first appears in = Rig Veda", "answer": "B"},
+        {"q_num": "Q89", "exam": "SSC CHSL", "question": "Vedic hymns composed by = Rishis and Rishikas", "answer": "D"},
+        {"q_num": "Q90", "exam": "SSC CHSL", "question": "Vedic period society in 4 varnas + 4 stages of life = Both I and II", "answer": "C"},
+        {"q_num": "Q92", "exam": "SSC CHSL", "question": "Rig Veda collection of approximately how many hymns = 1028", "answer": "C"},
+        {"q_num": "Q94", "exam": "SSC CHSL", "question": "Art form from fusion of Greek and Indian = Gandhara art", "answer": "C"},
+        {"q_num": "Q95", "exam": "SSC CHSL", "question": "Approximate year of birth of Gautama Buddha = 560 BCE", "answer": "A"},
+        {"q_num": "Q100", "exam": "SSC CHSL", "question": "Harappan drainage system = Highly advanced and well planned", "answer": "B"},
+        {"q_num": "Q101", "exam": "SSC CHSL", "question": "Two causes of human suffering = Ignorance and Attachment", "answer": "C"},
+        {"q_num": "Q103", "exam": "SSC CHSL", "question": "NOT a name for Indus-Sarasvati Civilization = Mesopotamian Civilization", "answer": "B"},
+        {"q_num": "Q105", "exam": "SSC CHSL", "question": "Chandragupta Maurya established Mauryan Empire in = 321 BC", "answer": "B"},
+        {"q_num": "Q106", "exam": "SSC CHSL", "question": "Philosophical system of Lord Mahavira = Syadvada", "answer": "B"},
+        {"q_num": "Q107", "exam": "SSC CHSL", "question": "Rakhigarhi located in = Haryana", "answer": "D"},
+        {"q_num": "Q108", "exam": "SSC CHSL", "question": "Carnelian stone mostly found in = Gujarat", "answer": "B"},
+        {"q_num": "Q109", "exam": "SSC CHSL", "question": "Daimabad Harappan site located in = Maharashtra", "answer": "D"},
+        {"q_num": "Q110", "exam": "SSC CHSL", "question": "Composer of Samudragupta's Allahabad Pillar Inscription = Harisena", "answer": "C"},
+        {"q_num": "Q112", "exam": "SSC CHSL", "question": "Ancient Greeks named Indus River region = Indoi or Indike", "answer": "B"},
+        {"q_num": "Q113", "exam": "SSC CHSL", "question": "Napoleon of India = Samudragupta", "answer": "B"}
+      ]
+    }
+  ]
+}
+

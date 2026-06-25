@@ -1,0 +1,423 @@
+{
+  "slug": "adjective",
+  "title": "Adjective",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Parts of Speech", "SSC CGL"],
+
+  "definition": {
+    "english": "A word that modifies or describes a noun or pronoun is called an adjective.",
+    "marathi": "Noun किंवा Pronoun बद्दल अधिक माहिती देणाऱ्या शब्दाला Adjective म्हणतात.",
+    "examples": [
+      {
+        "word": "Beautiful",
+        "tag": "The beautiful girl — girl बद्दल सांगते"
+      },
+      {
+        "word": "Three",
+        "tag": "Three boys — boys ची संख्या सांगते"
+      },
+      {
+        "word": "This",
+        "tag": "This book — कोणते book ते दाखवते"
+      }
+    ]
+  },
+
+  "cases": [
+    {
+      "name": "Positive Degree",
+      "english": "Simple form of adjective, no comparison.",
+      "marathi": "Adjective चे साधे रूप, कुठलीही तुलना नाही.",
+      "examples": ["Tall", "Smart", "Good", "Beautiful", "Fast"]
+    },
+    {
+      "name": "Comparative Degree",
+      "english": "Compares two persons or things.",
+      "marathi": "दोन व्यक्ती किंवा वस्तूंची तुलना.",
+      "examples": ["Taller", "Smarter", "Better", "More Beautiful", "Faster"]
+    },
+    {
+      "name": "Superlative Degree",
+      "english": "Compares more than two persons or things.",
+      "marathi": "दोनपेक्षा जास्त व्यक्ती किंवा वस्तूंची तुलना.",
+      "examples": ["Tallest", "Smartest", "Best", "Most Beautiful", "Fastest"]
+    }
+  ],
+
+  "tables": [
+    {
+      "id": "table-1",
+      "title": "Degrees of Comparison",
+      "columns": [
+        "positive",
+        "comparative",
+        "superlative"
+      ],
+      "rows": [
+        {
+          "positive": "Good",
+          "comparative": "Better",
+          "superlative": "Best"
+        },
+        {
+          "positive": "Bad / Ill",
+          "comparative": "Worse",
+          "superlative": "Worst"
+        },
+        {
+          "positive": "Many / Much",
+          "comparative": "More",
+          "superlative": "Most"
+        },
+        {
+          "positive": "Little",
+          "comparative": "Less",
+          "superlative": "Least"
+        },
+        {
+          "positive": "Far",
+          "comparative": "Farther / Further",
+          "superlative": "Farthest / Furthest"
+        },
+        {
+          "positive": "Old",
+          "comparative": "Older / Elder",
+          "superlative": "Oldest / Eldest"
+        },
+        {
+          "positive": "Late",
+          "comparative": "Later / Latter",
+          "superlative": "Latest / Last"
+        },
+        {
+          "positive": "Near",
+          "comparative": "Nearer",
+          "superlative": "Nearest / Next"
+        }
+      ]
+    }
+  ],
+
+  "types": [
+    {
+      "name": "Adjective of Quality",
+      "english": "Describes the quality or kind of a noun.",
+      "marathi": "Noun ची गुणवत्ता किंवा प्रकार सांगते.",
+      "examples": ["Honest", "Brave", "Large", "Beautiful", "Clever"]
+    },
+    {
+      "name": "Adjective of Quantity",
+      "english": "Shows how much of a thing is meant.",
+      "marathi": "वस्तूचे प्रमाण (किती?) सांगते.",
+      "examples": ["Some", "Little", "Enough", "Much", "Whole"]
+    },
+    {
+      "name": "Adjective of Number",
+      "english": "Shows how many persons or things are meant.",
+      "marathi": "व्यक्ती किंवा वस्तूंची संख्या सांगते.",
+      "examples": ["One", "Two", "Few", "Many", "Several"]
+    },
+    {
+      "name": "Demonstrative Adjective",
+      "english": "Points out which person or thing is meant.",
+      "marathi": "कोणती व्यक्ती किंवा वस्तू ते दाखवते.",
+      "examples": ["This", "That", "These", "Those", "Such"]
+    },
+    {
+      "name": "Possessive Adjective",
+      "english": "Shows possession or ownership before a noun.",
+      "marathi": "Noun च्या आधी मालकी दर्शवते.",
+      "examples": ["My", "Your", "His", "Her", "Our", "Their"]
+    },
+    {
+      "name": "Interrogative Adjective",
+      "english": "Used with nouns to ask questions.",
+      "marathi": "Noun बरोबर प्रश्न विचारण्यासाठी वापरतात.",
+      "examples": ["What", "Which", "Whose"]
+    },
+    {
+      "name": "Distributive Adjective",
+      "english": "Refers to each one of a number separately.",
+      "marathi": "प्रत्येकाचा स्वतंत्रपणे उल्लेख करते.",
+      "examples": ["Each", "Every", "Either", "Neither"]
+    },
+    {
+      "name": "Emphasizing Adjective",
+      "english": "Used to lay emphasis on a noun.",
+      "marathi": "Noun वर भर देण्यासाठी वापरतात.",
+      "examples": ["Own", "Very"]
+    },
+    {
+      "name": "Exclamatory Adjective",
+      "english": "Used with 'what' to express strong feeling.",
+      "marathi": "What बरोबर भावना व्यक्त करण्यासाठी वापरतात.",
+      "examples": ["What a beautiful day!", "What an idea!"]
+    }
+  ],
+
+  "rules": [
+    {
+      "id": 1,
+      "title": "Comparative Degree — Between Two",
+      "english": "Use comparative degree when comparing exactly two persons or things. Use 'the' before comparative when comparing two.",
+      "marathi": "फक्त दोन व्यक्ती/वस्तूंची तुलना असेल तेव्हा Comparative Degree वापरतात.",
+      "examples": ["Ram is the taller of the two boys."],
+      "wrongRight": [
+        {
+          "wrong": "Ram is the tallest of the two boys.",
+          "right": "Ram is the taller of the two boys."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Superlative Degree — Among More Than Two",
+      "english": "Use superlative degree when comparing more than two persons or things.",
+      "marathi": "दोनपेक्षा जास्त व्यक्ती/वस्तूंची तुलना असेल तेव्हा Superlative Degree वापरतात.",
+      "examples": ["He is the best player in the team."],
+      "wrongRight": [
+        {
+          "wrong": "He is the better player in the team.",
+          "right": "He is the best player in the team."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Double Comparative / Double Superlative",
+      "english": "Never use 'more' with a comparative form, or 'most' with a superlative form.",
+      "marathi": "Comparative Form बरोबर 'more' आणि Superlative Form बरोबर 'most' वापरणे चुकीचे आहे.",
+      "examples": ["She is more intelligent than her brother."],
+      "wrongRight": [
+        {
+          "wrong": "She is more smarter than her brother.",
+          "right": "She is smarter than her brother."
+        },
+        {
+          "wrong": "He is the most tallest boy.",
+          "right": "He is the tallest boy."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Absolute Adjectives (No Comparison)",
+      "english": "Certain adjectives cannot be compared as they are already at their highest degree.",
+      "marathi": "काही Adjectives आधीच पूर्णतम अवस्था दर्शवतात, त्यांची तुलना करता येत नाही.",
+      "examples": ["The circle is round.", "This fact is unique."],
+      "wrongRight": [
+        {
+          "wrong": "This is a more unique design.",
+          "right": "This is a unique design."
+        },
+        {
+          "wrong": "His solution is more perfect.",
+          "right": "His solution is perfect."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Elder / Older Rule",
+      "english": "Elder is used for members of the same family; Older is used for general comparison of age.",
+      "marathi": "Elder फक्त एकाच कुटुंबातील सदस्यांसाठी; Older सामान्य वयाच्या तुलनेसाठी वापरतात.",
+      "examples": ["My elder brother is a doctor.", "This building is older than that one."],
+      "wrongRight": [
+        {
+          "wrong": "He is elder than me.",
+          "right": "He is older than me."
+        },
+        {
+          "wrong": "My older brother got married.",
+          "right": "My elder brother got married."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Farther / Further Rule",
+      "english": "Farther refers to physical distance; Further means 'additional' or 'more'.",
+      "marathi": "Farther भौगोलिक अंतरासाठी; Further म्हणजे 'आणखी' किंवा 'अधिक' असा अर्थ.",
+      "examples": ["Delhi is farther from Mumbai than Pune.", "No further discussion is needed."],
+      "wrongRight": [
+        {
+          "wrong": "I need further clarification about the distance.",
+          "right": "I need farther clarification about the distance."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Later / Latter Rule",
+      "english": "Later refers to time; Latter refers to the second of two things mentioned.",
+      "marathi": "Later वेळाशी संबंधित; Latter नुकत्याच उल्लेख केलेल्या दोनपैकी दुसऱ्याला सूचित करते.",
+      "examples": ["I will call you later.", "Between tea and coffee, I prefer the latter."],
+      "wrongRight": [
+        {
+          "wrong": "Between Sachin and Virat, the later is more aggressive.",
+          "right": "Between Sachin and Virat, the latter is more aggressive."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Little / A Little / The Little Rule",
+      "english": "Little = negligible amount (negative sense); A little = some amount (positive sense); The little = whatever small amount there is.",
+      "marathi": "Little = नगण्य प्रमाण (नकारात्मक); A little = थोडे (सकारात्मक); The little = जे काही थोडे आहे ते.",
+      "examples": ["He has little money. (negligible)", "He has a little money. (some)", "He spent the little money he had."],
+      "wrongRight": [
+        {
+          "wrong": "There is little hope, so let's try.",
+          "right": "There is a little hope, so let's try."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Few / A Few / The Few Rule",
+      "english": "Few = negligible number (negative sense); A few = some number (positive sense); The few = whatever small number there is.",
+      "marathi": "Few = अत्यल्प संख्या (नकारात्मक); A few = काही (सकारात्मक); The few = जे काही थोडे आहेत ते.",
+      "examples": ["Few students passed. (hardly any)", "A few students passed. (some)", "The few students who passed were rewarded."],
+      "wrongRight": [
+        {
+          "wrong": "Few people came to help him, so he managed.",
+          "right": "A few people came to help him, so he managed."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Each / Every Rule",
+      "english": "Each is used for two or more considered individually; Every is used for three or more considered collectively. Both take singular verbs.",
+      "marathi": "Each दोन किंवा अधिकांसाठी वैयक्तिकरीत्या; Every तीन किंवा अधिकांसाठी सामूहिकरीत्या वापरतात. दोन्हींनंतर Singular Verb येते.",
+      "examples": ["Each of the two boys was rewarded.", "Every student must submit the assignment."],
+      "wrongRight": [
+        {
+          "wrong": "Every of the two boys was rewarded.",
+          "right": "Each of the two boys was rewarded."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Comparative — Exclude the Subject (Other / Else)",
+      "english": "When using comparative degree to compare a subject with others in the same group, use 'other' or 'else' to exclude the subject itself.",
+      "marathi": "एकाच गटातील तुलनेत स्वतःला वगळण्यासाठी 'other' किंवा 'else' वापरतात.",
+      "examples": ["Sachin is better than any other cricketer in India."],
+      "wrongRight": [
+        {
+          "wrong": "Sachin is better than any cricketer in India.",
+          "right": "Sachin is better than any other cricketer in India."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Superlative — Include the Subject (No 'other')",
+      "english": "When using superlative degree, do not use 'other' because the superlative already includes the subject in the comparison.",
+      "marathi": "Superlative Degree मध्ये 'other' वापरत नाहीत, कारण Superlative मध्ये स्वतः आधीच समाविष्ट असते.",
+      "examples": ["Sachin is the best cricketer in India."],
+      "wrongRight": [
+        {
+          "wrong": "Sachin is the best other cricketer in India.",
+          "right": "Sachin is the best cricketer in India."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "No Sooner... Than Rule",
+      "english": "'No sooner' is always followed by 'than', never by 'when' or 'then'.",
+      "marathi": "'No sooner' नंतर नेहमी 'than' येतो, 'when' किंवा 'then' येत नाही.",
+      "examples": ["No sooner did he arrive than it started raining."],
+      "wrongRight": [
+        {
+          "wrong": "No sooner did he arrive when it started raining.",
+          "right": "No sooner did he arrive than it started raining."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Adjective Placement Rule",
+      "english": "Adjectives normally come before the noun they modify, but predicative adjectives come after a linking verb.",
+      "marathi": "Adjective सामान्यतः Noun च्या आधी येतो, पण Linking Verb नंतर येणारा Adjective Predicative असतो.",
+      "examples": ["She is a beautiful girl. (attributive)", "The girl is beautiful. (predicative)"],
+      "wrongRight": [
+        {
+          "wrong": "She is a girl beautiful.",
+          "right": "She is a beautiful girl."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "This / That (Singular) vs These / Those (Plural)",
+      "english": "This and That are used with singular nouns; These and Those are used with plural nouns.",
+      "marathi": "This / That Singular Noun बरोबर; These / Those Plural Noun बरोबर वापरतात.",
+      "examples": ["This book is mine.", "These books are mine."],
+      "wrongRight": [
+        {
+          "wrong": "These kind of people are dangerous.",
+          "right": "This kind of people is dangerous."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Positive Degree (As...As) Rule",
+      "english": "In positive degree comparison using 'as...as', use the base form of the adjective (never comparative or superlative).",
+      "marathi": "As...as वापरताना नेहमी Positive Degree (base form) वापरतात.",
+      "examples": ["She is as tall as her sister."],
+      "wrongRight": [
+        {
+          "wrong": "She is as taller as her sister.",
+          "right": "She is as tall as her sister."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Prefer... to Rule",
+      "english": "Use Positive Degree after 'prefer...to'. Never use comparative degree after 'prefer'.",
+      "marathi": "Prefer...to च्या नंतर Positive Degree वापरतात. Comparative Degree वापरत नाहीत.",
+      "examples": ["I prefer tea to coffee."],
+      "wrongRight": [
+        {
+          "wrong": "I prefer tea more than coffee.",
+          "right": "I prefer tea to coffee."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Senior / Junior / Superior / Inferior Rule",
+      "english": "These Latin comparatives take 'to' instead of 'than' and cannot be used with 'more'.",
+      "marathi": "Senior, Junior, Superior, Inferior हे Latin Comparatives 'than' ऐवजी 'to' वापरतात आणि 'more' बरोबर येत नाहीत.",
+      "examples": ["He is senior to me.", "This product is inferior to that one."],
+      "wrongRight": [
+        {
+          "wrong": "He is more senior than me.",
+          "right": "He is senior to me."
+        },
+        {
+          "wrong": "She is junior than her colleague.",
+          "right": "She is junior to her colleague."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The + Comparative, The + Comparative",
+      "english": "When two comparative degrees are used together with 'the...the', both adjectives must be in comparative form.",
+      "marathi": "The...the च्या संरचनेत दोन्ही Comparative Degrees वापरतात.",
+      "examples": ["The harder you work, the better the results."],
+      "wrongRight": [
+        {
+          "wrong": "The hard you work, the better the results.",
+          "right": "The harder you work, the better the results."
+        }
+      ]
+    }
+  ]
+}

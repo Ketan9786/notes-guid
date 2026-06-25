@@ -1,0 +1,1898 @@
+{
+  "title": "Complete Sports Static – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police 2026",
+  "total_questions_covered": 317,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Chapter-wise Weightage Analysis (SSC PYQs)",
+      "type": "summary",
+      "table": [
+        {
+          "topic": "Athletics",
+          "sub_areas": "Sprint, hurdles, marathon, javelin, long jump, high jump, relay",
+          "questions": 35,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Cricket",
+          "sub_areas": "Trophies, stadiums, famous players, records, governing bodies",
+          "questions": 25,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Hockey",
+          "sub_areas": "India Olympic Hockey, Major Dhyan Chand, Balbir Singh, rules, stadiums, trophies",
+          "questions": 20,
+          "weightage": "High"
+        },
+        {
+          "topic": "Football",
+          "sub_areas": "FIFA, World Cup, Indian football, trophies, stadiums, famous players",
+          "questions": 17,
+          "weightage": "High"
+        },
+        {
+          "topic": "Kabaddi",
+          "sub_areas": "Pro Kabaddi, rules, India in Asian Games",
+          "questions": 14,
+          "weightage": "High"
+        },
+        {
+          "topic": "Basketball",
+          "sub_areas": "NBA, rules, courts, famous players, India",
+          "questions": 13,
+          "weightage": "Moderate-High"
+        },
+        {
+          "topic": "Chess",
+          "sub_areas": "FIDE, World Championship, Indian grandmasters, Gukesh, Anand",
+          "questions": 13,
+          "weightage": "Moderate-High"
+        },
+        {
+          "topic": "Olympics (General)",
+          "sub_areas": "History, IOC, rings, torch, medals, milestones, India",
+          "questions": 12,
+          "weightage": "High"
+        },
+        {
+          "topic": "National Games India",
+          "sub_areas": "Editions, host cities, mascot, events",
+          "questions": 12,
+          "weightage": "High"
+        },
+        {
+          "topic": "Wrestling",
+          "sub_areas": "Types, Sushil Kumar, Bajrang Punia, Olympic medals",
+          "questions": 12,
+          "weightage": "Moderate-High"
+        },
+        {
+          "topic": "Asian Games (General)",
+          "sub_areas": "History, OCA, host cities, India performance",
+          "questions": 11,
+          "weightage": "Moderate-High"
+        },
+        {
+          "topic": "Table Tennis",
+          "sub_areas": "ITTF, rules, Manika Batra, famous players",
+          "questions": 9,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Kho-Kho",
+          "sub_areas": "Rules, Indian kho-kho federation, national championships",
+          "questions": 9,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Commonwealth Games",
+          "sub_areas": "History, host cities, India performance, Delhi 2010",
+          "questions": 9,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Badminton",
+          "sub_areas": "BWF, All England, Indian champions, PV Sindhu, Prakash Padukone",
+          "questions": 8,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Judo",
+          "sub_areas": "Belts, IJF, rules, Indian players",
+          "questions": 8,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Swimming",
+          "sub_areas": "FINA, rules, strokes, Indian swimmers",
+          "questions": 8,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Anti-Doping",
+          "sub_areas": "WADA, NADA, penalties, banned substances",
+          "questions": 8,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Tennis",
+          "sub_areas": "Grand Slams, ATP, WTA, Leander Paes, Sania Mirza",
+          "questions": 6,
+          "weightage": "Low-Moderate"
+        },
+        {
+          "topic": "Boxing",
+          "sub_areas": "Rules, MC Mary Kom, Indian boxers",
+          "questions": 6,
+          "weightage": "Low-Moderate"
+        },
+        {
+          "topic": "Shooting",
+          "sub_areas": "ISSF, Abhinav Bindra, Gagan Narang",
+          "questions": 5,
+          "weightage": "Low-Moderate"
+        },
+        {
+          "topic": "Handball",
+          "sub_areas": "Rules, IHF",
+          "questions": 4,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Volleyball",
+          "sub_areas": "FIVB, rules, Indian volleyball",
+          "questions": 3,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Other Sports & Misc",
+          "sub_areas": "Sports awards, Khel Ratna, Arjuna Award, stadiums, mascots",
+          "questions": 50,
+          "weightage": "High (Miscellaneous)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Olympic Games – Ancient & Modern",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Ancient Olympics (776 BCE – 393 CE)",
+          "period": "776 BCE – 393 CE",
+          "content": [
+            "Originated in Olympia, Greece",
+            "Held every 4 years (Olympiad) in honour of Greek God Zeus",
+            "Only men could compete; women could not even attend",
+            "Events: Running, Wrestling, Chariot Racing, Javelin, Long Jump, Pankration, Discus",
+            "Wrestling first included in Ancient Olympics: 708 BCE #imp",
+            "Games banned by Roman Emperor Theodosius I in 393 CE – called 'pagan'"
+          ]
+        },
+        {
+          "name": "Revival & Modern Olympics",
+          "content": [
+            "Modern Olympics revived by Pierre de Coubertin (French educator)",
+            "IOC (International Olympic Committee) founded in 1894, Paris",
+            "Aim: Promote friendship, peace and education through sport",
+            "First Modern Olympics: 1896, Athens, Greece",
+            "Participants: 14 nations, 241 athletes – only men",
+            "Women first included: 1900 Paris Olympics",
+            "Games held every 4 years, except 1916, 1940, 1944 (World Wars I & II)",
+            "Tokyo 2020 postponed to 2021 due to COVID-19"
+          ]
+        },
+        {
+          "name": "Key Olympic Milestones",
+          "type": "table",
+          "table": [
+            {
+              "year": 1896,
+              "city": "Athens",
+              "key_fact": "First Modern Olympics; 14 nations, 241 athletes; only men participated"
+            },
+            {
+              "year": 1900,
+              "city": "Paris",
+              "key_fact": "Women first allowed to participate; India's first Olympics – Norman Pritchard"
+            },
+            {
+              "year": 1904,
+              "city": "St. Louis",
+              "key_fact": "Freestyle Wrestling first appeared in Modern Olympics #imp"
+            },
+            {
+              "year": 1912,
+              "city": "Stockholm",
+              "key_fact": "Last solid gold Olympic medals awarded"
+            },
+            {
+              "year": 1920,
+              "city": "Antwerp",
+              "key_fact": "Five-ring Olympic flag used for first time ever #imp"
+            },
+            {
+              "year": 1924,
+              "city": "Chamonix",
+              "key_fact": "First Winter Olympics held"
+            },
+            {
+              "year": 1924,
+              "city": "Paris",
+              "key_fact": "Motto Citius Altius Fortius introduced; India's tennis debut (5 players: 4M + 1F)"
+            },
+            {
+              "year": 1928,
+              "city": "Amsterdam",
+              "key_fact": "India's first Hockey Olympic Gold; Major Dhyan Chand part of winning team"
+            },
+            {
+              "year": 1932,
+              "city": "Los Angeles",
+              "key_fact": "Women's Javelin Throw officially introduced #imp"
+            },
+            {
+              "year": 1936,
+              "city": "Berlin",
+              "key_fact": "Olympic Torch Relay tradition starts #imp"
+            },
+            {
+              "year": 1948,
+              "city": "London",
+              "key_fact": "India's first Olympics as independent nation; Men's Hockey Gold – Balbir Singh Sr."
+            },
+            {
+              "year": 1952,
+              "city": "Helsinki",
+              "key_fact": "K.D. Jadhav – India's first individual medal post-independence (Bronze, Wrestling)"
+            },
+            {
+              "year": 1952,
+              "city": "Oslo",
+              "key_fact": "First Winter Olympic Torch Relay"
+            },
+            {
+              "year": 1960,
+              "city": "Rome",
+              "key_fact": "Olympic anthem played first time; Milkha Singh 4th in 400m; Paralympic Games began"
+            },
+            {
+              "year": 1964,
+              "city": "Tokyo",
+              "key_fact": "First Olympics in Asia; Judo debut; Women's Volleyball introduced; satellite broadcast"
+            },
+            {
+              "year": 1980,
+              "city": "Moscow",
+              "key_fact": "India's 8th and final Hockey Gold; Women's Hockey debut; P.T. Usha's Olympic debut"
+            },
+            {
+              "year": 1984,
+              "city": "Los Angeles",
+              "key_fact": "P.T. Usha missed bronze by 0.01 sec in 400m Hurdles"
+            },
+            {
+              "year": 1994,
+              "city": "-",
+              "key_fact": "Winter & Summer Olympics separated into alternating 2-year cycle"
+            },
+            {
+              "year": 1996,
+              "city": "Atlanta",
+              "key_fact": "Centennial Games; Leander Paes – Bronze in Tennis; Mascot: Izzy"
+            },
+            {
+              "year": 2000,
+              "city": "Sydney",
+              "key_fact": "Karnam Malleswari – first Indian woman Olympic medallist (Weightlifting)"
+            },
+            {
+              "year": 2008,
+              "city": "Beijing",
+              "key_fact": "Abhinav Bindra – India's first individual Olympic Gold (Shooting)"
+            },
+            {
+              "year": 2012,
+              "city": "London",
+              "key_fact": "Mixed-team events introduced in Olympics; Sushil Kumar – Silver in Wrestling"
+            },
+            {
+              "year": 2021,
+              "city": "Tokyo",
+              "key_fact": "Neeraj Chopra – India's first Athletics Olympic Gold (Javelin); Bajrang Punia Bronze"
+            },
+            {
+              "year": 2024,
+              "city": "Paris",
+              "key_fact": "Aman Sehrawat – India's youngest Olympic medallist"
+            }
+          ],
+          "exam_tips": [
+            "Wrestling first included in Ancient Olympics: 708 BCE (Ans: A – Delhi Police Constable)",
+            "Olympic torch relay tradition began at: 1936 Berlin (Ans: D – Delhi Police Constable)",
+            "Women's Javelin introduced in: 1932 (Ans: D – Delhi Police Constable)",
+            "Freestyle wrestling first in Modern Olympics: 1904 St. Louis (Ans: D – Delhi Police Constable)",
+            "First Marathon in 1896 route: Marathon to Athens (Ans: C – Delhi Police Constable)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Olympic Symbols – Rings, Flag, Flame, Anthem",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Olympic Rings",
+          "content": [
+            "Designed by Pierre de Coubertin in 1913-14",
+            "First used at 1920 Antwerp Games #imp",
+            "Represent unity of 5 inhabited continents of the world",
+            "Background colour: White",
+            "Total colours including background: 6 (5 rings + 1 white background)",
+            "5 interlocked rings together represent all nations and continents"
+          ],
+          "type": "table",
+          "table": [
+            {
+              "ring_color": "Blue",
+              "continent": "Europe"
+            },
+            {
+              "ring_color": "Yellow",
+              "continent": "Asia"
+            },
+            {
+              "ring_color": "Black",
+              "continent": "Africa"
+            },
+            {
+              "ring_color": "Green",
+              "continent": "Oceania (Australia)"
+            },
+            {
+              "ring_color": "Red",
+              "continent": "Americas (North and South)"
+            },
+            {
+              "ring_color": "White",
+              "continent": "Background (not a ring)"
+            }
+          ],
+          "exam_tips": [
+            "INCORRECT pairing asked in exam: Black – Antarctica (Ans: C – Delhi Police Constable)",
+            "IOC founded in which year = 1894 (Ans: A – Delhi Police Constable)"
+          ]
+        },
+        {
+          "name": "Olympic Torch & Flame",
+          "content": [
+            "Flame lit in Olympia, Greece and carried by torch to the host city's cauldron",
+            "Torch Relay tradition started at 1936 Berlin Summer Olympics #imp",
+            "First Winter Olympic Torch Relay: 1952 Oslo",
+            "Symbolizes continuity between ancient and modern games"
+          ]
+        },
+        {
+          "name": "Olympic Motto & Anthem",
+          "content": [
+            "Motto: Citius, Altius, Fortius (Swifter, Higher, Stronger) #imp",
+            "Motto introduced: 1924 Paris Olympics",
+            "Official Olympic Anthem first played at: 1960 Rome Olympics #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Olympic Medals – Composition",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Medal Composition",
+          "type": "table",
+          "table": [
+            {
+              "medal": "Gold",
+              "composition": "92.5% Silver + 6g Gold Plating",
+              "note": "NOT pure gold"
+            },
+            {
+              "medal": "Silver",
+              "composition": "92.5% Sterling Silver",
+              "note": "Pure silver"
+            },
+            {
+              "medal": "Bronze",
+              "composition": "95–97% Copper mixed with Zinc or Tin",
+              "note": "Copper-dominant alloy"
+            }
+          ],
+          "content": [
+            "Last SOLID GOLD Olympic medals awarded: 1912 Stockholm Olympics #imp",
+            "Primary metal in Gold medal = Silver (92.5%) – frequently asked MCQ"
+          ],
+          "exam_tips": [
+            "Which metal primarily used to make Olympic Gold medals = Silver (Ans: B – SSC Phase 13, 02/08/2025)",
+            "Which color medal for first position = Gold (Ans: C – SSC Phase 13, 02/08/2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "Anti-Doping: WADA & NADA",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Bodies",
+          "content": [
+            "WADA – World Anti-Doping Agency: global body responsible for anti-doping worldwide",
+            "NADA – National Anti-Doping Agency: responsible for testing Indian athletes #imp",
+            "SAI – Sports Authority of India: NOT anti-doping body"
+          ]
+        },
+        {
+          "name": "Penalties for Anabolic Steroids (Olympics)",
+          "type": "table",
+          "table": [
+            {
+              "violation": "First – Intentional use",
+              "penalty": "4-year suspension from competition",
+              "additional": "Immediate disqualification + medals/points/prizes forfeited"
+            },
+            {
+              "violation": "First – Unintentional / contaminated product",
+              "penalty": "2-year ban",
+              "additional": "Can be reduced based on degree of fault"
+            },
+            {
+              "violation": "Second violation",
+              "penalty": "Lifetime ban from professional & Olympic sports",
+              "additional": "No further reduction"
+            },
+            {
+              "violation": "Refusing drug test or tampering samples",
+              "penalty": "4-year ban",
+              "additional": "Same as intentional first violation"
+            }
+          ],
+          "exam_tips": [
+            "Penalty for using anabolic steroids in Olympics = Disqualification/Lifetime ban (Ans: D – DP HCM 2025, Jan 2026)",
+            "Anti-doping agency for Indian athletes = NADA (Ans: B – Delhi Police Constable, Jan 2026)",
+            "WADA is responsible for = Anti-doping (Ans: C – Delhi Police Constable, Jan 2026)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Key Olympic Terminology",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Frequently Asked Sports Terms",
+          "type": "table",
+          "table": [
+            {
+              "term": "Grand Slam",
+              "sport": "Tennis",
+              "meaning": "Winning all 4 major tennis tournaments in a year"
+            },
+            {
+              "term": "Repechage",
+              "sport": "Wrestling, Judo, Rowing",
+              "meaning": "Second chance bracket for athletes who lost to finalists"
+            },
+            {
+              "term": "DQ / Disqualification",
+              "sport": "Athletics, Swimming",
+              "meaning": "Removal of athlete's result due to rule violation"
+            },
+            {
+              "term": "Photo Finish",
+              "sport": "Athletics",
+              "meaning": "Result decided by finish-line photo when athletes finish nearly simultaneously"
+            },
+            {
+              "term": "Mixed Team Events",
+              "sport": "Olympics (General)",
+              "meaning": "Events with both male and female athletes in same team; recently introduced"
+            },
+            {
+              "term": "Qualification Rounds",
+              "sport": "Shooting, Athletics",
+              "meaning": "Preliminary rounds to select finalists"
+            },
+            {
+              "term": "Parry",
+              "sport": "Fencing",
+              "meaning": "Defensive action to deflect or block opponent's attack #imp"
+            },
+            {
+              "term": "Hat-trick",
+              "sport": "Cricket, Football, Hockey",
+              "meaning": "Three consecutive achievements (wickets, goals) by one player"
+            },
+            {
+              "term": "Love",
+              "sport": "Tennis",
+              "meaning": "Score of zero in tennis"
+            },
+            {
+              "term": "Deuce",
+              "sport": "Tennis, Badminton",
+              "meaning": "Score tied at 40-40 in tennis; 29-29 in badminton"
+            },
+            {
+              "term": "Ace",
+              "sport": "Tennis, Volleyball",
+              "meaning": "Serve not touched by opponent in tennis; direct point in volleyball"
+            },
+            {
+              "term": "Smash",
+              "sport": "Badminton, Tennis",
+              "meaning": "Hard overhead shot hit downwards"
+            },
+            {
+              "term": "Follow Through",
+              "sport": "Cricket, Golf",
+              "meaning": "Continuation of bat/club motion after contact"
+            },
+            {
+              "term": "Dribbling",
+              "sport": "Football, Basketball, Hockey",
+              "meaning": "Moving ball with feet/hand while advancing"
+            },
+            {
+              "term": "Baulk Line",
+              "sport": "Kabaddi",
+              "meaning": "Line separating the two halves of kabaddi court"
+            },
+            {
+              "term": "Bonus Line",
+              "sport": "Kabaddi",
+              "meaning": "Line 3.75m from baulk line – raider must cross to score bonus point"
+            },
+            {
+              "term": "Lob",
+              "sport": "Tennis, Badminton",
+              "meaning": "High arc shot over opponent"
+            },
+            {
+              "term": "Checkmate",
+              "sport": "Chess",
+              "meaning": "Position where king is in check and cannot escape – game over"
+            },
+            {
+              "term": "Stalemate",
+              "sport": "Chess",
+              "meaning": "Player not in check but has no legal move – game drawn"
+            },
+            {
+              "term": "Yorker",
+              "sport": "Cricket",
+              "meaning": "Delivery that lands at or near batsman's feet"
+            },
+            {
+              "term": "Googly",
+              "sport": "Cricket",
+              "meaning": "Off-break delivery by leg-spin bowler"
+            },
+            {
+              "term": "Chinaman",
+              "sport": "Cricket",
+              "meaning": "Left-arm wrist-spin delivery that turns from off to leg"
+            },
+            {
+              "term": "No Ball",
+              "sport": "Cricket",
+              "meaning": "Illegal delivery; batting team gets extra run"
+            },
+            {
+              "term": "Wide",
+              "sport": "Cricket",
+              "meaning": "Ball bowled too wide of stumps; extra run added"
+            },
+            {
+              "term": "Mankading",
+              "sport": "Cricket",
+              "meaning": "Run out of non-striker by bowler before ball delivery – legal but controversial"
+            },
+            {
+              "term": "Golden Goal",
+              "sport": "Football",
+              "meaning": "First goal scored in extra time ends the game immediately (no longer used in FIFA)"
+            },
+            {
+              "term": "Own Goal",
+              "sport": "Football",
+              "meaning": "When a player scores a goal into their own net"
+            },
+            {
+              "term": "Penalty Shootout",
+              "sport": "Football",
+              "meaning": "Tie-breaker method – each team takes alternate penalty kicks"
+            },
+            {
+              "term": "Offside",
+              "sport": "Football",
+              "meaning": "Attacker closer to opponent's goal than ball and second-last defender"
+            },
+            {
+              "term": "Knockout",
+              "sport": "Boxing",
+              "meaning": "Opponent floored and unable to rise within 10 seconds"
+            },
+            {
+              "term": "Technical Knockout (TKO)",
+              "sport": "Boxing",
+              "meaning": "Referee stops fight because one boxer cannot continue"
+            },
+            {
+              "term": "Southpaw",
+              "sport": "Boxing, Cricket",
+              "meaning": "Left-handed stance; left-handed bowler/batsman"
+            },
+            {
+              "term": "Marathon",
+              "sport": "Athletics",
+              "meaning": "Long-distance race of 42.195 km"
+            },
+            {
+              "term": "Steeplechase",
+              "sport": "Athletics",
+              "meaning": "Middle-distance race with water jump and hurdle barriers"
+            },
+            {
+              "term": "Decathlon",
+              "sport": "Athletics",
+              "meaning": "10 events over 2 days for men (100m, 400m, 1500m, 110m hurdles, long jump, high jump, pole vault, shot put, discus, javelin)"
+            },
+            {
+              "term": "Heptathlon",
+              "sport": "Athletics",
+              "meaning": "7 events over 2 days for women"
+            },
+            {
+              "term": "Biathlon",
+              "sport": "Winter Olympics",
+              "meaning": "Combination of cross-country skiing and rifle shooting"
+            },
+            {
+              "term": "Salchow",
+              "sport": "Figure Skating",
+              "meaning": "A type of jump in figure skating"
+            },
+            {
+              "term": "Fosbury Flop",
+              "sport": "Athletics (High Jump)",
+              "meaning": "Technique of going over bar backwards/headfirst"
+            },
+            {
+              "term": "Bullseye",
+              "sport": "Shooting, Archery",
+              "meaning": "Centre of the target – highest score"
+            },
+            {
+              "term": "Eagle",
+              "sport": "Golf",
+              "meaning": "Two strokes under par for a hole"
+            },
+            {
+              "term": "Birdie",
+              "sport": "Golf",
+              "meaning": "One stroke under par for a hole"
+            },
+            {
+              "term": "Bogey",
+              "sport": "Golf",
+              "meaning": "One stroke over par for a hole"
+            }
+          ],
+          "exam_tips": [
+            "'Parry' is used in = Fencing (Ans: A – Delhi Police Constable, 29 Dec 2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "India in the Olympics",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Indian Olympic Association (IOA)",
+          "content": [
+            "IOA formed: 1927 #imp",
+            "Founding President: Sir Dorabji Tata",
+            "Founding Secretary: Dr. A.G. Noehren",
+            "Headquarters: New Delhi (current)",
+            "Role: Apex governing body for Olympic sports in India",
+            "Responsibilities: Athlete selection, team management, sending teams to Olympics, Asian Games, CWG",
+            "Major events covered: Olympic Games, Asian Games, Commonwealth Games and other international competitions"
+          ],
+          "exam_tips": [
+            "IOA formed in which year = 1927 (Ans: A – SSC Phase 13, 30/07/2025)",
+            "IOA is responsible for = Managing India's Olympic participation (Ans: B – Delhi Police Constable, Jan 2026)"
+          ]
+        },
+        {
+          "name": "India's Key Firsts in Olympics",
+          "type": "table",
+          "table": [
+            {
+              "category": "First participation",
+              "name": "1900 Paris Olympics",
+              "details": "Single representative: Norman Pritchard (Anglo-Indian) – 2 Silver medals in 200m sprint & 200m hurdles"
+            },
+            {
+              "category": "First individual medal (post-independence)",
+              "name": "K.D. Jadhav (Khashaba Dadasaheb Jadhav)",
+              "details": "Bronze – Freestyle Wrestling, 1952 Helsinki. Nickname: 'Pocket Dynamo'"
+            },
+            {
+              "category": "First individual medal in wrestling",
+              "name": "K.D. Jadhav",
+              "details": "Bronze – Freestyle Wrestling, 1952 Helsinki #imp"
+            },
+            {
+              "category": "First Paralympic Gold",
+              "name": "Murlikant Petkar",
+              "details": "Swimming, 1972 Heidelberg Paralympics"
+            },
+            {
+              "category": "First woman Olympic medallist",
+              "name": "Karnam Malleswari",
+              "details": "Bronze – Weightlifting, 2000 Sydney Olympics"
+            },
+            {
+              "category": "First individual Olympic Gold",
+              "name": "Abhinav Bindra",
+              "details": "Gold – 10m Air Rifle Shooting, 2008 Beijing Olympics #imp"
+            },
+            {
+              "category": "First Athletics Olympic Gold",
+              "name": "Neeraj Chopra",
+              "details": "Gold – Javelin Throw, Tokyo 2020 (held 2021) #imp"
+            },
+            {
+              "category": "Youngest Olympic medallist",
+              "name": "Aman Sehrawat",
+              "details": "Wrestling Bronze, 2024 Paris Olympics"
+            },
+            {
+              "category": "Most Olympic Golds (sport)",
+              "name": "Hockey",
+              "details": "8 Golds (1928–1980) – maximum Olympic golds for India"
+            }
+          ],
+          "exam_tips": [
+            "Which Indian shooter won India's first individual Olympic Gold = Abhinav Bindra (Ans: C – SSC CHSL Tier-2, 10 Apr 2026)",
+            "First Indian to win Olympic medal after independence = K.D. Jadhav (Ans: B – SSC CPO, 12 Dec 2025)",
+            "Sport with most Olympic Golds for India = Hockey (Ans: A – SSC Phase 13, 29/07/2025)",
+            "India's single representative at 1900 Paris Olympics = Norman Pritchard (Ans: A)",
+            "Indian Men's Hockey team Olympic Gold medals = 8 (Ans: B – SSC CHSL, 27 Nov 2025)"
+          ]
+        },
+        {
+          "name": "India's Hockey Olympic Domination (1928–1980)",
+          "content": [
+            "Total Golds: 8 (maximum for India in any sport) #imp",
+            "First Hockey Gold: 1928 Amsterdam Olympics",
+            "Last Hockey Gold: 1980 Moscow Olympics, Captain: Vasudevan Baskaran",
+            "Women's Hockey first qualified: 1980 Moscow (debut), finished 4th"
+          ],
+          "type": "table",
+          "table": [
+            {
+              "year": 1928,
+              "city": "Amsterdam",
+              "result": "Gold",
+              "key_player": "Major Dhyan Chand"
+            },
+            {
+              "year": 1932,
+              "city": "Los Angeles",
+              "result": "Gold",
+              "key_player": "Major Dhyan Chand"
+            },
+            {
+              "year": 1936,
+              "city": "Berlin",
+              "result": "Gold",
+              "key_player": "Major Dhyan Chand"
+            },
+            {
+              "year": 1948,
+              "city": "London",
+              "result": "Gold",
+              "key_player": "Balbir Singh Sr. (Dosanjh)"
+            },
+            {
+              "year": 1952,
+              "city": "Helsinki",
+              "result": "Gold",
+              "key_player": "Balbir Singh Sr."
+            },
+            {
+              "year": 1956,
+              "city": "Melbourne",
+              "result": "Gold",
+              "key_player": "Balbir Singh Sr."
+            },
+            {
+              "year": 1964,
+              "city": "Tokyo",
+              "result": "Gold",
+              "key_player": "Charanjit Singh (Captain)"
+            },
+            {
+              "year": 1980,
+              "city": "Moscow",
+              "result": "Gold",
+              "key_player": "Vasudevan Baskaran (Captain)"
+            }
+          ]
+        },
+        {
+          "name": "Dhanraj Pillay",
+          "content": [
+            "Represented India in 4 consecutive Olympics: 1992, 1996, 2000, 2004 #imp",
+            "Also played 4 World Cups, 4 Asian Games, 4 Champions Trophies",
+            "Absolute cornerstone of Indian Hockey – one of the greatest ever"
+          ],
+          "exam_tips": [
+            "Dhanraj Pillay played in how many Olympic Games = 4 (Ans: D – Delhi Police Constable, Jan 2026)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "Key Athletes – Milkha Singh & P.T. Usha",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Milkha Singh – Flying Sikh",
+          "content": [
+            "Nickname: 'Flying Sikh' (also called 'The Flying Sikh of India')",
+            "1960 Rome Olympics: Finished 4th in Men's 400m",
+            "Timing: 45.6 sec (manual), 45.73 sec (electronic)",
+            "FIRST Indian athlete to reach Olympic Athletics Finals #imp",
+            "First Indian individual athletics Gold: 1958 Commonwealth Games, Cardiff – 440 yards race",
+            "Also won Gold at 1958 Asian Games",
+            "National record of 45.6 sec in 400m stood for nearly 2 decades"
+          ]
+        },
+        {
+          "name": "P.T. Usha – Golden Girl / Payyoli Express",
+          "content": [
+            "Full name: Pilavullakandi Thekkeparambil Usha",
+            "Nicknames: 'Golden Girl', 'Payyoli Express', 'Queen of Track and Field'",
+            "Olympic debut: 1980 Moscow, age 16 #imp",
+            "1984 Los Angeles Olympics: First Indian woman to reach Olympic Athletics Final",
+            "Event: Women's 400m Hurdles",
+            "Finished 4th – missed Bronze by just 0.01 seconds (1/100th of a second) #imp",
+            "Timing: 55.42 seconds – set national record",
+            "1986 Asian Games, Seoul: 4 Gold + 1 Silver",
+            "Records set in 200m, 400m, 400m Hurdles, 4×400m Relay at 1986 Asian Games",
+            "Awarded Padma Shri in 1985",
+            "Her 55.42 sec national record later equalled by Vithya Ramraj at 2022 Hangzhou Asian Games"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Asian Games (Asiad)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Overview",
+          "content": [
+            "World's second largest multi-sport event (after Olympics)",
+            "Held every 4 years, only Asian countries participate",
+            "Governing body: Olympic Council of Asia (OCA) #imp",
+            "Symbol: Bright red sun with 16 rays, underlined by 11 rings",
+            "India hosted twice: 1951 and 1982, both in New Delhi",
+            "India's best performance: Hangzhou 2023 – 107 medals (28G, 38S, 41B)"
+          ]
+        },
+        {
+          "name": "First Asiad – 1951 New Delhi",
+          "content": [
+            "Host city: New Delhi, India",
+            "Dates: 4–11 March 1951",
+            "Venue: National Stadium, Delhi (now Dhyan Chand National Stadium)",
+            "Officially opened by President Rajendra Prasad",
+            "Nations: 11 (Afghanistan, Burma, Ceylon, India, Indonesia, Iran, Japan, Nepal, Philippines, Singapore, Thailand)",
+            "Athletes: 489",
+            "India's first-ever Asian Games Gold: Sachin Nag – Men's 100m Freestyle Swimming #imp",
+            "Motto: 'Ever Onward' (from Jawaharlal Nehru's speech) #imp"
+          ],
+          "type": "table",
+          "table": [
+            {
+              "rank": 1,
+              "country": "Japan",
+              "gold": 24,
+              "silver": 21,
+              "bronze": 15,
+              "total": 60
+            },
+            {
+              "rank": 2,
+              "country": "India",
+              "gold": 15,
+              "silver": 16,
+              "bronze": 20,
+              "total": 51
+            }
+          ],
+          "exam_tips": [
+            "India's first Asian Games Gold winner = Sachin Nag (Swimming)",
+            "1st Asian Games motto = Ever Onward",
+            "1st Asian Games opened by = President Rajendra Prasad"
+          ]
+        },
+        {
+          "name": "Asian Games – Host City History",
+          "type": "table",
+          "table": [
+            {
+              "edition": "1st",
+              "year": 1951,
+              "city": "New Delhi, India"
+            },
+            {
+              "edition": "2nd",
+              "year": 1954,
+              "city": "Manila, Philippines"
+            },
+            {
+              "edition": "3rd",
+              "year": 1958,
+              "city": "Tokyo, Japan"
+            },
+            {
+              "edition": "4th",
+              "year": 1962,
+              "city": "Jakarta, Indonesia"
+            },
+            {
+              "edition": "5th",
+              "year": 1966,
+              "city": "Bangkok, Thailand"
+            },
+            {
+              "edition": "6th",
+              "year": 1970,
+              "city": "Bangkok, Thailand"
+            },
+            {
+              "edition": "7th",
+              "year": 1974,
+              "city": "Tehran, Iran"
+            },
+            {
+              "edition": "8th",
+              "year": 1978,
+              "city": "Bangkok, Thailand"
+            },
+            {
+              "edition": "9th",
+              "year": 1982,
+              "city": "New Delhi, India"
+            },
+            {
+              "edition": "10th",
+              "year": 1986,
+              "city": "Seoul, South Korea"
+            },
+            {
+              "edition": "11th",
+              "year": 1990,
+              "city": "Beijing, China"
+            },
+            {
+              "edition": "12th",
+              "year": 1994,
+              "city": "Hiroshima, Japan"
+            },
+            {
+              "edition": "13th",
+              "year": 1998,
+              "city": "Bangkok, Thailand"
+            },
+            {
+              "edition": "14th",
+              "year": 2002,
+              "city": "Busan, South Korea"
+            },
+            {
+              "edition": "15th",
+              "year": 2006,
+              "city": "Doha, Qatar"
+            },
+            {
+              "edition": "16th",
+              "year": 2010,
+              "city": "Guangzhou, China"
+            },
+            {
+              "edition": "17th",
+              "year": 2014,
+              "city": "Incheon, South Korea"
+            },
+            {
+              "edition": "18th",
+              "year": 2018,
+              "city": "Jakarta–Palembang, Indonesia"
+            },
+            {
+              "edition": "19th",
+              "year": 2022,
+              "city": "Hangzhou, China (held 2023)"
+            },
+            {
+              "edition": "20th",
+              "year": 2026,
+              "city": "Aichi-Nagoya, Japan"
+            },
+            {
+              "edition": "21st",
+              "year": 2030,
+              "city": "Doha, Qatar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Commonwealth Games",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Overview",
+          "content": [
+            "Formerly called British Empire Games (1930–1950)",
+            "Now called Commonwealth Games; held every 4 years",
+            "Governed by Commonwealth Games Federation (CGF)",
+            "India first participated: 1934 London (2nd CWG)",
+            "India has hosted CWG twice: 1951 New Delhi (British Empire Games) + 2010 New Delhi (19th CWG) – Note: 1951 is counted as Empire Games",
+            "Properly: India first hosted CWG officially in 2010 Delhi"
+          ]
+        },
+        {
+          "name": "India's Key CWG Firsts",
+          "content": [
+            "First CWG participation: 1934 London",
+            "First CWG athletics individual Gold: Milkha Singh – 440 yards, 1958 Cardiff",
+            "First CWG Badminton Gold: Prakash Padukone – Men's Singles, 1978 Edmonton #imp"
+          ],
+          "exam_tips": [
+            "First CWG Gold for India (individual) = Milkha Singh (Athletics)",
+            "First CWG Badminton Gold India = Prakash Padukone"
+          ]
+        },
+        {
+          "name": "Delhi 2010 CWG – India's Best Performance",
+          "content": [
+            "Edition: 19th Commonwealth Games",
+            "Host: New Delhi, India",
+            "Motto: 'Come Out and Play' #imp",
+            "India's medal tally: 101 medals (38 Gold, 27 Silver, 36 Bronze) #imp",
+            "India finished 2nd in overall medal tally – best ever CWG rank for India #imp",
+            "Second time CWG held in Asia (first: 1998 Kuala Lumpur)",
+            "Doping case: Rani Yadav (Women's 20 km Race Walk) tested positive for 19-norandrosterone"
+          ]
+        },
+        {
+          "name": "CWG Host Cities",
+          "type": "table",
+          "table": [
+            {
+              "edition": "1st",
+              "year": 1930,
+              "city": "Hamilton, Canada"
+            },
+            {
+              "edition": "2nd",
+              "year": 1934,
+              "city": "London, England"
+            },
+            {
+              "edition": "4th",
+              "year": 1954,
+              "city": "Vancouver, Canada"
+            },
+            {
+              "edition": "10th",
+              "year": 1978,
+              "city": "Edmonton, Canada"
+            },
+            {
+              "edition": "11th",
+              "year": 1982,
+              "city": "Brisbane, Australia"
+            },
+            {
+              "edition": "12th",
+              "year": 1986,
+              "city": "Edinburgh, Scotland"
+            },
+            {
+              "edition": "15th",
+              "year": 1998,
+              "city": "Kuala Lumpur, Malaysia (first Asia)"
+            },
+            {
+              "edition": "17th",
+              "year": 2006,
+              "city": "Melbourne, Australia"
+            },
+            {
+              "edition": "19th",
+              "year": 2010,
+              "city": "New Delhi, India"
+            },
+            {
+              "edition": "20th",
+              "year": 2014,
+              "city": "Glasgow, Scotland"
+            },
+            {
+              "edition": "21st",
+              "year": 2018,
+              "city": "Gold Coast, Australia"
+            },
+            {
+              "edition": "22nd",
+              "year": 2022,
+              "city": "Birmingham, England"
+            },
+            {
+              "edition": "23rd",
+              "year": 2026,
+              "city": "Victoria, Canada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": "Cricket – Static Facts",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Cricket Trophies & Cups",
+          "type": "table",
+          "table": [
+            {
+              "trophy": "ICC Cricket World Cup",
+              "format": "ODI (50-over)",
+              "governing_body": "ICC",
+              "first_held": "1975",
+              "note": "India won: 1983 (Kapil Dev), 2011 (MS Dhoni)"
+            },
+            {
+              "trophy": "ICC T20 World Cup",
+              "format": "T20",
+              "governing_body": "ICC",
+              "first_held": "2007",
+              "note": "India won inaugural 2007 edition (MS Dhoni)"
+            },
+            {
+              "trophy": "ICC Test Championship (WTC)",
+              "format": "Test",
+              "governing_body": "ICC",
+              "first_held": "2019-21",
+              "note": "India lost Final 2021; India lost Final 2023"
+            },
+            {
+              "trophy": "ICC Champions Trophy",
+              "format": "ODI",
+              "governing_body": "ICC",
+              "first_held": "1998",
+              "note": "India won: 2002, 2013"
+            },
+            {
+              "trophy": "Duleep Trophy",
+              "format": "Domestic 4-day",
+              "governing_body": "BCCI",
+              "first_held": "1961-62",
+              "note": "Named after K.S. Duleepsinhji"
+            },
+            {
+              "trophy": "Ranji Trophy",
+              "format": "Domestic First-class",
+              "governing_body": "BCCI",
+              "first_held": "1934-35",
+              "note": "Named after Ranjitsinhji; oldest domestic cricket tournament in India"
+            },
+            {
+              "trophy": "Irani Cup",
+              "format": "Domestic",
+              "governing_body": "BCCI",
+              "first_held": "1959-60",
+              "note": "Ranji Trophy champions vs Rest of India"
+            },
+            {
+              "trophy": "Vijay Hazare Trophy",
+              "format": "Domestic ODI",
+              "governing_body": "BCCI",
+              "first_held": "2002-03",
+              "note": "Named after Vijay Hazare"
+            },
+            {
+              "trophy": "Deodhar Trophy",
+              "format": "Domestic 50-over",
+              "governing_body": "BCCI",
+              "first_held": "1973-74",
+              "note": "Named after D.B. Deodhar"
+            },
+            {
+              "trophy": "Syed Mushtaq Ali Trophy",
+              "format": "Domestic T20",
+              "governing_body": "BCCI",
+              "first_held": "2008-09",
+              "note": "Named after Syed Mushtaq Ali"
+            },
+            {
+              "trophy": "Asia Cup",
+              "format": "ODI/T20",
+              "governing_body": "ACC (Asian Cricket Council)",
+              "first_held": "1984",
+              "note": "India won multiple times"
+            },
+            {
+              "trophy": "The Ashes",
+              "format": "Test series",
+              "governing_body": "ECB + CA",
+              "first_held": "1882",
+              "note": "England vs Australia – oldest cricket rivalry"
+            },
+            {
+              "trophy": "Border-Gavaskar Trophy",
+              "format": "Test series",
+              "governing_body": "BCCI + CA",
+              "first_held": "1996",
+              "note": "India vs Australia"
+            },
+            {
+              "trophy": "Pataudi Trophy",
+              "format": "Test series",
+              "governing_body": "BCCI + ECB",
+              "first_held": "2007",
+              "note": "India vs England"
+            }
+          ]
+        },
+        {
+          "name": "Key Cricket Facts",
+          "content": [
+            "ICC – International Cricket Council: Global governing body of Cricket, HQ: Dubai, UAE",
+            "BCCI – Board of Control for Cricket in India: Richest cricket board in the world",
+            "First Cricket World Cup: 1975, England – West Indies won (Captain: Clive Lloyd)",
+            "India's first World Cup Gold: 1983 – Captain Kapil Dev; beat West Indies in final",
+            "India's 2nd World Cup Gold: 2011 – Captain MS Dhoni; beat Sri Lanka in final (Mumbai)",
+            "India won T20 WC 2007: Captain MS Dhoni; beat Pakistan in final",
+            "India won T20 WC 2024: Captain Rohit Sharma; beat South Africa in final (Barbados)",
+            "Sachin Tendulkar: Most Test runs (15921), Most ODI runs (18426), Most centuries (100 international)",
+            "Muttiah Muralitharan: Most Test wickets (800 wickets)",
+            "Shane Warne: Most Test wickets by spinner (before Muralitharan)",
+            "Fastest century in T20I: Rohit Sharma (35 balls) – against Sri Lanka 2017",
+            "First Indian to score 100 in ODI: Kapil Dev (1978)",
+            "Lord's Cricket Ground: 'Home of Cricket', London, England"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": "Football – Static Facts",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "FIFA World Cup – Key Facts",
+          "content": [
+            "FIFA – Fédération Internationale de Football Association: Global governing body, HQ: Zurich, Switzerland",
+            "FIFA World Cup started: 1930, Uruguay – Uruguay won first World Cup",
+            "Held every 4 years; most watched sporting event worldwide",
+            "Most World Cup wins: Brazil (5 times – 1958, 1962, 1970, 1994, 2002)",
+            "Germany & Italy: 4 times each",
+            "2022 FIFA World Cup: Qatar – Argentina won (Captain: Lionel Messi)",
+            "2026 FIFA World Cup: USA, Canada & Mexico (joint hosts)",
+            "Rimet Trophy: Original FIFA World Cup trophy; Jules Rimet – former FIFA president"
+          ]
+        },
+        {
+          "name": "Football Trophies",
+          "type": "table",
+          "table": [
+            {
+              "trophy": "FIFA World Cup",
+              "competition": "International – National teams (men)",
+              "governing_body": "FIFA"
+            },
+            {
+              "trophy": "FIFA Women's World Cup",
+              "competition": "International – National teams (women)",
+              "governing_body": "FIFA"
+            },
+            {
+              "trophy": "UEFA Champions League",
+              "competition": "European club football",
+              "governing_body": "UEFA"
+            },
+            {
+              "trophy": "AFC Asian Cup",
+              "competition": "Asian national teams (men)",
+              "governing_body": "AFC"
+            },
+            {
+              "trophy": "Durand Cup",
+              "competition": "India's oldest football tournament",
+              "governing_body": "AIFF/Durand Football Tournament Society",
+              "note": "Started 1888"
+            },
+            {
+              "trophy": "Santosh Trophy",
+              "competition": "Indian national football championship (state teams)",
+              "governing_body": "AIFF",
+              "note": "Named after Maharaja of Santosh"
+            },
+            {
+              "trophy": "Subroto Cup",
+              "competition": "School-level football India",
+              "governing_body": "Indian Air Force / SAI",
+              "note": "Named after Air Marshal Subroto Mukerjee"
+            },
+            {
+              "trophy": "Nehru Cup",
+              "competition": "International football India",
+              "governing_body": "AIFF"
+            },
+            {
+              "trophy": "SAFF Championship",
+              "competition": "South Asian Football",
+              "governing_body": "SAFF"
+            },
+            {
+              "trophy": "Ballon d'Or",
+              "competition": "Individual award – World's best footballer",
+              "governing_body": "France Football magazine"
+            }
+          ]
+        },
+        {
+          "name": "Key Football Terms & Rules",
+          "content": [
+            "Team: 11 players per side (including goalkeeper)",
+            "Duration: 90 minutes (2 halves of 45 minutes)",
+            "Penalty area: 18-yard box around goal",
+            "Yellow card: Warning; Red card: Dismissal",
+            "Offside trap: Defensive strategy to catch attackers offside",
+            "FIFA Laws of the Game: 17 official laws"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": "Hockey – Static Facts",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Hockey Trophies",
+          "type": "table",
+          "table": [
+            {
+              "trophy": "Hockey World Cup (Men)",
+              "governing_body": "FIH",
+              "first_held": "1971",
+              "note": "India won: 1975 (Captain: Ajitpal Singh)"
+            },
+            {
+              "trophy": "Hockey World Cup (Women)",
+              "governing_body": "FIH",
+              "first_held": "1974",
+              "note": "Held every 4 years"
+            },
+            {
+              "trophy": "Champions Trophy",
+              "governing_body": "FIH",
+              "first_held": "1978",
+              "note": "Annual top teams tournament"
+            },
+            {
+              "trophy": "Asia Cup (Hockey)",
+              "governing_body": "AHF",
+              "first_held": "1982",
+              "note": "India won multiple times"
+            },
+            {
+              "trophy": "Sultan Azlan Shah Cup",
+              "governing_body": "FIH / Malaysia",
+              "first_held": "1983",
+              "note": "Hosted by Malaysia; named after Sultan of Perak"
+            },
+            {
+              "trophy": "Dhyan Chand Award",
+              "governing_body": "Govt. of India",
+              "note": "Lifetime achievement award in sports India; named after Major Dhyan Chand"
+            }
+          ]
+        },
+        {
+          "name": "Major Dhyan Chand – The Wizard",
+          "content": [
+            "Full name: Dhyan Chand Singh",
+            "Nickname: 'The Wizard of Hockey'",
+            "Born: 29 August 1905 (celebrated as National Sports Day in India) #imp",
+            "Olympic Golds: 1928 Amsterdam, 1932 Los Angeles, 1936 Berlin",
+            "Scored 570 goals in international career",
+            "Hitler offered him German citizenship and high military position – he declined",
+            "Bharat Ratna: Government recommended in 2014 but not awarded yet",
+            "National Sports Day: 29 August (Dhyan Chand's birthday)"
+          ]
+        },
+        {
+          "name": "Balbir Singh Sr.",
+          "content": [
+            "Full name: Balbir Singh Dosanjh",
+            "Three Olympic Golds: 1948 London, 1952 Helsinki, 1956 Melbourne",
+            "Top scorer at 1952 Helsinki Olympics",
+            "In 1952, scored 9 goals in finals (world record for long time)",
+            "Also managed/coached Indian team to Gold at 1975 Hockey World Cup"
+          ]
+        },
+        {
+          "name": "FIH & Hockey Rules",
+          "content": [
+            "FIH – Fédération Internationale de Hockey: Global governing body, HQ: Lausanne, Switzerland",
+            "Team: 11 players on field per side",
+            "Duration: 4 quarters of 15 minutes (60 minutes total)",
+            "Penalty corner: Also called short corner",
+            "Penalty stroke: 1-on-1 with goalkeeper from penalty spot",
+            "Green card: 2-minute suspension; Yellow card: 5-10 min suspension; Red card: permanent exclusion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter": "Badminton – Static Facts",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Badminton Tournaments",
+          "type": "table",
+          "table": [
+            {
+              "tournament": "All England Open",
+              "level": "International",
+              "note": "Oldest and most prestigious badminton tournament; held since 1899"
+            },
+            {
+              "tournament": "Thomas Cup",
+              "level": "International Team (Men)",
+              "note": "BWF Men's World Team Championship; India won 2022"
+            },
+            {
+              "tournament": "Uber Cup",
+              "level": "International Team (Women)",
+              "note": "BWF Women's World Team Championship"
+            },
+            {
+              "tournament": "Sudirman Cup",
+              "level": "Mixed Team",
+              "note": "BWF Mixed Team Championship"
+            },
+            {
+              "tournament": "BWF World Championships",
+              "level": "Individual",
+              "note": "Held annually; India's P.V. Sindhu won 2019"
+            },
+            {
+              "tournament": "Syed Modi India International",
+              "level": "India",
+              "note": "International badminton tournament held in Lucknow"
+            }
+          ]
+        },
+        {
+          "name": "Key Indian Badminton Players",
+          "type": "table",
+          "table": [
+            {
+              "player": "Prakash Padukone",
+              "notable": "First Indian CWG Badminton Gold (1978 Edmonton); All England 1980; Arjuna Award"
+            },
+            {
+              "player": "P.V. Sindhu (Pusarla Venkata Sindhu)",
+              "notable": "2016 Rio Silver (first Indian woman Olympic Silver in Badminton); 2021 Tokyo Bronze; BWF World Champion 2019; Padma Bhushan"
+            },
+            {
+              "player": "Saina Nehwal",
+              "notable": "2012 London Bronze (first Indian badminton Olympic medal); World No. 1 ranking; Padma Bhushan"
+            },
+            {
+              "player": "Kidambi Srikanth",
+              "notable": "BWF World Championship Silver 2021; multiple Super Series titles"
+            },
+            {
+              "player": "Pullela Gopichand",
+              "notable": "All England Champion 2001; Chief National Coach; Dronacharya Award"
+            }
+          ]
+        },
+        {
+          "name": "Badminton Rules & Terms",
+          "content": [
+            "BWF – Badminton World Federation: Global governing body, HQ: Kuala Lumpur, Malaysia",
+            "Game: Best of 3 sets, each set to 21 points; deuce at 29-29 (next point wins)",
+            "Court dimensions: Singles – 13.4m × 5.18m; Doubles – 13.4m × 6.1m",
+            "Net height: 1.55m at posts, 1.524m at centre",
+            "Shuttle cock: 16 feathers; weight: 4.74–5.50 grams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chapter": "Chess – Static Facts",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Chess Governing Bodies & Championships",
+          "content": [
+            "FIDE – Fédération Internationale des Échecs: Global governing body of Chess, HQ: Lausanne, Switzerland",
+            "Title of World Chess Champion awarded by FIDE",
+            "First official World Chess Champion: Wilhelm Steinitz (1886)",
+            "World Chess Champion 2023: Ding Liren (China – beat Nepomniachtchi)",
+            "World Chess Champion 2024: Gukesh D (India) – became youngest ever World Chess Champion at age 18 #imp",
+            "Gukesh D beat Ding Liren in November 2024 to win title",
+            "Viswanathan Anand: India's greatest chess player; World Champion 5 times (2000, 2007, 2008, 2010, 2012)"
+          ]
+        },
+        {
+          "name": "Indian Chess Grandmasters (Key Names)",
+          "content": [
+            "Viswanathan Anand – First Indian chess Grandmaster (1988); 5 World titles",
+            "Gukesh D – Youngest World Chess Champion (2024); age 18",
+            "Praggnanandhaa R – Youngest Grandmaster at 12 years, 10 months (2018)",
+            "Koneru Humpy – Women's World Rapid Chess Champion",
+            "D. Harika – Multiple Women's World Championship medals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "chapter": "Indian Sports Awards",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Rajiv Gandhi Khel Ratna (Major Dhyan Chand Khel Ratna Award)",
+          "content": [
+            "Highest sports honour in India #imp",
+            "Renamed from 'Rajiv Gandhi Khel Ratna' to 'Major Dhyan Chand Khel Ratna Award' in 2021",
+            "Award: Rs 25 lakh cash prize + trophy + scroll",
+            "First recipient: Viswanathan Anand (Chess, 1991–92) #imp",
+            "Notable recipients: Sachin Tendulkar, PV Sindhu, Virat Kohli, Neeraj Chopra, Bajrang Punia, Aman Sehrawat"
+          ]
+        },
+        {
+          "name": "Arjuna Award",
+          "content": [
+            "Second most prestigious national sports award in India",
+            "Instituted in: 1961 #imp",
+            "Awarded for: Consistent outstanding performance over 4 years",
+            "Award: Rs 15 lakh cash + bronze statue of Arjuna + scroll",
+            "First recipients (1961): Multiple players across sports – Salim Durani (Cricket), Gurbachan Singh Randhawa (Athletics), etc."
+          ]
+        },
+        {
+          "name": "Dronacharya Award",
+          "content": [
+            "Highest award for sports coaches in India",
+            "Instituted in: 1985 #imp",
+            "Award: Statuette of Dronacharya + Rs 15 lakh + certificate",
+            "Named after: Drona (Dronacharya) – legendary teacher from Mahabharata",
+            "First recipients (1985): Om Prakash Bhardwaj (Boxing), Bhalachandra Bhaskaran Bhaskar (Athletics), O.M. Nambiar (Athletics)"
+          ]
+        },
+        {
+          "name": "Dhyan Chand Award",
+          "content": [
+            "Lifetime Achievement Award in Sports in India",
+            "Instituted in: 2002",
+            "Given to: Athletes who contributed to sports even after retirement",
+            "Named after: Major Dhyan Chand – legendary Indian hockey player"
+          ]
+        },
+        {
+          "name": "Rashtriya Khel Protsahan Puraskar",
+          "content": [
+            "Given to: Corporate entities and individuals who promote sports",
+            "Instituted in: 2009"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "chapter": "National Sports Day & Key Dates",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Important Sports Days in India",
+          "type": "table",
+          "table": [
+            {
+              "day": "National Sports Day",
+              "date": "29 August",
+              "reason": "Birthday of Major Dhyan Chand #imp",
+              "celebrated_since": "2012"
+            },
+            {
+              "day": "Olympic Day",
+              "date": "23 June",
+              "reason": "Founding of IOC on 23 June 1894",
+              "celebrated_since": "1948"
+            },
+            {
+              "day": "World Athletics Day",
+              "date": "7 May",
+              "reason": "Promoted by IAAF (World Athletics)",
+              "celebrated_since": "1996"
+            },
+            {
+              "day": "National Football Day (India)",
+              "date": "29 July",
+              "reason": "India's first FIFA match in 1948",
+              "celebrated_since": ""
+            },
+            {
+              "day": "International Chess Day",
+              "date": "20 July",
+              "reason": "FIDE founding in 1924 (recognized by UN 2019)",
+              "celebrated_since": "1966"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "chapter": "Key Sports Venues & Stadiums in India",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Famous Stadiums",
+          "type": "table",
+          "table": [
+            {
+              "stadium": "Narendra Modi Stadium",
+              "city": "Ahmedabad, Gujarat",
+              "sport": "Cricket",
+              "capacity": "132,000 (largest cricket stadium in world) #imp"
+            },
+            {
+              "stadium": "Eden Gardens",
+              "city": "Kolkata, West Bengal",
+              "sport": "Cricket",
+              "capacity": "66,349 (second largest in India)"
+            },
+            {
+              "stadium": "Wankhede Stadium",
+              "city": "Mumbai, Maharashtra",
+              "sport": "Cricket",
+              "capacity": "33,108"
+            },
+            {
+              "stadium": "M. Chinnaswamy Stadium",
+              "city": "Bengaluru, Karnataka",
+              "sport": "Cricket",
+              "capacity": "40,000"
+            },
+            {
+              "stadium": "Chepauk (M.A. Chidambaram) Stadium",
+              "city": "Chennai, Tamil Nadu",
+              "sport": "Cricket",
+              "capacity": "50,000"
+            },
+            {
+              "stadium": "Jawaharlal Nehru Stadium",
+              "city": "New Delhi",
+              "sport": "Athletics/Football",
+              "capacity": "75,000",
+              "note": "2010 CWG venue"
+            },
+            {
+              "stadium": "Salt Lake (Vivekananda Yuba Bharati) Stadium",
+              "city": "Kolkata",
+              "sport": "Football",
+              "capacity": "85,000 (largest football stadium in India)"
+            },
+            {
+              "stadium": "Dhyan Chand National Stadium",
+              "city": "New Delhi",
+              "sport": "Hockey",
+              "note": "Named after Major Dhyan Chand; 1951 Asian Games venue"
+            },
+            {
+              "stadium": "Sardar Vallabhbhai Patel (Gwalior) Stadium",
+              "city": "Gwalior, MP",
+              "sport": "Cricket",
+              "capacity": ""
+            },
+            {
+              "stadium": "Indira Gandhi Athletic Stadium",
+              "city": "Guwahati, Assam",
+              "sport": "Athletics/Football",
+              "capacity": "35,000"
+            },
+            {
+              "stadium": "Lord's Cricket Ground",
+              "city": "London, England",
+              "sport": "Cricket",
+              "note": "Home of Cricket; MCC (Marylebone Cricket Club)"
+            },
+            {
+              "stadium": "Melbourne Cricket Ground (MCG)",
+              "city": "Melbourne, Australia",
+              "sport": "Cricket",
+              "capacity": "100,024 (largest cricket stadium globally before Narendra Modi)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "chapter": "Quick-Fire PYQ Facts – Sports Static",
+      "type": "summary",
+      "pyqs": [
+        {
+          "q_num": "Q1",
+          "exam": "Delhi Police Constable, 29 Dec 2025",
+          "question": "Wrestling first included in Ancient Olympic Games in = 708 BCE",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q2",
+          "exam": "Delhi Police Constable, 29 Dec 2025",
+          "question": "Olympic torch relay tradition began at = Berlin 1936",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q3",
+          "exam": "Delhi Police Constable, 29 Dec 2025",
+          "question": "'Parry' is used in = Fencing",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q4",
+          "exam": "Delhi Police Constable, 29 Dec 2025",
+          "question": "Freestyle Wrestling first appeared in Modern Olympics = 1904 St. Louis",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q5",
+          "exam": "Delhi Police Constable, 18 Dec 2025",
+          "question": "Women's Javelin Throw introduced to Olympics in = 1932",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q6",
+          "exam": "Delhi Police Constable, 06 Jan 2026",
+          "question": "First modern Olympic Marathon in 1896 ran from = Marathon to Athens",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q7",
+          "exam": "DP HCM 2025, 12 Jan 2026",
+          "question": "Penalty for using anabolic steroids in Olympics = Disqualification/lifetime ban",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q8",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "Anti-doping agency for Indian athletes = NADA",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q9",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "WADA is responsible for = Anti-doping",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q10",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "IOA is responsible for = Managing India's Olympic participation",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q11",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "Dhanraj Pillay played in how many Olympic Games = 4",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q12",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "IOC founded in which year = 1894",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q13",
+          "exam": "Delhi Police Constable, Jan 2026",
+          "question": "Incorrect Olympic ring color-continent pairing = Black – Antarctica",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q14",
+          "exam": "SSC CHSL Tier-2, 10 Apr 2026",
+          "question": "First Indian to win individual Olympic Gold = Abhinav Bindra",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q15",
+          "exam": "SSC CPO, 12 Dec 2025",
+          "question": "First Indian to win Olympic medal after independence = K.D. Jadhav",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q16",
+          "exam": "SSC CPO, 12 Dec 2025",
+          "question": "India's first Olympic medalist in wrestling = K.D. Jadhav",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q17",
+          "exam": "SSC Phase 13, 29/07/2025",
+          "question": "Sport with most Olympic Golds for India = Hockey",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q18",
+          "exam": "SSC Phase 13, 30/07/2025",
+          "question": "IOA formed in which year = 1927",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q19",
+          "exam": "SSC Phase 13, 02/08/2025",
+          "question": "Metal primarily used to make Olympic Gold medal = Silver",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q20",
+          "exam": "SSC Phase 13, 02/08/2025",
+          "question": "Color medal for first position in Olympics = Gold",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q21",
+          "exam": "SSC CHSL, 27 Nov 2025",
+          "question": "India had single representative at Paris 1900 Olympics = 1900",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q22",
+          "exam": "SSC CHSL, 27 Nov 2025",
+          "question": "Indian Men's Hockey team Olympic Golds = 8",
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

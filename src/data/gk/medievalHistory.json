@@ -1,0 +1,775 @@
+{
+  "title": "Complete Medieval History – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police 2026",
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Chapter-wise Weightage Analysis (SSC PYQs)",
+      "type": "summary",
+      "table": [
+        {
+          "topic": "Mahmud of Ghazni & Muhammad Ghori",
+          "sub_areas": "Invasions, battles, writers at court, Prithviraj Chauhan",
+          "weightage": "High"
+        },
+        {
+          "topic": "Delhi Sultanate – Slave Dynasty",
+          "sub_areas": "Qutub-ud-din Aibak, Iltutmish, Razia Sultan, Balban, Chahalgani",
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Delhi Sultanate – Khilji Dynasty",
+          "sub_areas": "Alauddin Khilji, Market Reforms, Malik Kafur, battles",
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Delhi Sultanate – Tughlaq Dynasty",
+          "sub_areas": "Ghiyas-ud-din, Muhammad Bin Tughlaq, Firoz Shah Tughlaq",
+          "weightage": "High"
+        },
+        {
+          "topic": "Delhi Sultanate – Sayyid & Lodhi Dynasty",
+          "sub_areas": "Bahlol Lodhi, Sikander Lodhi, Ibrahim Lodhi",
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Taxation & Departments of Delhi Sultanate",
+          "sub_areas": "Kharaj, Jizya, Zakat, Khums, Diwan departments",
+          "weightage": "High"
+        },
+        {
+          "topic": "Vijayanagar & Deccan Sultanates",
+          "sub_areas": "Harihara & Bukka, Krishnadeva Raya, Battle of Talikota, Bahmani",
+          "weightage": "High"
+        },
+        {
+          "topic": "Mughal Empire – Babur",
+          "sub_areas": "Battles of Panipat, Khanwa, Chanderi, Ghaghra; Tulughma tactic",
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Mughal Empire – Humayun & Sher Shah Suri",
+          "sub_areas": "Chausa, Kannauj, Dinpanah, Grand Trunk Road",
+          "weightage": "High"
+        },
+        {
+          "topic": "Mughal Empire – Akbar",
+          "sub_areas": "Din-i-Ilahi, Mansabdari, Navratnas, battles",
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Mughal Empire – Jahangir, Shah Jahan, Aurangzeb",
+          "sub_areas": "Taj Mahal, Noor Jahan, Jaziya, Bibi ka Maqbara",
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Later Mughals & Maratha Empire",
+          "sub_areas": "Nadir Shah, Ahmad Shah Abdali, Shivaji",
+          "weightage": "Moderate"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Mahmud of Ghazni",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "Birth: 971 AD in Zabulistan (Afghanistan). He was both Turk & Afghan.",
+            "Father: Sabuktigin (Turk); Mother: Local woman of Iran",
+            "Reign Period: 998–1030 AD; Capital: Ghazni (Afghanistan) #imp.2024",
+            "Attacked India 17 times between 1000–1027 AD"
+          ]
+        },
+        {
+          "name": "Major Invasions",
+          "type": "table",
+          "table": [
+            {
+              "year": "1001",
+              "event": "Punjab Attack – Pala king Jaipal defeated in Battle of Peshawar #imp"
+            },
+            {
+              "year": "1005",
+              "event": "Bhatia Attack"
+            },
+            {
+              "year": "1006",
+              "event": "Multan Attack; defeated Anandapala (son of Jaipal) #imp"
+            },
+            {
+              "year": "1018",
+              "event": "Plundered Mathura Temples; attacked Kannauj ruler Rajyapal #imp"
+            },
+            {
+              "year": "1021",
+              "event": "Conquered Kannauj by defeating Chandela Gaur"
+            },
+            {
+              "year": "1025",
+              "event": "Plundered Somnath Temple, Gujarat #imp"
+            },
+            {
+              "year": "1027",
+              "event": "Attack against Jaat Community"
+            },
+            {
+              "year": "1030",
+              "event": "Ghazni died due to Malaria and Tuberculosis"
+            }
+          ]
+        },
+        {
+          "name": "Famous Writers at the Court of Ghaznavids",
+          "content": [
+            "Al-Biruni – wrote Kitab-ul-Hind or Tehqiq-i-Hind (in Arabic)",
+            "Farrukhi Sisteni",
+            "Firdausi – wrote Shahnama (Full name: Abul-Qasim Firdowsi Tusi)",
+            "Muhammad Ibn Utbi – wrote Al-Kitab al-Yamini (in Arabic)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Prithviraj Chauhan & Muhammad Ghori",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Prithviraj Chauhan",
+          "content": [
+            "Real Name: Prithviraj III / Rai Pithora",
+            "Dynasty: Chahamana; Ruled: Sapadalabha",
+            "Father/Mother: Someshwar Chauhan / Karpouri",
+            "Court Painter: Anirudh",
+            "Poet friend: Chandbardai (wrote Prithviraj Raso) #imp.2024",
+            "1191 – Battle of Tarain I – Prithviraj Won (Ghori attacked Tabarhinda/Bhatinda) #imp",
+            "1192 – Battle of Tarain II – Ghori Won #imp",
+            "1194 – Battle of Chadawar – Ghori Defeated Jai Chand #imp",
+            "Ananga Pala Tomar founded Delhi in 1052 AD & ruled Delhi before Prithviraj Chauhan",
+            "Bijoliya Inscription reveals Chauhans are Vats Gotriya Brahman #imp.2024"
+          ]
+        },
+        {
+          "name": "Muhammad Ghori (Muhammad Bin Sang)",
+          "content": [
+            "1175 – Battle of Multan (Ghori defeated Moolraj II) #imp",
+            "1178 – Battle of Mt. Abu (Bhim Dev II won) #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Delhi Sultanate – Overview",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "5 Dynasties of Delhi Sultanate",
+          "type": "table",
+          "table": [
+            {
+              "dynasty": "Slave Dynasty",
+              "period": "1206–1290"
+            },
+            {
+              "dynasty": "Khilji Dynasty",
+              "period": "1290–1320"
+            },
+            {
+              "dynasty": "Tughlaq Dynasty",
+              "period": "1320–1414"
+            },
+            {
+              "dynasty": "Sayyid Dynasty",
+              "period": "1414–1450"
+            },
+            {
+              "dynasty": "Lodhi Dynasty",
+              "period": "1451–1526"
+            }
+          ]
+        },
+        {
+          "name": "Rulers Reign Duration",
+          "content": [
+            "Qutub-ud-din Aibak: 1206–1210 AD (4 yrs)",
+            "Iltutmish: 1211–1236 AD (25 yrs)",
+            "Razia Sultan: 1236–1240 AD (4 yrs)",
+            "Ghiyas-ud-din Balban: 1266–1287 (21 yrs)",
+            "Jalal-ud-din Firoz Khilji: 1290–1296 (6 yrs)",
+            "Alauddin Khilji: 1296–1316 (20 yrs)",
+            "Ghiyas-ud-din Tughlaq: 1320–1325 AD (5 yrs)",
+            "Muhammad Bin Tughlaq: 1325–1351 (26 yrs)",
+            "Firoz Shah Tughlaq: 1351–1388 AD (37 yrs)",
+            "Khizr Khan: 1414–1421 AD (7 yrs)",
+            "Muizuddin Mubarak Shah: 1421–1434 AD (13 yrs)",
+            "Bahlol Lodhi: 1451–1489 AD (38 yrs)",
+            "Sikander Lodhi (Nizam Khan): 1489–1517 AD (28 yrs)",
+            "Ibrahim Lodhi: 1517–1526 (9 yrs)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "Slave / Mamluk Dynasty (1206–1290 AD)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Qutub-ud-din Aibak (1206–1210)",
+          "content": [
+            "Founder of the Slave Dynasty",
+            "First to introduce Turkish culture in Delhi",
+            "Never accepted title of 'Sultan' #imp; Titles: Malik/SipahSalar/Lakh Baksh",
+            "Capital: Lahore",
+            "Buildings: Qutub Minar (73 m, Indo-Islamic, Red & buff Sandstone)",
+            "Quwwat-ul-Islam – India's 1st Mosque at Delhi (1192–1198 AD)",
+            "Adhai Din Ka Jhopra at Ajmer",
+            "Patronised Hasan-un-Nizami (author of Taj-ul-Massir) and Fakhr-i-Mudabbir",
+            "1210: Died during playing Chaugan/Polo #imp"
+          ]
+        },
+        {
+          "name": "Shams-ud-Din Iltutmish (1211–1236 AD)",
+          "content": [
+            "Real Founder of Delhi Sultanate #imp",
+            "First Sultan recognised by Caliph of Baghdad #imp",
+            "Shifted capital from Lahore to Delhi",
+            "Established Chahalgani/Chalisa (Group of 40 Nobles) #imp.2024",
+            "Completed construction of Qutub Minar #imp",
+            "Launched Iqta System (division of territories between Sultans and Nobility)",
+            "Khalisa: Areas directly under Sultan; Iqta: rest of areas",
+            "Introduced 2 coins: Tanka (silver) & Jital (copper) #imp.2024",
+            "Known as 'Father of Tomb Construction'; built Sultan Garhi & Hauz-i-Sultani #imp",
+            "Nominated Raziya as his successor; Initiated hereditary succession",
+            "Son: Rukn-ud-din Firuz; Daughter: Razia Sultan",
+            "Patronised Minhaj-ul-Siraj (author of Tabaqat-i-Nasiri)"
+          ]
+        },
+        {
+          "name": "Razia Sultan (1236–1240 AD)",
+          "content": [
+            "First and Last Woman Muslim ruler of Delhi #imp.2024",
+            "Did not accept 'Parda' #imp",
+            "Wore 'Quba' (Blazer) and 'Qula' (Cap) #imp",
+            "Commander: Jamal-ud-din Yaqut (Abyssian Slave)",
+            "Altunia killed Yaqut & imprisoned Razia in Qila Mubarak #imp",
+            "Husband: Malik Ikhtiaruddin Altunia (Governor of Bathinda/Tabarhinda)",
+            "Minhaj-ul-Siraj acknowledged Razia was more capable than her brothers"
+          ]
+        },
+        {
+          "name": "Ghiyas-ud-din Balban (1266–1287)",
+          "content": [
+            "Titles: Ulugh Khan, Naib-i-Mamlikat, Nasir-amir-ul-momin, Zil-i-ilahi, Zil-e-Khudai, Kingmaker",
+            "Killed/suppressed Chahalgani #imp",
+            "Introduced Nauroz Culture",
+            "Introduced Sijdah (Zaminbosi) and Paibos",
+            "Followed 'Blood and Iron' policy",
+            "Court Poets: Amir Khusro & Amir Hasan",
+            "Separated Diwan-i-Wizarat (Finance) from Diwan-i-Arz (Defence)",
+            "Appointed son Bughra Khan as Governor of Bengal after defeating Tughril Beg Khan",
+            "Prince Muhammad Khan died fighting Mongols"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Khilji Dynasty (1290–1320 AD)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Jalal-ud-din Firoz Khilji (1290–1296)",
+          "content": [
+            "Founder of Khilji Dynasty"
+          ]
+        },
+        {
+          "name": "Alauddin Khilji (1296–1316)",
+          "content": [
+            "Real Name: Ali Gurshasp",
+            "Titles: Alexander Second/Sikander-i-Sani, Yamin-ul-Khilafat, Nasir-e-amir-ul-momini",
+            "Most Effective Sultan of Delhi Sultanate",
+            "Appointed as Amir-i-Tuzuk (Master of Ceremonies) & Ariz-i-Mumalik (Minister of Law) by Jalaluddin",
+            "Introduced Chehra system (ID Card) and 'Daag & Huliya' system",
+            "Introduced Land Measurement Unit: 'Biswa'",
+            "Introduced Market Control System; fixed Land Revenue in cash",
+            "3 Primary Taxes: Kharaj (50% land tax), Gharai (Housing Tax), Charai (tax on cattle); Jizya on non-Muslims",
+            "Malik Kafur ('Hazaar Dinari') – captured by Nusrat Khan in Gujarat conquest",
+            "Reorganised spy services (Barids); 'Kingship Knows No Kinship'",
+            "Court Poets: Amir Khusrau and Mir Hasan Dehlavi",
+            "Amir Khusrau: first poet to write about Jauhar in Persian",
+            "Created post of Diwan-i-Mustakhraj",
+            "Markets controlled by: Diwan-i-Riyasat (register merchants) & Shahana-i-Mandi (Mandi Controller)",
+            "Ziauddin Barani wrote Tarikh-i-FiruzShahi (about 6 Sultans)",
+            "Defeated Mongols at battles of Kili, Jalandhar, Ravi, and Amroha",
+            "Built Siri Fort (capital)"
+          ]
+        },
+        {
+          "name": "Important Battles of Alauddin Khilji",
+          "type": "table",
+          "table": [
+            {
+              "year": "1296",
+              "battle": "Devgiri",
+              "detail": "1st Southern Campaign; looted treasury to raise army against Jalal-ud-din"
+            },
+            {
+              "year": "1299",
+              "battle": "Gujarat",
+              "detail": "Ulugh Khan & Nusrat Khan defeated Vaghela King Karna; captured Queen Kamal Devi & Malik Kafur"
+            },
+            {
+              "year": "1301",
+              "battle": "Ranthambore",
+              "detail": "Defeated King Hamir Deva; Nusrat Khan killed; Jauhar performed by Rajput ladies"
+            },
+            {
+              "year": "1306-07",
+              "battle": "Devgiri",
+              "detail": "Malik Kafur defeated Ramchandra Deva Yadava; given title Rai Raiyana"
+            },
+            {
+              "year": "1308",
+              "battle": "Warangal/Telangana",
+              "detail": "Malik Kafur defeated Kakatiya King Pratap Rudra Deva; received Koh-i-noor diamond"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "Tughlaq Dynasty (1320–1412 AD)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Ghiyas-ud-din Tughlaq (1320–1325 AD)",
+          "content": [
+            "Founder of Tughlaq Dynasty",
+            "Was Governor of Punjab (1320–1324) during reign of Ala-ud-din Khilji",
+            "Title: Ghazi Malik",
+            "Introduced Postal Services & Irrigation System",
+            "Built Tughlaqabad (city & strong fort) near Delhi",
+            "Amir Khusrau's Tughlaq Nama deals with his rise"
+          ]
+        },
+        {
+          "name": "Muhammad Bin Tughlaq (1325–1351) – 'Paagal Raja'",
+          "content": [
+            "1325: New tax 'Kharaj-i-ala' on Doab region",
+            "1327: Changed Devgiri name to Daulatabad; shifted capital Delhi → Daulatabad",
+            "Severe famine broke out during his reign",
+            "1330: Token Currency – Copper coins",
+            "1333: Ibn-Batuta visited; wrote Rehla; appointed as Chief Qazi",
+            "Built fort of Adilabad, city of Jahanpanah, and Begumpuri Mosque",
+            "1338: Khorasan Project; 1339: Quarachill Expedition",
+            "Appointed common people to high posts: Aziz Khummar, Firuz Hajjam, Manka Tabbakh, Ladha & Pira",
+            "Established Diwan-i-Amir Kohi (Agriculture Department)",
+            "First Sultan to visit Ajmer shrine of Muinuddin Chishti",
+            "Harihara & Bukka established Vijayanagar Empire during his reign",
+            "Battle of Talikota (23 Jan 1565): Aliya Rama Raya vs Deccan Sultanates coalition; Vijayanagar collapsed, Hampi destroyed"
+          ]
+        },
+        {
+          "name": "Firoz Shah Tughlaq (1351–1388 AD)",
+          "content": [
+            "Built Feroz Shah Kotla Fort in 1354 (also known as home of djinns)",
+            "Created Diwan-i-Khairat (Dept. of Charity)",
+            "Ziauddin Barani (1285–1358): political thinker of Delhi Sultanate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "Sayyid & Lodhi Dynasty",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Sayyid Dynasty (1414–1450)",
+          "content": [
+            "Khizr Khan (1414–1421 AD)",
+            "Muizuddin Mubarak Shah (1421–1434 AD)",
+            "Yahya bin Ahmad Sirhindi wrote Tarikh-i-Mubarak Shahi #imp.2024"
+          ]
+        },
+        {
+          "name": "Lodhi Dynasty (1451–1526 AD)",
+          "content": [
+            "Bahlol Lodhi (1451–1489 AD): 1st Afghani Sultan in Delhi Sultanate; Did Demonetisation; launched Bahloli Coin",
+            "Sikander Lodhi (Nizam Khan) (1489–1517 AD): Introduced Land Unit 'Gaz-e-Sikandari'; Established Agra in 1504 AD #imp.2024; Shifted capital Delhi → Agra in 1506; Abolished Zakat & Octroi Duty on grains; Built Moth ki Masjid (Double Dome Structure); Reimposed Jaziya; Pen name: 'Gulrukhi'",
+            "Ibrahim Lodhi (1517–1526): Defeated by Rana Sanga in Battle of Khatoli (1517); Lost First Battle of Panipat (1526) to Babur; Tomb in Panipat (Haryana)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Taxation System & Departments of Delhi Sultanate",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Taxation System",
+          "type": "table",
+          "table": [
+            {
+              "tax": "Ushr (Ushraf)",
+              "detail": "5–10% from Muslims"
+            },
+            {
+              "tax": "Kharaj",
+              "detail": "1/3rd to 1/2 from non-Muslims #imp"
+            },
+            {
+              "tax": "Khams",
+              "detail": "1/5th of looted money given to Sultan #imp"
+            },
+            {
+              "tax": "Zakat",
+              "detail": "2–2.5% religious tax on Muslims #imp"
+            },
+            {
+              "tax": "Jizya",
+              "detail": "10% religious tax on Non-Muslims"
+            },
+            {
+              "tax": "Lagan",
+              "detail": "Extra 2.5% from Muslims and 5% from Non-Muslims"
+            },
+            {
+              "tax": "Octroi Duty",
+              "detail": "Import & Export tax on Commercial Goods #imp"
+            },
+            {
+              "tax": "Gharai",
+              "detail": "Housing Tax (by Alauddin Khilji) #imp"
+            },
+            {
+              "tax": "Charai",
+              "detail": "Tax on cattle (by Alauddin Khilji) #imp"
+            }
+          ]
+        },
+        {
+          "name": "Departments of Delhi Sultanate",
+          "content": [
+            "Diwan-i-Wizarat: Finance Department (headed by Wazir)",
+            "Diwan-i-Risalat: Religious, Foreign Affairs & Appeals",
+            "Diwan-i-Arz: Defence Department",
+            "Diwan-i-Insha/Ashraf: Correspondence/Media/News",
+            "Diwan-i-Amir Kohi: Agriculture Department (by Muhammad Bin Tughlaq) #imp.2024",
+            "Diwan-i-Mustakhraz: Revenue/Arrears Department (by Alauddin Khilji)",
+            "Diwan-i-Khairat: Department of Charity (by Firoz Shah Tughlaq)",
+            "Diwan-i-Ishtiaq: Pension Department",
+            "Diwan-i-Bandagan: Department of Slaves (Bandagan = military slaves)",
+            "Diwan-i-Qaza-i-Mamalik: Department of Justice",
+            "Diwan-i-Waqoof: Expense/Revenue Department"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Vijayanagar Empire & Deccan Sultanates",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Vijayanagar Empire",
+          "content": [
+            "Founded by Harihara & Bukka (defeated Madurai Sultanate under Muhammad Bin Tughlaq's reign)",
+            "Rulers order: Harihara I → Devaraya II → Krishnadeva Raya",
+            "Krishnadeva Raya: wrote Amuktamalyada (devotion to Lord Vishnu)",
+            "Rulers referred as 'Rayas' or 'Narapati' (lord of men)",
+            "Administration system: Amaram (Military fief)",
+            "Neither Iqta nor Mansabdari system was prevalent in Vijayanagar #imp",
+            "Battle of Raichur: Adil Shah of Bijapur defeated Krishnadeva Raya",
+            "Battle of Talikota (23 Jan 1565): Coalition of Deccan Sultanates (Bijapur, Ahmadnagar, Golconda, Bidar) vs Aliya Rama Raya; Vijayanagar destroyed, capital Hampi razed",
+            "Hazara Rama Temple: Private temple (not public)",
+            "Lotus Palace: Shows Persian (Indo-Islamic) architectural influence",
+            "Sacred center of the city: located south of Tungabhadra"
+          ]
+        },
+        {
+          "name": "Deccan/Bahmani Sultanates",
+          "content": [
+            "Gol Gumbaz: Tomb of Mohammed Adil Shah located in Karnataka",
+            "Golconda Fort: Located in Telangana (not Rajasthan)",
+            "Chand Bibi: Regent of Ahmadnagar; heroically resisted Mughals; associated with Bijapur through marriage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": "Mughal Empire – Babur (1526–1530 AD)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "Real Name: Zahir-ud-din Muhammad Babur",
+            "Founder of Mughal Empire in India",
+            "Related to Timur (father's side) and Chengiz Khan (mother's side) #imp",
+            "Succeeded his father as ruler of Farghana (Uzbekistan) in 1494",
+            "Seized Kabul in 1504",
+            "Wives: Maham Begum, Aisha Sultan",
+            "Sister: Khanzada Begum",
+            "1st attack: Bhera",
+            "Autobiography: Baburnama (Turkish)",
+            "Popularised Gunpowder; Cavalry & artillery tactics: Tulughma and Araba",
+            "Built Aram Bagh (oldest Mughal Garden) in 1528 in Agra",
+            "Introduced Charbagh and symmetrically laid out gardens",
+            "Mughal gardens inspired by Persian idea of paradise gardens"
+          ]
+        },
+        {
+          "name": "Major Battles",
+          "type": "table",
+          "table": [
+            {
+              "year": "1526",
+              "battle": "Panipat (First)",
+              "result": "Defeated Ibrahim Lodhi #imp"
+            },
+            {
+              "year": "1527",
+              "battle": "Khanwa",
+              "result": "Defeated Rana Sanga #imp.2024"
+            },
+            {
+              "year": "1528",
+              "battle": "Chanderi",
+              "result": "Defeated Medini Rai"
+            },
+            {
+              "year": "1529",
+              "battle": "Ghaghra",
+              "result": "Defeated Army of Bengal and Bihar"
+            }
+          ]
+        },
+        {
+          "name": "Death",
+          "content": [
+            "Died: 26 Dec 1530",
+            "Tomb: First at Arambagh in Agra, later in Kabul",
+            "First Mughal Emperor buried outside India"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": "Mughal Empire – Humayun (1530–40/1555–56)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "Real Name: Mirza Nasir-ud-Din Muhammad (eldest son of Babur) #imp",
+            "Wives: Bega Begum, Hamida Banu Begum #imp",
+            "Brothers: Kamran Mirza, Hindal Mirza, Askari Mirza, Khalil Mirza",
+            "Humayun controlled Delhi, Agra & Central India; Kamran controlled Afghanistan & Punjab #imp.2024",
+            "Title: Insan-i-Kamil (Perfect man)",
+            "1531 – Devra: Humayun defeated Mahmud Lodi #imp",
+            "1539 – Chausa: Sher Shah Suri won #imp.2024",
+            "1540 – Kannauj/Belgram: Sher Shah Suri won #imp",
+            "1555 – Sirhind: Defeated Sikander Shah Suri #imp",
+            "Sister Gul Badan Begum wrote Humayun-Nama",
+            "Brought painters Mir Sayyid Ali and Abdal Samad to India",
+            "Built Dinpanah (new city at Delhi, on bank of River Yamuna)",
+            "Built Sher-e-Mandal (Library)",
+            "Widow Biga Begum built Humayun's Tomb (UNESCO site)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": "Mughal Empire – Akbar, Jahangir, Shah Jahan & Aurangzeb",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Aurangzeb (1658–1707)",
+          "content": [
+            "Real Name: Muhi al-Din Muhammad",
+            "Titles: Zinda Peer (Living Saint), Shahi Darvesh",
+            "Wife: Dilras Banu, Rabia-ul-Daurani #imp",
+            "1658: Captured Shahjahan; coronation ceremony",
+            "1658–59: Battle of Dharmat/Deorai – defeated Dara Shikoh #imp",
+            "1659: Coronation in Red Fort; Abolished Nauroz Festival #imp",
+            "1667: Gave French permission to build factory at Surat",
+            "1668: Muhammad Kazim compiled Alamgirnama (first 10 years of Aurangzeb's reign)",
+            "1669: Abolished Jharokha Darshan (Public Audience) & terminated all Musicians #imp",
+            "1670: Abolished Tuladan System #imp",
+            "1675: Executed 9th Sikh Guru Teg Bahadur #imp.2024",
+            "1679: Re-imposed Jaziya Tax & Pilgrim Tax #imp",
+            "Annexed Bijapur (1686) under Sikander Adil Shah",
+            "Annexed Golconda (1687) against Qutub Shahi dynasty",
+            "Attempted to vandalize Kailasa Temple at Ellora in 1682 #imp",
+            "1707: Tarikh-i-Dilkusha written by Bhimsen in Persian (translated by Jadunath Sarkar) #imp",
+            "Masir-i-Alamgiri by Mustaid Khan throws light on Aurangzeb's rule #imp",
+            "Not tolerant of other Muslim sects; stopped celebration of Muharram",
+            "Appointed Rajputs to high positions; Mughal Empire achieved largest territorial limits under him #imp.2024",
+            "Fatwa-i-Alamgiri (major Islamic law compilation) commissioned by Aurangzeb",
+            "Buildings: Moti Masjid (at Red Fort); Bibi ka Maqbara/Black Taj Mahal/Taj of Deccan built by Azamshah (son) in Aurangabad (1668–69) #imp"
+          ]
+        },
+        {
+          "name": "Women Rulers Comparison",
+          "type": "comparison",
+          "table": [
+            {
+              "ruler": "Noor Jahan",
+              "empire": "Mughal Empire",
+              "period": "17th century (Jahangir's reign)",
+              "facts": "Wife of Jahangir; exercised real political power; farmans in her name; coins minted; led 'Noor Jahan Junta'; patron of art & architecture"
+            },
+            {
+              "ruler": "Rani Durgavati",
+              "empire": "Garha-Katanga (Gondwana)",
+              "period": "16th century (d.1564)",
+              "facts": "Brave Gond queen; ruled Jabalpur region; fought Mughal general Asaf Khan; chose martyrdom over surrender"
+            },
+            {
+              "ruler": "Chand Bibi",
+              "empire": "Ahmadnagar Sultanate (Deccan)",
+              "period": "16th century",
+              "facts": "Regent of Ahmadnagar; heroically resisted Mughals; associated with Bijapur through marriage; led fort defense"
+            },
+            {
+              "ruler": "Razia Sultan",
+              "empire": "Delhi Sultanate (Slave Dynasty)",
+              "period": "1236–1240 AD",
+              "facts": "First & Last woman Muslim ruler of Delhi; wore Quba & Qula; did not observe Parda; imprisoned in Qila Mubarak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter": "Later Mughals & Maratha Empire",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Muhammad Shah Rangeela (1719–1748)",
+          "content": [
+            "Autonomous states emerged: Nizam-ul-Mulk (Deccan), Saadat Khan (Awadh), Murshid Quli Khan (Bengal, Bihar, Orissa)",
+            "Nadir Shah invaded India and looted Delhi; took away Kohinoor Diamond",
+            "Nadir Shah defeated Muhammad Shah in Battle of Karnal in 1739 #imp",
+            "Ahmad Shah Abdali raided Delhi for first time during his reign",
+            "Became king with help of Sayyid Brothers; later killed them with help of Nizam-ul-Mulk (Asaf Jah)"
+          ]
+        },
+        {
+          "name": "Shivaji & Maratha Empire",
+          "content": [
+            "Shivaji's exploits against Mughals and Bijapur made him a legendary figure",
+            "Aurangzeb led Deccan campaign against Marathas and spent long time in the region"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chapter": "Medieval Architecture & Monuments",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Monuments",
+          "type": "table",
+          "table": [
+            {
+              "monument": "Qutub Minar",
+              "builder": "Started by Qutub-ud-din Aibak, completed by Iltutmish",
+              "location": "Delhi",
+              "style": "Indo-Islamic; Red & buff sandstone; Height 73m; Base diameter 14.32m"
+            },
+            {
+              "monument": "Quwwat-ul-Islam Mosque",
+              "builder": "Qutub-ud-din Aibak (1192–1198 AD)",
+              "location": "Delhi",
+              "style": "India's 1st Mosque"
+            },
+            {
+              "monument": "Adhai Din Ka Jhopra",
+              "builder": "Qutub-ud-din Aibak",
+              "location": "Ajmer",
+              "style": "Indo-Islamic"
+            },
+            {
+              "monument": "Tughlaqabad Fort",
+              "builder": "Ghiyas-ud-din Tughlaq",
+              "location": "Near Delhi",
+              "style": "Sultanate"
+            },
+            {
+              "monument": "Siri Fort",
+              "builder": "Alauddin Khilji",
+              "location": "Delhi",
+              "style": "Delhi Sultanate"
+            },
+            {
+              "monument": "Feroz Shah Kotla Fort",
+              "builder": "Firoz Shah Tughlaq (1354)",
+              "location": "Delhi",
+              "style": "Tughlaq"
+            },
+            {
+              "monument": "Humayun's Tomb",
+              "builder": "Biga Begum (Humayun's widow)",
+              "location": "Delhi",
+              "style": "UNESCO World Heritage Site"
+            },
+            {
+              "monument": "Aram Bagh",
+              "builder": "Babur (1528)",
+              "location": "Agra",
+              "style": "Oldest Mughal Garden; Charbagh style"
+            },
+            {
+              "monument": "Bibi ka Maqbara",
+              "builder": "Azamshah (son of Aurangzeb) (1668–69)",
+              "location": "Aurangabad (Chhatrapati Sambhaji Nagar)",
+              "style": "Taj of Deccan / Black Taj Mahal"
+            },
+            {
+              "monument": "Gol Gumbaz",
+              "builder": "Mohammed Adil Shah",
+              "location": "Karnataka",
+              "style": "Deccan Sultanate"
+            },
+            {
+              "monument": "Moth ki Masjid",
+              "builder": "Sikander Lodhi",
+              "location": "Delhi",
+              "style": "Double dome structure"
+            },
+            {
+              "monument": "Moti Masjid",
+              "builder": "Aurangzeb",
+              "location": "Red Fort, Delhi",
+              "style": "Mughal"
+            }
+          ]
+        },
+        {
+          "name": "Architectural Features",
+          "content": [
+            "True arch and dome first introduced in India by the Delhi Sultanate",
+            "Bengal and Jaunpur developed distinctive architectural styles distinct from Delhi Sultanate",
+            "Regional styles often blended Islamic structures with local artistic traditions",
+            "Mughal gardens inspired by Persian idea of paradise gardens (Charbagh)"
+          ]
+        }
+      ]
+    }
+  ]
+}
