@@ -1,0 +1,513 @@
+{
+  "slug": "adverb",
+  "title": "Adverb",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": ["Grammar", "Parts of Speech", "SSC CGL"],
+  "definition": {
+    "english": "An adverb is a word that gives more information about a verb, adjective, another adverb, or a whole sentence.",
+    "marathi": "जो शब्द Verb, Adjective, दुसरा Adverb किंवा संपूर्ण Sentence बद्दल अधिक माहिती देतो त्याला Adverb म्हणतात.",
+    "examples": [
+      {
+        "word": "Slowly",
+        "tag": "Verb"
+      },
+      {
+        "word": "Very",
+        "tag": "Adjective"
+      },
+      {
+        "word": "Extremely",
+        "tag": "Adverb"
+      },
+      {
+        "word": "Fortunately",
+        "tag": "Sentence"
+      }
+    ]
+  },
+  "tables": [
+    {
+      "id": "adverb-types",
+      "title": "Types of Adverbs",
+      "columns": ["type", "question", "examples"],
+      "rows": [
+        {
+          "type": "Manner",
+          "question": "How?",
+          "examples": "slowly, carefully, well"
+        },
+        {
+          "type": "Time",
+          "question": "When?",
+          "examples": "today, yesterday, soon"
+        },
+        {
+          "type": "Place",
+          "question": "Where?",
+          "examples": "here, there, outside"
+        },
+        {
+          "type": "Frequency",
+          "question": "How often?",
+          "examples": "always, often, never"
+        },
+        {
+          "type": "Degree / Quantity",
+          "question": "How much?",
+          "examples": "very, too, quite"
+        },
+        {
+          "type": "Duration",
+          "question": "How long?",
+          "examples": "briefly, permanently, temporarily"
+        },
+        {
+          "type": "Possibility",
+          "question": "How likely?",
+          "examples": "perhaps, probably, certainly"
+        }
+      ]
+    },
+    {
+      "id": "comparison-of-adverbs",
+      "title": "Comparison of Adverbs",
+      "columns": ["positive", "comparative", "superlative"],
+      "rows": [
+        {
+          "positive": "fast",
+          "comparative": "faster",
+          "superlative": "fastest"
+        },
+        {
+          "positive": "hard",
+          "comparative": "harder",
+          "superlative": "hardest"
+        },
+        {
+          "positive": "early",
+          "comparative": "earlier",
+          "superlative": "earliest"
+        },
+        {
+          "positive": "well",
+          "comparative": "better",
+          "superlative": "best"
+        },
+        {
+          "positive": "badly",
+          "comparative": "worse",
+          "superlative": "worst"
+        }
+      ]
+    }
+  ],
+  "types": [
+    {
+      "name": "Adverb of Manner",
+      "english": "Shows how an action happens.",
+      "marathi": "क्रिया कशी घडते ते सांगते.",
+      "examples": ["slowly", "carefully", "well", "badly", "beautifully", "He spoke politely."]
+    },
+    {
+      "name": "Adverb of Time",
+      "english": "Shows when an action happens.",
+      "marathi": "क्रिया कधी घडते ते सांगते.",
+      "examples": ["today", "yesterday", "now", "soon", "already", "recently", "He arrived yesterday."]
+    },
+    {
+      "name": "Adverb of Place",
+      "english": "Shows where an action happens.",
+      "marathi": "क्रिया कुठे घडते ते सांगते.",
+      "examples": ["here", "there", "outside", "inside", "everywhere", "She waited outside."]
+    },
+    {
+      "name": "Adverb of Frequency",
+      "english": "Shows how often an action happens.",
+      "marathi": "क्रिया किती वेळा घडते ते सांगते.",
+      "examples": ["always", "usually", "often", "sometimes", "rarely", "never", "I always exercise."]
+    },
+    {
+      "name": "Adverb of Degree / Quantity",
+      "english": "Shows intensity or extent.",
+      "marathi": "प्रमाण किंवा तीव्रता दर्शवते.",
+      "examples": ["very", "too", "quite", "almost", "nearly", "completely", "She is very smart."]
+    },
+    {
+      "name": "Adverb of Duration",
+      "english": "Shows how long an action continues.",
+      "marathi": "क्रिया किती वेळ चालते ते सांगते.",
+      "examples": ["briefly", "permanently", "continually", "temporarily", "He stayed briefly."]
+    },
+    {
+      "name": "Adverb of Possibility",
+      "english": "Shows possibility or certainty.",
+      "marathi": "शक्यता किंवा खात्री दर्शवते.",
+      "examples": ["perhaps", "probably", "possibly", "certainly", "surely", "Perhaps he will come."]
+    }
+  ],
+  "positionOfAdverbs": [
+    {
+      "name": "Beginning",
+      "english": "Adverb can come at the start of a sentence.",
+      "marathi": "Adverb वाक्याच्या सुरुवातीला येऊ शकतो.",
+      "examples": ["Fortunately, he survived."]
+    },
+    {
+      "name": "Middle",
+      "english": "Adverb can come between subject and main verb or after helping verb.",
+      "marathi": "Adverb subject आणि main verb मध्ये किंवा helping verb नंतर येतो.",
+      "examples": ["He has already finished.", "She never lies."]
+    },
+    {
+      "name": "End",
+      "english": "Adverb often comes at the end of the sentence.",
+      "marathi": "Adverb अनेकदा वाक्याच्या शेवटी येतो.",
+      "examples": ["She danced beautifully.", "He spoke politely."]
+    }
+  ],
+  "frequencyAdverbs": {
+    "words": ["Always", "Usually", "Often", "Generally", "Sometimes", "Never"],
+    "rules": [
+      {
+        "title": "With Main Verb",
+        "formula": "Subject + Frequency Adverb + Main Verb",
+        "examples": ["He always studies.", "They usually come."]
+      },
+      {
+        "title": "With Be Verb",
+        "formula": "Subject + Be + Frequency Adverb",
+        "examples": ["She is always happy.", "They are never late."]
+      }
+    ]
+  },
+  "orderOfAdverbs": {
+    "formula": "Manner → Place → Time",
+    "wrongRight": [
+      {
+        "wrong": "He spoke yesterday politely at school.",
+        "right": "He spoke politely at school yesterday."
+      }
+    ]
+  },
+  "interrogativeAdverbs": [
+    {
+      "name": "When",
+      "english": "Used to ask about time.",
+      "marathi": "वेळ विचारण्यासाठी वापरतात.",
+      "examples": ["When did you arrive?"]
+    },
+    {
+      "name": "Where",
+      "english": "Used to ask about place.",
+      "marathi": "ठिकाण विचारण्यासाठी वापरतात.",
+      "examples": ["Where do you live?"]
+    },
+    {
+      "name": "Why",
+      "english": "Used to ask reason.",
+      "marathi": "कारण विचारण्यासाठी वापरतात.",
+      "examples": ["Why are you crying?"]
+    },
+    {
+      "name": "How",
+      "english": "Used to ask manner or method.",
+      "marathi": "पद्धत किंवा प्रकार विचारण्यासाठी वापरतात.",
+      "examples": ["How did you solve it?"]
+    }
+  ],
+  "relativeAdverbs": [
+    {
+      "name": "Where",
+      "english": "Connects clauses related to place.",
+      "marathi": "ठिकाणाशी संबंधित clauses जोडते.",
+      "examples": ["This is the place where I was born."]
+    },
+    {
+      "name": "When",
+      "english": "Connects clauses related to time.",
+      "marathi": "वेळेशी संबंधित clauses जोडते.",
+      "examples": ["I know the day when he arrived."]
+    },
+    {
+      "name": "Why",
+      "english": "Connects clauses related to reason.",
+      "marathi": "कारणाशी संबंधित clauses जोडते.",
+      "examples": ["I know the reason why he left."]
+    }
+  ],
+  "confusingAdverbs": [
+    {
+      "pair": "Hard vs Hardly",
+      "english": "Hard means diligently; hardly means almost not.",
+      "marathi": "Hard म्हणजे मेहनतीने; hardly म्हणजे जवळजवळ नाही.",
+      "examples": ["He works hard.", "He hardly works."]
+    },
+    {
+      "pair": "Late vs Lately",
+      "english": "Late means not on time; lately means recently.",
+      "marathi": "Late म्हणजे उशिरा; lately म्हणजे अलीकडे.",
+      "examples": ["He came late.", "I haven't seen him lately."]
+    },
+    {
+      "pair": "Near vs Nearly",
+      "english": "Near means close; nearly means almost.",
+      "marathi": "Near म्हणजे जवळ; nearly म्हणजे जवळपास.",
+      "examples": ["Come near.", "Nearly fifty students passed."]
+    },
+    {
+      "pair": "High vs Highly",
+      "english": "High means at great height; highly means very much.",
+      "marathi": "High म्हणजे उंच; highly म्हणजे फार जास्त.",
+      "examples": ["Birds fly high.", "He is highly respected."]
+    },
+    {
+      "pair": "Deep vs Deeply",
+      "english": "Deep means physical depth; deeply means emotionally.",
+      "marathi": "Deep म्हणजे खोली; deeply म्हणजे भावनिकरीत्या.",
+      "examples": ["Dive deep.", "I am deeply shocked."]
+    },
+    {
+      "pair": "Free vs Freely",
+      "english": "Free means without payment; freely means without restriction.",
+      "marathi": "Free म्हणजे विनामूल्य; freely म्हणजे मोकळेपणाने.",
+      "examples": ["Children travel free.", "Speak freely."]
+    }
+  ],
+  "specialStructures": [
+    {
+      "name": "Enough Rule",
+      "formula": "Adjective + Enough / Enough + Noun",
+      "example": "He is tall enough. / Enough money"
+    },
+    {
+      "name": "Too Rule",
+      "formula": "Too + Adjective",
+      "example": "The tea is too hot to drink."
+    },
+    {
+      "name": "Very vs Too",
+      "formula": "Very = positive, Too = excessive",
+      "example": "She is very beautiful. / She is too tired to walk."
+    },
+    {
+      "name": "Already / Yet",
+      "formula": "Already = Affirmative, Yet = Negative/Question",
+      "example": "I have already finished. / I haven't finished yet."
+    },
+    {
+      "name": "Only Position",
+      "formula": "Meaning changes with position of only",
+      "example": "Only Ram passed. / Ram only passed. / Ram passed only English."
+    }
+  ],
+  "negativeAdverbs": [
+    {
+      "name": "Negative Adverbs",
+      "english": "After negative adverbs, inversion is used.",
+      "marathi": "Negative adverbs नंतर inversion वापरतात.",
+      "examples": ["Never", "Rarely", "Seldom", "Hardly", "Scarcely", "Barely", "No sooner", "Little", "Never have I seen this.", "Hardly had I reached..."]
+    }
+  ],
+  "rules": [
+    {
+      "id": 1,
+      "title": "Adverb modifies Verb",
+      "marathi": "Adverb verb बद्दल अधिक माहिती देतो.",
+      "examples": ["He walks slowly.", "She sings beautifully."]
+    },
+    {
+      "id": 2,
+      "title": "Adverb modifies Adjective",
+      "marathi": "Adverb adjective ची तीव्रता दर्शवतो.",
+      "examples": ["She is very beautiful.", "He is extremely intelligent."]
+    },
+    {
+      "id": 3,
+      "title": "Adverb modifies another Adverb",
+      "marathi": "Adverb दुसऱ्या adverb ला modify करतो.",
+      "examples": ["He runs very fast.", "She spoke quite softly."]
+    },
+    {
+      "id": 4,
+      "title": "Adverb modifies whole Sentence",
+      "marathi": "Adverb संपूर्ण sentence बद्दल माहिती देतो.",
+      "examples": ["Fortunately, nobody was hurt."]
+    },
+    {
+      "id": 5,
+      "title": "Frequency before Main Verb",
+      "marathi": "Frequency adverb main verb च्या आधी येतो.",
+      "examples": ["He always studies.", "They usually come."]
+    },
+    {
+      "id": 6,
+      "title": "Frequency after Be Verb",
+      "marathi": "Frequency adverb be verb नंतर येतो.",
+      "examples": ["She is always happy.", "They are never late."]
+    },
+    {
+      "id": 7,
+      "title": "Manner → Place → Time",
+      "marathi": "Adverbs चा order Manner, Place, Time असा असतो.",
+      "examples": ["He spoke politely at school yesterday."]
+    },
+    {
+      "id": 8,
+      "title": "Enough Rule",
+      "marathi": "Enough adjective नंतर आणि noun आधी येतो.",
+      "wrongRight": [
+        {
+          "wrong": "He is enough tall.",
+          "right": "He is tall enough."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Too Rule",
+      "marathi": "Too म्हणजे गरजेपेक्षा जास्त.",
+      "examples": ["Too hot", "Too difficult", "Too expensive", "The tea is too hot to drink."]
+    },
+    {
+      "id": 10,
+      "title": "Already / Yet",
+      "marathi": "Already affirmative मध्ये, yet negative किंवा question मध्ये वापरतात.",
+      "examples": ["I have already finished.", "I haven't finished yet.", "Have you finished yet?"]
+    },
+    {
+      "id": 11,
+      "title": "Negative Adverbs + Inversion",
+      "marathi": "Negative adverbs नंतर inversion वापरतात.",
+      "examples": ["Never have I seen this.", "Hardly had I reached..."]
+    },
+    {
+      "id": 12,
+      "title": "Double Negative",
+      "marathi": "Double negative वापरू नये.",
+      "wrongRight": [
+        {
+          "wrong": "I hardly know nothing.",
+          "right": "I hardly know anything."
+        },
+        {
+          "wrong": "Scarcely some books",
+          "right": "Scarcely any books"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Adverb vs Adjective",
+      "marathi": "Adjective noun बद्दल आणि adverb verb बद्दल माहिती देतो.",
+      "examples": ["A beautiful girl.", "She sings beautifully."]
+    },
+    {
+      "id": 14,
+      "title": "Common SSC Error: good vs well",
+      "marathi": "Verb नंतर adverb वापरतात.",
+      "wrongRight": [
+        {
+          "wrong": "He speaks good.",
+          "right": "He speaks well."
+        },
+        {
+          "wrong": "He speaks good English.",
+          "right": "He speaks English well."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Common SSC Error: beautiful vs beautifully",
+      "marathi": "Verb नंतर adverb form वापरतात.",
+      "wrongRight": [
+        {
+          "wrong": "She sings beautiful.",
+          "right": "She sings beautifully."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Common SSC Error: late vs lately",
+      "marathi": "Late आणि lately चा अर्थ वेगळा असतो.",
+      "wrongRight": [
+        {
+          "wrong": "He came lately yesterday.",
+          "right": "He came late yesterday."
+        }
+      ]
+    }
+  ],
+  "goldenRevision": [
+    "Adverb = Verb + Adjective + Adverb + Sentence ला modify करतो",
+    "How → Manner",
+    "When → Time",
+    "Where → Place",
+    "How Often → Frequency",
+    "How Much → Degree",
+    "How Long → Duration",
+    "How Likely → Possibility",
+    "Frequency → Main Verb च्या आधी",
+    "Frequency → Be Verb नंतर",
+    "Enough → Adjective नंतर",
+    "Enough → Noun आधी",
+    "Very → Positive",
+    "Too → Excess",
+    "Already → Affirmative",
+    "Yet → Negative / Question",
+    "Hard ≠ Hardly",
+    "Late ≠ Lately",
+    "Near ≠ Nearly",
+    "High ≠ Highly",
+    "Deep ≠ Deeply",
+    "Free ≠ Freely",
+    "Negative Adverbs → Inversion",
+    "Manner → Place → Time"
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "He is enough tall.",
+      "right": "He is tall enough."
+    },
+    {
+      "wrong": "She sings beautiful.",
+      "right": "She sings beautifully."
+    },
+    {
+      "wrong": "He hardly knows nothing.",
+      "right": "He hardly knows anything."
+    },
+    {
+      "wrong": "Scarcely some students came.",
+      "right": "Scarcely any students came."
+    },
+    {
+      "wrong": "He speaks good English.",
+      "right": "He speaks English well."
+    },
+    {
+      "wrong": "He came lately yesterday.",
+      "right": "He came late yesterday."
+    }
+  ],
+  "examStrategy": [
+    {
+      "label": "Tier-1",
+      "text": "Types of Adverbs, Position, Enough/Too, Hard/Hardly, Late/Lately revise करा."
+    },
+    {
+      "label": "Tier-2",
+      "text": "Negative Adverbs, Inversion, Comparison, Only position आणि error detection वर focus करा."
+    },
+    {
+      "label": "Practice",
+      "text": "40–50 Adverb PYQs सोडवा."
+    },
+    {
+      "label": "Exam पूर्वी",
+      "text": "फक्त Golden Revision Page वाचा."
+    }
+  ],
+  "finalVerdict": "हे Notes SSC CGL, CPO, CHSL, MTS आणि Banking साठी Adverb chapter जवळपास complete cover करतात. 🚀📚"
+}

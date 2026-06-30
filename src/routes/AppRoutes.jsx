@@ -10,6 +10,8 @@ import AncientHistory from "../features/gk/history/AncientHistory";
 import Adjective from "../features/notes/English/part-of-speech/Adjective";
 import Sports from "../features/gk/static/Sports";
 import MedievalHistory from "../features/gk/history/MedievalHistory";
+import ModernHistory from "../features/gk/history/MordernHistory";
+import Adverb from "../features/notes/English/part-of-speech/Adverb";
 
 
 const AppRoutes = () => {
@@ -52,6 +54,11 @@ const AppRoutes = () => {
             element={<Adjective />}
           />
 
+          <Route
+            path="/english/grammar/pos/adverb"
+            element={<Adverb />}
+          />
+
  {/* GK NOTES */}
           <Route
             path="/gk/history/ancient"
@@ -60,6 +67,10 @@ const AppRoutes = () => {
           <Route
             path="/gk/history/medieval"
             element={<MedievalHistory />}
+          />
+           <Route
+            path="/gk/history/modern"
+            element={<ModernHistory />}
           />
       
 

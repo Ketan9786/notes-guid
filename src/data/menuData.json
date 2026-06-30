@@ -73,6 +73,15 @@
             }
           ]
           
+        },{
+          "topic": "Modern History",
+          "subTopics":[
+            {
+              "name": "Modern History",
+              "path": "/gk/history/modern"
+            }
+          ]
+          
         }
       ]
     },

@@ -1,0 +1,1089 @@
+{
+  "title": "Complete Modern History – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police 2026",
+  "total_questions_covered": 100,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Chapter-wise Weightage Analysis (SSC PYQs)",
+      "type": "summary",
+      "table": [
+        {
+          "topic": "British Expansion in India (Carnatic Wars, Plassey, Buxar)",
+          "sub_areas": "Carnatic Wars, Nawabs of Bengal, Battle of Plassey, Battle of Buxar, Treaty of Allahabad",
+          "questions": 11,
+          "weightage": "High"
+        },
+        {
+          "topic": "The Maratha Empire",
+          "sub_areas": "Shivaji, Ashta Pradhan, Peshwas, Anglo-Maratha Wars, Battle of Panipat III",
+          "questions": 10,
+          "weightage": "High"
+        },
+        {
+          "topic": "Sikh Gurus and Empire",
+          "sub_areas": "Guru Nanak, Guru Gobind Singh, Maharaja Ranjit Singh, Anglo-Sikh Wars",
+          "questions": 4,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Governor-Generals and Viceroys",
+          "sub_areas": "Robert Clive, Warren Hastings, Cornwallis, Wellesley, Bentick, Dalhousie, Curzon, Irwin, Mountbatten",
+          "questions": 19,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Land Revenue System by British",
+          "sub_areas": "Zamindari, Ryotwari, Mahalwari systems",
+          "questions": 1,
+          "weightage": "Low"
+        },
+        {
+          "topic": "The Revolt of 1857",
+          "sub_areas": "Causes, centers, leaders, aftermath, significance",
+          "questions": 8,
+          "weightage": "High"
+        },
+        {
+          "topic": "Timeline – Liberal to Extremist Phase, Gandhi Era, Civil Disobedience, WW-II Impact",
+          "sub_areas": "INC formation, Surat split, Non-Cooperation, Civil Disobedience, Quit India",
+          "questions": 10,
+          "weightage": "High"
+        },
+        {
+          "topic": "Revolutionary Activities and Their Nicknames",
+          "sub_areas": "Bhagat Singh, Chandrashekhar Azad, Subhash Chandra Bose, INA, Lal Bal Pal",
+          "questions": 14,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Socio-Cultural Reform Movements and Their Leaders",
+          "sub_areas": "Brahmo Samaj, Arya Samaj, Aligarh Movement, Ramakrishna Mission",
+          "questions": 2,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Tribal Movements",
+          "sub_areas": "Santhal Hool, Munda Ulgulan, Kol Rebellion, Birsa Munda",
+          "questions": 6,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Sawai Raja Jai Singh",
+          "sub_areas": "Jantar Mantar observatories, Jaipur founding, Governor of Malwa and Agra",
+          "questions": 4,
+          "weightage": "Moderate"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "British Expansion in India – Carnatic Wars",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "First Carnatic War (1746–1748)",
+          "content": [
+            "Cause: Extension of War of Austrian Succession in Europe; Britain and France on opposing sides",
+            "Major Event: French army captured Madras",
+            "Battle of St. Thome (Adyar) 1746: French force led by Captain Paradise defeated Nawab Anwaruddin's larger army #imp",
+            "Conclusion: Treaty of Aix-la-Chapelle (1748) – Madras returned to British; French received North American territories"
+          ]
+        },
+        {
+          "name": "Second Carnatic War (1749–1754)",
+          "content": [
+            "Linked to succession disputes in Carnatic and Hyderabad",
+            "British supported Muhammad Ali; French supported Chanda Sahib",
+            "British officer Robert Clive attacked Arcot (1751) #imp",
+            "Ended with Treaty of Pondicherry (1754); British position strengthened"
+          ]
+        },
+        {
+          "name": "Third Carnatic War (1756–1763)",
+          "content": [
+            "Indian counterpart of the Seven Years' War",
+            "Decisive battle: Battle of Wandiwash (1760) – British commander Eyre Coote defeated French commander Count de Lally #imp",
+            "Ended with Treaty of Paris (1763)",
+            "France retained only trading posts; political power extinguished"
+          ]
+        },
+        {
+          "name": "Battle of Plassey & Buxar",
+          "content": [
+            "Alivardi Khan (1740–1756) – Nawab of Bengal; grandson Siraj-ud-Daulah succeeded him #imp",
+            "1756: Siraj-ud-Daulah attacked Fort William (Calcutta); Black Hole of Calcutta incident (British propaganda)",
+            "1757 – Battle of Plassey (June 23): Robert Clive vs Siraj-ud-Daulah; British won due to Mir Jafar's betrayal #imp",
+            "After Plassey: Mir Jafar became Nawab; real power shifted to British",
+            "1760: Mir Jafar removed; Mir Qasim became Nawab; opposed British trade concessions",
+            "Battle of Buxar (October 22, 1764): British vs Mir Qasim + Shuja-ud-Daulah (Awadh) + Shah Alam II (Mughal Emperor) #imp",
+            "British army led by Hector Munro; British won",
+            "Treaty of Allahabad (1765): Company received Diwani of Bengal, Bihar, Odisha from Shah Alam II; Awadh made buffer state"
+          ]
+        },
+        {
+          "name": "PYQs – British Expansion",
+          "content": [
+            "PYQ: Who became Nawab of Bengal after Alivardi Khan = Sirajuddaulah (Ans: D – SSC CHSL)",
+            "PYQ: Shujauddaulah was Nawab of = Awadh (Ans: B – SSC CHSL)",
+            "PYQ: British EIC's first major victory in India = Battle of Plassey (Ans: D – SSC CHSL)",
+            "PYQ: Battle of Plassey fought in = 1757 (Ans: A – SSC CGL)",
+            "PYQ: Battle of Buxar took place in = 1764 (Ans: B – SSC CHSL)",
+            "PYQ: Treaty of Paris (1763) restricted French to trading posts only + French could not fortify factories = A&R both true, R explains A (Ans: B – Steno Exam)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Anglo-Mysore Wars (1767–1799)",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Overview",
+          "content": [
+            "Wodeyar dynasty established in 1399 by Yaduraya Wodeyar",
+            "Key rulers: Hyder Ali and Tipu Sultan",
+            "Final battle: Srirangapatnam (1799)"
+          ]
+        },
+        {
+          "name": "Anglo-Mysore Wars Summary",
+          "type": "table",
+          "table": [
+            {
+              "war": "First Anglo-Mysore War (1766–1769)",
+              "parties": "Hyder Ali vs British EIC",
+              "outcome": "Hyder Ali won",
+              "treaty": "Treaty of Madras (1769)"
+            },
+            {
+              "war": "Second Anglo-Mysore War (1780–1784)",
+              "parties": "Hyder Ali/Tipu Sultan vs British (Warren Hastings triggered it by attacking French port of Mahe)",
+              "outcome": "Hyder Ali died 1782 (tumor); Porto Novo defeat; Tipu succeeded",
+              "treaty": "Treaty of Mangalore (1784)"
+            },
+            {
+              "war": "Third Anglo-Mysore War (1790–1792)",
+              "parties": "Tipu Sultan vs British EIC + Marathas + Nizam; initiated by Lord Cornwallis",
+              "outcome": "Tipu Sultan defeated; ceded half his kingdom",
+              "treaty": "Treaty of Srirangapatnam (1792)"
+            },
+            {
+              "war": "Fourth Anglo-Mysore War (1798–1799)",
+              "parties": "Tipu Sultan vs Lord Wellesley; Tipu refused to break French ties or accept Subsidiary Alliance",
+              "outcome": "Tipu Sultan (Tiger of Mysore) died defending Srirangapatnam",
+              "treaty": "Mysore restored to Wodeyars under Krishnaraja III who accepted Subsidiary Alliance"
+            }
+          ]
+        },
+        {
+          "name": "PYQs – Anglo-Mysore Wars",
+          "content": [
+            "PYQ: Tipu Sultan became ruler of Mysore in = 1782 (Ans: A – SSC CHSL)",
+            "PYQ: Capital of Tipu Sultan's kingdom = Seringapatam/Srirangapatnam (Ans: B – SSC CHSL)",
+            "PYQ: Who established close relations with French & modernized army = Tipu Sultan (Ans: C – SSC CHSL)",
+            "PYQ: Third Anglo-Mysore War fought in = 1790–92 (Ans: A – SSC CHSL)",
+            "PYQ: Combined forces that attacked Tipu Sultan in 1792 = Marathas + Nizam + East India Company (Ans: D – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Sawai Raja Jai Singh",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "Full name: Jai Singh II; Kachwaha Rajput ruler of Amer (Jaipur)",
+            "Born: 1688; title 'Sawai' (one and a quarter times superior) given by Aurangzeb #imp",
+            "Governor of Malwa multiple times between 1714 and 1737",
+            "In 1722, received governorship of Agra; made Jaipur his capital",
+            "Shifted capital from Amer to Jaipur in 1727 #imp",
+            "Built five Jantar Mantar observatories: Delhi, Jaipur, Ujjain, Mathura, Varanasi #imp"
+          ]
+        },
+        {
+          "name": "PYQs – Sawai Raja Jai Singh",
+          "content": [
+            "PYQ: Around 1713, Sawai Raja Jai Singh appointed governor of = Malwa (Ans: D – SSC CHSL)",
+            "PYQ: In 1722, Sawai Raja Jai Singh given governorship of = Agra (Ans: C – SSC CHSL)",
+            "PYQ: New capital founded by Sawai Raja Jai Singh of Amber = Jaipur (Ans: A – SSC CHSL)",
+            "PYQ: Astronomical observatories constructed by Sawai Jai Singh = Five (Ans: A – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "The Maratha Empire",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Shivaji Maharaj",
+          "content": [
+            "Born: 1630; Founder of Maratha Empire",
+            "Father: Shahaji Bhonsle (Bijapur Adilshahi officer); Mother: Jijabai",
+            "Religious Guru: Samarth Ramdas; Political Guru: Dadaji Konddev",
+            "Capital: Raigad",
+            "Military strategy: Guerrilla warfare known as 'Ganimi Kava' or 'Shiva Sutra' #imp",
+            "1659: Killed Afzal Khan (Bijapur commander) in Battle of Pratapgarh",
+            "1665: Treaty of Purandar with Raja Jai Singh I (Aurangzeb's representative)",
+            "Declared Chhatrapati in 1674; founded Maratha Empire",
+            "Died: April 3, 1680; succeeded by son Sambhaji",
+            "Sambhaji defeated Mughal forces in Battle of Wai (1687)",
+            "Sambhaji captured, tortured & executed by Aurangzeb in 1689"
+          ]
+        },
+        {
+          "name": "Ashta Pradhan (Eight Ministers formed 1674)",
+          "type": "table",
+          "table": [
+            {
+              "post": "Peshwa / Mukhya Pradhan",
+              "role": "Prime Minister"
+            },
+            {
+              "post": "Amatya / Mazumdar",
+              "role": "Finance Minister"
+            },
+            {
+              "post": "Samant / Dabir",
+              "role": "Foreign Minister"
+            },
+            {
+              "post": "Waqia Navis",
+              "role": "Home Minister"
+            },
+            {
+              "post": "Secretary",
+              "role": "Preparing royal edicts"
+            },
+            {
+              "post": "Sar-i-Naubat / Senapati",
+              "role": "Commander-in-Chief"
+            },
+            {
+              "post": "Nyayadhish",
+              "role": "Chief Justice (civil and criminal matters)"
+            },
+            {
+              "post": "Panditrao",
+              "role": "High Priest (managing religious matters)"
+            }
+          ]
+        },
+        {
+          "name": "Peshwas and Maratha Confederacy",
+          "content": [
+            "Bajirao I (Thorle), son of Balaji Vishwanath – fought 40+ battles",
+            "Maratha Confederacy: Scindias (Ranoji Shinde – Gwalior), Holkars (Malharrao – Indore), Gaekwads (Pilaji – Baroda), Pawars (Udaiji – Dhar)",
+            "Balaji Bajirao (Nanasaheb I), son of Bajirao I – captured Attock and Peshawar (1758); defeated Alivardi Khan of Bengal (1751)",
+            "Third Battle of Panipat (1761): Ahmad Shah Abdali defeated Marathas led by Sadashivrao Bhau (nephew of Peshwa Bajirao I) #imp"
+          ]
+        },
+        {
+          "name": "Anglo-Maratha Wars",
+          "content": [
+            "First Anglo-Maratha War (1775–1782): Cause = power struggle between Madhavrao & Raghunathrao; Treaty of Surat (1775) rejected by Calcutta Council; ended with Treaty of Salbai (1782) – agreed by Warren Hastings & Mahadji Shinde #imp",
+            "Second Anglo-Maratha War (1803–1805): Peshwa Bajirao II became Peshwa after Madhavrao Narayan suicide (1795); Treaty of Bassein (1802) brought Peshwa under British control #imp",
+            "Third Anglo-Maratha War (1817–1819): Marathas wanted to reclaim lost territory; sheltered Pindaris; Treaty of Poona (1818) – Peshwa Bajirao II retired on pension; Treaty of Nagpur (1816) with Bhonsle"
+          ]
+        },
+        {
+          "name": "PYQs – Maratha Empire",
+          "content": [
+            "PYQ: Which Maratha ruler established Empire in 1674 = Shivaji (Ans: C – Steno Exam)",
+            "PYQ: Backbone of Maratha army = Kunbis (Ans: C – SSC CHSL)",
+            "PYQ: Military strategy Shivaji used = Guerrilla warfare (Ans: C)",
+            "PYQ: Shivaji's successor = Chhatrapati Sambhaji (Ans: C – SSC CHSL)",
+            "PYQ: Principal minister in Maratha kingdom = Peshwa (Ans: B – SSC CHSL)",
+            "PYQ: First Anglo-Maratha War ended with = Treaty of Salbai (Ans: C)",
+            "PYQ: Baji Rao I popularly referred to as = Baji Rao Ballal (Ans: C)",
+            "PYQ: Father of Baji Rao I = Peshwa Balaji Vishwanath (Ans: B – SSC CHSL)",
+            "PYQ: Maratha campaigns in Rajasthan put pressure from = 1740s (Ans: D – SSC CHSL)",
+            "PYQ: Shivaji's exploits against which forces = Both Mughal & Bijapur (Ans: C – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Sikh Gurus and Empire",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Sikh Gurus",
+          "type": "table",
+          "table": [
+            {
+              "guru": "Guru Nanak Dev",
+              "period": "1469–1539",
+              "key_facts": "Founder of Sikhism; born in Rai Bhoi ki Talwandi (Nankana Sahib); introduced Langar system & twin institutions of Sangat and Pangat; contemporary of Babur; died at Kartarpur"
+            },
+            {
+              "guru": "Guru Arjan Dev",
+              "period": "1581–1606",
+              "key_facts": "Compiled Adi Granth; completed Amritsar; founded Tarn Taran Sahib; first Sikh martyr – executed on orders of Jahangir for supporting Prince Khusrau #imp"
+            },
+            {
+              "guru": "Guru Teg Bahadur",
+              "period": "1665–1675",
+              "key_facts": "Founded Anandpur; assassinated by Aurangzeb in Delhi 1675; second martyr in Sikh history"
+            },
+            {
+              "guru": "Guru Gobind Singh",
+              "period": "1675–1708",
+              "key_facts": "Born Dec 22, 1666 in Patna; 10th and last Guru; founded Khalsa on 13 April 1699 (Vaisakhi); introduced 5 Ks; declared Guru Granth Sahib as eternal Guru; died October 7, 1708 #imp"
+            }
+          ]
+        },
+        {
+          "name": "Maharaja Ranjit Singh & Anglo-Sikh Wars",
+          "content": [
+            "Born: November 13, 1780 in Gujranwala (Pakistan); died 1839 AD",
+            "Title: Sher-e-Punjab; Capital: Lahore",
+            "Founder of Sikh Empire; captured Lahore in 1799; established secular Sikh state",
+            "Assumed title of Maharaja in 1801 AD",
+            "Treaty of Amritsar (1809): Between British EIC (Charles T. Metcalfe) & Ranjit Singh; Sutlej River fixed as boundary #imp",
+            "First Anglo-Sikh War (1845–46): British won; Sikh army crossed Sutlej on Dec 11, 1845 violating Treaty of Amritsar",
+            "Second Anglo-Sikh War (1848–49): British won; causes = humiliation of Queen Jindan; exile to Banaras; murder of British officers by Mulraj (Governor of Multan); Sikh surrendered at Rawalpindi 1849",
+            "First Anglo-Afghan War (1838–42): Afghans under Amir Dost Mohammad defeated British; Lord Lawrence followed Masterly Inactivity (1864–1869)",
+            "Second Anglo-Afghan War (1878–80): Amir Sher Ali stopped British envoy at Khyber Pass; Lord Lytton used Forward Policy; Yaqub Khan signed Treaty of Gandamak (1879)",
+            "Third Anglo-Afghan War (1919): Ended with Treaty of Rawalpindi; Afghanistan got independence on 19 August 1919 under Emir Amanullah Khan"
+          ]
+        },
+        {
+          "name": "PYQs – Sikh Gurus and Empire",
+          "content": [
+            "PYQ: Which Sikh Guru instituted Khalsa in 1699 = Guru Gobind Singh (Ans: D – SSC CHSL)",
+            "PYQ: In which year Guru Gobind Singh died = 1708 (Ans: A – SSC CHSL)",
+            "PYQ: Combined army of Sikh Jathas and Misls in 18th century = Dal Khalsa (Ans: D – SSC CHSL)",
+            "PYQ: Maharaja Ranjit Singh established capital at Lahore in = 1799 (Ans: D – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "Governors-General and Viceroys of India",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Robert Clive (1757–1760 / 1765–1767)",
+          "content": [
+            "Considered founder of British rule in India; first British Governor of Bengal",
+            "Defeated Siraj-ud-Daulah in Battle of Plassey (June 23, 1757)",
+            "Signed Treaty of Allahabad (1765) with Shah Alam II and Nawab of Awadh",
+            "Introduced Dual Government system in 1765 (lasted until 1772)",
+            "Committed suicide on November 22, 1774 in London"
+          ]
+        },
+        {
+          "name": "Warren Hastings (1774–1785) – First Governor-General of Bengal",
+          "content": [
+            "Regulating Act 1773: Governor of Bengal made first Governor-General of India; Warren Hastings was first GG",
+            "Abolished Dual System Administration & system of Dastaks",
+            "Supreme Court established in Calcutta in 1774; first judge: Elijah Impey",
+            "Established civil (revenue/diwani) and criminal courts",
+            "Assisted founding of Asiatic Society (1784) by Sir William Jones",
+            "Fought First Anglo-Maratha War (1775–82) and Second Anglo-Mysore War (1780–84)"
+          ]
+        },
+        {
+          "name": "Lord Cornwallis (1786–1793)",
+          "content": [
+            "Introduced Zamindari System (Permanent Settlement) in 1793 in Bengal #imp",
+            "Father of Civil Services; Father of Judicial Reforms in India (Cornwallis Code 1793)",
+            "Established Police Thanas for law and order",
+            "Founded Sanskrit College at Benaras (Jonathan Duncan) and Mint at Calcutta",
+            "Fought Third Anglo-Mysore War (1790–92)"
+          ]
+        },
+        {
+          "name": "Richard Wellesley (1798–1805)",
+          "content": [
+            "Called himself 'The Lion of Bengal'",
+            "Started Subsidiary Alliance system; 1st alliance with Nizam of Hyderabad (1798) #imp",
+            "States under Subsidiary Alliance: Hyderabad–1798, Mysore–1799, Tanjore–1799, Awadh–1801, Peshwa–1802, Bhonsle (Nagpur)–1803, Scindia (Gwalior)–1804, Holkar (Indore)–1818",
+            "Treaty of Bassein (1802): Between Maratha Peshwa Bajirao II and British",
+            "Established Fort William College Calcutta (1800) for training civil servants",
+            "Fought 4th Anglo-Mysore War (Tipu Sultan's death) & 2nd Anglo-Maratha War"
+          ]
+        },
+        {
+          "name": "Lord Hastings (1813–1823)",
+          "content": [
+            "Anglo-Nepalese War 1814–1816; Treaty of Sagauli (1815, ratified 1816)",
+            "Third Anglo-Maratha War (1817–19)",
+            "British paramountcy fully established during his tenure"
+          ]
+        },
+        {
+          "name": "Lord William Bentick (1828–1835)",
+          "content": [
+            "1828–1833: Last Governor-General of Bengal",
+            "1833–1835: First Governor-General of India",
+            "Abolished Sati Pratha & other cruel rites in 1829 #imp",
+            "Suppressed Kol Rebellion of Chhota Nagpur tribes (1831)",
+            "Charter Act of 1833 passed in his tenure",
+            "Reformed Mahalwari System in 1833; Formation of 1st Law Commission in 1834",
+            "Raja Ram Mohan Roy founded Brahmo Samaj at Calcutta in 1828"
+          ]
+        },
+        {
+          "name": "Lord Dalhousie (1848–1856)",
+          "content": [
+            "Introduced Doctrine of Lapse: Satara (1848), Jhansi (1853), Nagpur (1854) annexed",
+            "Started Railways (1853: Bombay to Thane, first train), Telegraph (1851), Post Office",
+            "Wood's Education Despatch (1854) – foundation of modern education",
+            "Annexation of Punjab (1849) after 2nd Anglo-Sikh War",
+            "Annexation of Awadh (1856) – on grounds of misgovernance"
+          ]
+        },
+        {
+          "name": "Lord Canning (1856–1862) – First Viceroy of India",
+          "content": [
+            "Revolt of 1857 occurred during his tenure",
+            "Government of India Act (1858) – Company rule replaced by Crown rule; Canning became first Viceroy",
+            "Indian Councils Act (1861) introduced"
+          ]
+        },
+        {
+          "name": "Lord Lytton (1876–1880)",
+          "content": [
+            "Royal Titles Act 1876: Queen Victoria assumed title 'Empress of India' (Kaiser-e-Hind) #imp",
+            "Arms Act (1878): Mandatory licence for Indians to possess arms",
+            "Proposed Statutory Civil Service (1878–79); lowered max age from 21 to 19 years",
+            "Second Anglo-Afghan War (1878–80); followed Forward Policy"
+          ]
+        },
+        {
+          "name": "Lord Ripon (1880–1884)",
+          "content": [
+            "First synchronous Official Census in 1881",
+            "Repeal of Vernacular Press Act (1882)",
+            "Establishment of Punjab University (1882)",
+            "Government resolution on local self-government (1882); Father of Local Self-Government",
+            "Education Reforms – Hunter Commission (1882)",
+            "Ilbert Bill Controversy: Grant Indian magistrates authority to try European/British citizens"
+          ]
+        },
+        {
+          "name": "Lord Curzon (1899–1905)",
+          "content": [
+            "Indian Coinage & Paper Currency Act (1899) – India on Gold Standard",
+            "Munda (Ulgulan) Rebellion led by Birsa Munda (1899–1900)",
+            "Calcutta Corporation Act of 1899",
+            "In 1905: Bengal divided into East Bengal and West Bengal #imp",
+            "Swadeshi Movement (1905–1911) against Partition of Bengal by Lal Bal Pal and Aurbindo Ghosh"
+          ]
+        },
+        {
+          "name": "Lord Minto-II (1905–1910)",
+          "content": [
+            "Jamsetji Tata established TISCO (1907)",
+            "Muslim League established by Aga Khan III & Khwaja Salimullah (Nawab of Dhaka) in 1906 #imp",
+            "Foundation stone of Victoria Memorial laid (1906)",
+            "Split in Congress (1907) at Surat session",
+            "Indian Council Act 1909 (Morley–Minto Reform): Introduced Communal Electorate #imp"
+          ]
+        },
+        {
+          "name": "Lord Hardinge-II (1910–1916)",
+          "content": [
+            "Annulment of Partition of Bengal by King George V (1911) #imp",
+            "Transfer of capital from Calcutta to Delhi (1911) #imp",
+            "Coronation Durbar of King George V – Delhi Durbar III (1911)",
+            "Partition of Bengal to form Bihar and Orissa province (1912)",
+            "World War I (1914–1918); McMahon border line between India and China (1914)",
+            "Mahatma Gandhi returned to India from South Africa (1915)"
+          ]
+        },
+        {
+          "name": "Lord Chelmsford (1916–1921)",
+          "content": [
+            "Indian Home Rule Movement by Bal Gangadhar Tilak and Annie Besant (1916)",
+            "Lucknow Pact (1916) between INC and Muslim League",
+            "Jallianwala Bagh massacre (1919) – General O'Dwyer #imp",
+            "Champaran Satyagraha (1917) – Gandhi's first Satyagraha in India"
+          ]
+        },
+        {
+          "name": "Lord Irwin (1926–1931)",
+          "content": [
+            "Death of Lala Lajpat Rai (1928)",
+            "All India Youth Congress in 1928",
+            "Dandi March (March 12, 1930) by Gandhi – Civil Disobedience Movement launched #imp",
+            "Gandhi–Irwin Pact (1931)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "The Revolt of 1857",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Facts",
+          "content": [
+            "Also called 'First War of Indian Independence' / Sepoy Mutiny / Great Revolt",
+            "Immediate cause: Introduction of Enfield rifle cartridges greased with cow & pig fat (offensive to Hindus and Muslims)",
+            "First spark: Mangal Pandey at Barrackpore (March 29, 1857)",
+            "Official start: May 10, 1857 at Meerut",
+            "Viceroy: Lord Canning; Ended 1858 – Company rule replaced by Crown",
+            "Government of India Act 1858: Secretary of State for India and Council of India established"
+          ]
+        },
+        {
+          "name": "Centers and Leaders of 1857",
+          "type": "table",
+          "table": [
+            {
+              "center": "Meerut",
+              "leader": "Sepoys"
+            },
+            {
+              "center": "Delhi",
+              "leader": "Bahadur Shah II (Zafar)"
+            },
+            {
+              "center": "Kanpur (Cawnpore)",
+              "leader": "Nana Saheb (Peshwa Bajirao II's adopted son)"
+            },
+            {
+              "center": "Lucknow",
+              "leader": "Begum Hazrat Mahal"
+            },
+            {
+              "center": "Jhansi",
+              "leader": "Rani Laxmibai"
+            },
+            {
+              "center": "Bihar (Arrah)",
+              "leader": "Kunwar Singh"
+            },
+            {
+              "center": "Bareilly",
+              "leader": "Khan Bahadur Khan"
+            },
+            {
+              "center": "Assam",
+              "leader": "Diwan Maniram Datta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Indian National Movement – Timeline",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Early Phase – Moderate and Extremist",
+          "content": [
+            "Indian National Congress (INC) founded: 1885 by A.O. Hume; first session in Bombay, presided by W.C. Bonnerjee",
+            "Moderate Phase (1885–1905): Leaders – Gopal Krishna Gokhale, Dadabhai Naoroji, Pherozeshah Mehta; method: petitions and prayers",
+            "Extremist Phase (1905–1920): Leaders – Bal Gangadhar Tilak, Lala Lajpat Rai, Bipin Chandra Pal (Lal Bal Pal)",
+            "Surat Split (1907): Congress divided into Moderates (Gokhale) and Extremists (Tilak) #imp",
+            "Morley-Minto Reforms (1909): Communal electorate introduced; divisive policy"
+          ]
+        },
+        {
+          "name": "Gandhi Era – Non-Cooperation to Civil Disobedience",
+          "content": [
+            "Gandhi returned to India from South Africa (1915)",
+            "Champaran Satyagraha (1917): Against indigo plantation oppression; Gandhi's first Satyagraha in India",
+            "Non-Cooperation Movement (1920–22): Gandhi; boycott of foreign goods, courts, schools",
+            "Chauri Chaura incident (Feb 5, 1922): Violence led Gandhi to suspend NCM",
+            "Simon Commission (1927): All British members; boycotted with 'Simon Go Back'",
+            "Dandi March (March 12, 1930): Gandhi marched 241 miles to make salt; launched Civil Disobedience Movement #imp",
+            "Gandhi–Irwin Pact (1931): CDM suspended",
+            "Round Table Conferences: 1930 (INC absent), 1931 (Gandhi attended), 1932",
+            "Poona Pact (1932): Between Gandhi and B.R. Ambedkar on separate electorate for depressed classes"
+          ]
+        },
+        {
+          "name": "Quit India Movement & Independence",
+          "content": [
+            "Quit India Movement (August 8, 1942): 'Do or Die'; launched at Bombay session of INC; Viceroy Lord Linlithgow #imp",
+            "INA (Indian National Army) formed by Subhash Chandra Bose (Netaji); slogan 'Dilli Chalo'",
+            "Cabinet Mission (1946): Proposed Union of India with provinces and princely states",
+            "Indian Independence Act (July 18, 1947): India and Pakistan as two dominions",
+            "India got independence: August 15, 1947; Mountbatten was last Viceroy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Revolutionary Activities and Nicknames",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Freedom Fighters and Their Titles/Nicknames",
+          "type": "table",
+          "table": [
+            {
+              "name": "Mahatma Gandhi",
+              "nickname_title": "Father of the Nation / Bapu / Mahatma",
+              "key_contribution": "Non-Cooperation, CDM, Quit India; Dandi March; Champaran Satyagraha"
+            },
+            {
+              "name": "Subhash Chandra Bose",
+              "nickname_title": "Netaji",
+              "key_contribution": "Founded INA; 'Dilli Chalo' slogan; 'Give me blood, I will give you freedom'"
+            },
+            {
+              "name": "Bhagat Singh",
+              "nickname_title": "Shaheed-e-Azam",
+              "key_contribution": "Killed Saunders; bombed Central Assembly (1929); hanged March 23, 1931 with Rajguru & Sukhdev"
+            },
+            {
+              "name": "Chandrashekhar Azad",
+              "nickname_title": "Azad",
+              "key_contribution": "HSRA (Hindustan Socialist Republican Association); died in Alfred Park, Allahabad (1931)"
+            },
+            {
+              "name": "Bal Gangadhar Tilak",
+              "nickname_title": "Lokmanya",
+              "key_contribution": "Extremist leader; 'Swaraj is my birthright'; started Ganesh Festival & Shivaji Festival"
+            },
+            {
+              "name": "Lala Lajpat Rai",
+              "nickname_title": "Punjab Kesari / Sher-e-Punjab",
+              "key_contribution": "Died from injuries after police lathi charge during Simon Commission protest (1928)"
+            },
+            {
+              "name": "Bipin Chandra Pal",
+              "nickname_title": "Father of Revolutionary Thought",
+              "key_contribution": "Part of Lal Bal Pal trio; advocated complete independence"
+            },
+            {
+              "name": "Dadabhai Naoroji",
+              "nickname_title": "Grand Old Man of India",
+              "key_contribution": "Drain Theory – exposed British economic exploitation"
+            },
+            {
+              "name": "Gopal Krishna Gokhale",
+              "nickname_title": "Political Guru of Gandhi",
+              "key_contribution": "Moderate leader; founder of Servants of India Society (1905)"
+            },
+            {
+              "name": "Annie Besant",
+              "nickname_title": "First woman President of INC (1917)",
+              "key_contribution": "Home Rule Movement (1916); founded Theosophical Society India"
+            }
+          ]
+        },
+        {
+          "name": "Important Revolutionary Organizations",
+          "content": [
+            "Abhinav Bharat Society: Founded by V.D. Savarkar (1904)",
+            "Anushilan Samiti: Bengal revolutionary organization",
+            "Ghadar Party (1913): Founded by Lala Hardayal in San Francisco",
+            "HSRA (Hindustan Socialist Republican Association): Bhagat Singh, Chandrashekhar Azad",
+            "INA (Indian National Army): Founded by Rash Behari Bose (1942); Netaji Subhash Chandra Bose took command",
+            "Chapekar Brothers (Damodar, Balkrishna, Vasudeo): Assassinated a British official during plague epidemic in Pune"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": "Socio-Cultural Reform Movements",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Major Reform Movements",
+          "type": "table",
+          "table": [
+            {
+              "movement": "Brahmo Samaj",
+              "founder": "Raja Ram Mohan Roy",
+              "year": "1828",
+              "location": "Calcutta",
+              "key_facts": "Monotheistic; opposed idol worship, sati, caste; 'Father of Indian Renaissance'"
+            },
+            {
+              "movement": "Arya Samaj",
+              "founder": "Swami Dayananda Saraswati",
+              "year": "1875",
+              "location": "Bombay",
+              "key_facts": "Back to Vedas; opposed idol worship; started Shuddhi movement; Din-i-Ilahi opposed"
+            },
+            {
+              "movement": "Ramakrishna Mission",
+              "founder": "Swami Vivekananda",
+              "year": "1897",
+              "location": "Belur Math, Bengal",
+              "key_facts": "Vedanta philosophy; social service; Chicago speech (1893) – World Parliament of Religions"
+            },
+            {
+              "movement": "Aligarh Movement",
+              "founder": "Sir Syed Ahmad Khan",
+              "year": "1875",
+              "location": "Aligarh",
+              "key_facts": "Founded MAO College (later Aligarh Muslim University); modernize Muslim education"
+            },
+            {
+              "movement": "Prarthana Samaj",
+              "founder": "R.G. Bhandarkar & M.G. Ranade",
+              "year": "1867",
+              "location": "Bombay",
+              "key_facts": "Social reform among Maharashtrian Hindus; opposed caste discrimination"
+            },
+            {
+              "movement": "Theosophical Society",
+              "founder": "H.P. Blavatsky & H.S. Olcott",
+              "year": "1875",
+              "location": "New York (India HQ: Adyar, Madras)",
+              "key_facts": "Universal brotherhood; Annie Besant became president"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": "Tribal Movements",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Major Tribal Uprisings",
+          "type": "table",
+          "table": [
+            {
+              "revolt": "Kol Uprising",
+              "year": "1831–32",
+              "region": "Chhota Nagpur (Jharkhand)",
+              "leader": "Buddhu Bhagat",
+              "cause": "Alienation of tribal land by outsiders; suppressed by Lord William Bentick"
+            },
+            {
+              "revolt": "Santhal Hool (Rebellion)",
+              "year": "1855–56",
+              "region": "Rajmahal Hills, Bihar",
+              "leader": "Sidhu & Kanhu Murmu",
+              "cause": "Exploitation by moneylenders, zamindars, and British officials"
+            },
+            {
+              "revolt": "Munda Ulgulan (Great Tumult)",
+              "year": "1899–1900",
+              "region": "Chhota Nagpur (Ranchi)",
+              "leader": "Birsa Munda",
+              "cause": "Against exploitation by landlords and Christian missionaries; wanted Munda raj (self-rule)"
+            },
+            {
+              "revolt": "Rampa Rebellion (Alluri Sitarama Raju)",
+              "year": "1922–24",
+              "region": "Andhra Pradesh",
+              "leader": "Alluri Sitarama Raju",
+              "cause": "Against British restrictions on forest use and the Arms Act"
+            },
+            {
+              "revolt": "Tebhaga Movement",
+              "year": "1946–47",
+              "region": "Bengal",
+              "leader": "Led by Kisan Sabha",
+              "cause": "Demanded two-thirds share of crop for sharecroppers (instead of half)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": "Important PYQ Quick-Fire Facts",
+      "type": "summary",
+      "pyqs": [
+        {
+          "q_num": "Q1",
+          "exam": "Steno Exam",
+          "question": "Sweeping geopolitical shifts from defeat of Nawab of Carnatic's army = Exposed systemic weaknesses; EIC shifted from trade to political hegemony",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q2",
+          "exam": "Steno Exam",
+          "question": "Treaty of Paris (1763) restricted French to trading posts + French could not fortify factories = Both A&R true, R explains A",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q3",
+          "exam": "SSC CHSL",
+          "question": "Who became Nawab of Bengal after Alivardi Khan = Sirajuddaulah",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q4",
+          "exam": "SSC CHSL",
+          "question": "Shujauddaulah was Nawab of which region = Awadh",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q5",
+          "exam": "SSC CHSL",
+          "question": "EIC's first major victory in India = Battle of Plassey",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q6",
+          "exam": "SSC CGL",
+          "question": "Battle of Plassey fought in = 1757",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q7",
+          "exam": "SSC CHSL",
+          "question": "Battle of Buxar took place in = 1764",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q8",
+          "exam": "SSC CHSL",
+          "question": "Tipu Sultan became ruler of Mysore in = 1782",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q9",
+          "exam": "SSC CHSL",
+          "question": "Capital of Tipu Sultan's kingdom = Seringapatam (Srirangapatnam)",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q10",
+          "exam": "SSC CHSL",
+          "question": "Who established close relations with French and modernized army = Tipu Sultan",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q11",
+          "exam": "SSC CHSL",
+          "question": "Third Anglo-Mysore War fought in = 1790–92",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q12",
+          "exam": "SSC CHSL",
+          "question": "Combined forces that attacked Tipu Sultan in 1792 = Marathas + Nizam + EIC",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q13",
+          "exam": "SSC CHSL",
+          "question": "Around 1713, Sawai Raja Jai Singh appointed governor of = Malwa",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q14",
+          "exam": "SSC CHSL",
+          "question": "In 1722, Sawai Raja Jai Singh given governorship of = Agra",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q15",
+          "exam": "SSC CHSL",
+          "question": "New capital founded by Sawai Raja Jai Singh of Amber = Jaipur",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q16",
+          "exam": "SSC CHSL",
+          "question": "Astronomical observatories constructed by Sawai Jai Singh = Five",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q17",
+          "exam": "Steno Exam",
+          "question": "Maratha ruler who established Empire in 1674 by declaring Chhatrapati = Shivaji",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q18",
+          "exam": "SSC CHSL",
+          "question": "Backbone of Maratha army = Kunbis",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q19",
+          "exam": "SSC CHSL",
+          "question": "Military strategy Shivaji used = Guerrilla warfare (Ganimi Kava)",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q20",
+          "exam": "SSC CHSL",
+          "question": "Successor of Chhatrapati Shivaji Maharaj = Chhatrapati Sambhaji",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q21",
+          "exam": "SSC CHSL",
+          "question": "Principal minister in Maratha kingdom = Peshwa",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q22",
+          "exam": "SSC CHSL",
+          "question": "First Anglo-Maratha War ended with = Treaty of Salbai",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q23",
+          "exam": "SSC CHSL",
+          "question": "Baji Rao I popularly referred to as = Baji Rao Ballal",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q24",
+          "exam": "SSC CHSL",
+          "question": "Father of Baji Rao I = Peshwa Balaji Vishwanath",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q25",
+          "exam": "SSC CHSL",
+          "question": "Maratha campaigns in Rajasthan put pressure from = 1740s decade",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q26",
+          "exam": "SSC CHSL",
+          "question": "Shivaji's exploits against which forces made him legendary = Both Mughal & Bijapur",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q27",
+          "exam": "SSC CHSL",
+          "question": "Which Sikh Guru instituted Khalsa in 1699 = Guru Gobind Singh",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q28",
+          "exam": "SSC CHSL",
+          "question": "In which year Guru Gobind Singh died = 1708",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q29",
+          "exam": "SSC CHSL",
+          "question": "Combined army of Sikh Jathas and Misls in 18th century = Dal Khalsa",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q30",
+          "exam": "SSC CHSL",
+          "question": "Maharaja Ranjit Singh established capital at Lahore in = 1799",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q31",
+          "exam": "SSC CHSL",
+          "question": "Governor-General of British India from 1773 to 1785 = Warren Hastings",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q32",
+          "exam": "SSC CHSL",
+          "question": "In which year EIC introduced Permanent Settlement = 1793",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q33",
+          "exam": "SSC CHSL",
+          "question": "Primary objective of Ring-Fencing Policy by British = Create buffer states to defend British territories",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q34",
+          "exam": "SSC CHSL",
+          "question": "Primary consequence for Indian states entering Subsidiary Alliance = Lost independent foreign policy and military capacity (under British political control)",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q35",
+          "exam": "SSC CHSL",
+          "question": "Subsidiary Alliance condition = Allied rulers had to keep a British Resident in their court",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q36",
+          "exam": "SSC CHSL",
+          "question": "Year Nawab of Awadh was forced to give half his territory to EIC = 1801",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q37",
+          "exam": "SSC CHSL",
+          "question": "Under which GG was policy of 'paramountcy' initiated = Lord Hastings",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q38",
+          "exam": "SSC CHSL",
+          "question": "Indian Arms Act passed by British Government in = 1878",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q39",
+          "exam": "SSC CHSL",
+          "question": "Ilbert Bill controversy of 1883–84 related to = Allowing Indian judges to try European offenders in criminal cases",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q40",
+          "exam": "SSC CHSL",
+          "question": "Which bill provided trial of British persons by Indians = Ilbert Bill of 1883",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q41",
+          "exam": "SSC CGL",
+          "question": "British colonial architecture adopted lime mortar + design methods enabled arches, domes = Both correct but Stmt 2 does not explain Stmt 1",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q42",
+          "exam": "Steno Exam",
+          "question": "British capital in 18th century reinvested in industrial development + capital controlled by merchants/industrialists = A false, R true",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q43",
+          "exam": "SSC CGL",
+          "question": "Chapekar Brothers assassinated British official during plague epidemic in which city = Pune",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q44",
+          "exam": "SSC CHSL",
+          "question": "Bombay and Madras government response to 1839 Draft Act on slavery = Bombay saw no need for law; Madras questioned expediency",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q45",
+          "exam": "SSC CHSL",
+          "question": "Robert Clive appointed Governor of Bengal around = 1764 (1765)",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q46",
+          "exam": "SSC CHSL",
+          "question": "Tragic incident in Robert Clive's life in 1774 = Committed suicide",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q47",
+          "exam": "SSC CHSL",
+          "question": "Responsibilities of Madras and Bombay governors after 1773 = Had to report to Governor-General on war, peace, and revenue",
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
