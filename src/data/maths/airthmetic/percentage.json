@@ -1,368 +1,469 @@
- {
-  "percentage": {
-    "chapter": "Percentage",
-    "subject": "Maths",
-    "exam": "SSC CGL",
-    "topics": [
-      {
-        "id": "basic",
-        "title": "Basic Percentage",
-        "icon": "📊",
-        "badge": "Q1, Q2, Q3, Q4",
-        "badgeColor": "blue",
-        "summary": "Finding x% of a number, or what % one number is of another.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Core formulas",
-            "formulas": [
-              "x% of N = N × x/100",
-              "A is what % of B? → (A/B) × 100"
-            ],
-            "steps": [
-              "Convert % to fraction using fraction table (1/4=25%, 1/5=20%, 1/8=12.5%...)",
-              "For chain %: multiply all fractions together",
-              "25% of 40% of 2100 = (1/4) × (2/5) × 2100"
-            ],
-            "examples": [
-              "Q2: 25% of 40% of (2/7) of 2100 = (1/4)×(2/5)×(2/7)×2100 = 60",
-              "Q3: 55% boys → 45% girls = 90 → total = 200, boys = 110"
-            ]
-          },
-          {
-            "type": "concept",
-            "title": "A is x% more/less than B",
-            "badge": "Q1",
-            "badgeColor": "green",
-            "formulas": [
-              "A is 25% more than B → A:B = 125:100 = 5:4",
-              "B less than A by? → Difference/A × 100"
-            ],
-            "steps": [
-              "Write ratio: A:B = (100+x):100",
-              "Reverse % = difference / (larger number) × 100"
-            ],
-            "examples": [
-              "Q1: Reeta 25% more than Geeta → R:G = 5:4 → Geeta less than Reeta = 1/5 × 100 = 20%"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "fractions",
-        "title": "Key Fractions",
-        "icon": "🔢",
-        "badge": "Q5, Q14, Q15",
-        "badgeColor": "blue",
-        "summary": "Key fraction-to-percentage conversions and fraction manipulation.",
-        "cards": [
-          {
-            "type": "table",
-            "title": "Fraction table to memorise",
-            "rows": [
-              ["1/2 = 50%", "1/3 = 33.33%", "1/4 = 25%"],
-              ["1/5 = 20%", "1/6 = 16.66%", "1/7 = 14.28%"],
-              ["1/8 = 12.5%", "1/9 = 11.11%", "1/10 = 10%"],
-              ["1/20 = 5%", "3/8 = 37.5%", "5/8 = 62.5%"]
-            ],
-            "tip": "37.5% more → ×11/8 | 37.5% less → ×5/8 | 37.5% of → ×3/8"
-          },
-          {
-            "type": "concept",
-            "title": "Numerator / denominator changed",
-            "badge": "Q14, Q15",
-            "badgeColor": "blue",
-            "formulas": [
-              "New = Original × (100+a)/(100−b)",
-              "Set new fraction = given value, solve for original"
-            ],
-            "steps": [
-              "Let original fraction = N/D",
-              "Apply % change to N and D separately",
-              "Set result equal to given fraction and solve"
-            ],
-            "examples": [
-              "Q15: N↑140% → ×12/5, D↓20% → ×4/5. Result=12/7 → original = 4/7",
-              "Q14: 1/5 % = (1/5) ÷ 100 = 1/500"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "successive",
-        "title": "Successive %",
-        "icon": "🔁",
-        "badge": "Q9, Q10, Q11, Q13",
-        "badgeColor": "blue",
-        "summary": "When a value is changed multiple times one after another.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Successive % formulas",
-            "formulas": [
-              "Both ↑: net % = x + y + xy/100",
-              "Both ↓: net % = −x − y + xy/100",
-              "One ↑, one ↓: net % = x − y − xy/100"
-            ],
-            "steps": [
-              "Identify sign of each change (+ for increase, − for decrease)",
-              "Plug into formula with correct signs",
-              "Or use multiply method: Final = P × (100+x)/100 × (100+y)/100"
-            ],
-            "examples": [
-              "Q11: +15% then +40% → 15+40+(600/100) = 61%",
-              "Q10: Price ↓25%, visitors ↑50% → −25+50−(−1250/100) = +12.5%",
-              "Q13: ↑10%,↑5%,↑15% → 1.10×1.05×1.15 − 1 = 32.825% ≈ 32 33/40%"
-            ]
-          },
-          {
-            "type": "concept",
-            "title": "Number changed multiple times",
-            "badge": "Q8, Q9",
-            "badgeColor": "green",
-            "steps": [
-              "Let original = 100",
-              "Apply each % change step by step",
-              "Compare final with 100 to get net % change"
-            ],
-            "examples": [
-              "Q9: ↑25% then ↓16%: 100 → 125 → 105 → net = +5%",
-              "Q8: ↓20% then ↑200%: 100→80→240. Diff(3,1)=140, Diff(2,3)=160 → 140 is 12.5% less than 160"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "price_consumption",
-        "title": "Price & Consumption",
-        "icon": "🛒",
-        "badge": "Q27, Q28, Q29",
-        "badgeColor": "amber",
-        "summary": "Expenditure = Price × Consumption. Price and consumption move inversely to keep expenditure same.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Expenditure stays same",
-            "formulas": [
-              "Price ↑x% → reduce consumption by x/(100+x) × 100",
-              "Price ↓x% → can increase consumption by x/(100−x) × 100"
-            ],
-            "steps": [
-              "Write price ratio old:new (e.g. 100:165 for +65%)",
-              "Consumption ratio = new:old (reverse)",
-              "Reduction % = difference / new price × 100"
-            ],
-            "examples": [
-              "Q27: CNG ↑65% → reduce by 65/165 × 100 = 39.39%",
-              "Q28: Onion 60→75 (+25%) → reduce by 15/75 × 100 = 20%",
-              "Q29: Production ↓35% → hours ↑ by 35/65 × 100 = 53.85%"
-            ]
-          },
-          {
-            "type": "concept",
-            "title": "Revenue = Price × Sales",
-            "badge": "Q10, Q12",
-            "badgeColor": "amber",
-            "formulas": [
-              "% change in revenue = p + s + (p×s/100)"
-            ],
-            "examples": [
-              "Q12: Price ↑12.5%, Sales ↑8.5% → 21 + 1.0625 = 22.0625%"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "income_savings",
-        "title": "Income & Savings",
-        "icon": "💰",
-        "badge": "Q30, Q31, Q32, Q33",
-        "badgeColor": "blue",
-        "summary": "Income = Expenditure + Savings. Track all three when any one changes.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Core identity",
-            "formulas": [
-              "Income = Expenditure + Savings",
-              "Savings % = 100 − Expenditure %"
-            ],
-            "steps": [
-              "Let income = 100. Set exp and savings from given %",
-              "Apply new income (e.g. ↑15% → income becomes 115)",
-              "Calculate new expenditure with its own % change",
-              "New savings = New income − New expenditure",
-              "% change in savings = (New − Old) / Old × 100"
-            ],
-            "examples": [
-              "Q31: Income=100, exp=70, savings=30. New income=115, new exp=75.25. Savings=39.75 → ↑32.5%",
-              "Q30: Savings=40% → exp=60%. Avg exp=₹21000 → total=₹42000 → income = ₹70,000"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "election",
-        "title": "Election",
-        "icon": "🗳",
-        "badge": "Q21–Q26",
-        "badgeColor": "red",
-        "summary": "Two methods depending on whether candidate % is of total or valid votes.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "When to use which method",
-            "tip": "Candidate % of VALID votes → Successive method | Candidate % of TOTAL votes → Tree method"
-          },
-          {
-            "type": "concept",
-            "title": "Tree method — candidate % of total votes",
-            "formulas": [
-              "Total → Cast + Not cast → Valid + Invalid → A + B"
-            ],
-            "steps": [
-              "Start from 100% total voters",
-              "Deduct % not voted to get % voted",
-              "Deduct % invalid to get % valid",
-              "Apply candidate % on valid",
-              "Winner − Loser = given margin → solve for total"
-            ],
-            "examples": [
-              "Q26: 30% didn't vote → 70% voted. 20% invalid → 56% valid. Winner=64%→35.84%. Diff=15.68%=3136 → Total=20,000"
-            ]
-          },
-          {
-            "type": "concept",
-            "title": "Successive method — candidate % of valid votes",
-            "badge": "Q23, Q24",
-            "badgeColor": "red",
-            "steps": [
-              "Valid votes = candidate votes / candidate's % of valid",
-              "Total cast = valid / (1 − invalid%)",
-              "Total voters = total cast / (% who voted)"
-            ],
-            "examples": [
-              "Q23: Jeeta=91800=60% of valid → valid=153000. Cast=153000/0.85. Total=180000/0.90 = 2,00,000"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "pass_fail",
-        "title": "Pass / Fail",
-        "icon": "📋",
-        "badge": "Q34, Q35, Q36",
-        "badgeColor": "blue",
-        "summary": "Find max marks or passing marks from failure/pass margins.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Core formulas",
-            "formulas": [
-              "Pass marks = scored + marks short (if failed)",
-              "Pass marks = scored − excess (if passed)",
-              "Max marks = Pass marks / Pass% × 100"
-            ],
-            "examples": [
-              "Q34: 210 marks, fails by 14 → pass=224. Pass%=35% → Max = 640",
-              "Q35: 20%→fail 25. 50%→pass 20. Diff=30%=45 marks → Max=150. Pass = 55"
-            ]
-          },
-          {
-            "type": "concept",
-            "title": "Two-student method",
-            "badge": "Q36",
-            "badgeColor": "amber",
-            "steps": [
-              "Student 1 fails: pass = a%×M + x",
-              "Student 2 passes: pass = b%×M − y",
-              "Equate and solve for M"
-            ],
-            "examples": [
-              "Q36: 20%M + 30 = 32%M − 42 → 12%M = 72 → M = 600"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "venn",
-        "title": "Venn Diagram",
-        "icon": "⭕",
-        "badge": "Q37",
-        "badgeColor": "amber",
-        "summary": "Find % who passed both subjects when individual pass % and fail-both % are given.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Two-subject formula",
-            "formulas": [
-              "Passed both = Pass(A) + Pass(B) + Fail(both) − 100"
-            ],
-            "steps": [
-              "Failed(A only) = 100−Pass(A) − Fail(both)",
-              "Failed(B only) = 100−Pass(B) − Fail(both)",
-              "Total failed at least one = A only + B only + both",
-              "Passed both = 100 − total failed"
-            ],
-            "examples": [
-              "Q37: Pass H=45%, Pass Hi=60%, Fail both=8%",
-              "Fail H only=47%, Fail Hi only=32%, Fail both=8% → total fail=87% → passed both = 13%"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "population",
-        "title": "Population",
-        "icon": "👥",
-        "badge": "Q18, Q19, Q20",
-        "badgeColor": "green",
-        "summary": "Population changes over multiple years. Find original or final using multiplication.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Year-by-year multiplication",
-            "formulas": [
-              "Final = Initial × (100+r₁)/100 × (100+r₂)/100 × ...",
-              "Initial = Final ÷ (product of all year factors)"
-            ],
-            "steps": [
-              "Write each year's factor: ↑5% → ×21/20, ↓6% → ×94/100",
-              "Multiply all factors",
-              "If finding initial: divide final by the product"
-            ],
-            "examples": [
-              "Q20: ↑5% then ↓6%: P × 21/20 × 94/100 = 35532 → P = 36,000",
-              "Q18: Decrease = (156940−141246)/156940 × 100 = 10%"
-            ]
-          }
-        ]
-      },
-      {
-        "id": "weighted_avg",
-        "title": "Weighted Average",
-        "icon": "⚖",
-        "badge": "Q16, Q17",
-        "badgeColor": "green",
-        "summary": "Find overall % when each component has a different weight.",
-        "cards": [
-          {
-            "type": "concept",
-            "title": "Weighted average formula",
-            "formulas": [
-              "Weighted % = Σ(marks% × weight) / Σ(weights)"
-            ],
-            "steps": [
-              "Multiply each subject's scored % by its weight",
-              "Sum all products",
-              "Divide by total weight (= 100 if weights sum to 100)"
-            ],
-            "examples": [
-              "Q17: 75×40 + 80×50 + 60×10 = 3000+4000+600 = 7600 / 100 = 76%"
-            ]
-          }
-        ]
-      }
-    ]
+{
+  "topic": "Percentage",
+  "introduction": "Percentage means 'per hundred'. It is one of the most important and highest-weightage topics in SSC CGL Quantitative Aptitude, forming the base for Profit-Loss, Discount, SI-CI, Data Interpretation and Mixture problems. Mastering percentage-to-fraction conversion and ratio method makes calculations 3-4x faster.",
+  "concepts": [
+    {
+      "concept": "Definition",
+      "explanation": "x% means x out of 100, i.e. x/100. To convert percentage to fraction, divide by 100. To convert fraction to percentage, multiply by 100."
+    },
+    {
+      "concept": "A as % of B",
+      "explanation": "% = (A/B) x 100. Always identify which is the base (denominator)."
+    },
+    {
+      "concept": "Percentage change",
+      "explanation": "% change = (Change/Original value) x 100. 'Original' is always the base for percentage increase/decrease questions."
+    },
+    {
+      "concept": "Ratio-Percentage Link",
+      "explanation": "Any percentage relation can be converted into a ratio using fraction equivalents. Example: A is 20% more than B => A:B = 6:5 (since 20% = 1/5, so A = B + B/5 = 6B/5)."
+    },
+    {
+      "concept": "Successive percentage change",
+      "explanation": "If a quantity changes by x% then y%, net change = x + y + xy/100 (use + for increase, - for decrease of that term)."
+    },
+    {
+      "concept": "Base changes when % changes",
+      "explanation": "When something increases by x%, the new value becomes base for next % change — never apply next % on the original value."
+    }
+  ],
+  "formulas": [
+    "% = (Part/Whole) x 100",
+    "A is x% of B => A = (x/100) x B",
+    "A is x% more than B => A = B x (100+x)/100",
+    "A is x% less than B => A = B x (100-x)/100",
+    "If A is x% more than B, then B is [x/(100+x)] x 100 % less than A",
+    "If A is x% less than B, then B is [x/(100-x)] x 100 % more than A",
+    "Successive % change (both increase): Net% = x + y + xy/100",
+    "Successive % change (both decrease): Net% = -(x + y - xy/100)",
+    "Successive % change (one inc, one dec): Net% = x - y - xy/100",
+    "Price-Consumption-Expenditure: Expenditure = Price x Consumption; if price changes x%, consumption must change by [-x/(100+x)]x100% to keep expenditure same",
+    "Error % = (Difference between correct & wrong value / Correct value) x 100",
+    "Fraction key %: 1/2=50%, 1/3=33.33%, 1/4=25%, 1/5=20%, 1/6=16.66%, 1/7=14.28%, 1/8=12.5%, 1/9=11.11%, 1/10=10%, 1/11=9.09%, 1/12=8.33%, 1/13=7.69%, 1/16=6.25%, 1/20=5%, 1/25=4%"
+  ],
+  "question_types": [
+    {
+      "type_name": "Basic Percentage Calculation (of a number / A as % of B)",
+      "difficulty": "Easy",
+      "identification_method": "Direct language like 'x% of y' or 'what % is A of B'.",
+      "when_to_use": "Use fraction conversion (e.g. 12.5% = 1/8) instead of direct multiplication for speed.",
+      "step_by_step": [
+        "Convert % to fraction using standard fraction table",
+        "Multiply fraction with the given number",
+        "Simplify to get answer"
+      ],
+      "shortcut": "Memorize fraction table 1/2 to 1/25; for odd % like 37.5%, break into 25%+12.5% or use 3/8.",
+      "common_mistakes": [
+        "Multiplying by % value directly instead of dividing by 100 first",
+        "Confusing 'of' with wrong base number"
+      ],
+      "practice_questions": [
+        {
+          "q": "Find 25% of 640.",
+          "solution": "25% = 1/4; 640 x 1/4 = 160",
+          "answer": "160"
+        },
+        {
+          "q": "Find 37.5% of 800.",
+          "solution": "37.5% = 3/8; 800 x 3/8 = 300",
+          "answer": "300"
+        },
+        {
+          "q": "What is 16.66% of 900?",
+          "solution": "16.66% = 1/6; 900 x 1/6 = 150",
+          "answer": "150"
+        },
+        {
+          "q": "Evaluate 25% of 50% of 500.",
+          "solution": "1/4 x 1/2 x 500 = 62.5",
+          "answer": "62.5"
+        },
+        {
+          "q": "45 is what % of 180?",
+          "solution": "(45/180)x100 = 25%",
+          "answer": "25%"
+        },
+        {
+          "q": "What % of 250 is 90?",
+          "solution": "(90/250)x100=36%",
+          "answer": "36%"
+        }
+      ],
+      "expected_time_seconds": 20
+    },
+    {
+      "type_name": "A vs B Comparison (% more/less)",
+      "difficulty": "Easy-Medium",
+      "identification_method": "Phrases like 'A is how much % more/less than B'.",
+      "when_to_use": "Use ratio method: convert given data into ratio A:B, then find difference/base x 100.",
+      "step_by_step": [
+        "Write A:B in simplest ratio (from values or fractions given)",
+        "Find difference between A and B in the ratio",
+        "Divide difference by the base term (B if 'more/less than B') and multiply by 100"
+      ],
+      "shortcut": "% more than B = [(A-B)/B]x100; % less than A = [(A-B)/A]x100 — base changes with wording, be careful.",
+      "common_mistakes": [
+        "Using wrong base (dividing by A instead of B or vice versa)",
+        "Not converting fractions to common ratio before comparing"
+      ],
+      "practice_questions": [
+        {
+          "q": "A=100, B=150. B is how much % more than A?",
+          "solution": "(150-100)/100 x100=50%",
+          "answer": "50%"
+        },
+        {
+          "q": "A=2/3, B=3/2. B is how much % more than A?",
+          "solution": "A:B=4:9, diff=5, 5/4x100=125%",
+          "answer": "125%"
+        },
+        {
+          "q": "A quantity changed from 4/5 to 5/6. Find % change.",
+          "solution": "4:5 and 5:6 => LCM based 24:25, diff=1, 1/24x100=4.17%",
+          "answer": "4.17%"
+        },
+        {
+          "q": "If A is 34% less than B, find A:B.",
+          "solution": "A:B = 66:100 = 33:50",
+          "answer": "33:50"
+        },
+        {
+          "q": "If A is 28% more than B, find A:B.",
+          "solution": "A:B=128:100=32:25",
+          "answer": "32:25"
+        }
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Successive % Change (Population/Price/Value)",
+      "difficulty": "Medium",
+      "identification_method": "Two or more % changes applied one after another on the same quantity (increase then increase/decrease).",
+      "when_to_use": "Use net% formula: x+y+xy/100 for two increases, or chain multiplication of fractions for 3+ changes.",
+      "step_by_step": [
+        "List all % changes with correct sign (+ for increase, - for decrease)",
+        "For 2 changes, apply net% = x+y+xy/100 directly",
+        "For 3+ changes or when final value given, multiply base by respective fractions e.g. 105/100 x 95/100",
+        "Solve for unknown (final or initial value)"
+      ],
+      "shortcut": "Order of successive % changes does not matter — net effect is the same regardless of sequence.",
+      "common_mistakes": [
+        "Adding percentages directly without the xy/100 correction term",
+        "Applying second % change on original value instead of new value"
+      ],
+      "practice_questions": [
+        {
+          "q": "Population increases 5% then decreases 5%. If final population is 47,880, find initial.",
+          "solution": "P x 21/20 x 19/20 = 47880 => P=48000",
+          "answer": "48,000"
+        },
+        {
+          "q": "A number increased by 16%, then 20%, then decreased by 40%. Find net % decrease.",
+          "solution": "100x29/25x6/5x6/10=83.52; net decrease=16.48%",
+          "answer": "16 12/25%"
+        },
+        {
+          "q": "Price rises 20% then 25%. What single % decrease restores original price?",
+          "solution": "100->150; decrease needed=50/150=33.33%",
+          "answer": "33.33%"
+        }
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Price-Consumption-Expenditure",
+      "difficulty": "Medium",
+      "identification_method": "Questions relate 'price', 'consumption/sale' and 'expenditure/revenue/income' together.",
+      "when_to_use": "Use relation Expenditure = Price x Consumption. Represent both price and consumption as ratios, multiply for expenditure ratio.",
+      "step_by_step": [
+        "Convert price change to ratio (old:new)",
+        "Convert consumption change to ratio (old:new) — this may be unknown (find using given expenditure change)",
+        "Expenditure ratio = Price ratio x Consumption ratio",
+        "Solve unknown ratio term, convert to %"
+      ],
+      "shortcut": "If expenditure must stay constant, required % change in consumption = [-x/(100+x)] x 100 when price increases by x%.",
+      "common_mistakes": [
+        "Forgetting expenditure = price x consumption, not price + consumption",
+        "Sign errors when price increases but expenditure decreases"
+      ],
+      "practice_questions": [
+        {
+          "q": "Price of rice up 25%, consumption down 30%. Find % change in expenditure.",
+          "solution": "Price 4:5, Consumption 10:7, Expenditure 40:35=8:7, decrease=1/8=12.5%",
+          "answer": "Decrease 12.5%"
+        },
+        {
+          "q": "Price of movie ticket up 12%, sale up 8%. Find % change in income.",
+          "solution": "12+8+ (12x8/100)=21.96% approx (exact per given numbers 22.0625%)",
+          "answer": "~22%"
+        },
+        {
+          "q": "Price of sugar rises 30%, expenditure rises 12%. Find % decrease needed in consumption.",
+          "solution": "10:13 price ratio vs 100:112 expenditure; consumption ratio 130:112, decrease=18/130=13.85%",
+          "answer": "13.85%"
+        }
+      ],
+      "expected_time_seconds": 50
+    },
+    {
+      "type_name": "Election Problems",
+      "difficulty": "Medium-Hard",
+      "identification_method": "Mentions of 'voters', 'registered voters', 'valid/invalid votes', 'candidates', 'won by margin'.",
+      "when_to_use": "Use Tree Method when % is given on TOTAL votes; use Successive (chain) method when % is given only on VALID votes.",
+      "step_by_step": [
+        "Draw tree: Total voters -> voted/not voted -> valid/invalid -> candidate A/candidate B",
+        "Assign % at each branch based on question wording",
+        "Write margin/difference equation using variables",
+        "Solve for total voters using given margin value"
+      ],
+      "shortcut": "Candidate share given on 'valid votes' => successive multiplication (chain); on 'total/registered voters' => tree with subtraction.",
+      "common_mistakes": [
+        "Mixing tree and successive methods",
+        "Forgetting to subtract invalid/NOTA votes before finding candidate share",
+        "Misreading base (total voters vs valid votes)"
+      ],
+      "practice_questions": [
+        {
+          "q": "5% didn't vote, 10% invalid, winner got 60% of valid votes, won by 17,271. Find registered voters.",
+          "solution": "V x 19/20 x 9/10 x 1/5 = 17271 => V=101000",
+          "answer": "1,01,000"
+        },
+        {
+          "q": "12% didn't vote, 84 blank votes, winner got 54% of all voters, won by 1456. Find total voters.",
+          "solution": "20%+84=1456 => 20%=1372 => Total=6860",
+          "answer": "6,860"
+        },
+        {
+          "q": "35% voted P, 50% of remaining voted Q, rest didn't vote. Diff between P-voters and non-voters=1000. Find total eligible voters.",
+          "solution": "P=35%, non-vote=32.5%; diff 2.5%=1000=>Total=40000",
+          "answer": "40,000"
+        }
+      ],
+      "expected_time_seconds": 60
+    },
+    {
+      "type_name": "Income-Expenditure-Savings",
+      "difficulty": "Medium",
+      "identification_method": "Mentions salary/income split into expenditure categories and savings, or 'income=expenditure+savings'.",
+      "when_to_use": "Use Income = Expenditure + Savings identity; represent all parts as % of income=100 and solve missing part.",
+      "step_by_step": [
+        "Set total income = 100%",
+        "Subtract all given expenditure %s to find savings % (or vice versa)",
+        "If income changes, apply new % to find new expenditure/savings keeping the identity balanced",
+        "Convert final % difference into required answer"
+      ],
+      "shortcut": "For 'savings constant, income increases x%' type: % increase in expenditure = (x% of income)/(original expenditure) x100.",
+      "common_mistakes": [
+        "Forgetting income=expenditure+savings identity",
+        "Not recalculating base % when income changes"
+      ],
+      "practice_questions": [
+        {
+          "q": "Expenditure=45% of income. Income rises 15%, savings unchanged. Find % rise in expenditure.",
+          "solution": "100=45+55; new income=115, savings=55 unchanged, new exp=60; rise=15/45x100=33.33%",
+          "answer": "33.33%"
+        },
+        {
+          "q": "Income=80000; spends 15% education,40% household,10% GPF,15% savings, rest EMI. Find EMI.",
+          "solution": "Remaining=100-80=20%; 80000x20%=16000",
+          "answer": "Rs 16,000"
+        }
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Venn Diagram / Two-Subject Pass-Fail Overlap",
+      "difficulty": "Medium",
+      "identification_method": "Two subjects/tests mentioned with pass/fail % and 'both' condition.",
+      "when_to_use": "Use Venn diagram / set theory: Failed(A or B) = Failed(A)+Failed(B)-Failed(both).",
+      "step_by_step": [
+        "Convert pass% to fail% for each subject if needed",
+        "Apply Fail(A∪B) = Fail(A)+Fail(B)-Fail(A∩B)",
+        "Find Pass(both) = 100% - Fail(A∪B)",
+        "Use given actual numbers to scale % to real total"
+      ],
+      "shortcut": "Draw simple 2-circle Venn and fill only 3 known regions; 4th (pass both) = 100 - sum of other three.",
+      "common_mistakes": [
+        "Adding fail percentages without subtracting overlap",
+        "Confusing 'failed in both' with 'failed in at least one'"
+      ],
+      "practice_questions": [
+        {
+          "q": "45% passed History, 60% passed Hindi, 8% failed both. Find % passed both.",
+          "solution": "Fail History=55%,Fail Hindi=40%; Fail(A∪B)=55+40-8=87? recompute via diagram: pass both=13%",
+          "answer": "13%"
+        },
+        {
+          "q": "54% failed GA, 45% failed QT, 16% failed both, 136 passed both. Find total candidates.",
+          "solution": "Fail(A∪B)=54+45-16=83%, Pass both=17%; 17%=136=>Total=800",
+          "answer": "800"
+        }
+      ],
+      "expected_time_seconds": 50
+    },
+    {
+      "type_name": "Error Percentage (Wrong Operation)",
+      "difficulty": "Easy-Medium",
+      "identification_method": "Student/person performs wrong operation (multiply instead of divide, wrong fraction) — 'error %' or 'percentage difference' asked.",
+      "when_to_use": "Convert correct and wrong operation results into a ratio, then find % difference over correct value.",
+      "step_by_step": [
+        "Write ratio of Wrong result : Correct result",
+        "Find difference between the two",
+        "Error% = (difference/Correct value) x 100"
+      ],
+      "shortcut": "For 'multiplied by a/b instead of b/a', ratio = a²:b², error% = (a²-b²)/b² x100 (use correct as base — read question carefully).",
+      "common_mistakes": [
+        "Using wrong value as base instead of correct value",
+        "Sign confusion — is result too high or too low"
+      ],
+      "practice_questions": [
+        {
+          "q": "Multiplied by 4/3 instead of 3/4. Find error %.",
+          "solution": "16:9, diff=7; base=correct(9) if correct means 3/4 → 7/16x100=43.75%",
+          "answer": "43.75%"
+        },
+        {
+          "q": "Divided by 8 instead of multiplying by 8. Find % difference.",
+          "solution": "Ratio 64:1/... =63/64x100=98.44%",
+          "answer": "98.44%"
+        }
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Wet & Dry Fruits / Water Content",
+      "difficulty": "Medium",
+      "identification_method": "Mentions water % in a fruit/substance changing due to drying, 'pulp content' problems.",
+      "when_to_use": "Pulp (non-water part) remains CONSTANT; only water % changes — always equate pulp quantities.",
+      "step_by_step": [
+        "Find pulp % initially = 100 - water%",
+        "Pulp quantity = Total weight x pulp%",
+        "Since pulp is constant, set up equation: Old pulp = New Total weight x New pulp%",
+        "Solve for new total weight; reduction = old total - new total"
+      ],
+      "shortcut": "Directly equate: Old Weight x Old Pulp% = New Weight x New Pulp%.",
+      "common_mistakes": [
+        "Focusing on water content instead of constant pulp content",
+        "Forgetting to convert % to same base"
+      ],
+      "practice_questions": [
+        {
+          "q": "15kg grapes, 90% water. After drying, water=85%. Find reduced weight.",
+          "solution": "15x10%=x x15%; x=10kg reduction",
+          "answer": "10 kg reduction"
+        }
+      ],
+      "expected_time_seconds": 40
+    }
+  ],
+  "identification_tricks": [
+    "If question gives direct 'x% of y' — Basic % type, use fraction shortcut.",
+    "If question compares two quantities with 'more/less than' — use ratio method, watch the base.",
+    "If % applied one after another on same quantity — Successive % change, use x+y+xy/100.",
+    "If price, consumption/sale, and expenditure/income all mentioned — Price-Consumption-Expenditure type.",
+    "If voters/candidates/election mentioned — check whether % is on 'total' or 'valid' votes to pick Tree vs Successive method.",
+    "If income split into parts + savings — use Income=Expenditure+Savings identity.",
+    "If two subjects/exams with 'failed both/either' — Venn diagram approach.",
+    "If wrong operation mentioned (multiplied/divided incorrectly) — Error % type.",
+    "If fruit/vegetable with water content drying up — Wet-Dry (Pulp constant) type."
+  ],
+  "solving_approach": [
+    "Step 1: Read the question fully and underline what is asked (final value, % change, base value etc).",
+    "Step 2: Identify the TYPE from the identification tricks list above.",
+    "Step 3: Convert all percentages into simplest fractions/ratios wherever possible.",
+    "Step 4: Set up ratio chains or equations based on the type-specific approach.",
+    "Step 5: Solve using cross-multiplication or direct fraction shortcuts — avoid decimal calculation unless necessary.",
+    "Step 6: Sanity check the answer against options (elimination) before finalizing."
+  ],
+  "shortcuts": [
+    "Memorize fraction-percentage table up to 1/25 — saves 15-20 seconds per question.",
+    "A:B ratio method is faster than % formula for 'more/less than' comparison questions.",
+    "For successive % changes, order does not matter — arrange in most convenient calculation order.",
+    "For election Tree method problems, always draw the tree — mental math leads to errors.",
+    "25% of 800 = 800% of 25 (cross-multiplication property) — useful for reverse calculation questions.",
+    "For Venn diagram overlap type, use 100 - (sum of exclusive fail%) formula directly."
+  ],
+  "common_mistakes": [
+    "Not identifying the correct BASE for percentage change (always original/previous value, not final).",
+    "Adding percentages directly in successive change without the xy/100 correction term.",
+    "Mixing Tree method and Successive method in election questions.",
+    "Forgetting pulp/non-water content remains constant in wet-dry fruit problems.",
+    "Using wrong value (wrong vs correct) as denominator in error % questions.",
+    "Rounding off too early leading to wrong final decimal answers."
+  ],
+  "practice_questions_master": [
+    {
+      "q": "If A is 12.5% more than B, find A:B.",
+      "solution": "12.5%=1/8; A:B=9:8",
+      "answer": "9:8"
+    },
+    {
+      "q": "60 is increased to 75. Find % increase.",
+      "solution": "(15/60)x100=25%",
+      "answer": "25%"
+    },
+    {
+      "q": "A number is increased by 10% and then decreased by 10%. Net effect?",
+      "solution": "10-10-1=-1%",
+      "answer": "1% decrease"
+    },
+    {
+      "q": "In an election, 5% did not vote, 10% votes invalid, winner got 60% of valid votes and won by 17271 votes. Find total registered voters.",
+      "solution": "V x19/20x9/10x1/5=17271=>V=101000",
+      "answer": "1,01,000"
+    },
+    {
+      "q": "45% passed subject A, 60% passed subject B, 8% failed both. Find % passed both subjects.",
+      "solution": "Using Venn: passed both=13%",
+      "answer": "13%"
+    }
+  ],
+  "detailed_solutions_note": "Detailed step-by-step solutions are embedded within each question_type's practice_questions array above (see 'solution' field) for quick reference.",
+  "pyq_patterns": [
+    "SSC CGL frequently asks Successive % change combined with Election problems as a 2-in-1 tricky question.",
+    "Price-Consumption-Expenditure questions appear almost every year, often disguised as 'household expenditure' or 'shop revenue' problems.",
+    "Fraction-based comparison (A is x% more/less than B) is a near-guaranteed 1 question per exam shift.",
+    "Wet-Dry fruit (constant pulp) problems appear in Tier-1 and Tier-2 with different fruit names but same logic.",
+    "Venn diagram pass-fail problems are common in CGL Tier-2 and CHSL as a slightly harder variant."
+  ],
+  "quick_revision": [
+    "% = Part/Whole x 100",
+    "x% more => multiply by (100+x)/100; x% less => multiply by (100-x)/100",
+    "Successive change: x+y+xy/100 (signs per increase/decrease)",
+    "Expenditure = Price x Consumption",
+    "Election: Tree method for %-of-total, Successive method for %-of-valid",
+    "Pulp constant in wet-dry fruit problems",
+    "Fail(A∪B)=FailA+FailB-Fail(both)"
+  ],
+  "exam_tips": [
+    "Always convert percentages to fractions before multiplying — big speed boost.",
+    "In multi-step problems, write down the ratio chain on paper instead of doing pure mental math.",
+    "For election questions, spend 5 extra seconds identifying total vs valid votes base — this avoids the most common error.",
+    "Practice the standard fraction table daily until it becomes instant recall.",
+    "Time target: attempt basic % questions in under 20 seconds, complex multi-concept ones in 45-60 seconds."
+  ],
+  "one_page_formula_sheet": {
+    "basic": "%=Part/Whole x100",
+    "more_less": "x% more: x(100+x)/100 | x% less: x(100-x)/100",
+    "successive_2_increase": "x+y+xy/100",
+    "successive_2_decrease": "-(x+y-xy/100)",
+    "successive_mixed": "x-y-xy/100",
+    "expenditure": "Exp = Price x Consumption",
+    "fractions": {
+      "1/2": "50%",
+      "1/3": "33.33%",
+      "1/4": "25%",
+      "1/5": "20%",
+      "1/6": "16.66%",
+      "1/7": "14.28%",
+      "1/8": "12.5%",
+      "1/9": "11.11%",
+      "1/10": "10%",
+      "1/11": "9.09%",
+      "1/12": "8.33%",
+      "1/16": "6.25%",
+      "1/20": "5%",
+      "1/25": "4%"
+    }
   }
 }

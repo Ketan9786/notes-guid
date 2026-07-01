@@ -1,8 +1,8 @@
-import RevisionViewer from "../RevesionViewer";
+import MathTopicPage from "../MathTopicPage";
 import percenTageData from "../../../../data/maths/airthmetic/percentage.json";
 const Percentage = () => {
   return (
-    <RevisionViewer chapterData={percenTageData} />
+    <MathTopicPage data={percenTageData} />
   );
 };
 

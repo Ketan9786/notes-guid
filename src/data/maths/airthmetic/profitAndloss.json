@@ -1,0 +1,405 @@
+{
+  "topic": "Profit and Loss",
+  "introduction": "Profit & Loss deals with Cost Price (CP) and Selling Price (SP) relationships. It is a core SSC CGL topic, heavily tested with dishonest shopkeeper (faulty weight), mixture-based, and multi-article combined transactions. Mastering CP:SP ratio conversion is the key speed technique.",
+  "concepts": [
+    {
+      "concept": "Basic definitions",
+      "explanation": "Profit = SP-CP (when SP>CP); Loss = CP-SP (when CP>SP). Profit%/Loss% always calculated on CP unless stated otherwise (e.g. 'on SP')."
+    },
+    {
+      "concept": "CP:SP ratio method",
+      "explanation": "Convert profit/loss % into ratio: profit x% => CP:SP=100:(100+x); loss x% => CP:SP=100:(100-x). Solve using ratios instead of decimals for speed."
+    },
+    {
+      "concept": "Multiple articles/transactions",
+      "explanation": "For combined profit/loss across multiple items, always find Total CP and Total SP separately, then compute overall %."
+    },
+    {
+      "concept": "Profit on SP vs CP",
+      "explanation": "If profit is stated as % of SP (not CP, e.g. 'gains 1/5 of SP'), convert using SP:Profit:CP ratio and re-derive profit% on CP basis."
+    },
+    {
+      "concept": "Dishonest shopkeeper (faulty weight)",
+      "explanation": "When shopkeeper uses less weight while claiming to sell at cost/specific price, effective CP:SP ratio = (true weight):(claimed/faulty weight), e.g. using 950g for 1kg means CP:SP=950:1000."
+    },
+    {
+      "concept": "Cheating both while buying and selling",
+      "explanation": "Combine both cheating ratios by multiplying: overall CP:SP = (buy cheat ratio) x (sell cheat ratio)."
+    },
+    {
+      "concept": "Marked-up then discount (link with Discount topic)",
+      "explanation": "SP after markup and discount = CP x (100+markup)/100 x (100-discount)/100; compare with CP for final profit/loss%."
+    }
+  ],
+  "formulas": [
+    "Profit% = [(SP-CP)/CP] x 100",
+    "Loss% = [(CP-SP)/CP] x 100",
+    "SP = CP x (100+profit%)/100",
+    "SP = CP x (100-loss%)/100",
+    "CP = SP x 100/(100+profit%)",
+    "CP = SP x 100/(100-loss%)",
+    "If SP of two items is EQUAL, one sold at x% profit, other at x% loss => overall LOSS% = x²/100",
+    "If CP of N articles = SP of M articles at x% profit => N:M = (100+x):100",
+    "Faulty weight profit: CP:SP = (weight used while buying):(weight claimed while selling); profit% derived from this ratio",
+    "Successive selling (A to B to C): Final Price = CP x (100+p1%)/100 x (100-l2%)/100 (chain multiplication)",
+    "Mixture average CP = (q1xr1 + q2xr2)/(q1+q2); Sale rate for target profit% = Average CP x (100+profit%)/100"
+  ],
+  "question_types": [
+    {
+      "type_name": "Basic CP-SP-Profit%/Loss% (find missing value)",
+      "difficulty": "Easy",
+      "identification_method": "Any two of CP, SP, profit%/loss% given, third asked directly.",
+      "when_to_use": "Use CP:SP ratio method — convert given % into ratio (100:100+x or 100:100-x) and cross-multiply.",
+      "step_by_step": [
+        "Convert profit%/loss% into CP:SP ratio",
+        "Match given value (CP or SP) to the correct ratio term",
+        "Cross multiply to find missing value"
+      ],
+      "shortcut": "CP=100, SP=100+profit or 100-loss — use as ratio, avoid decimal multiplication.",
+      "common_mistakes": [
+        "Calculating profit% on SP when it should be on CP (default is always CP unless stated)",
+        "Sign confusion between profit and loss ratio direction"
+      ],
+      "practice_questions": [
+        {
+          "q": "SP=₹8540, profit=22%. Find CP.",
+          "solution": "CP=8540x100/122=7000",
+          "answer": "₹7,000"
+        },
+        {
+          "q": "SP=₹8540, loss=22%. Find CP.",
+          "solution": "CP=8540x100/78=10948.7",
+          "answer": "≈₹10,948.7"
+        },
+        {
+          "q": "CP=₹400, SP=₹420. Find profit%.",
+          "solution": "(20/400)x100=5%",
+          "answer": "5%"
+        },
+        {
+          "q": "CP=₹400, SP=₹390. Find loss%.",
+          "solution": "(10/400)x100=2.5%",
+          "answer": "2.5%"
+        },
+        {
+          "q": "SP of 100 pens = CP of 140 pens. Find profit%.",
+          "solution": "SP/CP=140/100=>40% profit",
+          "answer": "40%"
+        },
+        {
+          "q": "CP of 36 articles = SP of N articles at 20% profit. Find N.",
+          "solution": "N:36=100:120=5:6=>N=30",
+          "answer": "30"
+        }
+      ],
+      "expected_time_seconds": 20
+    },
+    {
+      "type_name": "Chain Selling (A to B to C)",
+      "difficulty": "Medium",
+      "identification_method": "Article sold from person A to B, then B to C, with different profit/loss% at each stage.",
+      "when_to_use": "Chain multiply CP with successive (100+p)/100 or (100-l)/100 for each stage to reach final price.",
+      "step_by_step": [
+        "Write CP (unknown, let it be x) for the first seller",
+        "Apply first %change (profit/loss) to get intermediate price",
+        "Apply second %change on intermediate price to get final price",
+        "Equate final price to given value and solve for x"
+      ],
+      "shortcut": "Combine both % changes using successive % formula first, then apply directly: x + y - xy/100 style (for mixed profit-loss use appropriate signs).",
+      "common_mistakes": [
+        "Applying second % change on original CP instead of new intermediate price",
+        "Sign error when one stage is profit and other is loss"
+      ],
+      "practice_questions": [
+        {
+          "q": "A sells to B at 33% profit, B sells to C at 20% loss. C pays ₹532. Find A's CP.",
+          "solution": "CPx133/100x8/10=532=>CP=500",
+          "answer": "₹500"
+        }
+      ],
+      "expected_time_seconds": 35
+    },
+    {
+      "type_name": "Multiple Articles Combined Profit/Loss",
+      "difficulty": "Medium",
+      "identification_method": "Multiple items bought (often at same/different CP) and sold at different %profit/loss each; overall % asked.",
+      "when_to_use": "Calculate Total CP and Total SP separately (sum across all items), then find overall % using totals — never average individual %s directly.",
+      "step_by_step": [
+        "List CP of each article",
+        "Apply respective profit/loss% to each CP to get individual SP",
+        "Sum all CPs = Total CP; Sum all SPs = Total SP",
+        "Overall %=(TotalSP-TotalCP)/TotalCP x100"
+      ],
+      "shortcut": "If CPs are equal for all items, weighted average % works; if CPs differ, MUST use total CP/total SP method.",
+      "common_mistakes": [
+        "Simply averaging the profit/loss percentages when CPs are different",
+        "Forgetting an item sold 'at cost price' (0% change) in the total"
+      ],
+      "practice_questions": [
+        {
+          "q": "3 articles bought at ₹3000 each, sold at 10% profit,5% profit,15% loss. Find overall %.",
+          "solution": "CP=300,SP=110+105+85=300=>No profit no loss",
+          "answer": "No profit, no loss"
+        },
+        {
+          "q": "130 books at ₹200 each; half sold at ₹300, 1/5 at ₹350, rest at CP. Find profit%.",
+          "solution": "TotalCP=20000+... =28000/20000=>40%",
+          "answer": "40%"
+        },
+        {
+          "q": "Article1 SP=6500 at 4% profit; Article2 CP=3750 sold at 4% loss. Find overall%.",
+          "solution": "TotalCP=10000,TotalSP=10100=>1% gain",
+          "answer": "1% gain"
+        }
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Profit/Loss Stated on SP (not CP)",
+      "difficulty": "Medium",
+      "identification_method": "Question says 'gained 1/5 of selling price' or 'profit equal to numerical value of CP' type wording — profit expressed unusually.",
+      "when_to_use": "Convert SP-based profit into CP-based ratio: SP=CP+Profit, so if Profit=fraction of SP, derive CP:SP:Profit ratio directly.",
+      "step_by_step": [
+        "Represent SP=Profit+CP as ratio parts (e.g. SP=5 parts, Profit=1 part, CP=4 parts if profit=1/5 of SP)",
+        "Profit% on CP = Profit part/CP part x 100",
+        "For 'numerical value' type questions, use option-substitution (plug given options into equation)"
+      ],
+      "shortcut": "SP=5,Profit=1,CP=4 pattern for 'profit=1/5 of SP' => profit%=1/4x100=25% directly.",
+      "common_mistakes": [
+        "Directly taking the SP fraction as profit% on CP (wrong base)",
+        "Not trying option elimination for 'numerical value equals %' type odd questions"
+      ],
+      "practice_questions": [
+        {
+          "q": "Sold scooter for ₹1980, gaining 1/5 of SP. Find profit%.",
+          "solution": "SP:Profit:CP=5:1:4=>profit%=1/4x100=25%",
+          "answer": "25%"
+        },
+        {
+          "q": "Sold earphone for ₹2000, profit%=numerical value of CP. Find CP.",
+          "solution": "CPx(100+CP)/100=2000; test CP=400=>400x500/100=2000 ✓",
+          "answer": "₹400"
+        }
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "Equal SP, Different Profit/Loss% (Standard Trap)",
+      "difficulty": "Medium",
+      "identification_method": "Two articles sold at SAME SP, one at x% profit, other at x% loss (same %).",
+      "when_to_use": "Direct formula: overall LOSS% = x²/100 — always a loss regardless of x, never profit.",
+      "step_by_step": [
+        "Confirm SP is equal for both articles and %profit=%loss=x (same value)",
+        "Apply formula overall loss%=x²/100",
+        "If %s are different (not same x), instead find CP of each via SP/(100±x)x100 and compute total CP vs total SP=2xSP"
+      ],
+      "shortcut": "x²/100 formula only works when profit% = loss% (same x); otherwise use full CP:SP calculation.",
+      "common_mistakes": [
+        "Applying x²/100 shortcut even when the two percentages are different values",
+        "Assuming overall result could be profit — it is ALWAYS a loss when %s are equal"
+      ],
+      "practice_questions": [
+        {
+          "q": "Two articles sold at ₹3000 each, no overall profit/loss. One sold at 25% profit. Find loss% on second.",
+          "solution": "CP:SP for profit=4:5; for loss found via total=6:5 => loss=1/6x100=16.67%",
+          "answer": "16.67%"
+        }
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Dishonest Shopkeeper - Faulty Weight",
+      "difficulty": "Medium-Hard",
+      "identification_method": "Mentions shopkeeper using weight less/more than standard (e.g. '950g for 1kg') while claiming cost price or a stated profit%.",
+      "when_to_use": "Convert faulty weight into CP:SP ratio directly: CP(true qty):SP(claimed qty).",
+      "step_by_step": [
+        "Identify true weight given (what shopkeeper actually gives) vs standard/claimed weight (what customer pays for)",
+        "Form ratio CP:SP = (weight given):(weight paid for) inverted appropriately — CP is based on cost of ACTUAL weight, SP on price of CLAIMED weight",
+        "If additional stated profit% exists (selling above cost too), multiply this ratio with the stated profit ratio",
+        "Compute profit% from combined ratio"
+      ],
+      "shortcut": "Cheating only while selling using w grams for 1000g claimed: profit%=[(1000-w)/w]x100. If cheating both buying(w1) and selling(w2): combine ratio (1000/w1)x(w2/1000).",
+      "common_mistakes": [
+        "Reversing which quantity is CP and which is SP",
+        "Forgetting to combine BOTH buying and selling cheat ratios when both occur",
+        "Not incorporating additional explicit profit% stated alongside weight fraud"
+      ],
+      "practice_questions": [
+        {
+          "q": "Shopkeeper uses 950g for 1kg claiming cost price. Find gain%.",
+          "solution": "CP:SP=950:1000=>profit=50/950x100=5.26%",
+          "answer": "5.26%"
+        },
+        {
+          "q": "Cheats 25% while buying, 25% while selling. Find overall profit%.",
+          "solution": "Buy ratio4:5, Sell ratio3:4; combined CP:SP=3:5=>profit=2/3x100=66.67%(per given example uses different setup: 3:5 =>2/3x100)",
+          "answer": "See worked method (~66.67%, verify per exact wording)"
+        },
+        {
+          "q": "Dealer uses 925g for 1kg, claims cost price. Find gain% (2 decimals).",
+          "solution": "925:1000=37:40=>profit=3/37x100=8.11%",
+          "answer": "8.11%"
+        },
+        {
+          "q": "Shopkeeper has fault of 100g in 3kg weight, sells 3kg potatoes for ₹46, CP=₹12/kg. Find profit.",
+          "solution": "TotalCP for 2.9kg=34.8; SP=46; but per method: profit=₹11.2",
+          "answer": "₹11.2"
+        },
+        {
+          "q": "Tailor cheats 5cm long while buying, 5cm short while selling (normal=100cm). Find gain%.",
+          "solution": "Buy:100:105, Sell:95:100; combined=95:105=19:21=>profit=2/19x100=10.53%",
+          "answer": "10 10/19%"
+        }
+      ],
+      "expected_time_seconds": 60
+    },
+    {
+      "type_name": "Perishable/Rotten Goods (Wastage in Transaction)",
+      "difficulty": "Medium",
+      "identification_method": "Some % of goods gets spoiled/rotten/thrown away before selling; overall profit% given or asked, or selling rate above CP asked.",
+      "when_to_use": "Work with total CP for FULL quantity, but SP only from the GOOD (unspoiled) portion sold.",
+      "step_by_step": [
+        "Total CP = full quantity x cost rate",
+        "Good quantity = Total quantity x (100-spoilage%)",
+        "SP formed only from good quantity at selling rate",
+        "Find overall profit% using TotalCP vs TotalSP, or reverse-solve required selling rate/markup"
+      ],
+      "shortcut": "CP:SP ratio shortcut: if spoilage=s%, good%=100-s; required markup% on good units = [Overall desired SP ratio - good% ratio]/good% ratio.",
+      "common_mistakes": [
+        "Using total quantity instead of good quantity when calculating SP",
+        "Forgetting spoiled goods still counted in Total CP (money already spent on them)"
+      ],
+      "practice_questions": [
+        {
+          "q": "480 bananas bought for ₹1200, some rotten & thrown away, rest sold at ₹3.5 each, profit=₹396. Find % rotten.",
+          "solution": "SP total=1596;sold qty=1596/3.5=456;rotten=24;%=24/480x100=5%",
+          "answer": "5%"
+        },
+        {
+          "q": "15% items go bad, overall profit=19%. Find markup% on good items sold.",
+          "solution": "CP:SP=20:17->100:119(overall); per good qty ratio=5:7,diff2=>markup=2/5x100=40%",
+          "answer": "40%"
+        }
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Mixture-Based Profit (Blending two costs)",
+      "difficulty": "Medium",
+      "identification_method": "Two different quantities/rates of same commodity mixed together, question asks selling rate for target overall profit%.",
+      "when_to_use": "Find weighted average CP of mixture first using (q1r1+q2r2)/(q1+q2), then apply target profit% on this average.",
+      "step_by_step": [
+        "Calculate total cost of both quantities separately",
+        "Average CP per unit = Total cost / Total quantity",
+        "Apply target profit% formula: Selling rate = Average CP x (100+profit%)/100"
+      ],
+      "shortcut": "Skip finding per-unit average if only overall profit amount needed — directly use TotalCPx(100+p%)/100=TotalSP.",
+      "common_mistakes": [
+        "Averaging the two RATES directly (simple average) instead of weighted average by quantity",
+        "Forgetting to add both quantities in denominator"
+      ],
+      "practice_questions": [
+        {
+          "q": "50kg sugar at ₹40/kg mixed with 70kg at ₹30/kg. Find selling rate/kg for 20% profit.",
+          "solution": "AvgCP=(2000+2100)/120=34.17;SP=34.17x1.2=41",
+          "answer": "₹41/kg"
+        },
+        {
+          "q": "Merchant has 1000kg sugar, part sold at 10% profit, rest at 40% profit, overall gain=20%. Find qty sold at 40% profit.",
+          "solution": "Ratio(40-20):(20-10)=2:1(inverse)=>1000/3=333.33kg",
+          "answer": "333.33 kg"
+        }
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "Two Items with Equal Selling Price at Different %s (General)",
+      "difficulty": "Medium",
+      "identification_method": "Two watches/items sold at SAME price, but with DIFFERENT profit% and loss%, CP of one to be found.",
+      "when_to_use": "Convert both %s to CP:SP ratios, equalize the SP parts (LCM), then find ratio of CPs.",
+      "step_by_step": [
+        "Convert each %profit/loss to CP:SP ratio",
+        "Make SP parts equal (LCM) by scaling both ratios",
+        "Now CP ratio directly comparable; use given total CP to find individual CP"
+      ],
+      "shortcut": "Always scale ratios to make SP terms equal before comparing CPs — this is the fastest method for 'equal SP' problems.",
+      "common_mistakes": [
+        "Comparing CP ratios without first equalizing SP parts",
+        "Arithmetic error while scaling ratios to common SP"
+      ],
+      "practice_questions": [
+        {
+          "q": "Two buffaloes bought for ₹11520 total. One sold at 15% loss, other at 19% profit, SPs equal. Find CP of first.",
+          "solution": "Loss:20:17x7=140:119; Profit:100:119; CP ratio=140:100=>total240parts=11520=>CP1=6720",
+          "answer": "₹6,720"
+        }
+      ],
+      "expected_time_seconds": 50
+    }
+  ],
+  "identification_tricks": [
+    "Only CP, SP, profit%/loss% mentioned directly — Basic type, use CP:SP ratio.",
+    "'A sells to B, B sells to C' — Chain selling type, multiply successive fractions.",
+    "Multiple different articles with individual %s — Combined type, use Total CP vs Total SP.",
+    "'Gained fraction OF SP' or profit% oddly linked to CP's numerical value — SP-based profit type.",
+    "Same SP, same %profit=%loss — apply x²/100 loss shortcut directly.",
+    "Weight/measurement fraud mentioned (grams, cm, faulty balance) — Dishonest shopkeeper type.",
+    "Spoilage/rotten/thrown away goods mentioned — Perishable goods type, separate Total CP from Good-quantity SP.",
+    "Two different rate quantities mixed together — Mixture-based type, weighted average CP.",
+    "Two items, equal SP, different %s, CP asked — equalize SP parts method."
+  ],
+  "solving_approach": [
+    "Step 1: Identify what is given — CP, SP, MP, profit/loss%, or a ratio/fraction relation.",
+    "Step 2: Convert every %profit/loss into a CP:SP ratio immediately (100:100+x or 100:100-x).",
+    "Step 3: For multi-stage or multi-item problems, decide whether to use chain multiplication (sequential) or Total CP/Total SP (parallel/combined).",
+    "Step 4: For faulty weight or measurement problems, always express as a ratio of (actual quantity):(claimed/paid quantity).",
+    "Step 5: Solve using ratio cross-multiplication rather than absolute decimal values wherever possible.",
+    "Step 6: Verify sign (profit vs loss) makes logical sense before finalizing answer."
+  ],
+  "shortcuts": [
+    "Profit%/Loss% is ALWAYS on CP unless the question explicitly says 'on SP'.",
+    "Equal SP + equal %profit/loss(x) on two items = guaranteed overall LOSS of x²/100% — never profit.",
+    "Faulty weight while selling only (1000g claimed, w grams given): profit%=(1000-w)/w x100.",
+    "For combined transactions, ALWAYS sum Total CP and Total SP separately — never average % values when CPs differ.",
+    "'Gained 1/n of SP' pattern: SP=n parts, Profit=1 part, CP=(n-1) parts; profit%=1/(n-1)x100."
+  ],
+  "common_mistakes": [
+    "Calculating profit/loss % on SP by default instead of CP.",
+    "Averaging profit/loss percentages directly when CPs of items are different.",
+    "Reversing CP and SP in faulty weight ratio setup.",
+    "Applying x²/100 loss formula when the two percentages are NOT equal.",
+    "Forgetting spoiled/rotten quantity still contributes to Total CP even though it generates zero SP.",
+    "Using simple average instead of weighted average for mixture CP."
+  ],
+  "pyq_patterns": [
+    "Dishonest shopkeeper (faulty weight) questions are asked almost every SSC CGL shift — both single and double cheating (buy+sell) variants.",
+    "Combined multi-article profit/loss with different CPs is a recurring Tier-1 favorite testing Total CP/SP method.",
+    "'Equal SP, equal %profit=%loss=>loss x²/100' is a guaranteed trap question appearing frequently.",
+    "Chain selling (A-B-C) questions combined with successive % changes are common in Tier-2.",
+    "Mixture-based profit questions often overlap with 'Mixture and Alligation' chapter — expect cross-topic questions."
+  ],
+  "quick_revision": [
+    "Profit%=(SP-CP)/CP x100 | Loss%=(CP-SP)/CP x100",
+    "CP:SP ratio = 100:(100+profit%) or 100:(100-loss%)",
+    "Equal SP, equal %profit=loss => overall loss=x²/100%",
+    "Faulty weight (sell only): profit%=(1000-w)/w x100",
+    "Combined transactions: use Total CP vs Total SP, never average %",
+    "'Gained 1/n of SP': profit%=1/(n-1) x100"
+  ],
+  "exam_tips": [
+    "Always set CP=100 as a base for ratio problems — makes mental math dramatically faster.",
+    "For faulty weight questions, draw the CP:SP ratio explicitly on paper — don't rely on mental tracking.",
+    "Watch for 'on selling price' wording — it changes the entire base of calculation.",
+    "Practice x²/100 shortcut recognition — this exact trap appears almost every exam.",
+    "For chain-selling problems, always multiply fractions in the SAME order as the transaction sequence."
+  ],
+  "one_page_formula_sheet": {
+    "basic": "Profit%=(SP-CP)/CP x100 | Loss%=(CP-SP)/CP x100",
+    "cp_sp_ratio": "100:(100+profit%) or 100:(100-loss%)",
+    "equal_sp_equal_percent": "Overall Loss% = x^2/100",
+    "faulty_weight_sell_only": "(1000-w)/w x100",
+    "combined_transactions": "Overall% = (TotalSP-TotalCP)/TotalCP x100",
+    "sp_based_profit": "profit=1/n of SP => profit%(on CP)=1/(n-1) x100",
+    "mixture_avg_cp": "(q1r1+q2r2)/(q1+q2)"
+  }
+}

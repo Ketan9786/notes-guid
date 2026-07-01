@@ -1,8 +1,8 @@
-import RevisionViewer from "../RevesionViewer";
-import Menusration2Ddata from "../../../../data/maths/advance/mensuration2d.json";
+import MathTopicPage from "../MathTopicPage";
+import Mensuration2Ddata from "../../../../data/maths/advance/mensuration2D.json";
 const Menusration2D = () => {
   return (
-    <RevisionViewer chapterData={Menusration2Ddata} />
+    <MathTopicPage data={Mensuration2Ddata} />
   );
 };
 

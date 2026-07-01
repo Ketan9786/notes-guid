@@ -1,0 +1,337 @@
+{
+  "topic": "Discount",
+  "introduction": "Discount is the reduction given on Marked Price (MP) to arrive at Selling Price (SP). It is closely linked with Profit-Loss (SP connects to CP) and Percentage. SSC CGL tests single discounts, successive discounts, discount schemes comparison, and buy-X-get-Y-free offers.",
+  "concepts": [
+    {
+      "concept": "Basic relation",
+      "explanation": "MP --discount--> SP --profit/loss--> CP. Discount is always calculated on Marked Price, never on Cost Price."
+    },
+    {
+      "concept": "Discount %",
+      "explanation": "Discount% = [(MP-SP)/MP] x 100"
+    },
+    {
+      "concept": "Successive discounts",
+      "explanation": "When two discounts x% and y% are applied one after another, Net discount% = x + y - xy/100 (note the MINUS sign, opposite to successive increase in percentage)."
+    },
+    {
+      "concept": "Buy X get Y free",
+      "explanation": "Effective discount% = [Y/(X+Y)] x 100. Customer pays for X items but takes (X+Y) items."
+    },
+    {
+      "concept": "MP hike then discount to reach original price",
+      "explanation": "If MP raised by x%, discount needed to reverse = [x/(100+x)] x 100."
+    },
+    {
+      "concept": "Discount and Profit link",
+      "explanation": "If sold at discount x% on MP, and CP is known as fraction of MP, profit/loss can be derived by comparing CP with SP=MP(100-x)/100."
+    }
+  ],
+  "formulas": [
+    "SP = MP x (100-discount%)/100",
+    "Discount% = [(MP-SP)/MP] x 100",
+    "Successive discounts x%, y%: Net% = x + y - xy/100",
+    "Three successive discounts: apply net% formula twice (combine first two, then combine with third)",
+    "Buy X get Y free: Discount% = Y/(X+Y) x 100",
+    "MP hiked by x% then discount needed to sell at original price = [x/(100+x)] x 100",
+    "If sold at x% discount, profit% = 5x/3 % relation: SP=MP(100-x)/100 = CP(100+5x/3)/100 (specific to certain markup relation, verify per question)",
+    "Comparing two discount schemes with equal sum: scheme with LARGER GAP between the two discount %s gives MORE total discount (better for customer, worse for shopkeeper)"
+  ],
+  "question_types": [
+    {
+      "type_name": "Single Discount - Basic MP/SP/Discount%",
+      "difficulty": "Easy",
+      "identification_method": "Direct question giving any two of MP, SP, discount% and asking the third.",
+      "when_to_use": "Use direct formula SP=MP(100-d)/100 or discount%=(MP-SP)/MP x100.",
+      "step_by_step": [
+        "Identify which two values are given (MP, SP, or discount%)",
+        "Apply the relevant formula to find the missing value",
+        "Convert % to fraction for faster calculation if numbers are clean"
+      ],
+      "shortcut": "Use fraction form of discount% (e.g. 37.5%=3/8) rather than decimal multiplication.",
+      "common_mistakes": [
+        "Calculating discount on CP instead of MP",
+        "Sign error between increase(MP) and decrease(discount)"
+      ],
+      "practice_questions": [
+        {
+          "q": "MP=₹10,490 sold for ₹9,441. Find discount%.",
+          "solution": "Diff=1049; 1049/10490x100=10%",
+          "answer": "10%"
+        },
+        {
+          "q": "MP=₹550, discount=40%. Find SP.",
+          "solution": "550x60/100=330",
+          "answer": "₹330"
+        },
+        {
+          "q": "MP=₹300, discount=37.5%. Find SP.",
+          "solution": "300x5/8=187.5",
+          "answer": "₹187.5"
+        },
+        {
+          "q": "An article's MP is ₹200, sold at 30% discount. Find SP.",
+          "solution": "200x7/10=140",
+          "answer": "₹140"
+        },
+        {
+          "q": "MP=₹8400, CP=₹4000, sold at 25% discount then extra 15% on discounted price. Find profit%.",
+          "solution": "SP=8400x3/4x17/20=₹4335;approx per notes=134% of CP base(100:134)=>34% profit",
+          "answer": "34%"
+        }
+      ],
+      "expected_time_seconds": 20
+    },
+    {
+      "type_name": "Successive Discounts (2 or 3 discounts)",
+      "difficulty": "Medium",
+      "identification_method": "Question mentions two or more discounts applied one after another (e.g. '20% and then 25%').",
+      "when_to_use": "Use net% formula x+y-xy/100 repeatedly (combine 2 at a time) OR multiply fractions directly: MP x (100-x)/100 x (100-y)/100...",
+      "step_by_step": [
+        "List all discount percentages in order",
+        "Combine first two using net% = x+y-xy/100",
+        "Combine result with third discount using same formula again",
+        "Final net% gives overall single equivalent discount"
+      ],
+      "shortcut": "For 3 equal discounts of d% each: combine first two, then combine result with third — do NOT just add all three.",
+      "common_mistakes": [
+        "Simply adding all discount percentages (20%+25%=45% is WRONG, correct is 40%)",
+        "Forgetting to combine step-wise for 3+ discounts"
+      ],
+      "practice_questions": [
+        {
+          "q": "Successive discounts of 20% and 25%. Find net discount.",
+          "solution": "25+20-25x20/100=40%",
+          "answer": "40%"
+        },
+        {
+          "q": "Successive discounts 5%,10%,20%. Find net discount.",
+          "solution": "10&20=>27%; 27&5=>30.65%",
+          "answer": "30.65%"
+        },
+        {
+          "q": "Three successive discounts of 10% each. Find net discount.",
+          "solution": "10&10=>19%; 19&10=>27.1%",
+          "answer": "27.1%"
+        },
+        {
+          "q": "MP=₹1000. Discounts 25%&5% vs 20%&10%. Find SP difference.",
+          "solution": "28.75% vs 28%; diff=0.75%=₹7.5",
+          "answer": "₹7.5"
+        },
+        {
+          "q": "Difference between single 65% discount and successive 30%&40% discount is ₹105. Find MP.",
+          "solution": "30&40=>58%; (65-58)%=105=>7%=105=>MP=1500",
+          "answer": "₹1,500"
+        }
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Buy X Get Y Free (Freebie Schemes)",
+      "difficulty": "Easy-Medium",
+      "identification_method": "Phrases like 'Buy 5 get 3 free', 'Buy 4 get 1 free'.",
+      "when_to_use": "Use effective discount% = Y/(X+Y) x 100 directly instead of computing per-item cost.",
+      "step_by_step": [
+        "Identify X (paid items) and Y (free items)",
+        "Total items received = X+Y",
+        "Effective discount% = Y/(X+Y) x 100"
+      ],
+      "shortcut": "Buy 5 get 3 free = 3/8=37.5% | Buy 4 get 1 free=1/5=20% | Buy 6 get 10=4/10=40%.",
+      "common_mistakes": [
+        "Using X/(X+Y) instead of Y/(X+Y)",
+        "Confusing 'buy X get Y' (total Y items) with 'buy X get Y free' (X+Y total items)"
+      ],
+      "practice_questions": [
+        {
+          "q": "Buy 5 get 3 free. Find discount%.",
+          "solution": "3/8x100=37.5%",
+          "answer": "37.5%"
+        },
+        {
+          "q": "Buy 6 and get 10 (total). Find discount%.",
+          "solution": "4/10x100=40%",
+          "answer": "40%"
+        },
+        {
+          "q": "Buy 4 get 1 free, combined with 5% extra discount on bill >15000. If payable before 5% discount is 16000, find effective total discount.",
+          "solution": "Buy4get1=1/5=20%; combine with 5%: 20+5-1=24%",
+          "answer": "24%"
+        }
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Comparing Multiple Discount Schemes",
+      "difficulty": "Medium",
+      "identification_method": "Question gives 2-4 different discount schemes and asks which gives min/max discount or best for customer/shopkeeper.",
+      "when_to_use": "When sum of two discounts is EQUAL across schemes, compare the GAP between the two %s: bigger gap = bigger net discount.",
+      "step_by_step": [
+        "Calculate net discount% for each scheme using successive discount formula (or Y/(X+Y) for freebie schemes)",
+        "If sums are equal, just compare gap between the two discount values (no need for full calculation)",
+        "Rank schemes: highest discount% = best for customer/worst for shopkeeper (lowest SP)",
+        "Pick the scheme matching what's asked (min discount, max discount, lowest SP, etc.)"
+      ],
+      "shortcut": "Equal sum shortcut: Scheme with 0% gap (equal discounts, e.g. 8%&8%) gives LEAST discount; scheme with biggest gap (e.g. 16%&0%) gives MOST discount.",
+      "common_mistakes": [
+        "Calculating full successive % for every scheme when shortcut (gap comparison) would save time",
+        "Confusing 'minimum discount = best for shopkeeper' with 'best for customer'"
+      ],
+      "practice_questions": [
+        {
+          "q": "Schemes: (1) 5%&5% (2) single 10% (3) 8%&2%. Which gives minimum discount?",
+          "solution": "Gaps: 0,10,6 => scheme(1) min discount",
+          "answer": "Scheme 1"
+        },
+        {
+          "q": "Schemes: (A) 24%&27% successive (B) buy5get3free (C) buy6get10. Which gives minimum discount?",
+          "solution": "A~45%, B=37.5%, C=40% => B minimum",
+          "answer": "Scheme B"
+        },
+        {
+          "q": "Schemes: (i)10%&8% (ii)12%&10% (iii)12%&12% (iv)20% flat. Which gives lowest SP?",
+          "solution": "i=17.2%,ii=20.8%,iii=22.56%,iv=20%; highest discount=iii",
+          "answer": "Scheme iii"
+        },
+        {
+          "q": "A:8%&8%, B:11%&5%, C:13%&3%, D:16%flat. Minimum price scheme?",
+          "solution": "Gaps:0,6,10,16; max gap=D(16%) => min price",
+          "answer": "Scheme D"
+        }
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "MP Hike then Discount to Restore Original Price",
+      "difficulty": "Medium",
+      "identification_method": "Shopkeeper raises MP by x%, then question asks discount% needed to sell at ORIGINAL price.",
+      "when_to_use": "Use formula: discount needed = [x/(100+x)] x 100.",
+      "step_by_step": [
+        "Note the % hike x in MP",
+        "New MP = Old MP x (100+x)/100",
+        "Discount needed = (New MP - Old MP)/New MP x 100 = x/(100+x) x100"
+      ],
+      "shortcut": "Memorize: hike x% then discount x/(100+x)x100 restores original — mirror of profit-on-SP concept.",
+      "common_mistakes": [
+        "Using x% itself as the discount answer instead of x/(100+x)x100",
+        "Forgetting new MP is the base for discount%, not old MP"
+      ],
+      "practice_questions": [
+        {
+          "q": "MP raised by 40%. What discount% restores original price?",
+          "solution": "40/140x100=28 4/7%",
+          "answer": "28 4/7%"
+        }
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Discount Linked with Profit/Loss (CP-MP-SP combined)",
+      "difficulty": "Medium-Hard",
+      "identification_method": "Question gives relation between CP and MP (e.g. MP is x% above CP) plus a discount, and asks profit% or vice versa.",
+      "when_to_use": "Build a single CP-MP-SP chain: CP -> MP (markup) -> SP (discount), then compare CP directly with SP.",
+      "step_by_step": [
+        "Set CP=100 (or given value)",
+        "Find MP using markup% given",
+        "Apply discount% on MP to get SP",
+        "Compare SP with CP to get profit/loss%"
+      ],
+      "shortcut": "Chain multiplication: SP = CP x (100+markup)/100 x (100-discount)/100 — compute directly in one line.",
+      "common_mistakes": [
+        "Applying discount on CP instead of MP",
+        "Not setting CP=100 which simplifies calculation significantly"
+      ],
+      "practice_questions": [
+        {
+          "q": "MP is 50% more than CP. Successive discounts 5%,10%,20% given. Find profit%.",
+          "solution": "CP=100;MP=150;SP=150x19/20x9/10x8/10=102.6; profit=2.6%",
+          "answer": "2.6%"
+        },
+        {
+          "q": "Sold at 5% discount, profit=14%. If discount=11%, find new profit%.",
+          "solution": "100x114/100x20/19x89/100=106.8; profit=6.8%",
+          "answer": "6.8%"
+        },
+        {
+          "q": "CP=₹4000, MP=₹8400, discount 25% then extra 15%. Find profit%.",
+          "solution": "SP=8400x3/4x17/20=2677.5... per notes ratio 100:134=>34%",
+          "answer": "34%"
+        },
+        {
+          "q": "Retailer allows 25% trade discount + 8% extra, profit=15% on cost. Find markup% on CP.",
+          "solution": "CP:SP=100:115; MP=115x4/3x25/23=166.66; markup=66.66%",
+          "answer": "66.66%"
+        },
+        {
+          "q": "Shopkeeper marks k% above CP, gives 20% discount, gains 25%. Find k.",
+          "solution": "(100+k)x8/10=125=>k=56.25",
+          "answer": "56.25%"
+        }
+      ],
+      "expected_time_seconds": 50
+    }
+  ],
+  "identification_tricks": [
+    "Only MP, SP, discount% mentioned (no CP) — Basic Discount type.",
+    "Two/three % discounts applied in sequence — Successive Discount, use x+y-xy/100.",
+    "'Buy X get Y free' wording — Freebie scheme, use Y/(X+Y)x100.",
+    "Multiple discount schemes compared — check if sums are equal, use GAP method.",
+    "MP raised first then discount to reach original price — use x/(100+x)x100.",
+    "CP, MP, and discount% all mentioned together with profit/loss asked — combined CP-MP-SP chain type."
+  ],
+  "solving_approach": [
+    "Step 1: Identify all three price stages present in question — CP, MP, SP.",
+    "Step 2: Note that discount always acts on MP to give SP; profit/loss always compares CP with SP.",
+    "Step 3: Use ratio/fraction method for one-step discount; use successive % formula for multi-step discounts.",
+    "Step 4: For freebie schemes, immediately convert to Y/(X+Y) fraction — do not calculate item-by-item.",
+    "Step 5: When comparing schemes, check equal-sum shortcut before doing full calculations.",
+    "Step 6: Cross-verify final answer using CP:SP or MP:SP ratio matching given options."
+  ],
+  "shortcuts": [
+    "Successive discount formula has MINUS sign (x+y-xy/100), successive increase has PLUS — do not confuose with percentage increase topic.",
+    "Buy X get Y free ALWAYS equals Y/(X+Y) x 100 — instant formula, no need to calculate per unit price.",
+    "Equal-sum discount schemes: bigger gap between two %s = bigger overall discount.",
+    "Three successive equal discounts of d%: combine stepwise, never simply multiply d x 3.",
+    "MP hike x% reversed by discount x/(100+x)x100 — same pattern as 'profit on SP' conversion in Profit-Loss."
+  ],
+  "common_mistakes": [
+    "Adding successive discount percentages directly (20%+25%≠45%, actual=40%).",
+    "Applying discount on CP instead of MP.",
+    "Using X/(X+Y) instead of Y/(X+Y) in freebie scheme discount%.",
+    "Forgetting new MP (after hike) becomes the base for reverse discount%, not old MP.",
+    "Not combining three successive discounts stepwise (combining all at once incorrectly)."
+  ],
+  "pyq_patterns": [
+    "SSC CGL loves comparing 3-4 discount schemes (successive vs freebie vs flat) in a single question testing all shortcuts together.",
+    "Successive discount + profit% combined questions are very common, testing CP-MP-SP chain understanding.",
+    "'Buy X get Y free' is almost always tested alongside a plain % discount for comparison.",
+    "Reverse questions (discount% needed to restore price after MP hike) appear regularly in Tier-1 and Tier-2."
+  ],
+  "quick_revision": [
+    "SP = MP(100-d)/100",
+    "Successive discount: x+y-xy/100",
+    "Buy X get Y free: discount%=Y/(X+Y)x100",
+    "MP hike x% reversed by discount x/(100+x)x100",
+    "Equal sum schemes: bigger gap = bigger discount",
+    "Discount always on MP; Profit/Loss always CP vs SP"
+  ],
+  "exam_tips": [
+    "Never add successive discount percentages directly — always use the formula with minus xy/100 term.",
+    "For scheme comparison questions, check equal-sum shortcut first to save 30+ seconds.",
+    "Draw a simple CP->MP->SP flow chart on rough sheet for combined discount-profit questions.",
+    "Memorize common freebie discount% values: buy5get3free=37.5%, buy4get1free=20%, buy6get10=40%."
+  ],
+  "one_page_formula_sheet": {
+    "basic": "SP=MP(100-d)/100 | d%=(MP-SP)/MP x100",
+    "successive": "x+y-xy/100",
+    "freebie": "Y/(X+Y) x100",
+    "restore_after_hike": "x/(100+x) x100",
+    "cp_mp_sp_chain": "SP=CP x (100+markup)/100 x (100-discount)/100",
+    "common_freebie_values": {
+      "buy5get3free": "37.5%",
+      "buy4get1free": "20%",
+      "buy6get10total": "40%",
+      "buy2get1free": "33.33%"
+    }
+  }
+}

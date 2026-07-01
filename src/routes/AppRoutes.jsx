@@ -12,6 +12,8 @@ import Sports from "../features/gk/static/Sports";
 import MedievalHistory from "../features/gk/history/MedievalHistory";
 import ModernHistory from "../features/gk/history/MordernHistory";
 import Adverb from "../features/notes/English/part-of-speech/Adverb";
+import ProfitAndLoss from "../features/notes/Maths/Airthmetic/ProfitAndLoss";
+import Discount from "../features/notes/Maths/Airthmetic/Discount";
 
 
 const AppRoutes = () => {
@@ -88,6 +90,14 @@ const AppRoutes = () => {
           <Route
             path="/maths/arithmetic/percentage"
             element={<Percentage />}
+          />
+          <Route
+            path="/maths/arithmetic/profit-and-loss"
+            element={<ProfitAndLoss />}
+          />
+          <Route
+            path="/maths/arithmetic/discount"
+            element={<Discount />}
           />
 
           {/* Advance */}

@@ -101,6 +101,59 @@
       ]
     }
   ]
+},
+{
+  "subject": "Maths",
+  "chapters": [
+    {
+      "chapter": "Airthmetic",
+      "topics": [
+        {
+          "topic": "Percentage",
+          "subTopics":[
+            {
+              "name": "Percentage",
+              "path": "/maths/arithmetic/percentage"
+            }
+          ]
+          
+        },{
+          "topic": "Profit And Loss",
+          "subTopics":[
+            {
+              "name": "Profit And Loss",
+              "path": "/maths/arithmetic/profit-and-loss"
+            }
+          ]
+          
+        },{
+          "topic": "Discount",
+          "subTopics":[
+            {
+              "name": "Discount",
+              "path": "/maths/arithmetic/discount"
+            }
+          ]
+          
+        }
+      ]
+    },
+     {
+      "chapter": "Advacned",
+      "topics": [
+        {
+          "topic": "Mensuration2D",
+          "subTopics":[
+            {
+              "name": "Mensuration2D",
+              "path": "/maths/advanced/mensuration2d"
+            }
+          ]
+          
+        }
+      ]
+    }
+  ]
 }
 ]
 
