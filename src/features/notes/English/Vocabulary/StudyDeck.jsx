@@ -365,11 +365,11 @@ function ReadingMode({ t, items, search, setSearch, page, setPage, pageSize, tab
                 <p className={`text-sm mt-1.5 ${t.text}`}>{row.meaning}</p>
                 <div className="flex justify-between items-end mt-2 flex-wrap gap-2">
                   {row.hindi && <span className={`text-sm ${t.hindiText}`}>{row.hindi}</span>}
-                  {row.tip && (
+                  {/* {row.tip && (
                     <span className={`text-xs italic ${t.tipText}`}>
                       💡 {row.term} = {row.tip}
                     </span>
-                  )}
+                  )} */}
                 </div>
                 <div className="flex gap-1.5 mt-2 flex-wrap">
                   {row.spelling && (
