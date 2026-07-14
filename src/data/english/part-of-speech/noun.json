@@ -51,14 +51,14 @@
 
   "countability": [
     {
-      "name": "Countable Nouns",
+      "name": "Countable Nouns - > Can be Count",
       "english": "Nouns that can be counted.",
       "marathi": "मोजता येणारी नावे.",
       "examples": ["Book → Books", "Apple → Apples"],
       "question": "How many?"
     },
     {
-      "name": "Uncountable Nouns",
+      "name": "Uncountable Nouns > Can not be Count",
       "english": "Nouns that cannot be counted directly.",
       "marathi": "मोजता न येणारी नावे.",
       "examples": ["Advice", "Furniture", "Information", "Scenery", "Machinery", "Luggage", "Baggage", "Poetry", "Mischief"],
@@ -69,7 +69,7 @@
   "rules": [
     {
       "id": 1,
-      "title": "Uncountable Nouns",
+      "title": "Uncountable Nouns - Always Plural",
       "marathi": "Uncountable nouns नेहमी Singular असतात.",
       "english": "Uncountable nouns are always singular.",
       "wrongRight": [
@@ -80,7 +80,7 @@
     },
     {
       "id": 2,
-      "title": "Nouns Always Used in Plural",
+      "title": "Nouns Always Used in Plural - Always Plural",
       "marathi": "हे शब्द नेहमी Plural असतात.",
       "examples": ["Trousers", "Spectacles", "Scissors", "Jeans", "Shorts", "Premises"],
       "wrongRight": [
@@ -89,7 +89,7 @@
     },
     {
       "id": 3,
-      "title": "Singular Form but Plural Meaning",
+      "title": "Singular Form but Plural Meaning - Actually Plural",
       "marathi": "दिसायला Singular पण अर्थाने Plural.",
       "examples": ["Police", "Cattle", "People", "Poultry", "Gentry"],
       "wrongRight": [
@@ -98,7 +98,7 @@
     },
     {
       "id": 4,
-      "title": "Plural Form but Singular Meaning",
+      "title": "Plural Form but Singular Meaning - Singular Form",
       "marathi": "दिसायला Plural पण अर्थाने Singular.",
       "examples": ["News", "Mathematics", "Physics", "Politics", "Economics", "Measles"],
       "wrongRight": [
@@ -107,7 +107,7 @@
     },
     {
       "id": 5,
-      "title": "Same Singular and Plural",
+      "title": "Same Singular and Plural - Not changed",
       "marathi": "Singular आणि Plural दोन्ही सारखे असतात.",
       "examples": ["Sheep", "Deer", "Fish", "Species", "Series", "Means"],
       "wrongRight": [
@@ -158,13 +158,13 @@
     },
     {
       "id": 9,
-      "title": "Noun + Preposition + Same Noun",
+      "title": "Noun + Preposition + Same Noun = Singular Verb",
       "marathi": "Noun + Preposition + Same Noun असल्यास Singular Verb वापरतात.",
       "examples": ["Town after town was destroyed.", "Village after village has disappeared."]
     },
     {
       "id": 10,
-      "title": "One of / Each of",
+      "title": "One of / Each of - Noun Plural",
       "marathi": "One of, Each of नंतर Noun Plural येतो.",
       "wrongRight": [
         { "wrong": "One of my friend.", "right": "One of my friends." },
@@ -173,7 +173,7 @@
     },
     {
       "id": 11,
-      "title": "The Number of / A Number of",
+      "title": "The Number of / A Number of = Plural Noun → Singular Verb/Plural Noun → Plural Verb",
       "marathi": "",
       "subpoints": [
         { "label": "The number of + Plural Noun → Singular Verb", "example": "The number of students is increasing." },
@@ -182,7 +182,7 @@
     },
     {
       "id": 12,
-      "title": "A Pair Of",
+      "title": "A Pair Of = Verb Singular",
       "marathi": "A pair of आल्यास Verb Singular येतो.",
       "examples": [
         "A pair of scissors is lying on the table.",
@@ -191,7 +191,7 @@
     },
     {
       "id": 13,
-      "title": "Collective Noun",
+      "title": "Collective Noun - Group as a unit → Singular Verb / Members acting separately → Plural Verb",
       "subpoints": [
         { "label": "Group as a unit → Singular Verb", "example": "The committee has submitted its report." },
         { "label": "Members acting separately → Plural Verb", "example": "The committee are divided in their opinions." }
@@ -199,7 +199,7 @@
     },
     {
       "id": 14,
-      "title": "Compound Nouns",
+      "title": "Compound Nouns - Plural use with Main Noun",
       "marathi": "Plural मुख्य Noun ला लावतात.",
       "tableType": "plural",
       "table": [
@@ -213,7 +213,7 @@
     },
     {
       "id": 15,
-      "title": "Possessive Case (Apostrophe)",
+      "title": "Possessive Case (Apostrophe) - Show possession",
       "marathi": "मालकी दाखवण्यासाठी ('s) वापरतात.",
       "examples": ["Ram's book", "Mohan's pen"],
       "subsections": [

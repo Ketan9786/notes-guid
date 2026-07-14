@@ -1,0 +1,1377 @@
+{
+  "slug": "preposition",
+  "title": "Preposition",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Parts of Speech",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "A Preposition is a word that shows the relationship between a noun/pronoun and another word in a sentence.",
+    "marathi": "Sentence मधील Noun/Pronoun आणि इतर शब्दांमधील संबंध दाखवणाऱ्या शब्दाला Preposition म्हणतात.",
+    "shows": [
+      "Place (ठिकाण)",
+      "Time (वेळ)",
+      "Direction (दिशा)",
+      "Position (स्थिती)",
+      "Cause (कारण)",
+      "Manner (पद्धत)"
+    ],
+    "examples": [
+      {
+        "word": "The book is on the table.",
+        "tag": "Position"
+      },
+      {
+        "word": "Ram lives in Pune.",
+        "tag": "Place"
+      },
+      {
+        "word": "She came at 8 o'clock.",
+        "tag": "Time"
+      },
+      {
+        "word": "The cat is under the chair.",
+        "tag": "Position"
+      },
+      {
+        "word": "He came with his brother.",
+        "tag": "Manner"
+      }
+    ]
+  },
+  "types": [
+    {
+      "name": "Preposition of Time",
+      "english": "Shows time.",
+      "marathi": "वेळ दर्शवते.",
+      "examples": [
+        "at 5 PM",
+        "in July",
+        "on Monday",
+        "before dinner",
+        "after school",
+        "since 2020",
+        "for two years"
+      ]
+    },
+    {
+      "name": "Preposition of Place",
+      "english": "Shows place.",
+      "marathi": "ठिकाण दर्शवते.",
+      "examples": [
+        "in Mumbai",
+        "at school",
+        "on the wall",
+        "under the bed",
+        "between two buildings"
+      ]
+    },
+    {
+      "name": "Preposition of Direction",
+      "english": "Shows direction.",
+      "marathi": "दिशा दर्शवते.",
+      "examples": [
+        "to Delhi",
+        "towards home",
+        "into the room",
+        "across the road",
+        "through the tunnel"
+      ]
+    },
+    {
+      "name": "Preposition of Movement",
+      "english": "Shows movement.",
+      "marathi": "हालचाल दर्शवते.",
+      "examples": [
+        "into",
+        "onto",
+        "through",
+        "across",
+        "towards"
+      ]
+    },
+    {
+      "name": "Preposition of Cause/Reason",
+      "english": "Shows cause or reason.",
+      "marathi": "कारण दर्शवते.",
+      "examples": [
+        "because of",
+        "due to",
+        "owing to",
+        "thanks to"
+      ]
+    },
+    {
+      "name": "Preposition of Manner/Instrument",
+      "english": "Shows manner or instrument.",
+      "marathi": "साधन किंवा पद्धत दर्शवते.",
+      "examples": [
+        "with a knife",
+        "by bus",
+        "by train",
+        "with love"
+      ]
+    }
+  ],
+  "position": {
+    "english": "A preposition usually comes before the noun/pronoun.",
+    "marathi": "सामान्यतः Preposition Noun/Pronoun च्या आधी येतो.",
+    "examples": [
+      "The pen is on the table.",
+      "He lives in Delhi.",
+      "She arrived at night."
+    ]
+  },
+  "goldenConcept": {
+    "title": "SSC Golden Concept: AT / IN / ON",
+    "english": "AT is used for exact time/point, IN for months/years/inside, ON for days/dates/surface.",
+    "marathi": "AT -> Exact Time/Point, IN -> Month/Year/Inside, ON -> Day/Date/Surface.",
+    "pattern": [
+      "AT -> Exact Time",
+      "IN -> Month / Year / Season",
+      "ON -> Day / Date",
+      "AT -> Point",
+      "IN -> Inside",
+      "ON -> Surface"
+    ]
+  },
+  "commonExpressions": {
+    "AT": [
+      "at home",
+      "at school",
+      "at college",
+      "at work",
+      "at night",
+      "at present",
+      "at first",
+      "at last",
+      "at once",
+      "at the moment"
+    ],
+    "IN": [
+      "in trouble",
+      "in danger",
+      "in cash",
+      "in detail",
+      "in English",
+      "in silence",
+      "in public",
+      "in time",
+      "in love"
+    ],
+    "ON": [
+      "on duty",
+      "on leave",
+      "on time",
+      "on foot",
+      "on purpose",
+      "on business",
+      "on holiday",
+      "on TV",
+      "on fire"
+    ]
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "title": "Confusing Preposition Pairs",
+      "columns": [
+        "preposition",
+        "meaning",
+        "example"
+      ],
+      "rows": [
+        {
+          "preposition": "BY",
+          "meaning": "Living Agent",
+          "example": "by Ram"
+        },
+        {
+          "preposition": "WITH",
+          "meaning": "Instrument",
+          "example": "with a knife"
+        },
+        {
+          "preposition": "BESIDE",
+          "meaning": "Next to",
+          "example": "beside me"
+        },
+        {
+          "preposition": "BESIDES",
+          "meaning": "In addition to",
+          "example": "besides English"
+        },
+        {
+          "preposition": "BETWEEN",
+          "meaning": "Two",
+          "example": "between Ram and Shyam"
+        },
+        {
+          "preposition": "AMONG",
+          "meaning": "More than Two",
+          "example": "among students"
+        },
+        {
+          "preposition": "ABOVE",
+          "meaning": "Higher Position",
+          "example": "above the clouds"
+        },
+        {
+          "preposition": "OVER",
+          "meaning": "Directly Above",
+          "example": "over the bridge"
+        },
+        {
+          "preposition": "BELOW",
+          "meaning": "Lower Level",
+          "example": "below zero"
+        },
+        {
+          "preposition": "UNDER",
+          "meaning": "Directly Beneath",
+          "example": "under the table"
+        }
+      ]
+    },
+    {
+      "id": "table-2",
+      "title": "Time and Movement Prepositions",
+      "columns": [
+        "preposition",
+        "meaning",
+        "example"
+      ],
+      "rows": [
+        {
+          "preposition": "SINCE",
+          "meaning": "Starting Point",
+          "example": "since 2020"
+        },
+        {
+          "preposition": "FOR",
+          "meaning": "Duration",
+          "example": "for 2 years"
+        },
+        {
+          "preposition": "FROM",
+          "meaning": "Beginning",
+          "example": "from tomorrow"
+        },
+        {
+          "preposition": "DURING",
+          "meaning": "Event",
+          "example": "during the meeting"
+        },
+        {
+          "preposition": "IN",
+          "meaning": "Time Period",
+          "example": "in July"
+        },
+        {
+          "preposition": "INTO",
+          "meaning": "Movement",
+          "example": "into the room"
+        },
+        {
+          "preposition": "IN",
+          "meaning": "Position",
+          "example": "in the room"
+        },
+        {
+          "preposition": "ACROSS",
+          "meaning": "One Side to Another",
+          "example": "across the road"
+        },
+        {
+          "preposition": "THROUGH",
+          "meaning": "Inside",
+          "example": "through the tunnel"
+        },
+        {
+          "preposition": "ALONG",
+          "meaning": "Beside",
+          "example": "along the river"
+        },
+        {
+          "preposition": "TO",
+          "meaning": "Destination",
+          "example": "to school"
+        },
+        {
+          "preposition": "TOWARDS",
+          "meaning": "Direction",
+          "example": "towards school"
+        }
+      ]
+    },
+    {
+      "id": "table-3",
+      "title": "Fixed Preposition Combinations",
+      "columns": [
+        "word",
+        "correctPreposition"
+      ],
+      "rows": [
+        {
+          "word": "Depend",
+          "correctPreposition": "on"
+        },
+        {
+          "word": "Good",
+          "correctPreposition": "at"
+        },
+        {
+          "word": "Interested",
+          "correctPreposition": "in"
+        },
+        {
+          "word": "Famous",
+          "correctPreposition": "for"
+        },
+        {
+          "word": "Capable",
+          "correctPreposition": "of"
+        },
+        {
+          "word": "Different",
+          "correctPreposition": "from"
+        },
+        {
+          "word": "Prefer",
+          "correctPreposition": "to"
+        },
+        {
+          "word": "Comply",
+          "correctPreposition": "with"
+        },
+        {
+          "word": "Object",
+          "correctPreposition": "to"
+        },
+        {
+          "word": "Congratulate",
+          "correctPreposition": "on"
+        },
+        {
+          "word": "According",
+          "correctPreposition": "to"
+        },
+        {
+          "word": "Contrary",
+          "correctPreposition": "to"
+        }
+      ]
+    }
+  ],
+  "cheatSheet": {
+    "oneLineRevision": [
+      "AT -> Exact Time / Point",
+      "IN -> Month / Year / Inside",
+      "ON -> Day / Surface",
+      "BY -> Agent / Deadline",
+      "WITH -> Instrument",
+      "BESIDE -> Next to",
+      "BESIDES -> In addition",
+      "BETWEEN -> Two",
+      "AMONG -> Many",
+      "ABOVE -> Higher",
+      "OVER -> Covering",
+      "BELOW -> Lower Level",
+      "UNDER -> Directly Beneath",
+      "SINCE -> Starting Point",
+      "FOR -> Duration",
+      "DURING -> Event",
+      "INTO -> Movement",
+      "ACROSS -> Cross Surface",
+      "THROUGH -> Inside",
+      "TO -> Destination",
+      "TOWARDS -> Direction",
+      "OF -> Relation",
+      "OFF -> Separation",
+      "DESPITE -> No 'of'"
+    ]
+  },
+  "rules": [
+    {
+      "id": 1,
+      "title": "AT - Exact Time",
+      "english": "AT is used for exact time, fixed time, clock time.",
+      "marathi": "Exact Time, Fixed Time, Clock Time साठी AT वापरतात.",
+      "examples": [
+        "at 5 PM",
+        "at noon",
+        "at midnight",
+        "at sunrise",
+        "at sunset",
+        "at lunch"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "in 5 PM",
+          "right": "at 5 PM"
+        },
+        {
+          "wrong": "on 5 PM",
+          "right": "at 5 PM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "IN - Period of Time",
+      "english": "IN is used for month, year, century, season or larger time period.",
+      "marathi": "Month, Year, Century, Season किंवा मोठ्या कालावधीसाठी IN वापरतात.",
+      "examples": [
+        "in July",
+        "in 2026",
+        "in winter",
+        "in the morning",
+        "in the afternoon",
+        "in the evening",
+        "in the 21st century"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "on July",
+          "right": "in July"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ON - Particular Day/Date",
+      "english": "ON is used for a particular day or date.",
+      "marathi": "विशिष्ट दिवस किंवा Date साठी ON वापरतात.",
+      "examples": [
+        "on Monday",
+        "on Sunday",
+        "on 15 August",
+        "on my birthday",
+        "on Independence Day"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "in Monday",
+          "right": "on Monday"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AT - Exact Point (Place)",
+      "english": "AT is used for an exact point or specific location.",
+      "marathi": "एका विशिष्ट Point किंवा Exact Location साठी AT वापरतात.",
+      "examples": [
+        "at the bus stop",
+        "at the airport",
+        "at the station",
+        "at the gate",
+        "at the entrance"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "IN - Inside / Enclosed Area",
+      "english": "IN is used for a large or enclosed space.",
+      "marathi": "मोठ्या जागेत किंवा आत असल्यास IN वापरतात.",
+      "examples": [
+        "in the room",
+        "in the class",
+        "in India",
+        "in Pune",
+        "in the park"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "ON - Surface",
+      "english": "ON is used for a surface.",
+      "marathi": "एखाद्या पृष्ठभागावर असल्यास ON वापरतात.",
+      "examples": [
+        "on the table",
+        "on the wall",
+        "on the floor",
+        "on the roof"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "AT vs IN Together (Small vs Large Place)",
+      "english": "Use AT for a small/specific place and IN for a large place in the same sentence.",
+      "marathi": "एकाच वाक्यात मोठ्या जागेसाठी IN आणि लहान/Specific जागेसाठी AT वापरतात.",
+      "examples": [
+        "He lives at Karol Bagh in Delhi.",
+        "The match was played at Wankhede Stadium in Mumbai.",
+        "She works at Infosys in Bengaluru."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "in Wankhede Stadium in Mumbai",
+          "right": "at Wankhede Stadium in Mumbai"
+        },
+        {
+          "wrong": "at Mumbai",
+          "right": "in Mumbai"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "BY - Doer / Agent",
+      "english": "BY shows the doer (living agent) in passive voice.",
+      "marathi": "Passive Voice मध्ये काम करणारी व्यक्ती (Living Agent) दाखवण्यासाठी BY वापरतात.",
+      "examples": [
+        "The letter was written by Ram.",
+        "Ravana was killed by Rama.",
+        "The project was completed by the team."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The letter was written with Ram.",
+          "right": "The letter was written by Ram."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "WITH - Instrument / Tool",
+      "english": "WITH shows the instrument or non-living tool used to do something.",
+      "marathi": "काम करण्यासाठी वापरलेले साधन (Instrument), वस्तू (Non-living Thing) दाखवण्यासाठी WITH वापरतात.",
+      "examples": [
+        "He cut the apple with a knife.",
+        "The ball was hit with a bat.",
+        "Ravana was killed by Rama with an arrow."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He cut the apple by a knife.",
+          "right": "He cut the apple with a knife."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "BESIDE - Next to",
+      "english": "BESIDE means next to.",
+      "marathi": "जवळ / शेजारी या अर्थाने BESIDE वापरतात.",
+      "examples": [
+        "She sat beside me.",
+        "He stood beside his father.",
+        "The school is beside the temple."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "BESIDES - In Addition To",
+      "english": "BESIDES means in addition to.",
+      "marathi": "याशिवाय / शिवाय / तसेच या अर्थाने BESIDES वापरतात.",
+      "examples": [
+        "Besides English, he knows Hindi.",
+        "Besides riding a bike, he can drive a car.",
+        "Besides you, no one helped me."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Beside English",
+          "right": "Besides English"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "BETWEEN - Two Persons/Things",
+      "english": "BETWEEN is used for only two persons or things.",
+      "marathi": "फक्त दोन व्यक्ती किंवा वस्तू असल्यास BETWEEN वापरतात.",
+      "examples": [
+        "Divide the cake between Ram and Shyam.",
+        "The match was between India and Australia.",
+        "Sit between your parents."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "among Ram and Shyam",
+          "right": "between Ram and Shyam"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "AMONG - More Than Two",
+      "english": "AMONG is used for more than two persons or things.",
+      "marathi": "दोनपेक्षा जास्त व्यक्ती किंवा वस्तूंमध्ये असल्यास AMONG वापरतात.",
+      "examples": [
+        "He distributed sweets among the students.",
+        "She was sitting among friends.",
+        "Divide the property among the sons."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "between all students",
+          "right": "among all students"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "ABOVE - Higher Position",
+      "english": "ABOVE is used for a higher position without touching.",
+      "marathi": "फक्त वरच्या Position मध्ये असेल पण Touch नसेल तर ABOVE वापरतात.",
+      "examples": [
+        "The fan is above my head.",
+        "The sun is above the clouds.",
+        "Write your name above the line."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The plane flew above the city.",
+          "right": "The plane flew over the city."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "OVER - Directly Above / Covering",
+      "english": "OVER is used for directly above, covering, or movement.",
+      "marathi": "बरोबर वर, झाकून किंवा Movement असल्यास OVER वापरतात.",
+      "examples": [
+        "The plane flew over the city.",
+        "A cloth is spread over the table.",
+        "The bridge is over the river."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "BELOW - Lower Level",
+      "english": "BELOW is used for a lower level or position.",
+      "marathi": "एखाद्या Level किंवा Position च्या खाली असल्यास BELOW वापरतात.",
+      "examples": [
+        "Temperature is below zero.",
+        "Marks below 40 are fail.",
+        "The village lies below the hill."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Temperature is under zero.",
+          "right": "Temperature is below zero."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "UNDER - Directly Beneath",
+      "english": "UNDER is used for directly beneath or under control.",
+      "marathi": "थेट खाली किंवा नियंत्रणाखाली असल्यास UNDER वापरतात.",
+      "examples": [
+        "The cat is under the table.",
+        "He slept under the tree.",
+        "India was under British rule."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The cat is below the table.",
+          "right": "The cat is under the table."
+        },
+        {
+          "wrong": "India was below British rule.",
+          "right": "India was under British rule."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "SINCE - Starting Point",
+      "english": "SINCE shows the starting point of time.",
+      "marathi": "काम कधी सुरू झाले (Point of Time) हे सांगण्यासाठी SINCE वापरतात.",
+      "examples": [
+        "since 2020",
+        "since Monday",
+        "since morning",
+        "since 8 AM",
+        "since childhood"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "for Monday",
+          "right": "since Monday"
+        },
+        {
+          "wrong": "since two years",
+          "right": "for two years"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "FOR - Duration",
+      "english": "FOR shows the duration or period of time.",
+      "marathi": "किती वेळ (Period of Time) हे सांगण्यासाठी FOR वापरतात.",
+      "examples": [
+        "for two years",
+        "for five hours",
+        "for a week",
+        "for three months"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "FROM - General Starting Point",
+      "english": "FROM shows a starting point in past, present or future.",
+      "marathi": "भूतकाळ, वर्तमान किंवा भविष्यकाळात सुरुवात दाखवण्यासाठी वापरतात.",
+      "examples": [
+        "The office is open from 9 AM.",
+        "I shall work from tomorrow.",
+        "Classes start from Monday."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "SINCE - Present Perfect",
+      "english": "SINCE shows a past starting point in Present Perfect/Perfect Continuous tense.",
+      "marathi": "Present Perfect/Perfect Continuous मध्ये भूतकाळातील सुरुवात दाखवते.",
+      "examples": [
+        "I have lived here since 2018.",
+        "She has been ill since Monday."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "DURING - Event",
+      "english": "DURING is used for an event or period.",
+      "marathi": "एखाद्या Event किंवा Period च्या दरम्यान असल्यास DURING वापरतात.",
+      "examples": [
+        "during the meeting",
+        "during the match",
+        "during the holidays",
+        "during the war"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "in the meeting",
+          "right": "during the meeting"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "IN - Time Period",
+      "english": "IN is used for month, year, season or time period.",
+      "marathi": "Month, Year, Season किंवा Time Period साठी वापरतात.",
+      "examples": [
+        "in 2026",
+        "in winter",
+        "in July",
+        "in the morning"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "INTO - Movement",
+      "english": "INTO shows movement from outside to inside.",
+      "marathi": "बाहेरून आत जाण्याची हालचाल असल्यास INTO वापरतात.",
+      "examples": [
+        "He went into the room.",
+        "She jumped into the river.",
+        "The cat ran into the house."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He went in the room.",
+          "right": "He went into the room."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "IN - Position",
+      "english": "IN shows the position of being inside.",
+      "marathi": "आत असल्याची स्थिती दर्शवण्यासाठी IN वापरतात.",
+      "examples": [
+        "He is in the room.",
+        "Water is in the bottle.",
+        "She is in the class."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He is into the room.",
+          "right": "He is in the room."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "ACROSS - One Side to Another",
+      "english": "ACROSS shows going from one side to another.",
+      "marathi": "एका बाजूकडून दुसऱ्या बाजूला जाणे.",
+      "examples": [
+        "across the road",
+        "across the river",
+        "across the bridge",
+        "He ran across the field."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "through the road",
+          "right": "across the road"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "THROUGH - Inside",
+      "english": "THROUGH shows going through the inside of an enclosed space.",
+      "marathi": "एखाद्या बंद जागेच्या आतून जाणे.",
+      "examples": [
+        "through the tunnel",
+        "through the forest",
+        "through the window",
+        "through the crowd"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "across the tunnel",
+          "right": "through the tunnel"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "ALONG - Beside a Road/River",
+      "english": "ALONG shows moving beside a road, river or coast.",
+      "marathi": "एखाद्या रस्त्याच्या, नदीच्या किंवा किनाऱ्याच्या बाजूने जाणे.",
+      "examples": [
+        "Walk along the road.",
+        "We walked along the river.",
+        "The children ran along the beach."
+      ]
+    },
+    {
+      "id": 29,
+      "title": "ROUND vs AROUND",
+      "english": "ROUND is more common in British English; AROUND is more common in American English, both meaning approximately the same.",
+      "marathi": "ROUND British English मध्ये अधिक वापरतात, AROUND American English मध्ये अधिक वापरतात.",
+      "examples": [
+        "We walked around the park.",
+        "We walked round the park.",
+        "The earth moves around the sun."
+      ]
+    },
+    {
+      "id": 30,
+      "title": "TO - Destination",
+      "english": "TO is used when the destination is definite.",
+      "marathi": "Destination निश्चित असल्यास TO वापरतात.",
+      "examples": [
+        "Go to school.",
+        "Come to me.",
+        "I went to Delhi."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He went towards Delhi yesterday.",
+          "right": "He went to Delhi yesterday."
+        },
+        {
+          "wrong": "Come towards me.",
+          "right": "Come to me."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "TOWARDS - Direction",
+      "english": "TOWARDS is used to show only direction, not a definite destination.",
+      "marathi": "फक्त दिशा (Direction) दाखवायची असल्यास TOWARDS वापरतात.",
+      "examples": [
+        "He ran towards the station.",
+        "She walked towards me.",
+        "The child came towards the gate."
+      ]
+    },
+    {
+      "id": 32,
+      "title": "OF - Relation / Belonging",
+      "english": "OF shows relation, ownership, part or quantity.",
+      "marathi": "संबंध, मालकी, भाग किंवा प्रमाण दाखवण्यासाठी OF वापरतात.",
+      "examples": [
+        "The capital of India",
+        "A cup of tea",
+        "One of my friends"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "one off my friends",
+          "right": "one of my friends"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "OFF - Separation",
+      "english": "OFF shows separation, moving away, or removing.",
+      "marathi": "वेगळे होणे, दूर जाणे, काढणे या अर्थाने OFF वापरतात.",
+      "examples": [
+        "Get off the bus.",
+        "The lid fell off.",
+        "Switch off the light."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "switch of the light",
+          "right": "switch off the light"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "BY - Before / Deadline",
+      "english": "BY means before or not later than a given time.",
+      "marathi": "दिलेल्या वेळेच्या आधी किंवा त्या वेळेपर्यंत.",
+      "examples": [
+        "Submit the form by Monday.",
+        "Finish it by 5 PM."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Finish the work until Monday.",
+          "right": "Finish the work by Monday."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "UNTIL - Continuation",
+      "english": "UNTIL means continuing up to a certain time.",
+      "marathi": "एखाद्या वेळेपर्यंत सतत.",
+      "examples": [
+        "Wait until Monday.",
+        "He slept until 8 AM."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Wait by Monday.",
+          "right": "Wait until Monday."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "In Spite Of vs Despite",
+      "english": "Both mean 'although/even though'; Despite is never followed by 'of'.",
+      "marathi": "दोन्हींचा अर्थ 'असूनही'; Despite नंतर 'of' कधीही वापरत नाही.",
+      "examples": [
+        "In spite of the rain, we played.",
+        "Despite the rain, we played."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Despite of the rain",
+          "right": "Despite the rain"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Because Of vs Due To vs Owing To",
+      "english": "Because of is general; Due to is formal; Owing to means 'because of a reason'.",
+      "marathi": "Because of सामान्य कारण; Due to औपचारिक (Formal); Owing to कारणामुळे.",
+      "examples": [
+        "The match was cancelled because of rain.",
+        "The delay was due to heavy traffic.",
+        "Owing to illness, he was absent."
+      ]
+    },
+    {
+      "id": 38,
+      "title": "According To",
+      "english": "According to means 'as stated by'.",
+      "marathi": "\"च्या मते\"",
+      "examples": [
+        "According to the doctor",
+        "According to the report"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "According me",
+          "right": "According to me"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Contrary To",
+      "english": "Contrary to means 'opposite to'.",
+      "marathi": "\"च्या विरुद्ध\"",
+      "examples": [
+        "Contrary to expectations",
+        "Contrary to the rules"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Prefer To",
+      "english": "The correct pattern is 'Prefer A to B'.",
+      "marathi": "योग्य Pattern: Prefer A to B",
+      "examples": [
+        "I prefer tea to coffee.",
+        "She prefers walking to driving."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Prefer than",
+          "right": "Prefer to"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Differ From",
+      "english": "Use 'differ from', not 'differ than'.",
+      "marathi": "'Differ from' वापरतात, 'differ than' नाही.",
+      "examples": [
+        "This book differs from that one."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "differs than",
+          "right": "differs from"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Depend On",
+      "english": "Use 'depend on'; 'depend upon' is formal but 'depend on' is safer for SSC.",
+      "marathi": "'Depend on' वापरतात; Formal English मध्ये 'upon' शक्य आहे, पण SSC मध्ये 'depend on' सुरक्षित.",
+      "examples": [
+        "Success depends on hard work."
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Good At",
+      "english": "Use 'good at', not 'good in' - a common SSC trap.",
+      "marathi": "'Good at' वापरतात, 'Good in' नाही (SSC Trap).",
+      "examples": [
+        "Good at English",
+        "Good at Mathematics"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Good in English",
+          "right": "Good at English"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Interested In",
+      "english": "Use 'interested in', not 'interested on'.",
+      "marathi": "'Interested in' वापरतात, 'interested on' नाही.",
+      "examples": [
+        "Interested in music",
+        "Interested in cricket"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "interested on",
+          "right": "interested in"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Capable Of",
+      "english": "Use 'capable of', not 'capable to'.",
+      "marathi": "'Capable of' वापरतात, 'capable to' नाही.",
+      "examples": [
+        "Capable of doing",
+        "Capable of solving"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "capable to",
+          "right": "capable of"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Famous For",
+      "english": "Use 'famous for', not 'famous of'.",
+      "marathi": "'Famous for' वापरतात, 'famous of' नाही.",
+      "examples": [
+        "India is famous for spices.",
+        "Mumbai is famous for Bollywood."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "famous of",
+          "right": "famous for"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Congratulate On",
+      "english": "Use 'congratulate on', not 'congratulate for'.",
+      "marathi": "'Congratulate on' वापरतात, 'congratulate for' नाही.",
+      "examples": [
+        "Congratulated him on success.",
+        "Congratulations on your promotion."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "congratulate for",
+          "right": "congratulate on"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Object To",
+      "english": "Use 'object to', not 'object against'.",
+      "marathi": "'Object to' वापरतात, 'object against' नाही.",
+      "examples": [
+        "I object to smoking.",
+        "She objected to the proposal."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "object against",
+          "right": "object to"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Comply With",
+      "english": "Use 'comply with', not 'comply to'.",
+      "marathi": "'Comply with' वापरतात, 'comply to' नाही.",
+      "examples": [
+        "Comply with the rules.",
+        "Comply with instructions."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "comply to",
+          "right": "comply with"
+        }
+      ]
+    }
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "in 7 PM",
+      "right": "at 7 PM"
+    },
+    {
+      "wrong": "at Monday",
+      "right": "on Monday"
+    },
+    {
+      "wrong": "on July",
+      "right": "in July"
+    },
+    {
+      "wrong": "in the table",
+      "right": "on the table"
+    },
+    {
+      "wrong": "at India",
+      "right": "in India"
+    },
+    {
+      "wrong": "in the airport gate",
+      "right": "at the airport gate"
+    },
+    {
+      "wrong": "on the room",
+      "right": "in the room"
+    },
+    {
+      "wrong": "The meeting is in 10 AM.",
+      "right": "The meeting is at 10 AM."
+    },
+    {
+      "wrong": "He was born on 1998.",
+      "right": "He was born in 1998."
+    },
+    {
+      "wrong": "She will come in Sunday.",
+      "right": "She will come on Sunday."
+    },
+    {
+      "wrong": "Written with Ram",
+      "right": "Written by Ram"
+    },
+    {
+      "wrong": "Cut by knife",
+      "right": "Cut with a knife"
+    },
+    {
+      "wrong": "Beside English",
+      "right": "Besides English"
+    },
+    {
+      "wrong": "Among Ram and Shyam",
+      "right": "Between Ram and Shyam"
+    },
+    {
+      "wrong": "Between all students",
+      "right": "Among all students"
+    },
+    {
+      "wrong": "The plane flew above the city.",
+      "right": "The plane flew over the city."
+    },
+    {
+      "wrong": "The cat is below the table.",
+      "right": "The cat is under the table."
+    },
+    {
+      "wrong": "Temperature is under zero.",
+      "right": "Temperature is below zero."
+    },
+    {
+      "wrong": "India was below British rule.",
+      "right": "India was under British rule."
+    },
+    {
+      "wrong": "since two years",
+      "right": "for two years"
+    },
+    {
+      "wrong": "for Monday",
+      "right": "since Monday"
+    },
+    {
+      "wrong": "in the meeting",
+      "right": "during the meeting"
+    },
+    {
+      "wrong": "He went in the room.",
+      "right": "He went into the room."
+    },
+    {
+      "wrong": "He is into the room.",
+      "right": "He is in the room."
+    },
+    {
+      "wrong": "through the road",
+      "right": "across the road"
+    },
+    {
+      "wrong": "across the tunnel",
+      "right": "through the tunnel"
+    },
+    {
+      "wrong": "He went towards Delhi yesterday.",
+      "right": "He went to Delhi yesterday."
+    },
+    {
+      "wrong": "Come towards me.",
+      "right": "Come to me."
+    },
+    {
+      "wrong": "Good in English",
+      "right": "Good at English"
+    },
+    {
+      "wrong": "Interested on music",
+      "right": "Interested in music"
+    },
+    {
+      "wrong": "Famous of Delhi",
+      "right": "Famous for Delhi"
+    },
+    {
+      "wrong": "Capable to solve",
+      "right": "Capable of solving"
+    },
+    {
+      "wrong": "Congratulate for success",
+      "right": "Congratulate on success"
+    },
+    {
+      "wrong": "Comply to rules",
+      "right": "Comply with rules"
+    },
+    {
+      "wrong": "Different than",
+      "right": "Different from"
+    },
+    {
+      "wrong": "Object against smoking",
+      "right": "Object to smoking"
+    },
+    {
+      "wrong": "Despite of rain",
+      "right": "Despite rain"
+    },
+    {
+      "wrong": "Switch of the light",
+      "right": "Switch off the light"
+    },
+    {
+      "wrong": "One off my friends",
+      "right": "One of my friends"
+    },
+    {
+      "wrong": "Finish the work until Monday.",
+      "right": "Finish the work by Monday."
+    },
+    {
+      "wrong": "Wait by Monday.",
+      "right": "Wait until Monday."
+    }
+  ],
+  "examStrategy": [
+    {
+      "tier": "Tier-1",
+      "english": "AT-IN-ON, BY vs WITH, BETWEEN vs AMONG and BESIDE vs BESIDES yield 1-2 questions almost every year. The Golden Revision page and PYQ traps are usually sufficient.",
+      "marathi": "AT–IN–ON, BY vs WITH, BETWEEN vs AMONG आणि BESIDE vs BESIDES मधून दरवर्षी 1-2 Questions येतात. Golden Revision Page + PYQ Traps पुरेसे आहेत."
+    },
+    {
+      "tier": "Tier-2",
+      "english": "Revise all rules, fixed preposition combinations, tenses + movement + direction based rules, and the subtle differences among ABOVE-OVER-UNDER-BELOW thoroughly.",
+      "marathi": "Time + Place + Fixed Expressions, सर्व Rules + Fixed Preposition Combinations आणि ABOVE–OVER–UNDER–BELOW मधील सूक्ष्म फरक पूर्ण revise करा."
+    }
+  ],
+  "goldenRevision": [
+    "AT -> Exact Time",
+    "IN -> Month / Year / Season",
+    "ON -> Day / Date",
+    "AT -> Point",
+    "IN -> Inside",
+    "ON -> Surface",
+    "Small Place -> AT",
+    "Large Place -> IN",
+    "BY -> Living Agent",
+    "WITH -> Instrument",
+    "BESIDE -> Next to",
+    "BESIDES -> In addition to",
+    "BETWEEN -> Two",
+    "AMONG -> More than Two",
+    "ABOVE -> Higher Position",
+    "OVER -> Covering / Movement",
+    "BELOW -> Lower Level",
+    "UNDER -> Directly Beneath",
+    "SINCE -> Point of Time",
+    "FOR -> Duration",
+    "DURING -> Event",
+    "INTO -> Movement",
+    "IN -> Position",
+    "ACROSS -> One Side to Another",
+    "THROUGH -> Inside",
+    "TO -> Destination",
+    "TOWARDS -> Direction",
+    "OF -> Relation",
+    "OFF -> Separation",
+    "DESPITE -> Without 'of'",
+    "PREFER -> to",
+    "DIFFER -> from",
+    "DEPEND -> on"
+  ]
+}

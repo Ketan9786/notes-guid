@@ -184,7 +184,7 @@
     },
     {
       "id": 3,
-      "title": "Double Comparative / Double Superlative",
+      "title": "Double Comparative / Double Superlative - Never Use Most and More with Comparative or Superlative",
       "english": "Never use 'more' with a comparative form, or 'most' with a superlative form.",
       "marathi": "Comparative Form बरोबर 'more' आणि Superlative Form बरोबर 'most' वापरणे चुकीचे आहे.",
       "examples": ["She is more intelligent than her brother."],
@@ -201,7 +201,7 @@
     },
     {
       "id": 4,
-      "title": "Absolute Adjectives (No Comparison)",
+      "title": "Absolute Adjectives (No Comparison) - Circle,Unique,etc.",
       "english": "Certain adjectives cannot be compared as they are already at their highest degree.",
       "marathi": "काही Adjectives आधीच पूर्णतम अवस्था दर्शवतात, त्यांची तुलना करता येत नाही.",
       "examples": ["The circle is round.", "This fact is unique."],
@@ -218,7 +218,7 @@
     },
     {
       "id": 5,
-      "title": "Elder / Older Rule",
+      "title": "Elder / Older Rule - Family/General",
       "english": "Elder is used for members of the same family; Older is used for general comparison of age.",
       "marathi": "Elder फक्त एकाच कुटुंबातील सदस्यांसाठी; Older सामान्य वयाच्या तुलनेसाठी वापरतात.",
       "examples": ["My elder brother is a doctor.", "This building is older than that one."],
@@ -235,7 +235,7 @@
     },
     {
       "id": 6,
-      "title": "Farther / Further Rule",
+      "title": "Farther / Further Rule - Physical Distance/Addition or moe, आणखी",
       "english": "Farther refers to physical distance; Further means 'additional' or 'more'.",
       "marathi": "Farther भौगोलिक अंतरासाठी; Further म्हणजे 'आणखी' किंवा 'अधिक' असा अर्थ.",
       "examples": ["Delhi is farther from Mumbai than Pune.", "No further discussion is needed."],
@@ -248,7 +248,7 @@
     },
     {
       "id": 7,
-      "title": "Later / Latter Rule",
+      "title": "Later / Latter Rule - Time / Second of Two Thing",
       "english": "Later refers to time; Latter refers to the second of two things mentioned.",
       "marathi": "Later वेळाशी संबंधित; Latter नुकत्याच उल्लेख केलेल्या दोनपैकी दुसऱ्याला सूचित करते.",
       "examples": ["I will call you later.", "Between tea and coffee, I prefer the latter."],
@@ -261,7 +261,7 @@
     },
     {
       "id": 8,
-      "title": "Little / A Little / The Little Rule",
+      "title": "Little / A Little / The Little Rule ",
       "english": "Little = negligible amount (negative sense); A little = some amount (positive sense); The little = whatever small amount there is.",
       "marathi": "Little = नगण्य प्रमाण (नकारात्मक); A little = थोडे (सकारात्मक); The little = जे काही थोडे आहे ते.",
       "examples": ["He has little money. (negligible)", "He has a little money. (some)", "He spent the little money he had."],
@@ -287,7 +287,7 @@
     },
     {
       "id": 10,
-      "title": "Each / Every Rule",
+      "title": "Each / Every Rule - Two or More/Three or more",
       "english": "Each is used for two or more considered individually; Every is used for three or more considered collectively. Both take singular verbs.",
       "marathi": "Each दोन किंवा अधिकांसाठी वैयक्तिकरीत्या; Every तीन किंवा अधिकांसाठी सामूहिकरीत्या वापरतात. दोन्हींनंतर Singular Verb येते.",
       "examples": ["Each of the two boys was rewarded.", "Every student must submit the assignment."],
@@ -326,7 +326,7 @@
     },
     {
       "id": 13,
-      "title": "No Sooner... Than Rule",
+      "title": "No Sooner... Than Rule - Followed By than(Never when or then)",
       "english": "'No sooner' is always followed by 'than', never by 'when' or 'then'.",
       "marathi": "'No sooner' नंतर नेहमी 'than' येतो, 'when' किंवा 'then' येत नाही.",
       "examples": ["No sooner did he arrive than it started raining."],
@@ -339,7 +339,7 @@
     },
     {
       "id": 14,
-      "title": "Adjective Placement Rule",
+      "title": "Adjective Placement Rule attributive/predicative",
       "english": "Adjectives normally come before the noun they modify, but predicative adjectives come after a linking verb.",
       "marathi": "Adjective सामान्यतः Noun च्या आधी येतो, पण Linking Verb नंतर येणारा Adjective Predicative असतो.",
       "examples": ["She is a beautiful girl. (attributive)", "The girl is beautiful. (predicative)"],
@@ -352,7 +352,7 @@
     },
     {
       "id": 15,
-      "title": "This / That (Singular) vs These / Those (Plural)",
+      "title": "This / That (Singular noun) vs These / Those (Plural noun)",
       "english": "This and That are used with singular nouns; These and Those are used with plural nouns.",
       "marathi": "This / That Singular Noun बरोबर; These / Those Plural Noun बरोबर वापरतात.",
       "examples": ["This book is mine.", "These books are mine."],
@@ -365,7 +365,7 @@
     },
     {
       "id": 16,
-      "title": "Positive Degree (As...As) Rule",
+      "title": "Positive Degree (As...As) Rule - Always Positive Degree",
       "english": "In positive degree comparison using 'as...as', use the base form of the adjective (never comparative or superlative).",
       "marathi": "As...as वापरताना नेहमी Positive Degree (base form) वापरतात.",
       "examples": ["She is as tall as her sister."],
@@ -378,7 +378,7 @@
     },
     {
       "id": 17,
-      "title": "Prefer... to Rule",
+      "title": "Prefer... to Rule - Never Use Comparative Degree",
       "english": "Use Positive Degree after 'prefer...to'. Never use comparative degree after 'prefer'.",
       "marathi": "Prefer...to च्या नंतर Positive Degree वापरतात. Comparative Degree वापरत नाहीत.",
       "examples": ["I prefer tea to coffee."],
@@ -391,7 +391,7 @@
     },
     {
       "id": 18,
-      "title": "Senior / Junior / Superior / Inferior Rule",
+      "title": "Senior / Junior / Superior / Inferior Rule = to insted of than",
       "english": "These Latin comparatives take 'to' instead of 'than' and cannot be used with 'more'.",
       "marathi": "Senior, Junior, Superior, Inferior हे Latin Comparatives 'than' ऐवजी 'to' वापरतात आणि 'more' बरोबर येत नाहीत.",
       "examples": ["He is senior to me.", "This product is inferior to that one."],

@@ -1,0 +1,148 @@
+{
+  "topic": "Simple Interest",
+  "introduction": "Simple Interest (SI) is the fixed interest earned/paid on the original principal only, unlike Compound Interest. SSC CGL tests basic SI/Amount calculation, finding rate/time/principal from given ratios, multiple-rate and multiple-part investment problems, and doubling/multiplying time problems.",
+  "concepts": [
+    {"concept": "Basic formula", "explanation": "SI = (P x R x T)/100, where P=Principal, R=rate% per annum, T=time in years. Amount = P + SI."},
+    {"concept": "SI as fraction of Principal", "explanation": "If SI is a given fraction of P (e.g. SI=1/4 of P), set numerator=SI-part, denominator=Principal-part directly for quick ratio solving."},
+    {"concept": "Amount as multiple of Principal", "explanation": "If Amount becomes n times Principal in T years, then SI = (n-1) x 100% of P, giving direct rate-time relation."},
+    {"concept": "Doubling/multiplying time", "explanation": "If sum becomes k times in T years at SI, then SI%=100(k-1)%; for m times, time = T x (m-1)/(k-1)."},
+    {"concept": "Multiple rates over different periods", "explanation": "When rate changes across different time slabs, calculate SI% slab-wise and sum: r1xT1 + r2xT2 + r3xT3 = total SI%."},
+    {"concept": "Sum divided into parts with equal/given interest", "explanation": "When a sum is split so that parts at different rates/times give equal or ratio interest, use inverse ratio of (rate x time) to find principal ratio."},
+    {"concept": "Difference of SI at two rates", "explanation": "Difference in SI on same P for same T at rates R1,R2 = P x T x (R1-R2)/100."}
+  ],
+  "formulas": [
+    "SI = PxRxT/100",
+    "Amount = P + SI = P(1 + RT/100)",
+    "P = 100xSI/(RxT); R = 100xSI/(PxT); T = 100xSI/(PxR)",
+    "If sum becomes k times in T years: R = 100(k-1)/T",
+    "Time to become m times = T x (m-1)/(k-1), using known doubling/tripling time T",
+    "Difference of SI at R1% and R2% for same P,T = PxTx(R1-R2)/100",
+    "When P divided in parts with rates r1,r2...: equal-interest parts ratio = inverse of (rate x time) product"
+  ],
+  "question_types": [
+    {
+      "type_name": "Basic SI/Amount/P/R/T",
+      "difficulty": "Easy",
+      "identification_method": "Direct question giving any 3 of P, R, T, SI/Amount and asking the 4th.",
+      "when_to_use": "Apply SI=PRT/100 directly; convert R to fraction for clean numbers.",
+      "step_by_step": ["Identify known values among P,R,T,SI/Amount", "Plug into SI=PRT/100 formula", "Solve for missing variable"],
+      "shortcut": "Use fraction form of rate (12.5%=1/8, 11.11%=1/9) instead of decimals.",
+      "common_mistakes": ["Confusing Amount with SI", "Not converting months into fraction of year for T"],
+      "practice_questions": [
+        {"q": "₹500 invested at 10% p.a. for 2 years. Find SI.", "solution": "500x10x2/100=100", "answer": "₹100"},
+        {"q": "SI on ₹12000 in 12 years is 120% of principal. Find rate.", "solution": "120%/12=10%", "answer": "10%"},
+        {"q": "Sum amounts to 5/4 of itself in 3 years. Find rate%.", "solution": "1/4 part interest in 3yr → 25%/3=8.33%", "answer": "8.33%"}
+      ],
+      "expected_time_seconds": 25
+    },
+    {
+      "type_name": "Multiple/Varying Rate Slabs",
+      "difficulty": "Medium",
+      "identification_method": "Different interest rates applied for different consecutive time periods.",
+      "when_to_use": "Sum rate% x time% for each slab, equate total to given SI% or SI value.",
+      "step_by_step": ["List rate and duration for each slab", "Compute r x t for each slab and sum", "Equate to total SI and solve for P or unknown rate"],
+      "shortcut": "Treat as percentage of principal directly (100%=P) to avoid extra multiplication.",
+      "common_mistakes": ["Missing a slab's time or rate", "Adding rates without multiplying by respective time"],
+      "practice_questions": [
+        {"q": "5% for 3yrs, 8% for 2yrs, 10% beyond 5yrs; total SI=₹12,750 over 7yrs. Find sum.", "solution": "15+16+20=51%=12750→100%=25000", "answer": "₹25,000"}
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "Doubling/Tripling/Multiplying Time",
+      "difficulty": "Medium",
+      "identification_method": "Sum doubles/triples/becomes n times in given years; asks time for another multiple.",
+      "when_to_use": "Convert 'doubles' to 100% SI, then scale proportionally to new multiple.",
+      "step_by_step": ["Find SI% for the given multiple (k-1)x100%", "Find rate using given years", "Scale time proportionally for new multiple using same rate"],
+      "shortcut": "Double=100% in T years; triple=200%; n times=(n-1)x100% — scale time directly.",
+      "common_mistakes": ["Assuming linear multiple of years directly without adjusting for SI%"],
+      "practice_questions": [
+        {"q": "Sum doubles in 7 years. In how many years will it become 5 times?", "solution": "100%→7yr; 400%→28yr", "answer": "28 years"},
+        {"q": "Amount becomes 9 times in 20 years. When will it be 13 times?", "solution": "800%→20yr(x3)→1200%→30yr", "answer": "30 years"}
+      ],
+      "expected_time_seconds": 35
+    },
+    {
+      "type_name": "Sum Divided into Parts (Equal/Given Interest)",
+      "difficulty": "Medium-Hard",
+      "identification_method": "A sum split into 2-3 parts invested at different rates/times, with a condition on their interests (equal, ratio, or difference given).",
+      "when_to_use": "Use inverse ratio of (rate x time) for principal ratio when interests are equal; otherwise set up direct equations.",
+      "step_by_step": ["Identify rate x time for each part", "If interests equal, take principal ratio as inverse of rate x time", "Apply given total sum to find each part", "Cross-check using SI formula"],
+      "shortcut": "Equal interest condition → Principal ratio = inverse of respective (RxT) products.",
+      "common_mistakes": ["Using direct ratio instead of inverse ratio for equal-interest condition", "Errors in fractional rate/time handling"],
+      "practice_questions": [
+        {"q": "Vipul, Ashima, Priya invest total ₹21,000 at 3%,6%,5% resp., equal interest. Find Ashima's investment.", "solution": "Inverse ratio 1/3:1/6:1/5 → 10:5:6 →21→1000 each unit→Ashima=5000", "answer": "₹5,000"},
+        {"q": "₹6000 split; SI on part1 at 10% = SI on part2 at 15%. Find interest on each part.", "solution": "Ratio 3:2→3600,2400; interest=360 each", "answer": "₹360 each"}
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Present Worth / Difference of SI",
+      "difficulty": "Medium",
+      "identification_method": "Question asks present worth of a sum due after T years, or difference of SI between two rates/banks.",
+      "when_to_use": "Present worth = future sum x 100/(100+RT); Difference of SI = PxTx(R1-R2)/100.",
+      "step_by_step": ["Identify sum due, rate, time", "Apply present worth formula or difference formula directly", "Solve for unknown"],
+      "shortcut": "Present worth is simply reverse of amount formula.",
+      "common_mistakes": ["Using SI formula instead of present worth formula", "Sign error in rate difference"],
+      "practice_questions": [
+        {"q": "Present worth of ₹1,100 due in 2 years at 5% SI.", "solution": "1100x100/110=1000", "answer": "₹1,000"},
+        {"q": "SI difference from two banks on ₹8000 in 3 years is ₹800. Find R1-R2.", "solution": "(R1-R2)x3=10%→3.33%", "answer": "3 1/3%"}
+      ],
+      "expected_time_seconds": 30
+    }
+  ],
+  "identification_tricks": [
+    "Only P,R,T,SI/Amount mentioned directly — Basic SI type.",
+    "Different rates for different year-slabs — Multiple Rate Slab type.",
+    "'Doubles/triples/becomes n times' wording — Multiplying Time type.",
+    "Sum split into parts with equal/ratio interest condition — Parts Division type.",
+    "'Due after T years' or 'two banks difference' — Present Worth/Difference type."
+  ],
+  "solving_approach": [
+    "Step 1: List all known values: P, R, T, SI, Amount.",
+    "Step 2: Convert wordy relations (fraction of sum, multiple of sum) into percentage form directly.",
+    "Step 3: For multi-rate/multi-part problems, break into slabs/parts and handle separately.",
+    "Step 4: Use 100%=Principal trick to avoid repeated multiplication.",
+    "Step 5: Cross-check answer using Amount = Principal + SI relation."
+  ],
+  "shortcuts": [
+    "Convert rate% to standard fractions (12.5%=1/8, 16.66%=1/6, 11.11%=1/9, 6.25%=1/16) for fast calculation.",
+    "Doubling time formula: 100/R years to double at simple interest.",
+    "Equal SI parts ratio = inverse of (rate x time) product — no need for full equation setup.",
+    "Set Principal=100% for ratio-based SI questions to skip variables."
+  ],
+  "common_mistakes": [
+    "Confusing SI with Amount in given data.",
+    "Forgetting to convert months to years fraction in T.",
+    "Using direct ratio instead of inverse ratio for equal-interest split problems.",
+    "Not adjusting rate x time properly in multi-slab rate questions."
+  ],
+  "pyq_patterns": [
+    "SSC CGL frequently tests sum-doubles-then-multiplies-time chain questions.",
+    "Multi-rate slab and multi-part investment problems with equal/ratio interest are very common.",
+    "Present worth and SI difference between two schemes/banks appear in Tier-1 regularly.",
+    "Word problems involving fraction of sum as SI or amount are a recurring pattern."
+  ],
+  "quick_revision": [
+    "SI = PRT/100",
+    "Amount = P + SI",
+    "Doubling time: R=100/T",
+    "Equal SI parts ratio = inverse of RxT",
+    "Present worth = Amount x 100/(100+RT)",
+    "SI difference (two rates) = PT(R1-R2)/100"
+  ],
+  "exam_tips": [
+    "Convert all rates to fraction form for speed.",
+    "Always express relations as percentage of principal to avoid variable-heavy equations.",
+    "For multi-slab rate problems, tabulate rate and time per slab before summing.",
+    "Double-check whether question asks for SI or Amount before finalizing answer."
+  ],
+  "one_page_formula_sheet": {
+    "basic": "SI=PRT/100 | Amount=P+SI",
+    "doubling": "R=100(k-1)/T for k times in T years",
+    "equal_parts": "Principal ratio = inverse of (RxT)",
+    "present_worth": "Amount x 100/(100+RT)",
+    "difference": "PT(R1-R2)/100",
+    "common_fraction_rates": {"12.5%": "1/8", "11.11%": "1/9", "16.66%": "1/6", "6.25%": "1/16", "33.33%": "1/3"}
+  }
+}

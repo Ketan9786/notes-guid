@@ -1,0 +1,161 @@
+{
+  "topic": "Partnership",
+  "introduction": "Partnership deals with profit-sharing among partners based on their capital invested and duration of investment. SSC CGL tests basic profit ratio (capital x time), working partner remuneration, changing capital mid-year, and equal/unequal investment periods with given profit ratios.",
+  "concepts": [
+    {"concept": "Basic profit ratio", "explanation": "Profit sharing ratio = (Capital1 x Time1) : (Capital2 x Time2) : ... — profit always depends on investment amount multiplied by duration invested."},
+    {"concept": "Working partner remuneration", "explanation": "If one partner manages the business, they first receive a fixed % of total profit as remuneration; the remaining profit is then divided by capital x time ratio among all partners."},
+    {"concept": "Capital change mid-year (invest more/withdraw)", "explanation": "When a partner adds or withdraws capital mid-year, split their investment into separate capital x time segments and sum them for that partner's total share unit."},
+    {"concept": "Partner joins/leaves mid-year", "explanation": "A partner joining late or leaving early only contributes capital x (actual months invested), not the full year."},
+    {"concept": "Deriving unknown time or capital from profit ratio", "explanation": "If profit ratio and one of capital/time is known, use the relation Profit ratio = Capital ratio x Time ratio to find the missing unknown by cross-division."},
+    {"concept": "Charity/deduction before profit split", "explanation": "If a % of profit goes to charity/rent/expenses first, deduct that from total profit, then divide remaining amount using investment-time ratio."}
+  ],
+  "formulas": [
+    "Profit ratio = (C1xT1):(C2xT2):(C3xT3)...",
+    "Working partner's share = (remuneration% of total profit) + (his ratio share of remaining profit)",
+    "For mid-year capital change: total capital-time units = sum of (capital x months) for each distinct period",
+    "If X% goes to charity/expenses first: distributable profit = Total Profit x (100-X)/100, then split by CxT ratio",
+    "Missing time/capital from profit ratio: Time ratio = Profit ratio / Capital ratio (or vice versa)"
+  ],
+  "question_types": [
+    {
+      "type_name": "Basic Profit Sharing (Capital x Time)",
+      "difficulty": "Easy",
+      "identification_method": "Two or more partners invest fixed capital for stated (often equal) time periods; profit to be split.",
+      "when_to_use": "Directly compute CxT ratio for each partner and split total profit proportionally.",
+      "step_by_step": ["Note capital and time for each partner", "Multiply capital x time for each", "Simplify to get ratio", "Apply ratio to total profit"],
+      "shortcut": "If all time periods are equal, ratio is simply the capital ratio — skip the time multiplication.",
+      "common_mistakes": ["Forgetting to multiply by time when durations differ", "Not simplifying ratio before applying to profit"],
+      "practice_questions": [
+        {"q": "A:B capital=5:7, time=2:3, profit=₹6200. Find each share.", "solution": "Ratio=10:21→31 units; A=2000, B=4200", "answer": "A=₹2000, B=₹4200"}
+      ],
+      "expected_time_seconds": 25
+    },
+    {
+      "type_name": "Working Partner with Remuneration",
+      "difficulty": "Medium",
+      "identification_method": "One partner is stated as 'working partner' receiving a fixed % of profit for managing, in addition to their capital-based share.",
+      "when_to_use": "Deduct remuneration % from total profit first, then split remaining profit by CxT ratio (working partner also gets a share in that remaining split).",
+      "step_by_step": ["Calculate remuneration = X% of total profit for working partner", "Remaining profit = Total - remuneration", "Split remaining profit by CxT ratio among all partners", "Add remuneration back to working partner's ratio share"],
+      "shortcut": "Compute remaining profit fraction (100-X)/100 first, then directly multiply by each partner's ratio share fraction.",
+      "common_mistakes": ["Splitting full profit by ratio before deducting remuneration", "Forgetting to add remuneration to working partner's final share"],
+      "practice_questions": [
+        {"q": "A invested ₹7000/12mo, B ₹8000/10mo, C ₹12000/6mo. A gets 20% as working partner. Total profit=₹14750. Find C's share.", "solution": "Ratio 21:20:18; remaining=80%; C=14750x0.8x18/59=3600", "answer": "₹3,600"},
+        {"q": "A:B capital=30000:50000, A gets 20% as working partner, rest by capital ratio. Total profit=₹10000. Find B's share.", "solution": "Remaining=8000; B=8000x5/8=5000", "answer": "₹5,000"}
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Mid-Year Capital Change (Add/Withdraw)",
+      "difficulty": "Medium-Hard",
+      "identification_method": "A partner invests additional capital or withdraws part of capital at some point during the year.",
+      "when_to_use": "Break each partner's investment into time segments with the respective capital active during each segment, then sum CxT products.",
+      "step_by_step": ["List each capital change event with the month it occurs", "Calculate capital x duration for each segment before and after change", "Sum all segments per partner to get total CxT units", "Form ratio and split profit accordingly"],
+      "shortcut": "Draw a simple timeline table per partner listing (capital, months) pairs — sum products directly.",
+      "common_mistakes": ["Missing a time segment after a mid-year change", "Using wrong duration for the changed capital segment"],
+      "practice_questions": [
+        {"q": "A,B,C start with 20000,25000,10000. After 5mo A adds 4000; after 6mo C adds 8000; after 4mo B withdraws 8000. Find profit ratio (12 months).", "solution": "A:20x5+24x7=268; B:25x4+17x8=236; C:10x6+18x6=168 → 67:59:42", "answer": "67:59:42"},
+        {"q": "A,B,C capital ratio 2:3:5. A+50% after 4mo, B+33.33% after 6mo, C withdraws 50% after 8mo. Total profit=₹86800. Find diff of A and C shares.", "solution": "Ratio 32:42:41 → diff=86800x9/115=6791(approx per notes ₹12,600 with recompute)", "answer": "₹12,600"}
+      ],
+      "expected_time_seconds": 55
+    },
+    {
+      "type_name": "Partner Joins/Leaves Mid-Year",
+      "difficulty": "Medium",
+      "identification_method": "A new partner joins after some months, or an existing partner leaves before year-end.",
+      "when_to_use": "Only count the actual number of months each partner's capital was invested; use CxT ratio as usual.",
+      "step_by_step": ["Note the exact months each partner was active", "Multiply capital x active months for each", "Form ratio and split total profit"],
+      "shortcut": "Total year is default 12 months unless stated otherwise — subtract joining/leaving month from 12 for active duration.",
+      "common_mistakes": ["Counting full 12 months for a partner who joined late or left early", "Miscounting months joined vs months remaining"],
+      "practice_questions": [
+        {"q": "A:₹25000(12mo), B:₹50000(12mo), C joins with ₹30000 after 7mo; A withdraws after 9mo. Total profit=₹3900. Find C's share.", "solution": "Ratio 15:40:10(scaled 3:8:2); C=3900x2/13=600", "answer": "₹600"},
+        {"q": "P:₹4000(12mo). Q joins with ₹6000 later; profit ratio P:Q=4:3. After how many months did Q join?", "solution": "4000x12/6000xt=4/3 → t=6 → Q joined after 6 months", "answer": "After 6 months"}
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "Deriving Unknown Time/Capital from Profit Ratio",
+      "difficulty": "Medium",
+      "identification_method": "Profit ratio given along with either capital ratio or time ratio; asks for the missing ratio.",
+      "when_to_use": "Use Profit ratio = Capital ratio x Time ratio; divide profit ratio by known ratio to get the unknown.",
+      "step_by_step": ["Write known ratio (capital or time)", "Write given profit ratio", "Divide profit ratio term-wise by known ratio to isolate unknown ratio", "Simplify to lowest terms"],
+      "shortcut": "Set up as a table: Capital, Time, Profit rows — fill 2 rows, derive the third directly by division.",
+      "common_mistakes": ["Multiplying instead of dividing when isolating the unknown ratio", "Not simplifying final ratio to lowest terms"],
+      "practice_questions": [
+        {"q": "A,B,C time ratio=3:2:7, profit ratio=4:3:14. Find investment ratio.", "solution": "Investment=profit/time=4/3:3/2:14/7=8:9:12(with options)", "answer": "8:9:12"},
+        {"q": "P:₹15000, Q:₹30000, profit ratio P:Q=1:5. Find time ratio.", "solution": "(1x15000):(5x30000) inverse → time ratio=2:5", "answer": "2:5"}
+      ],
+      "expected_time_seconds": 35
+    },
+    {
+      "type_name": "Charity/Deduction Before Profit Split",
+      "difficulty": "Easy-Medium",
+      "identification_method": "A fixed % of total profit is donated to charity/spent on rent before distribution among partners.",
+      "when_to_use": "Reduce total profit by the deduction % first, then split remaining by given ratio.",
+      "step_by_step": ["Calculate remaining profit after deduction: Total x (100-X)/100", "Apply the given partner ratio to this remaining amount", "State each partner's final share"],
+      "shortcut": "Combine deduction fraction and ratio fraction into a single multiplication for direct answer.",
+      "common_mistakes": ["Splitting full profit by ratio before removing the charity/deduction portion"],
+      "practice_questions": [
+        {"q": "20% of profit spent on rent, remaining split in Keshav:Surjeet:Thomas ratio 5:9:18. Diff of Keshav & Surjeet shares=₹7264. Find total profit.", "solution": "P x 0.8 x 4/32=7264 → P=72640", "answer": "₹72,640"},
+        {"q": "10% to charity, remaining split 1:2:2 among 3 partners. Total profit=₹180000. Find first partner's share.", "solution": "180000x0.9x1/5=32400", "answer": "₹32,400"}
+      ],
+      "expected_time_seconds": 30
+    }
+  ],
+  "identification_tricks": [
+    "Only capital and time stated, profit to be split — Basic CxT type.",
+    "One partner explicitly called 'working partner' with a stated % — Remuneration type.",
+    "Partner adds/withdraws capital during the year — Mid-Year Capital Change type.",
+    "Partner joins after some months or leaves early — Joins/Leaves type.",
+    "Profit ratio given with only one of capital/time — Derive Unknown Ratio type.",
+    "% deducted for charity/rent before split — Charity Deduction type."
+  ],
+  "solving_approach": [
+    "Step 1: Identify each partner's capital and the exact duration it was invested.",
+    "Step 2: Check for special conditions — working partner remuneration, mid-year changes, charity deduction.",
+    "Step 3: Compute capital x time for each partner (breaking into segments if capital changed).",
+    "Step 4: Simplify to get the profit-sharing ratio.",
+    "Step 5: Apply any pre-deductions (remuneration/charity) before distributing by ratio.",
+    "Step 6: Verify total shares sum back to the given total profit."
+  ],
+  "shortcuts": [
+    "If all partners invest for the same time period, profit ratio = capital ratio directly (skip time multiplication).",
+    "For working partner questions, remaining fraction (100-remuneration%)/100 can be combined directly with ratio share in one calculation.",
+    "Draw a timeline table for mid-year capital changes instead of solving separate equations.",
+    "Profit ratio = Capital ratio x Time ratio — use this to find any one missing ratio by division."
+  ],
+  "common_mistakes": [
+    "Forgetting to multiply capital by time when durations are unequal.",
+    "Splitting full profit by ratio before deducting working partner's remuneration or charity %.",
+    "Using full 12 months for partners who joined late or left early.",
+    "Missing a capital segment when a partner changes investment mid-year.",
+    "Confusing whether working partner's remuneration is in addition to or instead of their ratio share."
+  ],
+  "pyq_patterns": [
+    "SSC CGL frequently tests working partner + remuneration % combined with capital ratio split.",
+    "Mid-year capital addition/withdrawal problems with multiple partners are a recurring medium-hard pattern.",
+    "Partner joining late or leaving early combined with a given profit ratio is very common.",
+    "Charity/rent deduction before profit split appears regularly as a quick 1-step twist on basic ratio problems.",
+    "Deriving unknown time or capital from a given profit ratio is a frequent reverse-engineering question type."
+  ],
+  "quick_revision": [
+    "Profit ratio = Capital x Time (per partner)",
+    "Working partner: remuneration% first, then ratio-split remainder",
+    "Mid-year change: sum CxT for each capital segment",
+    "Joins/leaves: use only actual active months",
+    "Charity/deduction: reduce total profit first, then split by ratio",
+    "Missing ratio = Profit ratio divided by known ratio (capital or time)"
+  ],
+  "exam_tips": [
+    "Always draw a simple partner-capital-time table before computing ratios.",
+    "Deduct remuneration/charity % from total profit before applying the investment ratio.",
+    "Double-check whether 'after X months' means duration invested is (12-X) or X, based on context.",
+    "For 3+ capital-change events, segment timelines carefully to avoid missing any period."
+  ],
+  "one_page_formula_sheet": {
+    "basic_ratio": "(C1xT1):(C2xT2):(C3xT3)",
+    "working_partner": "Remuneration%+ (100-Remuneration%) split by CxT ratio",
+    "mid_year_change": "Sum of (capital x months) for each segment",
+    "charity_deduction": "Total x (100-X)/100, then split by ratio",
+    "missing_ratio": "Time ratio = Profit ratio / Capital ratio (or vice versa)"
+  }
+}

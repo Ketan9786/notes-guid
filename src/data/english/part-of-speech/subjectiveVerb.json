@@ -22,7 +22,7 @@
   "rules": [
     {
       "id": 1,
-      "title": "AND Rule",
+      "title": "AND Rule = Plural Verb",
       "marathi": "दोन Singular Subjects AND ने जोडले असतील तर Verb Plural येतो.",
       "examples": [
         "Ram and Shyam are friends.",
@@ -31,7 +31,7 @@
     },
     {
       "id": 2,
-      "title": "Same Person / Same Thing",
+      "title": "Same Person / Same Thing = Singular Verb",
       "marathi": "दोन Nouns एकाच व्यक्ती किंवा वस्तूसाठी वापरले असतील तर Singular Verb.",
       "examples": [
         "The Secretary and Principal is coming.",
@@ -40,7 +40,7 @@
     },
     {
       "id": 3,
-      "title": "Each / Every + And",
+      "title": "Each / Every + And = Singular Verb",
       "marathi": "Each किंवा Every असल्यास Singular Verb.",
       "examples": [
         "Every boy and girl was present.",
@@ -55,7 +55,7 @@
     },
     {
       "id": 4,
-      "title": "Each / Either / Neither",
+      "title": "Each / Either / Neither = Singular Verb",
       "marathi": "Each, Either, Neither नेहमी Singular Verb घेतात.",
       "examples": [
         "Each of the boys is present.",
@@ -65,7 +65,7 @@
     },
     {
       "id": 5,
-      "title": "Either...Or / Neither...Nor",
+      "title": "Either...Or / Neither...Nor = Nearest Subject",
       "marathi": "Verb Nearest Subject नुसार येतो.",
       "examples": [
         "Either Ram or his friends are coming.",
@@ -76,7 +76,7 @@
     },
     {
       "id": 6,
-      "title": "Not Only...But Also",
+      "title": "Not Only...But Also = Nearest Subject",
       "marathi": "Verb Nearest Subject नुसार येतो.",
       "examples": [
         "Not only Ram but also his friends are present.",
@@ -85,7 +85,7 @@
     },
     {
       "id": 7,
-      "title": "Along With / As Well As",
+      "title": "Along With / As Well As = First Subject",
       "marathi": "Verb First Subject नुसार येतो.",
       "keywords": [
         "Along With",
@@ -104,7 +104,7 @@
     },
     {
       "id": 8,
-      "title": "Many A / More Than One",
+      "title": "Many A / More Than One = Singular Noun + Singular Verb",
       "marathi": "Singular Noun + Singular Verb",
       "examples": [
         "Many a man has failed.",
@@ -113,7 +113,7 @@
     },
     {
       "id": 9,
-      "title": "A Number Of / The Number Of",
+      "title": "A Number Of / The Number Of = Plural Noun + Plural Verb / Plural Noun + Singular Verb",
       "examples": [
         "A number of students are absent.",
         "The number of students is increasing."
@@ -121,7 +121,7 @@
     },
     {
       "id": 10,
-      "title": "One Of",
+      "title": "One Of = Plural Noun + Singular Verb",
       "marathi": "One Of + Plural Noun + Singular Verb",
       "examples": [
         "One of the boys is absent.",
@@ -130,7 +130,7 @@
     },
     {
       "id": 11,
-      "title": "All / Some / Most / Half",
+      "title": "All / Some / Most / Half = Object Based",
       "marathi": "Object नुसार Verb येतो.",
       "examples": [
         "All the milk is spoiled.",
@@ -141,7 +141,7 @@
     },
     {
       "id": 12,
-      "title": "Collective Nouns",
+      "title": "Collective Nouns = One Unit / Members = Singular/Plural",
       "marathi": "Group म्हणून वापरल्यास Singular, Members वेगळे असल्यास Plural.",
       "examples": [
         "The committee has taken its decision.",
@@ -151,7 +151,7 @@
     },
     {
       "id": 13,
-      "title": "News / Physics / Mathematics",
+      "title": "News / Physics / Mathematics = Singular Verb",
       "marathi": "Plural दिसतात पण Singular Verb घेतात.",
       "examples": [
         "News is important.",
@@ -161,7 +161,7 @@
     },
     {
       "id": 14,
-      "title": "Distance / Time / Money",
+      "title": "Distance / Time / Money = Singular Verb",
       "marathi": "एक Unit मानल्यास Singular Verb.",
       "examples": [
         "Ten kilometers is a long distance.",
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "title": "There / Here",
+      "title": "There / Here = Actual Subject",
       "marathi": "Verb Actual Subject नुसार येतो.",
       "examples": [
         "There is a book on the table.",
@@ -181,7 +181,7 @@
     },
     {
       "id": 16,
-      "title": "Titles of Books / Movies",
+      "title": "Titles of Books / Movies = Singular",
       "marathi": "Title Singular मानला जातो.",
       "examples": [
         "The Ramayana is a great epic.",
@@ -190,7 +190,7 @@
     },
     {
       "id": 17,
-      "title": "Pair Nouns",
+      "title": "Pair Nouns = Plural Verb",
       "marathi": "Scissors, Trousers, Spectacles हे Plural Verb घेतात.",
       "examples": [
         "My scissors are sharp.",

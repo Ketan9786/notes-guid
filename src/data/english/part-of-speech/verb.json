@@ -209,7 +209,7 @@
   "rules": [
     {
       "id": 1,
-      "title": "Be Verb + V4",
+      "title": "Be Verb + Continuous Tense + V4",
       "marathi": "Continuous Tense मध्ये वापरतात.",
       "examples": [
         "She is studying.",
@@ -218,7 +218,7 @@
     },
     {
       "id": 2,
-      "title": "Be Verb + V3",
+      "title": "Be Verb + Passive Voice + V3",
       "marathi": "Passive Voice मध्ये वापरतात.",
       "examples": [
         "The work is completed.",
@@ -227,7 +227,7 @@
     },
     {
       "id": 3,
-      "title": "Have / Has / Had + V3",
+      "title": "Have / Has / Had + V3 - Perfect Tense",
       "marathi": "Perfect Tense मध्ये वापरतात.",
       "examples": [
         "He has written a letter.",
@@ -246,7 +246,7 @@
     },
     {
       "id": 5,
-      "title": "Modal + V1",
+      "title": "Modal + V1 - Can, Could, May, Might, Shall, Should, Will, Would, Must",
       "wrongRight": [
         {
           "wrong": "She can sings.",
@@ -256,8 +256,10 @@
     },
     {
       "id": 6,
-      "title": "Preposition + Ving",
+      "title": "Preposition + Ving - in, on, at, by, with, for, from, to, of, about",
       "examples": [
+        "in, on, at, by, with, for, from, to, of, about",
+        
         "Interested in learning",
         "Good at solving",
         "Thank you for helping"
@@ -265,7 +267,7 @@
     },
     {
       "id": 7,
-      "title": "Stative Verbs",
+      "title": "Stative Verbs - State (स्थिती), भावना, विचार, मालकी किंवा संवेदना दाखवतात.",
       "examples": [
         "Know",
         "Believe",
@@ -284,7 +286,7 @@
     },
     {
       "id": 8,
-      "title": "Inversion",
+      "title": "Inversion - वाक्यातील Normal Word Order बदलणे",
       "examples": [
         "Where are you going?",
         "What are you doing?",
@@ -293,7 +295,7 @@
     },
     {
       "id": 9,
-      "title": "Parallelism",
+      "title": "Parallelism - reading and writing",
       "wrongRight": [
         {
           "wrong": "He likes reading and to write.",

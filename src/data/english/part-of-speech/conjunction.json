@@ -1,0 +1,485 @@
+{
+  "slug": "conjunction",
+  "title": "Conjunction",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Parts of Speech",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "A conjunction is a word used to join words, phrases, clauses or sentences.",
+    "marathi": "दोन शब्द, वाक्यांश, Clause किंवा वाक्य जोडणाऱ्या शब्दाला Conjunction म्हणतात.",
+    "examples": [
+      "I like tea and coffee.",
+      "He worked hard but failed.",
+      "Study hard or you will fail."
+    ]
+  },
+  "types": [
+    {
+      "name": "Coordinating Conjunction",
+      "english": "Joins equal words, phrases or clauses.",
+      "marathi": "समान दर्जाचे शब्द किंवा Clause जोडते.",
+      "examples": [
+        "and",
+        "but",
+        "or",
+        "nor",
+        "for",
+        "so",
+        "yet"
+      ]
+    },
+    {
+      "name": "Subordinating Conjunction",
+      "english": "Joins a dependent clause with an independent clause.",
+      "marathi": "Dependent Clause ला Main Clause शी जोडते.",
+      "examples": [
+        "because",
+        "although",
+        "if",
+        "when",
+        "while",
+        "since",
+        "unless",
+        "until",
+        "after",
+        "before"
+      ]
+    },
+    {
+      "name": "Correlative Conjunction",
+      "english": "Conjunctions used in pairs.",
+      "marathi": "जोडीने वापरले जाणारे Conjunction.",
+      "examples": [
+        "Either...or",
+        "Neither...nor",
+        "Both...and",
+        "Not only...but also",
+        "Whether...or",
+        "No sooner...than",
+        "Such...that",
+        "So...that",
+        "Hardly...when",
+        "Scarcely...when"
+      ]
+    }
+  ],
+  "meaningCategories": [
+    {
+      "category": "Time",
+      "examples": [
+        "After",
+        "Before",
+        "When",
+        "Whenever",
+        "While",
+        "Until",
+        "As soon as",
+        "Since",
+        "Now that"
+      ]
+    },
+    {
+      "category": "Reason / Cause",
+      "examples": [
+        "Because",
+        "Since",
+        "As",
+        "Seeing that"
+      ]
+    },
+    {
+      "category": "Result / Consequence",
+      "examples": [
+        "So",
+        "Therefore",
+        "Hence",
+        "Thus",
+        "Consequently",
+        "So that"
+      ]
+    },
+    {
+      "category": "Purpose",
+      "examples": [
+        "So that",
+        "In order that",
+        "Lest"
+      ]
+    },
+    {
+      "category": "Condition",
+      "examples": [
+        "If",
+        "Unless",
+        "Provided that",
+        "Only if",
+        "Assuming that"
+      ]
+    },
+    {
+      "category": "Contrast",
+      "examples": [
+        "But",
+        "Yet",
+        "However",
+        "Though",
+        "Although",
+        "Even though",
+        "Whereas",
+        "While"
+      ]
+    },
+    {
+      "category": "Comparison",
+      "examples": [
+        "Than",
+        "Rather than",
+        "As...as",
+        "Whether...or"
+      ]
+    },
+    {
+      "category": "Addition",
+      "examples": [
+        "And",
+        "Also",
+        "Besides",
+        "Moreover",
+        "Furthermore",
+        "As well as"
+      ]
+    },
+    {
+      "category": "Choice",
+      "examples": [
+        "Or",
+        "Either...or",
+        "Whether...or"
+      ]
+    },
+    {
+      "category": "Manner",
+      "examples": [
+        "As if",
+        "As though",
+        "How"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": 1,
+      "title": "Both...And = Plural Verb",
+      "english": "Both + Noun + and + Noun always takes a plural verb.",
+      "marathi": "Both + Noun + and + Noun नंतर नेहमी Plural Verb वापरतात.",
+      "examples": [
+        "Both Ram and Shyam are intelligent."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Both Ram and Shyam is intelligent.",
+          "right": "Both Ram and Shyam are intelligent."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Either...Or = Nearest Subject",
+      "english": "The verb agrees with the nearest subject.",
+      "marathi": "Verb हे जवळच्या Subject नुसार वापरतात.",
+      "examples": [
+        "Either Ram or his friends are coming.",
+        "Either the boys or Ram is coming."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Either Ram or his friends is coming.",
+          "right": "Either Ram or his friends are coming."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Neither...Nor = Nearest Subject",
+      "english": "The nearest subject decides the verb.",
+      "marathi": "जवळचा Subject Verb ठरवतो.",
+      "examples": [
+        "Neither the boys nor Ram is guilty.",
+        "Neither Ram nor his friends are guilty."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Neither Ram nor his friends is guilty.",
+          "right": "Neither Ram nor his friends are guilty."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Not Only...But Also = Nearest Subject",
+      "english": "The verb agrees with the nearest subject.",
+      "marathi": "Verb जवळच्या Subject नुसार वापरतात.",
+      "examples": [
+        "Not only Ram but also his friends are coming.",
+        "Not only the boys but also Ram is present."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Not only Ram but also his friends is coming.",
+          "right": "Not only Ram but also his friends are coming."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "No Sooner...Than = Past Perfect + Past Indefinite",
+      "english": "Use Past Perfect followed by Past Indefinite.",
+      "marathi": "No sooner नंतर Past Perfect आणि नंतर Past Indefinite वापरतात.",
+      "examples": [
+        "No sooner had he arrived than it started raining."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "No sooner did he arrive than it started raining.",
+          "right": "No sooner had he arrived than it started raining."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Hardly / Scarcely...When",
+      "english": "Hardly/Scarcely + had + V3, followed by When.",
+      "marathi": "Hardly/Scarcely + had + V3 नंतर When वापरतात, Than नाही.",
+      "examples": [
+        "Hardly had I reached home when it started raining."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Hardly had I reached home than it started raining.",
+          "right": "Hardly had I reached home when it started raining."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Such...That",
+      "english": "Such + Noun + that.",
+      "marathi": "Such + Noun + that या रचनेत वापरतात.",
+      "examples": [
+        "It was such a difficult paper that nobody passed."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 8,
+      "title": "So...That",
+      "english": "So + Adjective/Adverb + that.",
+      "marathi": "So + Adjective/Adverb + that या रचनेत वापरतात.",
+      "examples": [
+        "He was so tired that he slept immediately."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 9,
+      "title": "Lest = Should / Base Verb",
+      "english": "After Lest, use Should or the Base Verb; never use 'not'.",
+      "marathi": "Lest नंतर Should किंवा Base Verb वापरतात, 'not' कधीही वापरत नाहीत.",
+      "examples": [
+        "Study hard lest you should fail."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Lest you don't fail.",
+          "right": "Study hard lest you should fail."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Unless = If...Not",
+      "english": "Unless means If...not; never use a double negative.",
+      "marathi": "Unless म्हणजे If...not, त्यामुळे Double Negative वापरू नये.",
+      "examples": [
+        "Unless you study, you will fail."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Unless you do not study.",
+          "right": "Unless you study, you will fail."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Until Denotes Time",
+      "english": "Until shows that an action continues till a point in time.",
+      "marathi": "Until हा वेळ दर्शवतो, क्रिया एका बिंदूपर्यंत चालू राहते.",
+      "examples": [
+        "Wait until I return."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 12,
+      "title": "As Soon As = Immediate Action",
+      "english": "Shows immediate action right after another action.",
+      "marathi": "एका क्रियेनंतर लगेच घडणारी क्रिया दर्शवते.",
+      "examples": [
+        "As soon as he arrived, the meeting started."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 13,
+      "title": "While = Same Time / Contrast",
+      "english": "Shows simultaneous actions or contrast.",
+      "marathi": "एकाच वेळी घडणाऱ्या क्रिया किंवा Contrast दर्शवते.",
+      "examples": [
+        "While I was studying, my brother was sleeping.",
+        "Ram is hardworking whereas Shyam is lazy."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 14,
+      "title": "Because vs So",
+      "english": "Because shows reason; So shows result. Never use both together.",
+      "marathi": "Because कारण दर्शवते, So परिणाम दर्शवते. दोन्ही एकत्र वापरू नये.",
+      "examples": [
+        "Because he was ill, he stayed home.",
+        "He was ill, so he stayed home."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Because he was ill so he stayed home.",
+          "right": "Because he was ill, he stayed home."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Although / Though = Never With But",
+      "english": "Never use 'But' together with Although/Though.",
+      "marathi": "Although / Though सोबत 'But' कधीही वापरू नये.",
+      "examples": [
+        "Although he is poor, he is honest."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Although he is poor but he is honest.",
+          "right": "Although he is poor, he is honest."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "If = First Conditional",
+      "english": "If + Present tense, followed by Future tense.",
+      "marathi": "If + Present, नंतर Future वापरतात.",
+      "examples": [
+        "If you study, you will pass."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 17,
+      "title": "Whether...Or = Alternatives",
+      "english": "Used when there are alternatives.",
+      "marathi": "पर्याय दर्शवताना Whether...Or वापरतात.",
+      "examples": [
+        "I don't know whether he will come or not."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 18,
+      "title": "As If / As Though = Imagination",
+      "english": "Shows imagination or an unreal situation.",
+      "marathi": "कल्पना किंवा असत्य परिस्थिती दर्शवते.",
+      "examples": [
+        "He talks as if he knew everything."
+      ],
+      "wrongRight": []
+    }
+  
+  ],
+  "goldenRevision": [
+    "Both...and → Plural Verb",
+    "Either...or → Nearest Subject",
+    "Neither...nor → Nearest Subject",
+    "Not only...but also → Nearest Subject",
+    "No sooner...than → Past Perfect + Past Indefinite",
+    "Hardly...when",
+    "Scarcely...when",
+    "Such...that",
+    "So...that",
+    "Because → Reason",
+    "So → Result",
+    "Although → Never But",
+    "Unless = If not",
+    "Lest → Should",
+    "As soon as → Immediate Action",
+    "While → Same Time / Contrast"
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "Although he is poor but honest.",
+      "right": "Although he is poor, he is honest."
+    },
+    {
+      "wrong": "Because he was ill so he stayed home.",
+      "right": "Because he was ill, he stayed home."
+    },
+    {
+      "wrong": "Unless you do not work.",
+      "right": "Unless you work."
+    },
+    {
+      "wrong": "Hardly had he arrived than...",
+      "right": "Hardly had he arrived when..."
+    },
+    {
+      "wrong": "No sooner did he arrive than...",
+      "right": "No sooner had he arrived than..."
+    },
+    {
+      "wrong": "Both Ram and Shyam is...",
+      "right": "Both Ram and Shyam are..."
+    },
+    {
+      "wrong": "Either Ram or his friends is...",
+      "right": "Either Ram or his friends are..."
+    },
+    {
+      "wrong": "Neither Ram nor his friends is...",
+      "right": "Neither Ram nor his friends are..."
+    },
+    {
+      "wrong": "Not only Ram but also his friends is...",
+      "right": "Not only Ram but also his friends are..."
+    }
+  ],
+  "examStrategy": [
+    {
+      "label": "Tier-1",
+      "text": "Golden Revision + PYQ Traps are sufficient."
+    },
+    {
+      "label": "Tier-2",
+      "text": "Revise all Correlative Conjunctions and Sentence Improvement Rules."
+    },
+    {
+      "label": "Practice",
+      "text": "Solve 60–80 Conjunction PYQs."
+    },
+    {
+      "label": "Exam पूर्वी",
+      "text": "Before exam revise only the Golden Revision Page."
+    }
+  ],
+  "finalVerdict": "These notes cover nearly 95–100% of the Conjunction syllabus asked in SSC CGL Tier-1 + Tier-2. They are compact (about 6–7 revision pages), PYQ-oriented, and include all major rules, correlative conjunctions, common exam traps, and sentence improvement patterns. Read → Revise → Solve PYQs → Re-revise = Conjunction Chapter Mastered."
+}

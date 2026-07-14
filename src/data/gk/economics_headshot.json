@@ -1,0 +1,310 @@
+{
+  "title": "Complete Economics – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL Mains/MTS/Delhi Police/GD/CHSL",
+  "total_questions_covered": 192,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Basics of Economy",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Founders and Key Personalities",
+          "content": [
+            "John Maynard Keynes (1883-1946): founder of Keynesian economics, father of modern macroeconomics #imp",
+            "Adam Smith: called the 'father of economics' for theories on capitalism, free markets, and supply and demand #imp",
+            "P.V. Narasimha Rao: 'Father of Indian Economic Reforms'; 10th PM of India (1991-1996); launched free-market LPG reforms #imp"
+          ]
+        },
+        {
+          "name": "Micro vs Macro Economics",
+          "content": [
+            "Fundamental problem in economics is scarcity - limited resources vs unlimited wants, forcing choices on resource allocation #imp",
+            "Microeconomics studies individual parts (demand/supply, firm behavior); Macroeconomics studies the entire economy (GDP, national output, aggregate demand/supply)",
+            "Micro focuses on individual prices, wages, production; Macro focuses on general price level, national income, total employment",
+            "Micro aims for optimal resource allocation and profit/utility maximization; Macro seeks economic stability, growth, full employment",
+            "Closest link between micro and macro: General Equilibrium (simultaneous equilibrium in all markets) #imp"
+          ]
+        },
+        {
+          "name": "Circular Flow and Sector Models",
+          "content": [
+            "Circular Flow Model represents continuous flow of money among sectors: Household, Firms, Government, Foreign sector",
+            "Two-Sector Model equilibrium: S = I (Savings = Investment)",
+            "Three-Sector Model equilibrium: C + S + T = C + I + G (adds Government; Taxes = leakage, Govt expenditure = injection)",
+            "Four-Sector Model equilibrium: Y = C + I + G + (X-M) (adds Foreign sector; X-M = Net Exports) #imp",
+            "Exports > Imports leads to increase in National Income (injection); Imports > Exports leads to decrease (leakage)"
+          ]
+        },
+        {
+          "name": "Types of Economies",
+          "content": [
+            "Capitalist: private ownership, market-determined prices, profit motive",
+            "Socialist: public ownership, centrally planned prices, social welfare",
+            "Mixed: both ownerships, both pricing mechanisms #imp"
+          ]
+        },
+        {
+          "name": "Factors of Production",
+          "content": [
+            "Four Factors of Production: Land (payment=Rent), Labour (payment=Wage), Capital (payment=Interest), Entrepreneurship (payment=Profit) #imp",
+            "Types of Capital: Fixed, Working, Venture",
+            "Types of Labour: Unskilled, Semi-skilled, Skilled, Professional"
+          ]
+        },
+        {
+          "name": "Sectors of Indian Economy",
+          "content": [
+            "By activity: Primary, Secondary, Tertiary, Quaternary, Quinary; by work condition: Organised, Unorganised; by ownership: Public, Private",
+            "Primary Sector: directly uses natural resources (agriculture, mining, fishing, forestry, dairy)",
+            "Secondary Sector: transforms raw materials into finished goods (manufacturing, construction, electricity, gas, water supply)",
+            "Tertiary Sector: provides services (IT, banking, healthcare, transport, education) - largest contributor to India's GDP #imp",
+            "Economic liberalization (1991 reforms) removed/reduced government restrictions, affecting all three sectors and integrating domestic economy with world trade/capital flows",
+            "Code on Social Security 2020 extends social security to organised, unorganised, gig, and platform sector workers via EPFO, ESIC",
+            "Organised Sector: registered, follows labor laws, regular employment, PF/health insurance/pension benefits",
+            "Unorganised Sector: mostly unregistered, casual/seasonal employment, lacks social security benefits"
+          ]
+        },
+        {
+          "name": "Types of Goods",
+          "content": [
+            "By excludability/rivalry: Private Goods (rival+excludable, e.g. food), Public Goods (non-rival+non-excludable, e.g. national defense), Common Resources (non-excludable+rival, e.g. fish in ocean - tragedy of commons), Club Goods (excludable+non-rival, e.g. Netflix, toll roads) #imp",
+            "By income sensitivity: Normal Goods (demand rises with income), Inferior Goods (demand falls with income, e.g. instant noodles), Luxury Goods (demand rises more than proportionally to income)",
+            "By price/market behavior: Substitute Goods (Coke & Pepsi), Complementary Goods (car & petrol), Giffen Goods (rare inferior goods, demand rises with price), Veblen/Snob Goods (luxury goods, high price increases demand as status symbol) #imp"
+          ]
+        },
+        {
+          "name": "Demand, Utility and Cost Concepts",
+          "content": [
+            "Law of Demand: Quantity Demanded proportional to 1/Price; inverse relationship between demand and price, graphically shown via Demand Curve #imp",
+            "Law of Diminishing Marginal Utility: as consumption of a commodity increases, marginal utility from each successive unit decreases; MU becomes zero at Point of Satiety, can turn negative beyond that",
+            "Opportunity Cost: value of the next best alternative forgone when a choice is made - central to 'what to produce' decisions (Capital Goods vs Consumer Goods) #imp",
+            "Cost concepts: Explicit Costs (direct payments - wages, rent), Implicit Costs (value of self-owned resources), Total Cost = FC+VC, Average Cost = TC/Output, Marginal Cost (cost of one more unit), Social Cost (private + external costs like pollution)"
+          ]
+        },
+        {
+          "name": "Brain Drain and Liquidity Trap",
+          "content": [
+            "Brain drain in India driven by Push factors (low salaries, limited research funding, poor infrastructure) and Pull factors (better career growth, liberal societies abroad)",
+            "Liquidity Trap: a situation of very low interest rates where speculative demand for money becomes perfectly elastic; expansionary monetary policy fails to boost the economy #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Five Year Plans",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Sixth and Seventh Plans",
+          "content": [
+            "Sixth Five Year Plan (1980-85): Led by Indira Gandhi; focused on increasing national income, modernizing technology, reducing poverty/unemployment via TRYSEM (skill transfer), IRDP (seats), NREP (slack season employment), controlling population growth #imp",
+            "Seventh Five Year Plan (1985-90): Led by Rajiv Gandhi; aimed at 'food, work and productivity' - accelerating food grain production, employment, productivity; focus on small and cottage industries"
+          ]
+        },
+        {
+          "name": "Annual Plans and LPG Era",
+          "content": [
+            "Annual Plans (1990-92): Eighth Plan was postponed by 2 years due to political instability; 1990-91 and 1991-92 treated as Annual Plans amid foreign exchange reserve crisis",
+            "Eighth Five Year Plan (1992-97): Led by P.V. Narasimha Rao; launched Liberalisation, Privatisation, Globalisation (LPG) reforms to tackle worsening balance of payments, rising debt, budget deficits, industrial recession, inflation #imp",
+            "Ninth Five Year Plan (1997-2002): Led by Atal Bihari Vajpayee; theme 'Growth With Social Justice & Equality'; focused on private sector (Indian & FDI) with State as facilitator in social sectors (education, health) and infrastructure"
+          ]
+        },
+        {
+          "name": "Plan Failures",
+          "content": [
+            "Third Five Year Plan failed due to war (1962, 1965), rupee devaluation, and food crisis #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Industrial Policies",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Industrial Policy Resolutions",
+          "content": [
+            "Industrial Policy Resolution 1948 laid the foundation for a mixed economy approach in India, dividing industries into categories based on state involvement",
+            "Industrial Policy Resolution 1956 classified industries into Schedule A (exclusive state control), Schedule B (mixed public-private), Schedule C (private sector) #imp"
+          ]
+        },
+        {
+          "name": "New Industrial Policy 1991",
+          "content": [
+            "Industrial Policy 1991 (New Industrial Policy) introduced LPG reforms - delicensing of industries, abolition of MRTP restrictions, opening to foreign investment (FDI/FII), reduction of public sector reservation #imp",
+            "This chapter carries high weightage (47 questions) - covers Industrial Licensing Policy, MRTP Act, disinvestment policies, and Make in India initiatives (supplemented from general knowledge as PDF extract on this chapter was limited)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Curves",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Demand and Utility Curves",
+          "content": [
+            "Demand Curve: graphical representation of the demand function; shows inverse relationship between price and quantity demanded, holding other factors constant #imp",
+            "Law of Diminishing Marginal Utility Curve: Marginal Utility declines with each additional unit consumed, reaching zero at the Point of Satiety and turning negative beyond it"
+          ]
+        },
+        {
+          "name": "Other Macroeconomic Curves",
+          "content": [
+            "Curves chapter carries lower weightage (3 Q) - also includes Phillips Curve, Laffer Curve, and Kuznets Curve concepts relevant to macroeconomic policy analysis (supplemented from general knowledge)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "National Income",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Base Year and GDP/GVA",
+          "content": [
+            "India changed the base year for calculating national accounts from 2004-05 to 2011-12 (important fact) #imp",
+            "GVA (Gross Value Added) = GDP + Subsidies on products - Taxes on products",
+            "GDP = Sum total of Gross Value Added (GVA) of all firms in the economy"
+          ]
+        },
+        {
+          "name": "Income Aggregates",
+          "content": [
+            "Net National Income (NNI) = GDP - Depreciation",
+            "Personal Income (PI) = National Income + Transfer Payments - Corporate Retained Earnings - Income Tax - Social Security Tax #imp",
+            "Alternate formula: PI = National Income - Undistributed corporate profits - Social security payments - Corporate tax + Government transfer payments + Business transfer payments + Net interest paid by government",
+            "Disposable Personal Income (DPI) = Personal Income - Direct Taxes (or Personal Tax Payments - Non-tax payments)"
+          ]
+        },
+        {
+          "name": "Propensities and Multiplier",
+          "content": [
+            "Marginal Propensity to Consume (MPC) = Change in Consumption / Change in Income",
+            "Marginal Propensity to Save (MPS) = 1 - MPC; therefore MPC + MPS = 1 #imp",
+            "Higher MPC leads to a greater Keynesian multiplier effect; lower MPC means lower multiplier impact",
+            "According to Keynes, expanded government spending is the most effective tool to revive the economy during a recession"
+          ]
+        },
+        {
+          "name": "Sectoral Contribution to GDP",
+          "content": [
+            "Services sector contributes most to India's GDP (Agriculture employs more than 50% of workforce but contributes less to GDP) #imp",
+            "Share of industry in India's GDP in 1950-51 was 13%"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Fiscal & Monetary Policy",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Liquidity Trap and Fiscal Policy",
+          "content": [
+            "Liquidity Trap: very low interest rate scenario where money demand becomes perfectly elastic; expansionary monetary policy fails to stimulate growth #imp",
+            "Fiscal Policy involves government revenue (taxes) and expenditure decisions to influence the economy"
+          ]
+        },
+        {
+          "name": "Monetary Policy Tools",
+          "content": [
+            "Monetary Policy is managed by RBI through tools like repo rate, reverse repo rate, CRR, SLR to control money supply and inflation (supplemented from general knowledge) #imp",
+            "Expansionary fiscal/monetary policy is used during recession (increased govt spending, lower interest rates); contractionary policy used to control inflation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "Budget",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Union Budget Basics",
+          "content": [
+            "The Union Budget is presented by the Finance Minister, detailing government revenue and expenditure for the fiscal year",
+            "Budget includes Revenue Budget (Revenue receipts & expenditure) and Capital Budget (Capital receipts & expenditure)",
+            "Fiscal Deficit = Total Expenditure - Total Revenue Receipts (excluding borrowings) #imp"
+          ]
+        },
+        {
+          "name": "Kelkar Committee",
+          "content": [
+            "Kelkar Committee (2002-03) reviewed fiscal reforms for Direct and Indirect taxes under chairmanship of Vijay Kelkar - recommended rationalized income tax slabs, reduced corporate tax, and comprehensive GST #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "Taxes",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Trade and Indirect Taxes",
+          "content": [
+            "Customs duty is imposed on goods imported into and exported out of India",
+            "Tariff measures under trade policy include both export taxes and import taxes",
+            "Goods and Services Tax (GST) amalgamated a large number of central and state taxes and cesses #imp"
+          ]
+        },
+        {
+          "name": "Tax Reform Committees",
+          "content": [
+            "Tax Reforms Committee 1991 was chaired by Raja J. Chelliah #imp",
+            "Kelkar Committee (2002-03): recommended 20% tax rate up to Rs 4 lakh income, 30% above; increased exemption limit; reduced corporate tax to 30% (domestic)/35% (foreign); proposed comprehensive GST"
+          ]
+        },
+        {
+          "name": "State-level and Other Taxes",
+          "content": [
+            "Entertainment tax and Entry tax (now replaced by GST) were levied by State Governments, not Central Government",
+            "Wealth Tax is known as 'Paper tax' in India #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Banking & Insurance",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Banking Structure",
+          "content": [
+            "RBI is India's central bank, responsible for monetary policy, currency issuance, and banking regulation (supplemented from general knowledge) #imp",
+            "Public Sector Banks, Private Sector Banks, Regional Rural Banks, and Cooperative Banks form India's banking structure"
+          ]
+        },
+        {
+          "name": "Insurance and Financial Inclusion",
+          "content": [
+            "This chapter (20 Q) also covers Insurance Regulatory and Development Authority of India (IRDAI), types of insurance (life, general), and financial inclusion schemes like Jan Dhan Yojana #imp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Committee",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Key Economic Committees",
+          "content": [
+            "Kelkar Committee (2002-03): Reviewed direct and indirect tax reforms; chaired by Vijay Kelkar #imp",
+            "Tax Reforms Committee (1991): Chaired by Raja J. Chelliah",
+            "This chapter (4 Q) also includes other important economic committees like Narasimham Committee (banking reforms) and Chakravarty Committee (monetary policy), supplemented from general knowledge"
+          ]
+        }
+      ]
+    }
+  ]
+}

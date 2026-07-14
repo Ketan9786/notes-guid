@@ -1,0 +1,807 @@
+{
+  "title": "Complete Geography Headshot – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police/GD/CHS 2026",
+  "total_questions_covered": 100,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Chapter-wise Weightage Analysis (SSC PYQs)",
+      "type": "summary",
+      "table": [
+        {
+          "topic": "Universe & Galaxy",
+          "sub_areas": "Big Bang Theory, Galaxy types, Milky Way, Stars, Pulsars, Solar System bodies",
+          "questions": 9,
+          "weightage": "High"
+        },
+        {
+          "topic": "Physiographic Divisions of India",
+          "sub_areas": "Himalayas, Northern Plains, Peninsular Plateau, Desert, Coastal Plains, Islands",
+          "questions": 3,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Valley",
+          "sub_areas": "Kashmir, Kullu, Kangra, Kathmandu valleys",
+          "questions": 2,
+          "weightage": "Low"
+        },
+        {
+          "topic": "The Indian Desert",
+          "sub_areas": "Thar Desert, Marusthali, Aravalli, sand dunes, Luni river",
+          "questions": 5,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Plateau",
+          "sub_areas": "Deccan Plateau, Malwa Plateau, Chotanagpur Plateau, Aravalli Hills",
+          "questions": 8,
+          "weightage": "High"
+        },
+        {
+          "topic": "Coastal Plain",
+          "sub_areas": "East Coastal Plain, West Coastal Plain, Konkan, Malabar coast",
+          "questions": 3,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Islands of India",
+          "sub_areas": "Andaman & Nicobar, Lakshadweep",
+          "questions": 5,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Soils",
+          "sub_areas": "Alluvial, Black, Red, Laterite soils",
+          "questions": 4,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Population & Census",
+          "sub_areas": "Census data, demography",
+          "questions": null,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Climate & Rainfall",
+          "sub_areas": "Monsoon, temperature inversion, rainfall patterns",
+          "questions": 8,
+          "weightage": "High"
+        },
+        {
+          "topic": "Faint Young Sun Paradox",
+          "sub_areas": "Early Earth climate theory",
+          "questions": 2,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Drainage System",
+          "sub_areas": "Himalayan & Peninsular rivers, water divide",
+          "questions": 15,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Lakes",
+          "sub_areas": "Chilka, Pulicat, Kollur, other Indian lakes",
+          "questions": 7,
+          "weightage": "High"
+        },
+        {
+          "topic": "Oceans",
+          "sub_areas": "Ocean floor features, trenches, ridges",
+          "questions": 4,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Mineral Resources",
+          "sub_areas": "Iron, coal, mica, bauxite distribution in India",
+          "questions": 12,
+          "weightage": "High"
+        },
+        {
+          "topic": "Agriculture in India",
+          "sub_areas": "Cropping patterns, revolutions, irrigation",
+          "questions": 22,
+          "weightage": "Very High"
+        },
+        {
+          "topic": "Landforms",
+          "sub_areas": "Erosional and depositional landforms",
+          "questions": 4,
+          "weightage": "Moderate"
+        },
+        {
+          "topic": "Continents of World",
+          "sub_areas": "World continents, sizes, features",
+          "questions": 2,
+          "weightage": "Low"
+        },
+        {
+          "topic": "Atmosphere",
+          "sub_areas": "Layers of atmosphere, Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere",
+          "questions": 13,
+          "weightage": "High"
+        },
+        {
+          "topic": "Ports",
+          "sub_areas": "Major and minor ports of India",
+          "questions": 9,
+          "weightage": "High"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Universe, Galaxy & Big Bang Theory",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Big Bang Theory",
+          "content": [
+            "Leading scientific explanation for origin of universe; began ~13.8 billion years ago from a singularity",
+            "Hubble's Law (1929): galaxies moving apart at speeds proportional to distance, proving universe is expanding #imp",
+            "Georges Lemaitre first proposed 'primeval atom' theory in 1927",
+            "Fred Hoyle coined term 'Big Bang' in 1949 radio broadcast (originally to mock the theory)"
+          ]
+        },
+        {
+          "name": "Galaxy",
+          "content": [
+            "Universe contains ~2x10^11 galaxies with roughly equal stars in each",
+            "Three basic shapes: Spiral, Elliptical, Irregular #imp",
+            "Milky Way is a spiral galaxy, also called 'Akash Ganga'; contains ~400 billion stars #imp",
+            "Andromeda (Messier 31/M31) is nearest major galaxy to Milky Way #imp",
+            "Sirius (Dog Star) is brightest star in night sky; Proxima Centauri is closest star to Sun #imp",
+            "Neutron Star: ~30 km radius, very high density, formed from supernova remnant collapse",
+            "Pulsar: highly magnetized rotating neutron star; Asteroids: rock/dust fragments between Mars & Jupiter orbits"
+          ]
+        },
+        {
+          "name": "PYQs – Universe & Galaxy",
+          "content": [
+            "PYQ: Most popular argument on origin of universe = Big Bang Theory (Ans: A – SSC CHSL)",
+            "PYQ: Statements on black holes emitting X-rays / pulsars being rotating neutron stars = Only 2 correct (Ans: B – SSC CGL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Solar System – Planets",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Jovian vs Terrestrial Planets",
+          "type": "table",
+          "table": [
+            {
+              "feature": "Primary Composition",
+              "terrestrial": "Rock and metal",
+              "jovian": "Gas and ice"
+            },
+            {
+              "feature": "Location",
+              "terrestrial": "Inner Solar System (inside Asteroid Belt)",
+              "jovian": "Outer Solar System (beyond Asteroid Belt)"
+            },
+            {
+              "feature": "Surface",
+              "terrestrial": "Solid and rocky",
+              "jovian": "No solid surface"
+            },
+            {
+              "feature": "Size",
+              "terrestrial": "Small",
+              "jovian": "Enormous"
+            },
+            {
+              "feature": "Density",
+              "terrestrial": "High (4-6 g/cm3)",
+              "jovian": "Low (1-1.5 g/cm3)"
+            },
+            {
+              "feature": "Rings",
+              "terrestrial": "None",
+              "jovian": "All have rings"
+            },
+            {
+              "feature": "Moons",
+              "terrestrial": "Few or none",
+              "jovian": "Many (dozens to hundreds)"
+            }
+          ]
+        },
+        {
+          "name": "Jupiter",
+          "content": [
+            "Biggest planet of Solar System; gas giant, 11x bigger than Earth; 95 natural moons",
+            "Great Red Spot: anticyclonic storm existing 300+ years",
+            "4 Galilean moons (Io, Europa, Ganymede, Callisto) discovered by Galileo in 17th century #imp",
+            "Ganymede is largest satellite in Solar System; Europa may host subsurface ocean #imp",
+            "Shortest day in Solar System; gravity ~2.4x Earth's #imp"
+          ]
+        },
+        {
+          "name": "Saturn",
+          "content": [
+            "Second largest planet; least density in Solar System (less than water) #imp",
+            "7 rings made of ice, dust & rock; 274 confirmed moons (March 2025) - highest",
+            "Largest satellite: Titan; Enceladus & Titan considered 'ocean worlds' #imp",
+            "Last planet visible to naked eye; revolution period 29.5 years",
+            "NASA: rings disappearing at worst-case rate, could vanish in ~100 million years"
+          ]
+        },
+        {
+          "name": "Mars",
+          "content": [
+            "Red Planet due to iron oxide in soil #imp",
+            "Second smallest planet; atmosphere has CO2, NO2, inert gases",
+            "Two irregular moons: Phobos & Deimos",
+            "Distance from Sun: 142 million miles"
+          ]
+        },
+        {
+          "name": "Venus",
+          "content": [
+            "Brightest and hottest planet (475C); nicknamed 'Lucifer'; Earth's twin planet",
+            "Atmosphere: 97% CO2 with sulphuric acid clouds #imp",
+            "Retrograde rotation (east to west); longest day in Solar System (243 Earth days) #imp",
+            "Also called Morning/Evening Star; second planet from Sun"
+          ]
+        },
+        {
+          "name": "Sun, Moon & Mercury",
+          "content": [
+            "Sun: star of Solar System, ~150x10^6 km from Earth; light takes 8 min to reach Earth",
+            "Next nearest star to Earth: Alpha Centauri",
+            "Moon's diameter is 1/4 of Earth's; Perigee ~364000 km, Apogee ~406000 km",
+            "Mercury: fastest planet in orbital motion, ~47 km/sec"
+          ]
+        },
+        {
+          "name": "Earth Statistics",
+          "type": "table",
+          "table": [
+            {
+              "parameter": "Age",
+              "value": "4,550 million years"
+            },
+            {
+              "parameter": "Mass",
+              "value": "5.9726 x 10^24 kg"
+            },
+            {
+              "parameter": "Mean density",
+              "value": "5514 kg/m3"
+            },
+            {
+              "parameter": "Total Land area",
+              "value": "14,84,29,000 sq.km (29.1%)"
+            },
+            {
+              "parameter": "Total Ocean area",
+              "value": "36,16,37,000 sq.km (70.9%)"
+            },
+            {
+              "parameter": "Equatorial diameter",
+              "value": "12,756 km"
+            },
+            {
+              "parameter": "Polar diameter",
+              "value": "12,713.6 km"
+            },
+            {
+              "parameter": "Max distance from Sun (Aphelion)",
+              "value": "152 million km approx"
+            },
+            {
+              "parameter": "Min distance from Sun (Perihelion)",
+              "value": "147 million km approx"
+            },
+            {
+              "parameter": "Highest point (Mt. Everest)",
+              "value": "8,850 m"
+            },
+            {
+              "parameter": "Greatest Ocean depth (Mariana Trench)",
+              "value": "10,994 m"
+            }
+          ]
+        },
+        {
+          "name": "Solar System Quick Facts",
+          "type": "table",
+          "table": [
+            {
+              "fact": "Biggest Planet",
+              "planet": "Jupiter"
+            },
+            {
+              "fact": "Smallest Planet",
+              "planet": "Mercury"
+            },
+            {
+              "fact": "Nearest Planet to Sun",
+              "planet": "Mercury"
+            },
+            {
+              "fact": "Farthest Planet from Sun",
+              "planet": "Neptune"
+            },
+            {
+              "fact": "Nearest Planet to Earth",
+              "planet": "Venus"
+            },
+            {
+              "fact": "Brightest Planet",
+              "planet": "Venus"
+            },
+            {
+              "fact": "Coldest Planet",
+              "planet": "Uranus"
+            },
+            {
+              "fact": "Hottest Planet",
+              "planet": "Venus"
+            },
+            {
+              "fact": "Red Planet",
+              "planet": "Mars"
+            },
+            {
+              "fact": "Biggest Satellite",
+              "planet": "Ganymede"
+            },
+            {
+              "fact": "Smallest Satellite",
+              "planet": "Deimos"
+            },
+            {
+              "fact": "Blue Planet",
+              "planet": "Earth"
+            },
+            {
+              "fact": "Green Planet",
+              "planet": "Uranus"
+            },
+            {
+              "fact": "Planet with least density",
+              "planet": "Saturn"
+            },
+            {
+              "fact": "Planet with maximum satellites",
+              "planet": "Saturn"
+            }
+          ]
+        },
+        {
+          "name": "Geostationary Satellite",
+          "content": [
+            "Orbits Earth with 24-hour period, stays fixed over same equatorial spot",
+            "Altitude ~35,786 km above equator, moves in direction of Earth's rotation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Physiographic Divisions of India",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Six Physiographic Divisions",
+          "content": [
+            "The Himalayan Mountains",
+            "The Northern Plains",
+            "The Peninsular Plateau",
+            "The Indian Desert",
+            "The Coastal Plains",
+            "The Islands",
+            "Landform percentages: Mountains ~10.7%, Hills ~18.5%, Plateaus ~27.7%, Plains ~43.1% #imp"
+          ]
+        },
+        {
+          "name": "The Himalayas",
+          "content": [
+            "Young fold mountains formed by collision of Indo-Australian Plate with Eurasian Plate",
+            "Natural boundary between Tibetan Plateau (north) and Indian Subcontinent (south)",
+            "Latitudinal divisions: Trans-Himalayas, Himalayan Ranges, Purvanchal (Eastern Hills)",
+            "Longitudinal divisions: Punjab, Kumaon, Nepal, Assam Himalayas"
+          ]
+        },
+        {
+          "name": "Northern Plains",
+          "content": [
+            "Also called Indo-Gangetic-Brahmaputra Plain; world's largest alluvial plain",
+            "Formed by Indus, Ganga, Brahmaputra river systems",
+            "Divided into 4 regions: Bhabar, Terai, Bhangar, Khadar",
+            "Bhabar: porous, foothills of Shiwaliks, not suitable for agriculture",
+            "Terai: south of Bhabar, fine alluvium, suitable for wheat, maize, rice, sugarcane",
+            "Khadar: new alluvium, fresh silt yearly, extensive cultivation",
+            "Bhangar: older alluvium, contains calcium carbonate nodules called 'Kankars'"
+          ]
+        },
+        {
+          "name": "Valleys",
+          "content": [
+            "Land between 2 mountains is called a valley",
+            "Kashmir Valley: between Peer Panjal & Greater Himalaya",
+            "Kullu Valley (HP): between Dhauladhar & Greater Himalaya",
+            "Kangra Valley (HP): between Nagtibba & Greater Himalaya",
+            "Kathmandu Valley: between Mahabharat & Greater Himalaya"
+          ]
+        },
+        {
+          "name": "Water Divide",
+          "content": [
+            "Upland separating two drainage basins; e.g., Ambala on water divide between Indus & Ganga",
+            "Western Ghats are principal water divide of Peninsular India #imp",
+            "Separates east-flowing Peninsular rivers from west-flowing Konkan/Malabar rivers"
+          ]
+        },
+        {
+          "name": "The Indian Desert (Thar Desert)",
+          "content": [
+            "Located west of Aravalli Hills, mainly in Rajasthan; also called Marusthali #imp",
+            "Aravalli acts as barrier blocking monsoon winds from reaching desert",
+            "Average annual rainfall below 150 mm; some areas below 100 mm",
+            "Luni is the only large river; streams disappear into sand before reaching sea",
+            "Barchans (crescent dunes) dominant; longitudinal dunes near Indo-Pak border; Jaisalmer has barchan groups #imp"
+          ]
+        },
+        {
+          "name": "Deccan & Other Plateaus",
+          "content": [
+            "Deccan Plateau: triangular landmass south of Narmada river",
+            "Separated from Chotanagpur Plateau by a geological fault",
+            "Black soil (Deccan Trap) of volcanic origin, suitable for cotton & sugarcane",
+            "Aravalli Hills: highly eroded, extend Gujarat to Delhi (SW-NE direction)",
+            "NE extension includes Garo, Khasi, Jaintia Hills, geologically linked to Chotanagpur Plateau",
+            "Divided broadly into Western Ghats and Eastern Ghats"
+          ]
+        },
+        {
+          "name": "Coastal Plains",
+          "content": [
+            "East Coastal Plain: Ganga Delta to Kanyakumari; broader than west coast; includes Mahanadi, Godavari, Krishna, Kaveri deltas",
+            "Famous lagoons: Chilika (south of Mahanadi delta, 75 km long), Pulicat (north of Chennai), Kollur (between Godavari-Krishna deltas)",
+            "West Coastal Plain: Rann of Kutch to Kanyakumari; narrower due to Western Ghats running close to Arabian Sea",
+            "Konkan coast: Daman to Goa (~500 km); Karnataka coast: Goa to Mangalore; Malabar coast: Mangalore to Kanyakumari (wider)"
+          ]
+        },
+        {
+          "name": "Important Hills & Highest Peaks in India",
+          "type": "table",
+          "table": [
+            {
+              "peak": "Kanchenjunga",
+              "state": "Sikkim",
+              "height": "8586 m"
+            },
+            {
+              "peak": "Nanda Devi",
+              "state": "Uttarakhand",
+              "height": "7816 m"
+            },
+            {
+              "peak": "Kamet",
+              "state": "Uttarakhand",
+              "height": "7756 m"
+            },
+            {
+              "peak": "Saltoro Kangri",
+              "state": "J&K/Ladakh",
+              "height": "7742 m"
+            },
+            {
+              "peak": "Saser Kangri",
+              "state": "J&K/Ladakh",
+              "height": "7672 m"
+            },
+            {
+              "peak": "Anamudi",
+              "state": "Kerala (highest peak of state)",
+              "height": "2695 m"
+            },
+            {
+              "peak": "Doddabetta",
+              "state": "Tamil Nadu (Nilgiri Hills)",
+              "height": "2637 m"
+            },
+            {
+              "peak": "Guru Shikhar",
+              "state": "Rajasthan (Aravalli Range)",
+              "height": "1722 m"
+            },
+            {
+              "peak": "Kalsubai",
+              "state": "Maharashtra (Western Ghats)",
+              "height": "1646 m"
+            },
+            {
+              "peak": "Parasnath",
+              "state": "Jharkhand (highest peak of state)",
+              "height": "1370 m"
+            },
+            {
+              "peak": "Mount Saramati",
+              "state": "Nagaland (Naga Hills)",
+              "height": "3826 m"
+            },
+            {
+              "peak": "Sandakphu",
+              "state": "West Bengal (highest peak of state)",
+              "height": "3636 m"
+            }
+          ]
+        },
+        {
+          "name": "PYQs – Physiographic Divisions",
+          "content": [
+            "PYQ: % of India's land under plateau region = 27% (Ans: C – SSC CHSL)",
+            "PYQ: Which physiographic feature is principal water divide of Peninsular India = Western Ghats (Ans: C – SSC CPO)",
+            "PYQ: Anai Mudi & Doda Betta located in = Tamil Nadu and Kerala (Ans: B – SSC CPO)",
+            "PYQ: Himachal range includes hill stations/valleys = Kullu, Kangra, Kashmir (Ans: C – SSC CPO)",
+            "PYQ: Deccan Trap black soil from igneous rocks statement = Only Statement 1 correct (Ans: A – SSC Phase XIII)",
+            "PYQ: Indian Desert region correct statement = Sandy plain with dunes (Ans: A – SSC Phase XIII)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "Atmosphere & Its Layers",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Layers of Atmosphere",
+          "type": "table",
+          "table": [
+            {
+              "layer": "Troposphere",
+              "height_range": "0 to 12-18 km",
+              "temperature": "15 to -56.5C",
+              "notes": "Weather occurs here; average height 13 km; means 'region of mixing' #imp"
+            },
+            {
+              "layer": "Stratosphere",
+              "height_range": "11 to 50 km",
+              "temperature": "-56.5 to -2.5C",
+              "notes": "Contains ozone layer; dry, ideal for aviation #imp"
+            },
+            {
+              "layer": "Mesosphere",
+              "height_range": "40-50 to 80-90 km",
+              "temperature": "-2.5 to -86.5C",
+              "notes": "Coldest layer; meteors burn here #imp"
+            },
+            {
+              "layer": "Thermosphere",
+              "height_range": "80-90 to 800 km",
+              "temperature": "-86.5 to 1200C",
+              "notes": "Auroras occur here"
+            },
+            {
+              "layer": "Exosphere",
+              "height_range": "800 to 3000 km",
+              "temperature": "1200C",
+              "notes": "Outermost layer, merges into space"
+            }
+          ]
+        },
+        {
+          "name": "Troposphere Details",
+          "content": [
+            "Lowest layer; begins at surface, rises 8 km (poles) to 18 km (equator)",
+            "Temperature inversion: atmospheric temp increases with altitude, reversing normal trend #imp",
+            "Normal lapse rate: temperature drops 1C per 165 m of height gained",
+            "Tropopause is boundary between troposphere and stratosphere; weather disturbances don't cross it #imp"
+          ]
+        }
+      ]
+    },
+  {
+    "id": 6,
+    "chapter": "Drainage System",
+    "type": "content",
+    "subtopics": [
+      {
+        "name": "Important Concepts",
+        "content": [
+          "Water Divide: An upland separating two drainage basins; e.g. Ambala lies on the water divide between the Indus and Ganga river systems. #imp",
+          "Western Ghats act as the main water divide of Peninsular India, separating east-flowing rivers from west-flowing Konkan/Malabar rivers. #imp",
+          "Himalayan River Systems: Indus, Ganga and Brahmaputra river systems. #imp",
+          "Ancient Indo-Brahma River is believed to have split into three major drainage systems over time; Ganga and its Himalayan tributaries represent the central drainage system."
+        ]
+      },
+      {
+        "name": "Major River Systems",
+        "type": "table",
+        "table": [
+          {
+            "river_system": "Indus",
+            "type": "Himalayan",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "One of the three major Himalayan river systems"
+          },
+          {
+            "river_system": "Ganga",
+            "type": "Himalayan",
+            "flow_direction": "East",
+            "drains_into": "Bay of Bengal",
+            "notes": "Originates in the Himalayas; forms Sundarbans delta with Brahmaputra #imp"
+          },
+          {
+            "river_system": "Brahmaputra",
+            "type": "Himalayan",
+            "flow_direction": "East/South",
+            "drains_into": "Bay of Bengal",
+            "notes": "Known as Red River; world's largest river island (Majuli) lies on it #imp"
+          },
+          {
+            "river_system": "Godavari",
+            "type": "Peninsular",
+            "flow_direction": "East",
+            "drains_into": "Bay of Bengal",
+            "notes": "Forms delta in eastern coastal plains; longest peninsular river #imp"
+          },
+          {
+            "river_system": "Krishna",
+            "type": "Peninsular",
+            "flow_direction": "East",
+            "drains_into": "Bay of Bengal",
+            "notes": "Major east-flowing river"
+          },
+          {
+            "river_system": "Cauvery",
+            "type": "Peninsular",
+            "flow_direction": "East",
+            "drains_into": "Bay of Bengal",
+            "notes": "Important river of South India"
+          },
+          {
+            "river_system": "Mahanadi",
+            "type": "Peninsular",
+            "flow_direction": "East",
+            "drains_into": "Bay of Bengal",
+            "notes": "Forms delta"
+          },
+          {
+            "river_system": "Narmada",
+            "type": "Peninsular",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "Flows parallel to Tapi; west-flowing river #imp"
+          },
+          {
+            "river_system": "Tapi",
+            "type": "Peninsular",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "Flows parallel to Narmada #imp"
+          },
+          {
+            "river_system": "Sabarmati",
+            "type": "Peninsular",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "West-flowing river"
+          },
+          {
+            "river_system": "Mahi",
+            "type": "Peninsular",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "West-flowing river"
+          },
+          {
+            "river_system": "Luni",
+            "type": "Peninsular",
+            "flow_direction": "West",
+            "drains_into": "Arabian Sea",
+            "notes": "West-flowing inland river"
+          }
+        ]
+      },
+      {
+        "name": "Brahmaputra River",
+        "content": [
+          "Also called the Red River. #imp",
+          "Origin: Chomayungdung Glacier (Tibet) near Mansarovar Lake. #imp",
+          "Known as Tsangpo in Tibet, Siang/Dihang in Arunachal Pradesh, Brahmaputra in India and Jamuna in Bangladesh. #imp",
+          "Flows through Tibet, Bhutan, India and Bangladesh. #imp",
+          "Joins Ganga in Bangladesh to form Padma, later Meghna before entering the Bay of Bengal.",
+          "Majuli (Assam) is the world's biggest river island, located on the Brahmaputra. #imp",
+          "Sundarbans formed by Ganga and Brahmaputra is the world's biggest delta. #imp"
+        ]
+      },
+      {
+        "name": "River Landforms",
+        "content": [
+          "Meandering is formed by lateral erosion in flat terrain; outer bank erodes while inner bank deposits sediments. #imp",
+          "Oxbow lakes are formed when the neck of a meander loop is cut off by erosion. #imp",
+          "Important erosional landforms: V-shaped Valley, Gorge, Waterfall, Potholes and Meanders. #imp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "National Parks",
+    "type": "content",
+    "subtopics": [
+      {
+        "name": "Important National Parks",
+        "type": "table",
+        "table": [
+          {
+            "park": "Jim Corbett National Park",
+            "state": "Uttarakhand",
+            "known_for": "India's first National Park (1936); Tiger Reserve #imp"
+          },
+          {
+            "park": "Kaziranga National Park",
+            "state": "Assam",
+            "known_for": "One-horned Rhinoceros; UNESCO World Heritage Site #imp"
+          },
+          {
+            "park": "Sundarbans National Park",
+            "state": "West Bengal",
+            "known_for": "Mangrove forest, Bengal Tigers, UNESCO World Heritage Site #imp"
+          },
+          {
+            "park": "Gir National Park",
+            "state": "Gujarat",
+            "known_for": "Only natural habitat of Asiatic Lions #imp"
+          },
+          {
+            "park": "Bandipur National Park",
+            "state": "Karnataka",
+            "known_for": "Part of Nilgiri Biosphere Reserve; Tiger Reserve"
+          },
+          {
+            "park": "Ranthambore National Park",
+            "state": "Rajasthan",
+            "known_for": "Former Mughal hunting ground; Tiger Reserve"
+          },
+          {
+            "park": "Kanha National Park",
+            "state": "Madhya Pradesh",
+            "known_for": "Inspired Rudyard Kipling's 'The Jungle Book'"
+          },
+          {
+            "park": "Periyar National Park",
+            "state": "Kerala",
+            "known_for": "Tiger Reserve; Periyar Lake"
+          },
+          {
+            "park": "Silent Valley National Park",
+            "state": "Kerala",
+            "known_for": "Tropical Rainforest Biodiversity Hotspot"
+          },
+          {
+            "park": "Manas National Park",
+            "state": "Assam",
+            "known_for": "UNESCO World Heritage Site; Tigers, Rhinos and Wild Buffalo #imp"
+          }
+        ]
+      },
+      {
+        "name": "Exam Highlights",
+        "content": [
+          "Jim Corbett is India's first National Park (1936). #imp",
+          "Kaziranga is famous for the One-horned Rhinoceros. #imp",
+          "Gir National Park is the only natural habitat of Asiatic Lions. #imp",
+          "Sundarbans National Park is famous for Mangrove forests and Royal Bengal Tigers. #imp",
+          "Manas and Kaziranga are UNESCO World Heritage Sites in Assam. #imp",
+          "Bandipur is part of the Nilgiri Biosphere Reserve.",
+          "Periyar is famous for its Tiger Reserve and Periyar Lake.",
+          "Silent Valley is a biodiversity hotspot of tropical evergreen forests."
+        ]
+      }
+    ]
+  }
+
+  ]
+}

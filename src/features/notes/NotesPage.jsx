@@ -126,7 +126,7 @@ const TagWrap = ({ tags }) => {
   if (!tags?.length) return null;
   return (
     <Box display="flex" flexWrap="wrap" gap={1} mb={2}>
-      {tags.map((t, i) => (
+      {tags?.map((t, i) => (
         <Chip
           key={i}
           label={t}
@@ -201,7 +201,7 @@ const ExampleBlock = ({ wrong, right }) => (
 
 const WrongRightList = ({ pairs }) => (
   <Box>
-    {pairs.map((p, i) => (
+    {pairs?.map((p, i) => (
       <ExampleBlock key={i} wrong={p.wrong} right={p.right} />
     ))}
   </Box>
@@ -233,7 +233,7 @@ const RuleTable = ({ rows, tableType }) => (
         </TableRow>
       </TableHead>
       <TableBody>
-        {rows.map((r, i) => (
+        {rows?.map((r, i) => (
           <TableRow
             key={i}
             sx={{
@@ -336,7 +336,7 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
 
       {rule.subpoints && (
         <Stack spacing={1.25}>
-          {rule.subpoints.map((sp, i) => (
+          {rule.subpoints?.map((sp, i) => (
             <Box
               key={i}
               sx={{
@@ -366,7 +366,7 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
 
       {rule.subsections && (
         <Stack spacing={2}>
-          {rule.subsections.map((sub, i) => (
+          {rule.subsections?.map((sub, i) => (
             <Box
               key={i}
               sx={{
@@ -469,7 +469,7 @@ const NotesPage = ({ data }) => {
         )}
         {data.tags && (
           <Box mt={2} display="flex" gap={1} flexWrap="wrap">
-            {data.tags.map((tag) => (
+            {data.tags?.map((tag) => (
               <Chip
                 key={tag}
                 label={tag}
@@ -524,7 +524,7 @@ const NotesPage = ({ data }) => {
           <FormulaBox>{data.definition.marathi}</FormulaBox>
           {data.definition.examples && (
             <Box mt={1.5} display="flex" gap={1} flexWrap="wrap">
-              {data.definition.examples.map((ex, i) => (
+              {data.definition.examples?.map((ex, i) => (
                 <Chip
                   key={i}
                   label={`${ex.word}${ex.tag ? ` (${ex.tag})` : ""}`}
@@ -546,7 +546,7 @@ const NotesPage = ({ data }) => {
         <Panel>
           <SectionHeading>Cases of {data.title}s</SectionHeading>
           <Grid container spacing={2}>
-            {data.cases.map((caseItem) => (
+            {data.cases?.map((caseItem) => (
               <Grid size={{ xs: 12, md: 4 }} key={caseItem.name}>
                 <Box
                   sx={{
@@ -572,7 +572,7 @@ const NotesPage = ({ data }) => {
                   </Typography>
                   {caseItem.examples && (
                     <Box mt={1} display="flex" gap={1} flexWrap="wrap">
-                      {caseItem.examples.map((ex, i) => (
+                      {caseItem.examples?.map((ex, i) => (
                         <Chip
                           key={i}
                           size="small"
@@ -597,7 +597,7 @@ const NotesPage = ({ data }) => {
         <Panel>
           <SectionHeading>Types of {data.title}s</SectionHeading>
           <Grid container spacing={2}>
-            {data.types.map((type) => (
+            {data.types?.map((type) => (
               <Grid size={{ xs: 12, md: 6 }} key={type.name}>
                 <Box
                   sx={{
@@ -623,7 +623,7 @@ const NotesPage = ({ data }) => {
                   </Typography>
                   {type.examples && (
                     <Box mt={1} display="flex" gap={1} flexWrap="wrap">
-                      {type.examples.map((ex, i) => (
+                      {type.examples?.map((ex, i) => (
                         <Chip
                           key={i}
                           size="small"
@@ -649,7 +649,7 @@ const NotesPage = ({ data }) => {
         <Panel>
           <SectionHeading>Countable vs Uncountable</SectionHeading>
           <Grid container spacing={2}>
-            {data.countability.map((c) => (
+            {data.countability?.map((c) => (
               <Grid size={{ xs: 12, md: 6 }} key={c.name}>
                 <Box
                   sx={{
@@ -668,7 +668,7 @@ const NotesPage = ({ data }) => {
                   </Typography>
                   <FormulaBox>{c.marathi}</FormulaBox>
                   <Box display="flex" gap={1} flexWrap="wrap">
-                    {c.examples.map((ex, i) => (
+                    {c.examples?.map((ex, i) => (
                       <Chip
                         key={i}
                         size="small"
@@ -689,7 +689,7 @@ const NotesPage = ({ data }) => {
   <>
    
 
-    {data.tables.map((table, index) => (
+    {data.tables?.map((table, index) => (
       <>
        <SectionHeading>{table?.title}</SectionHeading>
       <CommonTable
@@ -705,7 +705,7 @@ const NotesPage = ({ data }) => {
       {data.rules && (
         <Box mb={3}>
           <SectionHeading>Rules</SectionHeading>
-          {data.rules.map((rule) => (
+          {data.rules?.map((rule) => (
             <RuleAccordion
               key={rule.id}
               rule={rule}
@@ -722,7 +722,7 @@ const NotesPage = ({ data }) => {
         <Panel sx={{ border: `1px solid ${palette.gold}` }}>
           <SectionHeading>⭐ Golden Revision</SectionHeading>
           <Box display="flex" flexWrap="wrap" gap={1}>
-            {data.goldenRevision.map((item, i) => (
+            {data.goldenRevision?.map((item, i) => (
               <Chip
                 key={i}
                 label={item}
@@ -747,7 +747,7 @@ const NotesPage = ({ data }) => {
         <Panel>
           <SectionHeading>Exam Strategy</SectionHeading>
           <Grid container spacing={2}>
-            {data.examStrategy.map((s, i) => (
+            {data.examStrategy?.map((s, i) => (
               <Grid size={{ xs: 12, sm: 6 }} key={i}>
                 <Box
                   sx={{

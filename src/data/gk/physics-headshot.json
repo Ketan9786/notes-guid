@@ -1,0 +1,831 @@
+{
+  "title": "Complete Physics – GV Sir Headshot Series",
+  "source": "GvKaksha / Eduquity Pattern – SSC CGL/CHSL/MTS/Delhi Police 2026",
+  "total_questions_covered": 60,
+  "chapters": [
+    {
+      "id": 1,
+      "chapter": "Astronomical Distance Units",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Astronomical Unit (AU)",
+          "content": [
+            "Definition: Average distance from Earth to the Sun",
+            "Value: 1 AU ≈ 150 million km (1.5 x 10^11 m)",
+            "Sunlight travel time to Earth ≈ 8.32 minutes",
+            "Speed of light = 3 lakh km/s; 1 nm = 10^-9 m #imp"
+          ]
+        },
+        {
+          "name": "Light-Year",
+          "content": [
+            "Definition: Distance light travels in one year",
+            "Value: 1 Light-Year ≈ 9.46 trillion km (9.46 x 10^12 km)",
+            "Used to measure distances to stars and galaxies"
+          ]
+        },
+        {
+          "name": "Parsec",
+          "content": [
+            "Definition: Largest practical astronomy distance unit; distance at which 1 AU arc subtends 1 arcsecond angle #imp",
+            "Value: 1 parsec ≈ 3.26 light-years",
+            "Order of units (smallest to largest): AU < Light-Year < Parsec"
+          ]
+        },
+        {
+          "name": "PYQs – Astronomical Units",
+          "content": [
+            "PYQ: Distance between Sun and Earth in light-minutes = 8.311 min (Ans: B – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Scalar and Vector Quantities",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Vector Quantities",
+          "type": "table",
+          "table": [
+            {
+              "quantity": "Velocity",
+              "description": "Speed with direction"
+            },
+            {
+              "quantity": "Force",
+              "description": "Push or pull with magnitude & direction"
+            },
+            {
+              "quantity": "Displacement",
+              "description": "Change in position with direction"
+            },
+            {
+              "quantity": "Acceleration",
+              "description": "Rate of change of velocity with direction"
+            },
+            {
+              "quantity": "Momentum (p=mv)",
+              "description": "Mass × velocity"
+            },
+            {
+              "quantity": "Electric Field",
+              "description": "Force per unit charge"
+            },
+            {
+              "quantity": "Magnetic Field",
+              "description": "Directional magnetic influence"
+            },
+            {
+              "quantity": "Torque",
+              "description": "Rotational effect of force"
+            },
+            {
+              "quantity": "Weight (=mg)",
+              "description": "Force of gravity acting downward"
+            }
+          ]
+        },
+        {
+          "name": "Scalar Quantities",
+          "type": "table",
+          "table": [
+            {
+              "quantity": "Speed",
+              "description": "Distance covered per unit time"
+            },
+            {
+              "quantity": "Distance",
+              "description": "Total path travelled"
+            },
+            {
+              "quantity": "Mass",
+              "description": "Amount of matter"
+            },
+            {
+              "quantity": "Time",
+              "description": "Measure of duration"
+            },
+            {
+              "quantity": "Work",
+              "description": "Force × displacement"
+            },
+            {
+              "quantity": "Energy",
+              "description": "Capacity to do work"
+            },
+            {
+              "quantity": "Power",
+              "description": "Rate of doing work"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Equations of Motion & Types of Motion",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Equations of Motion",
+          "content": [
+            "v = u + at",
+            "s = ut + 1/2 at^2",
+            "v^2 = u^2 + 2as",
+            "v = final velocity, u = initial velocity, a = acceleration, t = time, s = displacement #imp"
+          ]
+        },
+        {
+          "name": "Uniform and Non-Uniform Motion",
+          "content": [
+            "Uniform Motion: object covers equal distances in equal time intervals at constant velocity and direction",
+            "Non-Uniform Motion: object covers unequal distances in equal time intervals; speed/direction changes (acceleration/deceleration) #imp"
+          ]
+        },
+        {
+          "name": "PYQs – Motion",
+          "content": [
+            "PYQ: Ball thrown up at 10 m/s, max height with g=9.8 = 5.10 m (Ans: B – SSC CGL)",
+            "PYQ: Unequal distances in equal time intervals = Non-uniform motion (Ans: C – SSC CHSL)",
+            "PYQ: Car accelerates from rest to 20 m/s in 5s, acceleration = 4 m/s^2 (Ans: B – SSC Phase XIII)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": "Newton's Laws of Motion",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "First Law – Law of Inertia",
+          "content": [
+            "Every object remains at rest or in uniform motion unless acted upon by an external force #imp",
+            "Example: Passengers lean forward when a moving bus suddenly stops"
+          ]
+        },
+        {
+          "name": "Second Law – Law of Momentum",
+          "content": [
+            "Rate of change of momentum is directly proportional to applied force; change occurs in direction of force #imp",
+            "F = ma; p = mv; a = Δv/t; F = Δp/t",
+            "Example: Cricketer moves hands backward while catching a fast ball to reduce force by increasing time (impulse J = F.dt)"
+          ]
+        },
+        {
+          "name": "Third Law – Action-Reaction",
+          "content": [
+            "For every action there is an equal and opposite reaction #imp",
+            "Examples: Gun recoil when firing a bullet; satellite launch vehicle operation; collision of billiard balls (momentum conserved)"
+          ]
+        },
+        {
+          "name": "Balanced and Unbalanced Forces",
+          "content": [
+            "Balanced Forces: net force = 0; object stays at rest or moves at constant velocity",
+            "Unbalanced Forces: net force ≠ 0; produces acceleration, changes speed/direction",
+            "Examples: Tug-of-war, kicking a ball"
+          ]
+        },
+        {
+          "name": "PYQs – Newton's Laws",
+          "content": [
+            "PYQ: Inertia definition = Tendency to resist change in state of motion (Ans: B – SSC CHSL)",
+            "PYQ: Statement on rest/uniform motion until external force = First law of motion (Ans: A – SSC CHSL)",
+            "PYQ: Change in speed or direction signifies = Change in state of motion (Ans: B – SSC CGL)",
+            "PYQ: Formula for momentum = p = mv (Ans: C – SSC CHSL)",
+            "PYQ: Cricketer moving hands back while catching ball = Reduces force by increasing time of momentum change (Ans: B – SSC Steno)",
+            "PYQ: Newton's third law statement = Equal and opposite reaction (Ans: A – SSC CGL)",
+            "PYQ: Satellite launch vehicle operation based on = Newton's third law (Ans: C – SSC CHSL)",
+            "PYQ: Best example of conservation of momentum = Gun recoils when bullet fired (Ans: C – SSC Phase XIII)",
+            "PYQ: Correct statement on force = Unbalanced force changes speed/direction (Ans: A – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": "Buoyancy and Floatation",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Archimedes' Principle & Buoyant Force",
+          "content": [
+            "When an object is immersed in fluid, it experiences upward force equal to weight of fluid displaced #imp",
+            "Formula: Fb = ρ × V × g (ρ = fluid density, V = submerged volume, g = gravitational acceleration)"
+          ]
+        },
+        {
+          "name": "Laws of Floatation",
+          "content": [
+            "Floating: Buoyant Force = Weight; Density of object < Density of fluid",
+            "Sinking: Weight > Buoyant Force; Density of object > Density of fluid",
+            "Partial submersion: object sinks until displaced fluid weight equals object's total weight"
+          ]
+        },
+        {
+          "name": "PYQs – Buoyancy",
+          "content": [
+            "PYQ: Buoyant force magnitude depends on fluid's = Density (Ans: B – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": "Work, Energy and Power",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Work",
+          "content": [
+            "Work is done when force causes displacement in its direction",
+            "W = F x d cosθ and W = mgh; Unit: Joule (J)"
+          ]
+        },
+        {
+          "name": "Energy",
+          "content": [
+            "Energy is the capacity to do work; scalar quantity",
+            "Kinetic Energy (KE) = 1/2 mv^2",
+            "Potential Energy (PE) = mgh (gravitational); elastic PE stored in stretched/compressed spring #imp"
+          ]
+        },
+        {
+          "name": "Power",
+          "content": [
+            "Power is rate of doing work: P = W/t; E = Pt; Unit: Watt (W)"
+          ]
+        },
+        {
+          "name": "Conservation of Mechanical Energy",
+          "content": [
+            "Gravitational force is conservative, so total mechanical energy (PE+KE) remains constant #imp",
+            "Free fall: at top PE=mgh(max), KE=0; while falling PE decreases, KE increases; just before hitting ground PE→KE(max)",
+            "Law of conservation of energy: energy can only convert form, cannot be destroyed"
+          ]
+        },
+        {
+          "name": "PYQs – Work, Energy, Power",
+          "content": [
+            "PYQ: 10N force, 2m displacement, work done = 20 J (Ans: D – SSC CHSL)",
+            "PYQ: 50kg girl climbs 5m rope in 25s, power = 98 W (Ans: B – SSC CHSL)",
+            "PYQ: Gravitational PE definition = Energy stored due to position above ground (Ans: B – SSC CGL)",
+            "PYQ: During free fall, PE and KE = PE decreases, KE increases (Ans: C – SSC CHSL)",
+            "PYQ: Mechanical energy mainly composed of how many types = 2 (PE, KE) (Ans: A – SSC CHSL)",
+            "PYQ: Quantity conserved under gravitational motion = Angular momentum and mechanical energy (Ans: D – SSC Steno)",
+            "PYQ: Law of conservation of energy correct statement = Energy converts form only (Ans: A – SSC CGL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": "Moment of Inertia and Rotational Motion",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Moment of Inertia",
+          "content": [
+            "I = Σmr^2; sum of products of masses and square of perpendicular distances from rotation axis #imp",
+            "SI Unit: kg.m^2; scalar quantity, but value depends on chosen axis",
+            "Example: Spinning wheel – determines difficulty in changing rotational speed"
+          ]
+        },
+        {
+          "name": "PYQs – Rotational Motion",
+          "content": [
+            "PYQ: Moment of inertia is = Scalar quantity, axis-dependent (Ans: C – SSC CGL)",
+            "PYQ: Angular velocity of particle in rigid body about axis = Same for all particles (Ans: B – SSC CGL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": "Gravitation",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Newton's Law of Universal Gravitation",
+          "content": [
+            "Gravitational force between two objects is directly proportional to product of masses and inversely proportional to square of distance #imp",
+            "F = G m1 m2 / r^2; G ≈ 6.674 x 10^-11 N.m^2/kg^2",
+            "Explains planetary orbits and tides due to Moon and Sun's gravitational pull"
+          ]
+        },
+        {
+          "name": "Gravitational Acceleration (g)",
+          "content": [
+            "Definition: Increase in velocity of a freely falling body towards Earth",
+            "Average value on Earth = 9.8 m/s^2; formula g = GM/R^2",
+            "g depends on Earth's mass and radius, not on object's mass #imp",
+            "Variation: max at poles, min at equator; decreases with height/depth; zero at Earth's centre",
+            "Galileo's conclusion: in vacuum all objects fall with same acceleration g irrespective of mass"
+          ]
+        },
+        {
+          "name": "Weight vs Mass",
+          "type": "table",
+          "table": [
+            {
+              "feature": "What it is",
+              "mass": "Amount of matter",
+              "weight": "Gravitational force"
+            },
+            {
+              "feature": "Unit",
+              "mass": "Kilogram (kg)",
+              "weight": "Newton (N)"
+            },
+            {
+              "feature": "Nature",
+              "mass": "Scalar",
+              "weight": "Vector"
+            },
+            {
+              "feature": "Change",
+              "mass": "Does not change",
+              "weight": "Changes with location"
+            }
+          ]
+        },
+        {
+          "name": "Kepler's Laws of Planetary Motion",
+          "content": [
+            "Law of Orbits: every planet moves in elliptical orbit with Sun at one focus",
+            "Law of Areas: line joining planet and Sun sweeps equal areas in equal time",
+            "Law of Periods: T^2 ∝ r^3 (square of time period proportional to cube of average distance from Sun) #imp"
+          ]
+        },
+        {
+          "name": "Geostationary Satellite",
+          "content": [
+            "Appears fixed over one point on Earth; used mainly for communication",
+            "Height ≈ 35,786 km; orbital period 24 hours; direction West to East #imp",
+            "Circular orbit over equator; orbital speed ≈ 3.08 km/s",
+            "Uses: TV/radio broadcasting, mobile/internet communication, weather forecasting, navigation"
+          ]
+        },
+        {
+          "name": "PYQs – Gravitation",
+          "content": [
+            "PYQ: Importance of universal law of gravitation = Both planetary motion & tides (Ans: C – SSC CHSL)",
+            "PYQ: Force governing motion of planets, stars, galaxies = Gravitational force (Ans: B – SSC Steno)",
+            "PYQ: Earth's radius reduced by 1%, mass unchanged, effect on g = Increase by ~2% (Ans: C – SSC CGL)",
+            "PYQ: Weight statement correct = Weight is force acting vertically downwards (Ans: B – SSC CHSL)",
+            "PYQ: Object weight 441N on Earth, mass = 45 kg (Ans: D – SSC CGL)",
+            "PYQ: Object weighs 18N on Earth, weight on Moon = 3 N (Ans: B – SSC CHSL)",
+            "PYQ: Square of planet's time period proportional to = Cube of semi-major axis (Ans: B – SSC Steno)",
+            "PYQ: Geostationary satellites travel at speed ≈ = 3.08 km/s (Ans: D – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": "Fluid Friction and Pressure",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Fluid Friction (Drag)",
+          "content": [
+            "Frictional force exerted by fluids on moving objects, also called drag #imp",
+            "Acts opposite to direction of motion",
+            "Depends on shape and speed, not on contact surface area (unlike solid friction)"
+          ]
+        },
+        {
+          "name": "Pressure",
+          "content": [
+            "Pressure = force acting perpendicularly per unit area: P = F/A",
+            "SI Unit: Pascal (Pa) = N/m^2; scalar quantity",
+            "1 atm pressure = 760 mm Hg",
+            "Thrust and Pressure relation: Pressure = Thrust / Area #imp"
+          ]
+        },
+        {
+          "name": "PYQs – Fluid Friction and Pressure",
+          "content": [
+            "PYQ: Fluid friction correct statements = Also called drag; depends on relative speed (Ans: C – SSC CHSL)",
+            "PYQ: Force per unit area on surface called = Pressure (Ans: B – SSC CHSL)",
+            "PYQ: Area reduced, force same, effect on pressure = Pressure increases (Ans: B – SSC CHSL)",
+            "PYQ: Formula for pressure = Force/Area (Ans: A – SSC CGL)",
+            "PYQ: SI unit of pressure = Pascal (Ans: C – SSC CHSL)",
+            "PYQ: Relation between thrust and pressure = Pressure = Thrust/Area (Ans: C – SSC CHSL)",
+            "PYQ: Why we aren't crushed by atmospheric pressure = Internal body pressure balances outside pressure (Ans: D – SSC CHSL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": "Sound Waves",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Types of Sound Waves",
+          "type": "table",
+          "table": [
+            {
+              "type": "Infrasonic Waves",
+              "frequency": "< 20 Hz",
+              "example": "Earthquakes; whales/elephants communication"
+            },
+            {
+              "type": "Audible Waves",
+              "frequency": "20 Hz – 20,000 Hz",
+              "example": "Normal conversation, music"
+            },
+            {
+              "type": "Ultrasonic Waves",
+              "frequency": "> 20,000 Hz",
+              "example": "Bats navigation; ultrasound scans; sonar #imp"
+            }
+          ]
+        },
+        {
+          "name": "PYQs – Sound",
+          "content": [
+            "PYQ: Audible frequency range for human ear = 20 Hz to 20,000 Hz (Ans: SSC CGL)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": "Electricity, Heating Effect and Cost Calculation",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Heating Elements",
+          "content": [
+            "Heating element material needs high resistivity and high melting point #imp"
+          ]
+        },
+        {
+          "name": "Electricity Cost Calculation",
+          "content": [
+            "Energy consumed (kWh) = Power(kW) × time(hours)",
+            "Cost = Energy consumed × rate per unit (kWh)"
+          ]
+        },
+        {
+          "name": "PYQs – Electricity",
+          "content": [
+            "PYQ: Crucial property for heating element material = High resistivity (Ans: D – SSC Steno)",
+            "PYQ: 2.2kW,220V kettle at ₹4/unit, boiling 30 min cost = ₹4.4 (Ans: D – SSC Steno)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": "Magnetism and Electromagnetic Induction",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Magnetic Field Basics",
+          "content": [
+            "Magnetic field lines never intersect; form circular loops around current-carrying wire",
+            "Like poles repel, unlike poles attract",
+            "Types: bar magnet, horseshoe magnet, electromagnet field patterns"
+          ]
+        },
+        {
+          "name": "Fleming's Rules",
+          "content": [
+            "Fleming's Left Hand Rule: relates Motion, Magnetic Field, Current (used for motors) #imp",
+            "Fleming's Right Hand Rule: Thumb=Force/Motion, Forefinger=Field, Middle finger=Current (used for generators)",
+            "Curl Right Hand Rule: relates direction of current flow and magnetic field around a wire"
+          ]
+        },
+        {
+          "name": "Faraday's Laws of Electromagnetic Induction",
+          "content": [
+            "First Law: Changing magnetic flux through a coil induces EMF and current #imp",
+            "Second Law: Induced EMF ∝ rate of change of flux; E = -N(ΔΦ/Δt) (negative sign shows Lenz's Law)",
+            "Applications: Generators, Transformers, Electric motors, Induction cookers, Microphones, Medical equipment"
+          ]
+        },
+        {
+          "name": "PYQs – Magnetism and Induction",
+          "content": [
+            "PYQ: Correctly matched pair on EM devices = Electric bell uses magnetic effect of current (Ans: D – SSC CGL)",
+            "PYQ: Transformer works on principle of = Faraday's Law of EM Induction (Ans: B – SSC Phase XIII)",
+            "PYQ: EMF induced in rod (length L) moving with velocity v perpendicular to field B = BLv (Ans: B – SSC Steno)",
+            "PYQ: Rotating coil generates max induced EMF when = Coil's plane parallel to field lines (Ans: D – SSC Steno)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": "Photoelectric Effect and Modern Physics",
+      "type": "content",
+      "subtopics": [
+        {
+          "name": "Photoelectric Effect",
+          "content": [
+            "Albert Einstein explained the effect using Max Planck's quantum theory #imp",
+            "Particle nature of light: light composed of photons (light quanta)",
+            "Energy transfer: photon striking metal surface transfers entire energy to an electron",
+            "Einstein's photoelectric equation: total photon energy used for work function + kinetic energy of emitted electron"
+          ]
+        },
+        {
+          "name": "Life Cycle of a Star (like the Sun)",
+          "content": [
+            "Sequence: Nebula → Protostar → Main Sequence → Red Giant → White Dwarf #imp"
+          ]
+        },
+        {
+          "name": "PYQs – Modern Physics",
+          "content": [
+            "PYQ: Correct life cycle sequence of star like Sun = Main Sequence → Red Giant → White Dwarf (Ans: C – SSC Steno)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter": "Important PYQ Quick-Fire Facts",
+      "type": "summary",
+      "pyqs": [
+        {
+          "q_num": "Q1",
+          "exam": "SSC CHSL",
+          "question": "Distance between Sun and Earth in light-minutes = 8.311 min",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q2",
+          "exam": "SSC CGL",
+          "question": "Ball thrown up at 10 m/s, max height (g=9.8) = 5.10 m",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q3",
+          "exam": "SSC CHSL",
+          "question": "Unequal distances in equal time intervals = Non-uniform motion",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q4",
+          "exam": "SSC Phase XIII",
+          "question": "Car accelerates 0 to 20m/s in 5s, acceleration = 4 m/s^2",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q5",
+          "exam": "SSC CHSL",
+          "question": "Inertia definition = Tendency to resist change in motion state",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q6",
+          "exam": "SSC CHSL",
+          "question": "Statement about rest/uniform motion = First law of motion",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q7",
+          "exam": "SSC CGL",
+          "question": "Change in speed/direction signifies = Change in state of motion",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q8",
+          "exam": "SSC CHSL",
+          "question": "Formula for momentum = p = mv",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q9",
+          "exam": "SSC Steno",
+          "question": "Cricketer moves hands back catching ball = Reduces force by increasing time",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q10",
+          "exam": "SSC CGL",
+          "question": "Newton's third law statement = Equal and opposite reaction",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q11",
+          "exam": "SSC CHSL",
+          "question": "Satellite launch vehicle based on = Newton's third law",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q12",
+          "exam": "SSC Phase XIII",
+          "question": "Best example conservation of momentum = Gun recoils firing bullet",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q13",
+          "exam": "SSC CHSL",
+          "question": "Force statement correct = Unbalanced force changes speed/direction",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q14",
+          "exam": "SSC CHSL",
+          "question": "Buoyant force magnitude depends on fluid's = Density",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q15",
+          "exam": "SSC CHSL",
+          "question": "10N force, 2m displacement, work done = 20 J",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q16",
+          "exam": "SSC CHSL",
+          "question": "50kg girl climbs 5m in 25s, power = 98 W",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q17",
+          "exam": "SSC CGL",
+          "question": "Gravitational PE definition = Energy stored due to position above ground",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q18",
+          "exam": "SSC CHSL",
+          "question": "During free fall PE and KE = PE decreases, KE increases",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q19",
+          "exam": "SSC CHSL",
+          "question": "Mechanical energy types count = 2",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q20",
+          "exam": "SSC Steno",
+          "question": "Quantity conserved under gravitational pull = Angular momentum and mechanical energy",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q21",
+          "exam": "SSC CGL",
+          "question": "Conservation of energy correct statement = Energy only converts form",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q22",
+          "exam": "SSC CGL",
+          "question": "Moment of inertia is = Scalar, axis-dependent",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q23",
+          "exam": "SSC CGL",
+          "question": "Angular velocity of particle in rigid body = Same for all particles",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q24",
+          "exam": "SSC CHSL",
+          "question": "Importance of gravitation law = Planetary motion & tides",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q25",
+          "exam": "SSC Steno",
+          "question": "Force governing motion of planets/stars/galaxies = Gravitational force",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q26",
+          "exam": "SSC CGL",
+          "question": "Earth radius reduced 1%, effect on g = Increase ~2%",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q27",
+          "exam": "SSC CHSL",
+          "question": "Weight statement correct = Force acting vertically downward",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q28",
+          "exam": "SSC CGL",
+          "question": "Object weight 441N, mass = 45 kg",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q29",
+          "exam": "SSC CHSL",
+          "question": "18N weight on Earth, on Moon = 3 N",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q30",
+          "exam": "SSC Steno",
+          "question": "T^2 proportional to = Cube of semi-major axis",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q31",
+          "exam": "SSC CHSL",
+          "question": "Geostationary satellites travel at speed ≈ 3.08 km/s",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q32",
+          "exam": "SSC CHSL",
+          "question": "Fluid friction correct = Also called drag; depends on relative speed",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q33",
+          "exam": "SSC CHSL",
+          "question": "Force per unit area called = Pressure",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q34",
+          "exam": "SSC CHSL",
+          "question": "Area reduced, force same, pressure = Increases",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q35",
+          "exam": "SSC CGL",
+          "question": "Formula for pressure = Force/Area",
+          "answer": "A"
+        },
+        {
+          "q_num": "Q36",
+          "exam": "SSC CHSL",
+          "question": "SI unit of pressure = Pascal",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q37",
+          "exam": "SSC CHSL",
+          "question": "Thrust-pressure relation = Pressure=Thrust/Area",
+          "answer": "C"
+        },
+        {
+          "q_num": "Q38",
+          "exam": "SSC CHSL",
+          "question": "Not crushed by atmospheric pressure because = Internal pressure balances outside",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q39",
+          "exam": "SSC Steno",
+          "question": "Crucial property for heating element = High resistivity",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q40",
+          "exam": "SSC Steno",
+          "question": "2.2kW kettle, ₹4/unit, 30 min cost = ₹4.4",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q41",
+          "exam": "SSC CGL",
+          "question": "Correctly matched EM device pair = Electric bell uses magnetic effect",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q42",
+          "exam": "SSC Phase XIII",
+          "question": "Transformer works on principle of = Faraday's Law of EM Induction",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q43",
+          "exam": "SSC Steno",
+          "question": "EMF induced in moving rod = BLv",
+          "answer": "B"
+        },
+        {
+          "q_num": "Q44",
+          "exam": "SSC Steno",
+          "question": "Rotating coil max induced EMF when = Plane parallel to field lines",
+          "answer": "D"
+        },
+        {
+          "q_num": "Q45",
+          "exam": "SSC Steno",
+          "question": "Correct star life cycle sequence = Main Sequence→Red Giant→White Dwarf",
+          "answer": "C"
+        }
+      ]
+    }
+  ]
+}

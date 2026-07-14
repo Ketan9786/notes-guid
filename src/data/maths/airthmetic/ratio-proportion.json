@@ -1,0 +1,167 @@
+{
+  "topic": "Ratio and Proportion",
+  "introduction": "Ratio compares two quantities of the same kind, while proportion equates two ratios. SSC CGL tests compound ratios, combining multiple ratios, mean/third/fourth proportional, direct-inverse variation, and applied problems on income-expenditure, ages, mixtures, and coins.",
+  "concepts": [
+    {"concept": "Combining ratios", "explanation": "To combine a:b, b:c, c:d into a:b:c:d, make the common terms equal by cross-multiplication (LCM method) across all ratios."},
+    {"concept": "Ratio from fractions", "explanation": "X/5=Y/7=Z/9 directly gives X:Y:Z=5:7:9. For reciprocal ratios like 1/M:1/N:1/O=3:4:5, invert to get M:N:O=1/3:1/4:1/5."},
+    {"concept": "Compound ratio", "explanation": "Compound ratio of a:b and c:d = (axc):(bxd)."},
+    {"concept": "Mean, third, fourth proportional", "explanation": "Mean proportional of a,b = sqrt(ab). Third proportional of a,b = b²/a. Fourth proportional of a,b,c = (bxc)/a."},
+    {"concept": "Direct and inverse variation", "explanation": "P directly proportional to Q: P=kQ. P inversely proportional to Q: P=k/Q. Extend to powers/roots as needed (P=kQ²/cube-root(R) etc.)."},
+    {"concept": "Ratio change problems", "explanation": "When a fixed quantity is added/removed from each term of a ratio changing it to a new ratio, use algebraic equation with common multiplier x."},
+    {"concept": "Income-expenditure-savings ratio", "explanation": "Savings = Income - Expenditure. Use ratio tables for income and expenditure separately, aligning common terms via LCM to solve for savings."},
+    {"concept": "Applied ratio problems (ages, coins, mixtures)", "explanation": "Set up current values as multiples of a common ratio variable x, apply given conditions (age after years, coin value equations, mixture composition) to solve for x."}
+  ],
+  "formulas": [
+    "Compound ratio: (a:b) x (c:d) = ac:bd",
+    "Mean proportional of a,b = sqrt(ab)",
+    "Third proportional of a,b = b²/a",
+    "Fourth proportional of a,b,c = bc/a",
+    "Direct proportion: P=kQ | Inverse proportion: P=k/Q",
+    "Combining a:b:c:d from a:b, b:c, c:d — equalize common terms via LCM",
+    "If a:b=c:d then a/b=c/d (proportion definition)"
+  ],
+  "question_types": [
+    {
+      "type_name": "Combining Multiple Ratios",
+      "difficulty": "Easy-Medium",
+      "identification_method": "Given a:b, b:c, (c:d) separately, asked to find combined a:b:c(:d).",
+      "when_to_use": "Make common term (b, then c) equal across adjacent ratios by multiplying.",
+      "step_by_step": ["Write all given ratios in a row", "Multiply terms to equalize the common linking variable between consecutive ratios", "Multiply straight down each column to get combined ratio"],
+      "shortcut": "For reciprocal-form ratios (1/a:1/b), just invert given ratio to get a:b directly.",
+      "common_mistakes": ["Not equalizing common terms before combining", "Sign/inversion errors with reciprocal ratios"],
+      "practice_questions": [
+        {"q": "a:b=3:4, b:c=2:3, c:d=5:6. Find a:b:c:d.", "solution": "Equalize b then c: 15:20:30:36", "answer": "15:20:30:36"},
+        {"q": "1/M:1/N:1/O=3:4:5. Find M:N:O.", "solution": "Invert ratio: 20:15:12", "answer": "20:15:12"}
+      ],
+      "expected_time_seconds": 30
+    },
+    {
+      "type_name": "Mean/Third/Fourth Proportional",
+      "difficulty": "Easy",
+      "identification_method": "Question explicitly asks for mean, third, or fourth proportional of given numbers.",
+      "when_to_use": "Apply direct formulas: sqrt(ab), b²/a, bc/a respectively.",
+      "step_by_step": ["Identify type of proportional asked", "Plug values into the respective formula", "Simplify to get final answer"],
+      "shortcut": "Memorize the three formulas cold — these are single-step direct-formula questions.",
+      "common_mistakes": ["Confusing third proportional (b²/a) with fourth proportional (bc/a)"],
+      "practice_questions": [
+        {"q": "Find third proportional of 9,7,?,14 pattern (9:7::?:14).", "solution": "9/7=?/14 → ?=18", "answer": "18"},
+        {"q": "M=mean proportional of 16,9; N=third proportional of 9,15. Find 5M+3N.", "solution": "M=12, N=25 → 60+75=135", "answer": "135"}
+      ],
+      "expected_time_seconds": 20
+    },
+    {
+      "type_name": "Ratio Change on Addition/Subtraction",
+      "difficulty": "Medium",
+      "identification_method": "A fixed number is added/subtracted from each term of a ratio, changing it to a new given ratio.",
+      "when_to_use": "Set original terms as ax,bx; form equation using new ratio after addition/subtraction; solve for x.",
+      "step_by_step": ["Represent original quantities using common variable x based on given ratio", "Apply the addition/subtraction condition to form new ratio equation", "Cross-multiply and solve for x", "Substitute back to get required quantity"],
+      "shortcut": "For 3+ terms changing simultaneously by the same fixed amount, use LCM scaling to align before/after ratios directly.",
+      "common_mistakes": ["Applying the added/removed amount to wrong term", "Not scaling ratios to common base before comparing"],
+      "practice_questions": [
+        {"q": "Boys:girls=5:6 initially. 40 boys leave, 50 girls join; ratio becomes 8:11. Find initial girls.", "solution": "(5x-40)/(6x+50)=8/11 → x=120 → girls=720", "answer": "720"},
+        {"q": "Marbles in 3 bags ratio 2:3:4; adding 12 to each changes ratio to 8:11:14. Find total initial marbles.", "solution": "x=6 → total=2x+3x+4x=54 scaled → 162", "answer": "162"}
+      ],
+      "expected_time_seconds": 45
+    },
+    {
+      "type_name": "Direct/Inverse Variation",
+      "difficulty": "Medium",
+      "identification_method": "Phrases like 'varies directly/inversely as', 'proportional to square/cube/root of'.",
+      "when_to_use": "Set up P=kQ^n or P=k/Q^n, find k using given values, then solve for unknown.",
+      "step_by_step": ["Write the variation equation with constant k based on wording", "Substitute known P,Q pair to find k", "Substitute new Q to find required P (or vice versa)"],
+      "shortcut": "Watch for combined variation (P=k1x + k2/y) — treat as two separate constants and solve simultaneously.",
+      "common_mistakes": ["Mixing up direct and inverse relation direction", "Forgetting the power/root in variation statement"],
+      "practice_questions": [
+        {"q": "M varies inversely as (N²+3). M=3 when N=3. Find M when N²=69.", "solution": "K=36; M=36/72=0.5", "answer": "0.5"},
+        {"q": "Diamond cost ∝ (weight)². 14g diamond costs ₹2560, breaks in ratio 5:9. Find loss%.", "solution": "Loss=90/196=45.92%", "answer": "45.92%"}
+      ],
+      "expected_time_seconds": 40
+    },
+    {
+      "type_name": "Income-Expenditure-Savings Ratio",
+      "difficulty": "Medium-Hard",
+      "identification_method": "Income and expenditure ratios given (possibly with % increase), savings or difference asked.",
+      "when_to_use": "Tabulate income and expenditure on common base using LCM; savings=income-expenditure; apply % changes directly on each row.",
+      "step_by_step": ["Write income ratio and expenditure ratio in separate rows", "Scale rows to common base for the shared quantity (e.g., income)", "Apply % increase/decrease to relevant row", "Compute savings as difference and derive required %/value"],
+      "shortcut": "Align income and expenditure using LCM of their given figures before applying percentage changes.",
+      "common_mistakes": ["Applying % change to wrong row (income vs expenditure)", "Not converting both ratios to a common base before subtracting"],
+      "practice_questions": [
+        {"q": "Income:expenditure=8:5. Income+20%, expenditure+30%. Find % change in savings.", "solution": "80→96, 50→65; new saving diff shows 3 1/3% increase", "answer": "3 1/3% increase"},
+        {"q": "A:B income=11:13, expenditure=9:11, both save ₹4000. Find income difference.", "solution": "Scaling gives income diff=₹4000", "answer": "₹4,000"}
+      ],
+      "expected_time_seconds": 50
+    },
+    {
+      "type_name": "Applied Ratio (Ages, Coins, Mixtures)",
+      "difficulty": "Medium-Hard",
+      "identification_method": "Word problems on ages after/before years, coin denominations in a ratio, or mixture components in ratio.",
+      "when_to_use": "Represent quantities as multiples of common variable x per the given ratio; apply the specific condition (years passed, total value, total legs/heads etc.) to solve for x.",
+      "step_by_step": ["Assign ratio terms as multiples of x", "Translate word condition into an equation in x", "Solve for x", "Compute the specifically asked quantity using x"],
+      "shortcut": "For coin problems, total value = sum of (denomination x count) — set count as ratio multiples directly.",
+      "common_mistakes": ["Forgetting to multiply coin count by face value for total amount", "Errors in setting up age equations after years'"],
+      "practice_questions": [
+        {"q": "A:B ages=4:7. After 8 years ratio=2:3. Find sum of present ages.", "solution": "4x+8/7x+8=2/3 → x=4 → sum=44", "answer": "44 years"},
+        {"q": "Bag has ₹550 in 50p,25p,20p coins ratio 2:3:5. Find difference between 50p and 20p amounts.", "solution": "Both equal x → difference=0", "answer": "₹0"}
+      ],
+      "expected_time_seconds": 45
+    }
+  ],
+  "identification_tricks": [
+    "Two or more ratios sharing common terms — Combining Ratios type.",
+    "'Mean/third/fourth proportional' wording — direct formula type.",
+    "Fixed number added/removed from each ratio term — Ratio Change type.",
+    "'Varies directly/inversely as' wording — Variation type.",
+    "Income and expenditure both given as ratios — Income-Expenditure type.",
+    "Real-world context (ages, coins, mixtures) with ratio given — Applied Ratio type."
+  ],
+  "solving_approach": [
+    "Step 1: Identify what type of ratio relationship is being tested (combining, proportional, variation, applied).",
+    "Step 2: Convert all given ratios to a common base using LCM wherever multiple ratios interact.",
+    "Step 3: Represent unknowns as multiples of a single variable x based on the ratio.",
+    "Step 4: Translate word conditions into algebraic equations in x.",
+    "Step 5: Solve and back-substitute to get the specific quantity asked.",
+    "Step 6: Verify using the original ratio and given conditions."
+  ],
+  "shortcuts": [
+    "Use 'by options' method for compound/complex proportional questions when direct algebra is slow.",
+    "For equal-value swap ratio mistakes (e.g. dividing wrongly), use difference-based shortcut: (sum of ratio terms) x (unit value from error).",
+    "Memorize compound ratio and proportional formulas cold for instant application.",
+    "For income-expenditure-savings, always place unknowns in a clear table before computing."
+  ],
+  "common_mistakes": [
+    "Not equalizing common ratio terms before combining multiple ratios.",
+    "Confusing third proportional with fourth proportional formula.",
+    "Applying wrong direction (direct vs inverse) in variation problems.",
+    "Forgetting to scale ratios to a common base in income-expenditure problems.",
+    "Mixing up which ratio term corresponds to which entity in applied problems."
+  ],
+  "pyq_patterns": [
+    "SSC CGL frequently combines 3+ ratios (a:b, b:c, c:d) into a single compound ratio.",
+    "Mean/third/fourth proportional formula-based one-liners appear almost every exam.",
+    "Ratio-change-on-addition (with a fixed number added to each term) is a recurring medium-difficulty pattern.",
+    "Income-expenditure-savings ratio problems combined with % increase are very common in Tier-1/2.",
+    "Age and coin-denomination ratio applied problems appear regularly as standalone questions."
+  ],
+  "quick_revision": [
+    "Compound ratio: ac:bd",
+    "Mean proportional: sqrt(ab)",
+    "Third proportional: b²/a",
+    "Fourth proportional: bc/a",
+    "Direct: P=kQ | Inverse: P=k/Q",
+    "Savings=Income-Expenditure (align via LCM before comparing ratios)"
+  ],
+  "exam_tips": [
+    "Always equalize the common linking term first when combining multiple ratios.",
+    "For variation problems, write the equation with constant k explicitly before substituting.",
+    "In applied problems, set up a clear ratio table (before/after) to avoid setup errors.",
+    "Use answer options to verify algebraic ratio answers quickly ('by options' method)."
+  ],
+  "one_page_formula_sheet": {
+    "compound_ratio": "ac:bd",
+    "mean_proportional": "sqrt(ab)",
+    "third_proportional": "b^2/a",
+    "fourth_proportional": "bc/a",
+    "variation": "Direct: P=kQ | Inverse: P=k/Q",
+    "income_expenditure": "Savings = Income - Expenditure (common base via LCM)"
+  }
+}

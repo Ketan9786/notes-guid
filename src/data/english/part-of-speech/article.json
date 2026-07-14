@@ -1,0 +1,1458 @@
+{
+  "slug": "article",
+  "title": "Article",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Parts of Speech",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "An Article is a word placed before a noun to indicate whether the noun is specific or non-specific. Articles are considered a type of adjective because they modify nouns.",
+    "marathi": "Noun पूर्वी येऊन त्या Noun बद्दल विशिष्ट (Specific) किंवा सामान्य (General) माहिती देणाऱ्या शब्दांना Article म्हणतात.",
+    "examples": [
+      {
+        "word": "a boy",
+        "tag": "Indefinite - सामान्य"
+      },
+      {
+        "word": "an apple",
+        "tag": "Indefinite - सामान्य"
+      },
+      {
+        "word": "the sun",
+        "tag": "Definite - विशिष्ट"
+      }
+    ]
+  },
+  "types": [
+    {
+      "name": "Indefinite Article (A / An)",
+      "english": "Used for any one person, place or thing.",
+      "marathi": "एखाद्या सामान्य (Non-Specific) व्यक्ती, वस्तू किंवा स्थळासाठी वापरतात.",
+      "examples": [
+        "a boy",
+        "an umbrella",
+        "a pen"
+      ]
+    },
+    {
+      "name": "Definite Article (The)",
+      "english": "Used for a particular or specific noun.",
+      "marathi": "विशिष्ट व्यक्ती, वस्तू किंवा स्थळासाठी वापरतात.",
+      "examples": [
+        "the Taj Mahal",
+        "the moon",
+        "the principal"
+      ]
+    }
+  ],
+  "goldenConcept": {
+    "title": "SSC Golden Concept: Sound vs Alphabet",
+    "english": "Article usage depends on the pronunciation (sound), not the alphabet the word starts with.",
+    "marathi": "Article हा Alphabet वर नाही तर Sound (उच्चार) वर अवलंबून असतो.",
+    "wrongThinking": [
+      "Starts with vowel letter -> An",
+      "Starts with consonant letter -> A"
+    ],
+    "correctThinking": [
+      "Starts with vowel sound -> An",
+      "Starts with consonant sound -> A"
+    ]
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "title": "Pronunciation Trick (A vs AN)",
+      "columns": [
+        "useA",
+        "useAn"
+      ],
+      "rows": [
+        {
+          "useA": "a university",
+          "useAn": "an umbrella"
+        },
+        {
+          "useA": "a European",
+          "useAn": "an engineer"
+        },
+        {
+          "useA": "a union",
+          "useAn": "an hour"
+        },
+        {
+          "useA": "a useful book",
+          "useAn": "an honest man"
+        },
+        {
+          "useA": "a one-eyed man",
+          "useAn": "an MBA"
+        },
+        {
+          "useA": "a UGC officer",
+          "useAn": "an MLA"
+        }
+      ]
+    },
+    {
+      "id": "table-2",
+      "title": "SSC Exceptions: Without Article vs With Article",
+      "columns": [
+        "withoutArticle",
+        "withArticle"
+      ],
+      "rows": [
+        {
+          "withoutArticle": "Go to school (study)",
+          "withArticle": "Go to the school (building)"
+        },
+        {
+          "withoutArticle": "Go to bed (sleep)",
+          "withArticle": "Sit on the bed"
+        },
+        {
+          "withoutArticle": "In hospital (treatment)",
+          "withArticle": "Visit the hospital"
+        },
+        {
+          "withoutArticle": "Go to prison (punishment)",
+          "withArticle": "Visit the prison"
+        },
+        {
+          "withoutArticle": "Go home",
+          "withArticle": "Visit the home"
+        },
+        {
+          "withoutArticle": "By bus",
+          "withArticle": "In the bus"
+        },
+        {
+          "withoutArticle": "By train",
+          "withArticle": "On the train"
+        },
+        {
+          "withoutArticle": "English",
+          "withArticle": "The English language"
+        },
+        {
+          "withoutArticle": "Gold",
+          "withArticle": "The gold in this ring"
+        },
+        {
+          "withoutArticle": "Water",
+          "withArticle": "The water in the bottle"
+        }
+      ]
+    },
+    {
+      "id": "table-3",
+      "title": "Few / A Few / Little / A Little",
+      "columns": [
+        "word",
+        "meaning"
+      ],
+      "rows": [
+        {
+          "word": "Few",
+          "meaning": "जवळजवळ नाही (Negative, Countable)"
+        },
+        {
+          "word": "A few",
+          "meaning": "काही आहेत (Positive, Countable)"
+        },
+        {
+          "word": "Little",
+          "meaning": "जवळजवळ नाही (Negative, Uncountable)"
+        },
+        {
+          "word": "A little",
+          "meaning": "थोडे आहे (Positive, Uncountable)"
+        }
+      ]
+    }
+  ],
+  "cheatSheet": {
+    "useA": [
+      "University",
+      "Union",
+      "Useful",
+      "User",
+      "European",
+      "One",
+      "Horse",
+      "Hotel",
+      "Hero"
+    ],
+    "useAn": [
+      "Apple",
+      "Orange",
+      "Umbrella",
+      "Hour",
+      "Honest",
+      "Honour",
+      "Heir",
+      "MBA",
+      "MLA",
+      "IAS",
+      "IPS",
+      "FIR",
+      "SP",
+      "X-ray"
+    ],
+    "useThe": [
+      "Sun",
+      "Moon",
+      "Earth",
+      "Rivers",
+      "Oceans",
+      "Seas",
+      "Mountain Ranges",
+      "Deserts",
+      "Holy Books",
+      "Newspapers",
+      "Musical Instruments",
+      "Superlatives",
+      "Ordinals",
+      "Nationalities",
+      "Family Names",
+      "The Rich",
+      "The Poor",
+      "The Same",
+      "The Only",
+      "The More...The More..."
+    ],
+    "noArticle": [
+      "Languages",
+      "Subjects",
+      "Games",
+      "Meals",
+      "Festivals",
+      "Days",
+      "Months",
+      "Home",
+      "School",
+      "College",
+      "University",
+      "Hospital",
+      "Prison",
+      "Church",
+      "Market",
+      "By Bus",
+      "By Train",
+      "Gold",
+      "Water",
+      "Honesty",
+      "Dogs"
+    ]
+  },
+  "fixedExpressions": {
+    "noArticle": [
+      "at home",
+      "at school",
+      "at sunrise",
+      "at sunset",
+      "at noon",
+      "at midnight",
+      "by mistake",
+      "by chance",
+      "by heart",
+      "by hand",
+      "by bus",
+      "by train",
+      "by air",
+      "face to face",
+      "hand in hand",
+      "day by day",
+      "step by step",
+      "lose heart",
+      "catch fire",
+      "take place"
+    ],
+    "withArticle": [
+      "in the morning",
+      "in the evening",
+      "on the whole",
+      "tell the truth",
+      "play the guitar",
+      "the same",
+      "the only",
+      "the rich",
+      "the poor"
+    ]
+  },
+  "rules": [
+    {
+      "id": 1,
+      "title": "Use A - Consonant Sound",
+      "english": "Use A before words beginning with a consonant sound.",
+      "marathi": "व्यंजनाच्या उच्चाराने सुरू होणाऱ्या शब्दांपूर्वी A वापरतात.",
+      "examples": [
+        "a boy",
+        "a girl",
+        "a pen",
+        "a university",
+        "a European"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Use AN - Vowel Sound",
+      "english": "Use An before words beginning with a vowel sound.",
+      "marathi": "स्वराच्या उच्चाराने सुरू होणाऱ्या शब्दांपूर्वी An वापरतात.",
+      "examples": [
+        "an apple",
+        "an umbrella",
+        "an orange",
+        "an egg",
+        "an hour"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "A/An = One",
+      "english": "A / An means 'one'.",
+      "marathi": "A किंवा An चा अर्थ एक असा होतो.",
+      "examples": [
+        "I have a pen.",
+        "She bought an umbrella."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Never With Plural Noun",
+      "english": "A/An is never used before plural nouns.",
+      "marathi": "Plural Noun पूर्वी A किंवा An वापरत नाहीत.",
+      "examples": [
+        "books",
+        "apples"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "a books",
+          "right": "books"
+        },
+        {
+          "wrong": "an apples",
+          "right": "apples"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Never With Uncountable Nouns",
+      "english": "A/An is not used before uncountable nouns.",
+      "marathi": "Uncountable Noun पूर्वी A किंवा An वापरत नाहीत.",
+      "examples": [
+        "water",
+        "information",
+        "advice"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "a water",
+          "right": "water"
+        },
+        {
+          "wrong": "an information",
+          "right": "information"
+        },
+        {
+          "wrong": "an advice",
+          "right": "advice"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Silent H -> Use AN",
+      "english": "If H is silent, use AN.",
+      "marathi": "H चा उच्चार होत नसेल तर An वापरतात.",
+      "examples": [
+        "an hour",
+        "an honest man",
+        "an honour",
+        "an honourable person"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sound of YU -> Use A",
+      "english": "Words beginning with vowel letters but consonant sound (/juː/) take A.",
+      "marathi": "Vowel letter असला तरी उच्चार 'यु' असल्यास A वापरतात.",
+      "examples": [
+        "a university",
+        "a union",
+        "a European",
+        "a useful book",
+        "a eulogy"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Words Beginning With One",
+      "english": "One begins with /w/ sound.",
+      "marathi": "One चा उच्चार 'वन' असल्यामुळे A वापरतात.",
+      "examples": [
+        "a one-eyed man",
+        "a one-rupee coin",
+        "a one-way road"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Words Beginning With O But Consonant Sound",
+      "english": "If O has a consonant sound, use A.",
+      "marathi": "O ने सुरुवात झाली तरी स्वराचा उच्चार नसल्यास A वापरतात.",
+      "examples": [
+        "a one-time payment",
+        "a once-famous actor"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Abbreviations",
+      "english": "Use the article according to the pronunciation of the first letter.",
+      "marathi": "Short Form (Abbreviation) मध्ये पहिल्या अक्षराच्या उच्चारानुसार Article वापरतात.",
+      "examples": [
+        "an MBA",
+        "an MLA",
+        "an FIR",
+        "an SP",
+        "an X-ray",
+        "a BDO",
+        "a UGC officer"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Before Adjective + Noun",
+      "english": "Article depends on the pronunciation of the adjective, not the noun.",
+      "marathi": "Article हा Noun वर नाही तर आधी आलेल्या Adjective च्या उच्चारावर ठरतो.",
+      "examples": [
+        "a beautiful girl",
+        "an honest man",
+        "a useful idea",
+        "an intelligent student"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Before Profession",
+      "english": "Use A/An before professions.",
+      "marathi": "Profession किंवा Occupation पूर्वी A/An वापरतात.",
+      "examples": [
+        "She is a doctor.",
+        "He is an engineer.",
+        "He became an IAS officer."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Before Singular Countable Noun",
+      "english": "A singular countable noun generally requires an article.",
+      "marathi": "Singular Countable Noun पूर्वी Article आवश्यक असतो.",
+      "examples": [
+        "A dog is faithful."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Dog is faithful.",
+          "right": "A dog is faithful."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Exclamatory Sentences",
+      "english": "Use A/An after What or Such with singular countable nouns.",
+      "marathi": "What किंवा Such नंतर Singular Countable Noun आल्यास A/An वापरतात.",
+      "examples": [
+        "What a beautiful flower!",
+        "What an idea!",
+        "Such a nice person."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Rate / Price / Speed",
+      "english": "A/An is used to express rate.",
+      "marathi": "Rate, Price, Speed दाखवताना A वापरतात.",
+      "examples": [
+        "₹100 a kg",
+        "Twice a day",
+        "60 km an hour",
+        "Five times a week"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Previously Mentioned Noun",
+      "english": "Use The when the noun has already been mentioned.",
+      "marathi": "एकदा उल्लेख केलेल्या Noun साठी पुन्हा The वापरतात.",
+      "examples": [
+        "I saw a dog. The dog was barking."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Unique Things",
+      "english": "Use The before things that are unique.",
+      "marathi": "जगात एकच असलेल्या गोष्टींसमोर The वापरतात.",
+      "examples": [
+        "the Sun",
+        "the Moon",
+        "the Earth",
+        "the Sky",
+        "the Universe"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Superlative Degree",
+      "english": "The is always used before Superlative Degree.",
+      "marathi": "Superlative Degree पूर्वी नेहमी The येतो.",
+      "examples": [
+        "the best player",
+        "the tallest building",
+        "the richest man"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He is best player.",
+          "right": "He is the best player."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Ordinal Numbers",
+      "english": "Use The before ordinal numbers.",
+      "marathi": "First, Second, Third... पूर्वी The वापरतात.",
+      "examples": [
+        "the first day",
+        "the second chapter",
+        "the last question"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Musical Instruments",
+      "english": "Use The before the names of musical instruments.",
+      "marathi": "वाद्यांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "play the guitar",
+        "play the violin",
+        "play the piano"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He plays guitar.",
+          "right": "He plays the guitar."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Holy / Religious Books",
+      "english": "Use The before religious books.",
+      "marathi": "धार्मिक ग्रंथांपूर्वी The वापरतात.",
+      "examples": [
+        "the Gita",
+        "the Ramayana",
+        "the Quran",
+        "the Bible"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Newspapers",
+      "english": "Use The before newspapers.",
+      "marathi": "वृत्तपत्रांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "the Times of India",
+        "the Hindu",
+        "the Indian Express"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Rivers",
+      "english": "Use The before rivers.",
+      "marathi": "नद्यांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "the Ganga",
+        "the Yamuna",
+        "the Nile",
+        "the Amazon"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Ganga",
+          "right": "the Ganga"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Oceans & Seas",
+      "english": "Use The before oceans and seas.",
+      "marathi": "महासागर व समुद्रांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "the Indian Ocean",
+        "the Pacific Ocean",
+        "the Arabian Sea"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Indian Ocean",
+          "right": "the Indian Ocean"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Mountain Ranges",
+      "english": "Use The before mountain ranges.",
+      "marathi": "पर्वतरांगांपूर्वी The वापरतात.",
+      "examples": [
+        "the Himalayas",
+        "the Alps",
+        "the Western Ghats"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Himalayas",
+          "right": "the Himalayas"
+        },
+        {
+          "wrong": "The Mount Everest",
+          "right": "Mount Everest"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Deserts",
+      "english": "Use The before deserts.",
+      "marathi": "वाळवंटांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "the Sahara",
+        "the Thar Desert"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Group of Islands",
+      "english": "Use The before groups of islands.",
+      "marathi": "बेटांच्या समूहापूर्वी The वापरतात.",
+      "examples": [
+        "the Andaman and Nicobar Islands",
+        "the Maldives"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Directions",
+      "english": "Use The when direction indicates a region.",
+      "marathi": "Direction प्रदेश दर्शवत असल्यास The वापरतात.",
+      "examples": [
+        "the East",
+        "the West",
+        "the North",
+        "the South"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Go East",
+          "right": "Go east."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Adjective Representing Whole Class",
+      "english": "The + Adjective = Entire Class.",
+      "marathi": "The + Adjective म्हणजे त्या वर्गातील सर्व लोक.",
+      "examples": [
+        "the rich",
+        "the poor",
+        "the blind",
+        "the elderly"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Nationality",
+      "english": "Use The before nationality representing the whole nation.",
+      "marathi": "संपूर्ण राष्ट्र दर्शवताना The वापरतात.",
+      "examples": [
+        "the Indians",
+        "the English",
+        "the French"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Inventions",
+      "english": "Use The before inventions.",
+      "marathi": "शोध/आविष्कारांसमोर The वापरतात.",
+      "examples": [
+        "the telephone",
+        "the computer",
+        "the internet"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Whole Species",
+      "english": "The + Singular Noun represents the whole species.",
+      "marathi": "एकाच Noun द्वारे संपूर्ण जातीचा उल्लेख.",
+      "examples": [
+        "The tiger is a dangerous animal.",
+        "The cow is useful."
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Proper Noun With Description",
+      "english": "Use The when a Proper Noun is qualified.",
+      "marathi": "Proper Noun बद्दल अतिरिक्त माहिती दिल्यास The वापरतात.",
+      "examples": [
+        "the great Ashoka",
+        "the famous Sachin Tendulkar"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Offices / Posts",
+      "english": "Use The before official positions.",
+      "marathi": "पदनामांपूर्वी The वापरतात.",
+      "examples": [
+        "the Prime Minister",
+        "the President",
+        "the Chief Justice"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Prime Minister addressed the nation.",
+          "right": "The Prime Minister addressed the nation."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Families",
+      "english": "The + Family Name = Entire Family.",
+      "marathi": "पूर्ण कुटुंब दर्शवताना The वापरतात.",
+      "examples": [
+        "the Sharmas",
+        "the Patils"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Same / Only",
+      "english": "Use The before Same and Only.",
+      "marathi": "Same आणि Only पूर्वी The येतो.",
+      "examples": [
+        "the same book",
+        "the only son"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Comparative (The...The)",
+      "english": "The + Comparative, The + Comparative.",
+      "marathi": "जसा...तसा...",
+      "examples": [
+        "The more you read, the more you learn.",
+        "The sooner, the better."
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Important Buildings",
+      "english": "Use The before famous buildings and monuments.",
+      "marathi": "प्रसिद्ध इमारतींपूर्वी The वापरतात.",
+      "examples": [
+        "the Red Fort",
+        "the Taj Mahal",
+        "the Parliament House"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Hotels / Cinemas / Museums",
+      "english": "Use The before hotels, cinemas and museums.",
+      "marathi": "हॉटेल्स, सिनेमा, संग्रहालयांपूर्वी The वापरतात.",
+      "examples": [
+        "the Taj Hotel",
+        "the National Museum"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Ships / Trains / Aircraft",
+      "english": "Use The before names of ships, trains and aircraft.",
+      "marathi": "जहाज, ट्रेन, विमानांच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "the Titanic",
+        "the Rajdhani Express"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Proper Noun - Zero Article",
+      "english": "Do not use an article before Proper Nouns.",
+      "marathi": "Proper Noun पूर्वी सामान्यतः Article वापरत नाही.",
+      "examples": [
+        "Ram",
+        "India",
+        "Maharashtra",
+        "Sachin Tendulkar"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The Ram",
+          "right": "Ram"
+        },
+        {
+          "wrong": "The India",
+          "right": "India"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Languages - Zero Article",
+      "english": "No article before names of languages.",
+      "marathi": "भाषांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "English",
+        "Marathi",
+        "Hindi",
+        "Sanskrit"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The English is easy.",
+          "right": "English is easy."
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Academic Subjects - Zero Article",
+      "english": "No article before subjects.",
+      "marathi": "विषयांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "History"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The Mathematics is difficult.",
+          "right": "Mathematics is difficult."
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Games & Sports - Zero Article",
+      "english": "No article before games.",
+      "marathi": "खेळांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "Cricket",
+        "Football",
+        "Chess",
+        "Hockey"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The cricket",
+          "right": "Cricket"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Meals - Zero Article",
+      "english": "No article before meals.",
+      "marathi": "जेवणांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "We had breakfast together."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The breakfast is ready.",
+          "right": "Breakfast is ready."
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Days & Months - Zero Article",
+      "english": "No article before days and months.",
+      "marathi": "वार आणि महिन्यांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "Monday",
+        "Sunday",
+        "January",
+        "June"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Festivals - Zero Article",
+      "english": "No article before festivals.",
+      "marathi": "सणांच्या नावांपूर्वी Article वापरत नाही.",
+      "examples": [
+        "Diwali",
+        "Holi",
+        "Eid",
+        "Christmas"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Relations - Zero Article",
+      "english": "No article before relations used as proper names.",
+      "marathi": "आई, वडील इत्यादी संबोधन म्हणून वापरल्यास Article नाही.",
+      "examples": [
+        "Father is sleeping.",
+        "Mother is cooking.",
+        "The father of the boy is a teacher."
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Transport (By) - Zero Article",
+      "english": "No article after By before means of transport.",
+      "marathi": "By नंतर वाहनाचे नाव आल्यास Article वापरत नाही.",
+      "examples": [
+        "by bus",
+        "by train",
+        "by air",
+        "by sea",
+        "by road",
+        "by bicycle",
+        "by car"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "by a bus",
+          "right": "by bus"
+        },
+        {
+          "wrong": "by the train",
+          "right": "by train"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Fixed Phrases With By",
+      "english": "No article in fixed 'by' expressions.",
+      "marathi": "या वाक्प्रचारांमध्ये Article वापरत नाही.",
+      "examples": [
+        "by chance",
+        "by mistake",
+        "by cheque",
+        "by post",
+        "by hand",
+        "by heart"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Home - Zero Article",
+      "english": "No article before Home when used as destination.",
+      "marathi": "Home पूर्वी सामान्यतः Article वापरत नाही.",
+      "examples": [
+        "Go home.",
+        "Come home.",
+        "The home for old people."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Go to the home.",
+          "right": "Go home."
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Bed - Zero Article",
+      "english": "No article when bed is used for sleeping.",
+      "marathi": "झोपण्यासाठी Bed वापरल्यास Article नाही.",
+      "examples": [
+        "Go to bed.",
+        "In bed.",
+        "Sit on the bed."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Go to the bed.",
+          "right": "Go to bed."
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "School - Zero Article",
+      "english": "No article when school is used for studying.",
+      "marathi": "शिकण्यासाठी School वापरल्यास Article नाही.",
+      "examples": [
+        "Children go to school.",
+        "I went to the school to meet the Principal."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He went to the school (student).",
+          "right": "He went to school."
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "College - Zero Article",
+      "english": "No article when in college as a student.",
+      "marathi": "विद्यार्थी म्हणून College असल्यास Article नाही.",
+      "examples": [
+        "He is in college.",
+        "I visited the college yesterday."
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Hospital - Zero Article",
+      "english": "No article when admitted for treatment.",
+      "marathi": "उपचारासाठी Hospital असल्यास Article नाही.",
+      "examples": [
+        "He is in hospital.",
+        "I visited the hospital yesterday."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He is in the hospital (treatment).",
+          "right": "He is in hospital."
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Prison / Jail - Zero Article",
+      "english": "No article when someone is imprisoned.",
+      "marathi": "कैदेसाठी Prison वापरल्यास Article नाही.",
+      "examples": [
+        "He was sent to prison.",
+        "We visited the prison."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He went to the prison.",
+          "right": "He went to prison."
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Church / Temple / Mosque - Zero Article",
+      "english": "No article when used for worship.",
+      "marathi": "पूजेसाठी वापरल्यास Article नाही.",
+      "examples": [
+        "Go to church.",
+        "Go to temple.",
+        "The church is very old."
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Market - Zero Article",
+      "english": "No article when market is used generally.",
+      "marathi": "साधारण अर्थाने Market वापरल्यास Article नाही.",
+      "examples": [
+        "Go to market.",
+        "The market near my house."
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Man / Woman (General Sense)",
+      "english": "No article in a general sense.",
+      "marathi": "संपूर्ण मानवजातीचा उल्लेख असल्यास Article नाही.",
+      "examples": [
+        "Man is mortal.",
+        "Woman is caring."
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Abstract Noun (General)",
+      "english": "No article before abstract nouns in general sense.",
+      "marathi": "Abstract Noun सामान्य अर्थाने वापरल्यास Article नाही.",
+      "examples": [
+        "Honesty is the best policy.",
+        "Wisdom is power.",
+        "The honesty of the boy impressed everyone."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The honesty is the best policy.",
+          "right": "Honesty is the best policy."
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Material Noun (General)",
+      "english": "No article before material nouns in general sense.",
+      "marathi": "Material Noun सामान्य अर्थाने वापरल्यास Article नाही.",
+      "examples": [
+        "Gold is precious.",
+        "Water is essential.",
+        "The water in this bottle is dirty."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Gold is the precious metal.",
+          "right": "Gold is a precious metal."
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Plural Noun (General)",
+      "english": "No article before plural nouns in general sense.",
+      "marathi": "Plural Noun सामान्य अर्थाने वापरल्यास Article नाही.",
+      "examples": [
+        "Dogs are faithful.",
+        "Books are useful.",
+        "The dogs in my house are friendly."
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Country Names",
+      "english": "Normally no article is used before country names, but THE is used for plural/union/kingdom/republic type names.",
+      "marathi": "देशांच्या नावांपूर्वी सामान्यतः Article वापरत नाही, पण Plural/Union/Kingdom/Republic प्रकारच्या नावांपूर्वी The वापरतात.",
+      "examples": [
+        "India",
+        "China",
+        "Nepal",
+        "Japan",
+        "Australia",
+        "the United States (USA)",
+        "the United Kingdom (UK)",
+        "the United Arab Emirates (UAE)",
+        "the Netherlands",
+        "the Philippines",
+        "the Maldives"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Organizations",
+      "english": "Use THE before important organizations.",
+      "marathi": "महत्त्वाच्या संस्थांपूर्वी The वापरतात.",
+      "examples": [
+        "the United Nations (UN)",
+        "the World Bank",
+        "the Reserve Bank of India",
+        "the Election Commission",
+        "the Supreme Court"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Titles & Designations",
+      "english": "Title + Name takes no article; Title alone takes THE.",
+      "marathi": "Title + Name असल्यास Article नाही; फक्त Title असल्यास The वापरतात.",
+      "examples": [
+        "Prime Minister Narendra Modi",
+        "Dr Ambedkar",
+        "The Prime Minister addressed the nation."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The Prime Minister Narendra Modi",
+          "right": "Prime Minister Narendra Modi"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Few / A Few",
+      "english": "Few means almost none (negative); A few means some (positive). Used with countable nouns.",
+      "marathi": "Few = जवळजवळ नाही (Negative); A few = काही आहेत (Positive). Countable Noun सोबत वापरतात.",
+      "examples": [
+        "Few students passed.",
+        "A few students passed."
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Little / A Little",
+      "english": "Little means almost none (negative); A little means some (positive). Used with uncountable nouns.",
+      "marathi": "Little = जवळजवळ नाही (Negative); A little = थोडे आहे (Positive). Uncountable Noun सोबत वापरतात.",
+      "examples": [
+        "Little water remained.",
+        "A little water remained."
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Most",
+      "english": "Most in a general sense takes no article; The most before a particular group.",
+      "marathi": "सामान्य अर्थाने Most ला Article नाही; विशिष्ट गटासाठी The most वापरतात.",
+      "examples": [
+        "Most students",
+        "Most people",
+        "The most students in this class...",
+        "The most important chapter..."
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Next / Last",
+      "english": "Next/Last as time expressions take no article; The next/last for a specific sequence.",
+      "marathi": "Time Expression म्हणून Next/Last ला Article नाही; विशिष्ट क्रमासाठी The next/last वापरतात.",
+      "examples": [
+        "Next week",
+        "Last year",
+        "The next chapter",
+        "The last question"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Number Expressions",
+      "english": "Use A/An before number expressions like hundred, thousand, million, dozen.",
+      "marathi": "Hundred, Thousand, Million, Dozen यांपूर्वी A/An वापरतात.",
+      "examples": [
+        "a hundred",
+        "a thousand",
+        "a million",
+        "a dozen",
+        "half an hour"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Mr / Mrs / Dr",
+      "english": "No article before Mr, Mrs, Dr with a name.",
+      "marathi": "Mr, Mrs, Dr नावासोबत असल्यास Article नाही.",
+      "examples": [
+        "Mr Sharma",
+        "Mrs Joshi",
+        "Dr Rao"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Body Parts",
+      "english": "THE is used after many verbs/prepositions referring to body parts.",
+      "marathi": "Body Parts साठी अनेक Verb/Preposition नंतर The वापरतात.",
+      "examples": [
+        "He hit me on the head.",
+        "She caught me by the hand.",
+        "He was wounded in the leg."
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Time Expressions",
+      "english": "THE is used with morning, afternoon, evening; but no article with night in general.",
+      "marathi": "Morning, Afternoon, Evening सोबत The वापरतात; पण Night सामान्यतः Article शिवाय.",
+      "examples": [
+        "in the morning",
+        "in the afternoon",
+        "in the evening",
+        "at night"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Means of Communication",
+      "english": "Use THE with phone, radio, television as means of communication.",
+      "marathi": "Phone, Radio, Television साठी The वापरतात.",
+      "examples": [
+        "on the phone",
+        "on the radio",
+        "on television"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Whole Class (The + Singular Noun)",
+      "english": "The + Singular Noun can represent the whole class.",
+      "marathi": "The + Singular Noun संपूर्ण वर्ग दर्शवते.",
+      "examples": [
+        "The lion is brave.",
+        "The elephant is intelligent."
+      ]
+    }
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "an university",
+      "right": "a university"
+    },
+    {
+      "wrong": "a honest man",
+      "right": "an honest man"
+    },
+    {
+      "wrong": "an European country",
+      "right": "a European country"
+    },
+    {
+      "wrong": "a MBA",
+      "right": "an MBA"
+    },
+    {
+      "wrong": "an one-eyed man",
+      "right": "a one-eyed man"
+    },
+    {
+      "wrong": "an useful book",
+      "right": "a useful book"
+    },
+    {
+      "wrong": "a hour",
+      "right": "an hour"
+    },
+    {
+      "wrong": "an union",
+      "right": "a union"
+    },
+    {
+      "wrong": "Himalayas",
+      "right": "the Himalayas"
+    },
+    {
+      "wrong": "Ganga",
+      "right": "the Ganga"
+    },
+    {
+      "wrong": "Pacific Ocean",
+      "right": "the Pacific Ocean"
+    },
+    {
+      "wrong": "the Mount Everest",
+      "right": "Mount Everest"
+    },
+    {
+      "wrong": "He plays guitar.",
+      "right": "He plays the guitar."
+    },
+    {
+      "wrong": "He is best student.",
+      "right": "He is the best student."
+    },
+    {
+      "wrong": "First chapter",
+      "right": "the first chapter"
+    },
+    {
+      "wrong": "Rich should help poor.",
+      "right": "The rich should help the poor."
+    },
+    {
+      "wrong": "Prime Minister addressed the nation.",
+      "right": "The Prime Minister addressed the nation."
+    },
+    {
+      "wrong": "Same book",
+      "right": "the same book"
+    },
+    {
+      "wrong": "Only solution",
+      "right": "the only solution"
+    },
+    {
+      "wrong": "by a bus",
+      "right": "by bus"
+    },
+    {
+      "wrong": "by the train",
+      "right": "by train"
+    },
+    {
+      "wrong": "The English is easy.",
+      "right": "English is easy."
+    },
+    {
+      "wrong": "The Mathematics is difficult.",
+      "right": "Mathematics is difficult."
+    },
+    {
+      "wrong": "Go to the bed.",
+      "right": "Go to bed."
+    },
+    {
+      "wrong": "He is in the hospital (treatment sense).",
+      "right": "He is in hospital."
+    },
+    {
+      "wrong": "He went to the prison.",
+      "right": "He went to prison."
+    },
+    {
+      "wrong": "Gold is the precious metal.",
+      "right": "Gold is a precious metal."
+    },
+    {
+      "wrong": "The honesty is the best policy.",
+      "right": "Honesty is the best policy."
+    }
+  ],
+  "examStrategy": [
+    {
+      "tier": "Tier-1",
+      "english": "Focus on the Sound Rule, high-frequency words (University, Honest, Hour, European, MBA), A/An + Profession, Abbreviations, Rivers, Oceans, Mountain Ranges, Superlatives, Musical Instruments and Ordinals.",
+      "marathi": "Sound Rule सर्वात महत्त्वाचा. University, Honest, Hour, European, MBA वर PYQs वारंवार येतात. Rivers, Oceans, Mountain Ranges, Superlatives, Musical Instruments, Ordinals नक्की revise करा."
+    },
+    {
+      "tier": "Tier-2",
+      "english": "Revise pronunciation-based exceptions, fixed expressions, nationality, species, comparative pattern, qualified proper nouns, official posts and omission rules together.",
+      "marathi": "Pronunciation-based exceptions, Fixed Expressions, Nationality, Species, Comparative Pattern, Qualified Proper Nouns, Official Posts आणि Omission Rules एकत्र revise करा."
+    }
+  ],
+  "goldenRevision": [
+    "A -> Consonant Sound",
+    "An -> Vowel Sound",
+    "Sound matters, not spelling",
+    "Silent H -> An",
+    "University / Union / European / Useful -> A",
+    "Hour / Honest / Honour -> An",
+    "One -> A",
+    "Never before Plural Noun",
+    "Never before Uncountable Noun",
+    "Profession -> A/An",
+    "the Sun",
+    "the Moon",
+    "the Earth",
+    "the Himalayas",
+    "the Ganga",
+    "the Indian Ocean",
+    "the Sahara",
+    "the Times of India",
+    "the Bible",
+    "the Gita",
+    "the best",
+    "the first",
+    "the Prime Minister",
+    "the rich",
+    "the poor",
+    "the more..., the more...",
+    "the only",
+    "the same",
+    "Languages, Subjects, Games, Meals, Days, Months, Festivals -> No Article",
+    "By Bus / By Train / By Air -> No Article",
+    "Go home / Go to bed / In hospital / Go to prison -> No Article"
+  ]
+}

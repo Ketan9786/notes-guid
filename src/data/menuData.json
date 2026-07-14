@@ -31,6 +31,9 @@
               {
                 "name": "Adverb",
                 "path": "/english/grammar/pos/adverb"
+              }, {
+                "name": "Article",
+                "path": "/english/grammar/pos/article"
               },
               {
                 "name": "Preposition",
@@ -41,12 +44,32 @@
                 "path": "/english/grammar/pos/conjunction"
               },
               {
-                "name": "Interjection",
-                "path": "/english/grammar/pos/interjection"
+                "name": "Tenses",
+                "path": "/english/grammar/pos/tenses"
               }
             ]
           }
         ]
+      },{
+        "chapter": "Vocabulary",
+        "topics": [
+          {
+            "topic": "OWS",
+            "subTopics": [
+              {
+                "name": "OWS : 1-408",
+                "path": "/english/vocabulary/ows/1-408"
+              }]
+            },
+           {
+            "topic": "Idioms and phrases",
+            "subTopics": [
+              {
+                "name": "idioms and phrases 1-388",
+                "path": "/english/vocabulary/idioms-and-phrases/1-388"
+              }]
+            }
+          ]
       }
     ]
   },{
@@ -85,15 +108,62 @@
         }
       ]
     },
+    
      {
-      "chapter": "Static GK",
+      "chapter": "Geography",
       "topics": [
         {
-          "topic": "Sports",
+          "topic": "Geography",
           "subTopics":[
             {
-              "name": "Sports",
-              "path": "/gk/static/sports"
+              "name": "Geography",
+              "path": "/gk/geography/geography"
+            }
+          ]
+          
+        }
+      ]
+    },
+    {
+      "chapter": "Polity",
+      "topics": [
+        {
+          "topic": "Polity",
+          "subTopics":[
+            {
+              "name": "Polity",
+              "path": "/gk/polity/polity"
+            }
+          ]
+          
+        }
+      ]
+    },
+    {
+      "chapter": "Economics",
+      "topics": [
+        {
+          "topic": "Economics",
+          "subTopics":[
+            {
+              "name": "Economics",
+              "path": "/gk/economics/economics"
+            }
+          ]
+          
+        }
+      ]
+    },
+    
+    {
+      "chapter": "Physics",
+      "topics": [
+        {
+          "topic": "Physics",
+          "subTopics":[
+            {
+              "name": "Physics",
+              "path": "/gk/physics/physics"
             }
           ]
           
@@ -134,7 +204,33 @@
               "path": "/maths/arithmetic/discount"
             }
           ]
-          
+        },
+        {
+          "topic": "Simple Interest",
+          "subTopics":[
+            {
+              "name": "Simple Interest",
+              "path": "/maths/arithmetic/simple-interest"
+            }
+          ]
+        },
+         {
+          "topic": "Ratio And Proportion",
+          "subTopics":[
+            {
+              "name": "Ratio And Proportion",
+              "path": "/maths/arithmetic/ratio-and-proportion"
+            }
+          ]
+        },
+         {
+          "topic": "Partnership",
+          "subTopics":[
+            {
+              "name": "Partnership",
+              "path": "/maths/arithmetic/partnership"
+            }
+          ]
         }
       ]
     },
@@ -147,6 +243,25 @@
             {
               "name": "Mensuration2D",
               "path": "/maths/advanced/mensuration2d"
+            }
+          ]
+          
+        },
+         {
+          "topic": "Mensuration3D",
+          "subTopics":[
+            {
+              "name": "Mensuration3D",
+              "path": "/maths/advanced/mensuration3d"
+            }
+          ]
+          
+        }, {
+          "topic": "Simplification",
+          "subTopics":[
+            {
+              "name": "Simplification",
+              "path": "/maths/advanced/simplification"
             }
           ]
           

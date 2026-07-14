@@ -1,0 +1,209 @@
+{
+  "topic": "Simplification",
+  "introduction": "Simplification in SSC CGL focuses on quickly reducing numerical and algebraic expressions to a single value using VBODMAS, fraction and decimal operations, indices and surds, and standard algebraic identities. It often mixes brackets, 'of', powers, roots, and patterns in one expression.",
+  "concepts": [
+    {
+      "concept": "VBODMAS Rule",
+      "explanation": "VBODMAS stands for Vinculum, Brackets, Of, Division, Multiplication, Addition, Subtraction. Always simplify in this order: handle vinculum or bar first, then innermost brackets, treat 'of' as multiplication, then perform division and multiplication from left to right, and finally addition and subtraction."
+    },
+    {
+      "concept": "Basic Integer Operations",
+      "explanation": "Correct handling of addition, subtraction, multiplication, and division of integers is the base of all simplification. Pay attention to sign rules and left-to-right evaluation when operations are at the same priority."
+    },
+    {
+      "concept": "Fractions and LCM",
+      "explanation": "For addition or subtraction of fractions with different denominators, use the LCM of denominators to get a common base. For multiplication and division, multiply numerators and denominators and use reciprocal for division, cancelling common factors early."
+    },
+    {
+      "concept": "Mixed Fractions",
+      "explanation": "Convert mixed fractions to improper fractions before applying any operations. Then use normal fraction rules to add, subtract, multiply or divide."
+    },
+    {
+      "concept": "Decimal Operations",
+      "explanation": "Decimals follow the same VBODMAS rules. For addition or subtraction, align decimal points. For multiplication, ignore the decimal and multiply as integers, then place the decimal according to total decimal places. For division, shift the decimal of divisor to make it an integer when helpful."
+    },
+    {
+      "concept": "Percentage as Fraction or Decimal",
+      "explanation": "Percentages are handled by converting them to fractions or decimals. X% of Y is (X/100) × Y, and this often appears as 'of' in simplification questions."
+    },
+    {
+      "concept": "Basic Laws of Indices",
+      "explanation": "Indices laws allow combining powers of the same base. Key rules: product of same base adds exponents, quotient subtracts exponents, power of a power multiplies exponents, zero index equals one, and negative index gives reciprocal."
+    },
+    {
+      "concept": "Surds and Root Simplification",
+      "explanation": "Surds involve square or cube roots that cannot be fully simplified to rational numbers. Simplification focuses on breaking the number inside the root into perfect square or cube factors, extracting them, and sometimes rationalising denominators."
+    },
+    {
+      "concept": "Standard Algebraic Identities",
+      "explanation": "Important identities include (a + b)^2, (a - b)^2, a^2 - b^2, cube identities, and some three-variable identities. Recognising these patterns allows collapsing long algebraic expressions quickly."
+    },
+    {
+      "concept": "Pattern-Based Expressions",
+      "explanation": "Some SSC CGL questions use digit or decimal patterns, like 0.5 + 0.55 + 0.555 + 0.5555, or ask about terminating vs non-terminating decimals. These rely on recognising series structure or prime factorisation of denominators."
+    }
+  ],
+  "formulas": [
+    "VBODMAS order: Vinculum → Brackets → Of → Division → Multiplication → Addition → Subtraction.",
+    "'of' means multiplication: A of B = A × B.",
+    "Fraction addition/subtraction: a/b ± c/d = (ad ± bc) / bd when denominators are b and d.",
+    "Fraction multiplication: (a/b) × (c/d) = ac/bd.",
+    "Fraction division: (a/b) ÷ (c/d) = (a/b) × (d/c).",
+    "Mixed fraction p q/r = (p × r + q) / r as improper fraction.",
+    "Decimal multiply: ignore decimal, multiply, then place decimal according to total decimal places in factors.",
+    "Indices: p^m × p^n = p^(m + n); p^m ÷ p^n = p^(m - n); (p^m)^n = p^(mn); p^0 = 1; p^(-n) = 1/p^n.",
+    "(a + b)^2 = a^2 + 2ab + b^2.",
+    "(a - b)^2 = a^2 - 2ab + b^2.",
+    "a^2 - b^2 = (a + b)(a - b).",
+    "(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3.",
+    "(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3.",
+    "a^3 + b^3 = (a + b)(a^2 - ab + b^2).",
+    "a^3 - b^3 = (a - b)(a^2 + ab + b^2).",
+    "Terminating decimal: denominator in lowest terms has prime factors only 2 and/or 5."
+  ],
+  "questiontypes": [
+    {
+      "typename": "Basic VBODMAS Expression",
+      "difficulty": "Easy",
+      "identificationmethod": "Expression has integers, '+', '-', '×', '÷', possibly 'of', and simple brackets.",
+      "whentouse": "Apply VBODMAS strictly to reduce the expression to a single number.",
+      "stepbystep": "Identify vinculum or bars, then solve innermost brackets, treat 'of' as multiplication, then do division and multiplication from left to right, and finally perform addition and subtraction.",
+      "shortcut": "Group operations visually: bracket-part, of-part, then left-to-right chain for '÷' and '×', then '+', '-'.",
+      "commonmistakes": "Doing addition before multiplication, ignoring 'of' as multiplication, and skipping left-to-right order for division and multiplication."
+    },
+    {
+      "typename": "Fraction Addition and Subtraction",
+      "difficulty": "Easy-Medium",
+      "identificationmethod": "Multiple fractions with different denominators combined using '+/-'.",
+      "whentouse": "Use LCM of denominators to get a common denominator, then combine numerators.",
+      "stepbystep": "Find LCM of denominators, convert each fraction to equivalent form with LCM denominator, add or subtract numerators, simplify resulting fraction by cancelling common factors.",
+      "shortcut": "When denominators are related (like 2, 4, 8), directly take the largest as common denominator and scale numerators.",
+      "commonmistakes": "Adding denominators directly, forgetting to simplify final fraction, and not converting mixed fractions to improper fractions first."
+    },
+    {
+      "typename": "Fraction Multiplication and 'of'",
+      "difficulty": "Easy",
+      "identificationmethod": "Expression uses 'of' or directly multiplies fractions.",
+      "whentouse": "Convert 'of' into multiplication and use fraction multiplication rules.",
+      "stepbystep": "Replace 'of' with '×', write all terms as fractions, cancel common factors in numerator and denominator, multiply remaining numerators and denominators.",
+      "shortcut": "Always cancel before multiplying to keep numbers small and reduce computation.",
+      "commonmistakes": "Treating 'of' as addition and not cancelling common factors early."
+    },
+    {
+      "typename": "Decimal Expression Simplification",
+      "difficulty": "Medium",
+      "identificationmethod": "Expression involves multiple decimals combined with operations and possibly squares or cubes.",
+      "whentouse": "Use VBODMAS and decimal rules, converting to fraction when convenient.",
+      "stepbystep": "Apply VBODMAS to choose operation order, multiply decimals by treating them as integers and correcting decimal places later, align decimals for addition/subtraction, reduce to a single decimal.",
+      "shortcut": "Convert common decimals like 0.25, 0.5, 0.75 into fractions for faster mental calculation.",
+      "commonmistakes": "Miscounting decimal places after multiplication and mixing operation order."
+    },
+    {
+      "typename": "Same-Base Index Simplification",
+      "difficulty": "Medium",
+      "identificationmethod": "Expression contains repeated bases with different powers combined by multiplication or division.",
+      "whentouse": "Group same base terms and apply index laws before further arithmetic.",
+      "stepbystep": "Identify all terms with the same base, add exponents for multiplication, subtract exponents for division, simplify resulting powers, then handle remaining operations.",
+      "shortcut": "Treat exponents like simple integers and keep a running exponent total for each base.",
+      "commonmistakes": "Multiplying exponents instead of adding in product, subtracting in wrong order for division, and treating p^0 as 0."
+    },
+    {
+      "typename": "Surd and Root Simplification",
+      "difficulty": "Medium-Hard",
+      "identificationmethod": "Expression uses square or cube roots with integers and possibly denominators.",
+      "whentouse": "Break numbers under root into perfect powers, extract them, then combine and rationalise if required.",
+      "stepbystep": "Factor the number under root into perfect square or cube times remaining factor, take perfect part outside root, combine like surd terms, rationalise denominator when necessary.",
+      "shortcut": "Memorise squares and cubes up to at least 30 to quickly spot perfect powers.",
+      "commonmistakes": "Trying to convert surds to decimals unnecessarily and not simplifying roots using perfect power factors."
+    },
+    {
+      "typename": "Algebraic Identity Pattern",
+      "difficulty": "Medium-Advanced",
+      "identificationmethod": "Long algebraic expression resembles known identity forms like (a + b)^2, (a - b)^2, a^2 - b^2, or cube identities.",
+      "whentouse": "Recognise the identity, replace the long expression with its compact form, then simplify or evaluate.",
+      "stepbystep": "Compare expression with standard identities, identify values of a, b, (and c if present), write compact identity form, simplify the result.",
+      "shortcut": "Train visual pattern recognition for common identities through repeated exposure.",
+      "commonmistakes": "Confusing signs between (a + b)^2 and (a - b)^2 and dropping coefficients like 2ab or 3a^2b."
+    },
+    {
+      "typename": "Pattern-Based Decimal or Digit Series",
+      "difficulty": "Advanced",
+      "identificationmethod": "Sum or expression uses repeated digits or decimals in an obvious pattern, like increasing number of repeated digits.",
+      "whentouse": "Express pattern as series or factorable expression and simplify using factoring or series tricks.",
+      "stepbystep": "Write each term clearly, identify common factor, factor it out, simplify remaining series or sum, combine to final value.",
+      "shortcut": "Relate repeating decimals to fractions with denominators 9, 99, 999 where possible.",
+      "commonmistakes": "Adding term by term without leveraging pattern and misreading digit counts."
+    },
+    {
+      "typename": "Terminating vs Non-Terminating Decimal Check",
+      "difficulty": "Medium",
+      "identificationmethod": "Question asks which fraction yields terminating decimal or explicitly tests representation type.",
+      "whentouse": "Reduce fraction to lowest terms and examine prime factorisation of denominator.",
+      "stepbystep": "Simplify fraction to lowest terms, factorise denominator into primes, check if primes are only 2 or 5, conclude terminating or non-terminating repeating.",
+      "shortcut": "If denominator in lowest terms has any prime other than 2 or 5, directly classify as non-terminating repeating.",
+      "commonmistakes": "Not reducing to lowest terms and considering numerator primes instead of denominator only."
+    }
+  ],
+  "practicequestions": [],
+  "identificationtricks": [
+    "If expression has 'of', fractions, or percentages, it usually tests fraction and decimal operation skills under VBODMAS.",
+    "Repeated bases with powers indicate an indices simplification question.",
+    "Square roots or cube roots with integers point towards surd simplification and perfect power recognition.",
+    "Long algebraic expressions that resemble (a + b)^2 or a^2 - b^2 indicate an identity-based simplification.",
+    "Questions about decimal representation of fractions or terminating/non-terminating hints require prime factorisation of the denominator."
+  ],
+  "solvingapproach": [
+    "Step 1: Identify the expression type: basic numeric, fraction/percentage, decimal, indices/surd, or algebraic identity.",
+    "Step 2: Apply VBODMAS for operation ordering in all cases.",
+    "Step 3: Use specific rules: LCM for fractions, decimal shifting and alignment for decimals, index laws for powers, identity matching for algebraic expressions.",
+    "Step 4: Simplify step-by-step without skipping intermediate operations.",
+    "Step 5: Check signs and decimal places carefully before final answer.",
+    "Step 6: With practice, reduce written steps by spotting cancellations and patterns."
+  ],
+  "shortcuts": [
+    "Cancel common factors early in fraction and 'of' problems to keep numbers small.",
+    "Convert common decimals like 0.25, 0.5, 0.75 to fractions for faster mental work.",
+    "Memorise squares and cubes up to 30 for quick recognition in indices and surd simplification.",
+    "Recognise standard algebraic identities visually instead of expanding manually.",
+    "Use units-digit tricks in multiplication-heavy expressions when only last digit matters."
+  ],
+  "commonmistakes": [
+    "Ignoring VBODMAS and performing operations in reading order.",
+    "Misinterpreting 'of' as addition instead of multiplication.",
+    "Adding denominators when adding fractions instead of using LCM.",
+    "Misplacing decimal point after multiplication or division.",
+    "Applying index rules incorrectly, such as multiplying exponents for product.",
+    "Failing to recognise identity patterns and doing long expansion."
+  ],
+  "pyqpatterns": [
+    "VBODMAS questions mixing 'of', brackets, and basic operations.",
+    "Fraction and decimal simplification with nested operations.",
+    "Indices and powers questions using p^m × p^n and p^m ÷ p^n rules.",
+    "Algebraic identity simplification involving (a + b)^2, (a - b)^2, and a^2 - b^2.",
+    "Pattern-based decimal sums and terminating decimal checks."
+  ],
+  "quickrevision": [
+    "VBODMAS order and meaning of 'of'.",
+    "Fraction operations: addition/subtraction via LCM, multiplication and division via reciprocal.",
+    "Decimal rules: alignment for +/-, total decimal places after ×.",
+    "Index laws: product add exponents, quotient subtract exponents, power-of-power multiply exponents, zero and negative indices.",
+    "Key identities: (a ± b)^2, a^2 - b^2, cube identities.",
+    "Terminating decimal condition: denominator primes only 2 and/or 5."
+  ],
+  "examtips": [
+    "First classify the question type before you start any calculation.",
+    "Always write at least one intermediate step for each operation to avoid small mistakes.",
+    "Practise mixed-type questions (fractions plus indices plus brackets) to build confidence.",
+    "Use 15-minute daily sessions focusing on one concept at a time, then mix them in later practice.",
+    "In exam, skip heavy expansion if you can recognise a standard identity or pattern."
+  ],
+  "onepageformulasheet": [
+    "VBODMAS: Vinculum, Brackets, Of, Division, Multiplication, Addition, Subtraction.",
+    "Fraction addition/subtraction through LCM.",
+    "Fraction multiplication/division via reciprocal.",
+    "Decimal multiplication and division decimal-place rules.",
+    "Index laws for same base and power-of-power.",
+    "Algebraic identities: (a + b)^2, (a - b)^2, a^2 - b^2, cube identities.",
+    "Terminating decimal condition: denominator primes only 2 and/or 5."
+  ]
+}
