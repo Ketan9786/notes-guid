@@ -11,9 +11,11 @@
     "english": "A conjunction is a word used to join words, phrases, clauses or sentences.",
     "marathi": "दोन शब्द, वाक्यांश, Clause किंवा वाक्य जोडणाऱ्या शब्दाला Conjunction म्हणतात.",
     "examples": [
-      "I like tea and coffee.",
-      "He worked hard but failed.",
-      "Study hard or you will fail."
+      {"word":"I like tea and coffee." ,"tag":"AND"},
+      {"word":"He worked hard but failed." ,"tag":"BUT"},
+      {"word":"Study hard or you will fail." ,"tag":"OR"}
+      
+      
     ]
   },
   "types": [

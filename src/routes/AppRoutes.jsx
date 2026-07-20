@@ -26,6 +26,11 @@ import Conjunction from "../features/notes/English/part-of-speech/Conjunction";
 import Simplification from "../features/notes/Maths/Advance/Simplification";
 import OWS_1_408 from "../features/notes/English/Vocabulary/OWS1-408";
 import Idioms_1_388 from "../features/notes/English/Vocabulary/Idioms-1-338";
+import Tenses from "../features/notes/English/part-of-speech/Tenses";
+import QuestionTag from "../features/notes/English/part-of-speech/QuestionTags";
+import VocabularyTable from "../features/notes/English/Vocabulary/VocabularyTable";
+import RuleBookApp from "../features/notes/English/RULE/RuleBookApp";
+import PhrasalVerb from "../features/notes/English/Vocabulary/PhrasalVerb";
 
 
 const AppRoutes = () => {
@@ -84,6 +89,14 @@ const AppRoutes = () => {
             path="/english/grammar/pos/conjunction"
             element={<Conjunction />}
           /> 
+           <Route
+            path="/english/grammar/pos/tenses"
+            element={<Tenses />}
+          /> 
+           <Route
+            path="/english/grammar/pos/question-tag"
+            element={<QuestionTag />}
+          /> 
 
           {/* Vocabulary ROUTES  */}
            <Route
@@ -94,6 +107,20 @@ const AppRoutes = () => {
             path="/english/vocabulary/idioms-and-phrases/1-388"
             element={<Idioms_1_388 />}
           /> 
+           <Route
+            path="/english/vocabulary/phrasal-verb"
+            element={<PhrasalVerb/>}
+          /> 
+           <Route
+            path="/english/vocab/imp"
+            element={<VocabularyTable />}
+          /> 
+           <Route
+            path="/english/grammar/rule/120"
+            element={<RuleBookApp />}
+          /> 
+
+
 
 
  {/* GK NOTES */}

@@ -3,11 +3,12 @@ import { Box, Tab, Tabs } from "@mui/material";
 import NotesPage from "../features/notes/NotesPage";
 import MindMapPage from "../features/mindMap/MindMap";
 import QuickRevisionPage from "../features/QuickRevesion";
+import NotesPage2 from "../features/notes/NotesPage2";
 
 
 
 
-const ChapterLayout = ({ data }) => {
+const ChapterLayout = ({ data ,type}) => {
   const [tab, setTab] = useState(0);
 
   return (
@@ -25,7 +26,11 @@ const ChapterLayout = ({ data }) => {
       </Tabs>
 
       <Box sx={{ mt: 2 }}>
-        {tab === 0 && <NotesPage data={data} />}
+        {tab === 0 && type === "2" ? (
+          <NotesPage2 data={data} />
+) : (
+        <NotesPage data={data} />
+)}
         {tab === 1 && <MindMapPage data={data} />}
         {tab === 2 && <QuickRevisionPage data={data}/>}
         {tab === 3 && <Box>PYQ</Box>}

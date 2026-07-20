@@ -36,7 +36,7 @@
         },
         {
           "name": "Old Stone Age / Palaeolithic Period",
-          "period": "50,0000 BC – 10,000 BC",
+          "period": "c. 25,00,000 BC – 10,000 BC",
           "content": [
             "Tools: Handaxes, cleavers, and choppers",
             "Lifestyle: Purely nomadic hunter-gatherers",
@@ -59,7 +59,7 @@
         },
         {
           "name": "Middle Stone Age / Mesolithic Period",
-          "period": "12,000 BC – 10,000 BC",
+          "period": "12,000 BC – 6,000 BC",
           "content": [
             "Tools: Microliths (geometric forms – triangles, lunates, trapezes) – tiny stone tools (1–5 cm), used as arrowheads and barbed spears",
             "Lifestyle: Nomadic to semi-sedentary",
@@ -989,23 +989,282 @@
         }
       ]
     },
+   {
+  "id": 12,
+  "chapter": "Jainism",
+  "type": "content",
+  "subtopics": [
     {
-      "id": 12,
-      "chapter": "Jainism",
-      "type": "content",
-      "subtopics": [
+      "name": "24 Tirthankaras and Their Symbols",
+      "type": "table",
+      "table": [
         {
-          "name": "Key Facts – Jainism",
-          "content": [
-            "Lord Mahavira developed Syadvada philosophical system (Ans: B – SSC CHSL)",
-            "Syadvada = Doctrine of 'perhaps' / conditional predication",
-            "Jain texts written in Prakrit language"
-          ]
+          "tirthankara": "Rishabhanath (Rishabha) #imp",
+          "symbol": "Bull"
+        },
+        {
+          "tirthankara": "Ajitnath #imp",
+          "symbol": "Elephant"
+        },
+        {
+          "tirthankara": "Sambhavanath",
+          "symbol": "Horse"
+        },
+        {
+          "tirthankara": "Abhinandannath",
+          "symbol": "Monkey"
+        },
+        {
+          "tirthankara": "Sumatinath",
+          "symbol": "Curlew"
+        },
+        {
+          "tirthankara": "Padmaprabhu",
+          "symbol": "Red Lotus"
+        },
+        {
+          "tirthankara": "Suparshvanath",
+          "symbol": "Swastika"
+        },
+        {
+          "tirthankara": "Chandraprabha",
+          "symbol": "Moon"
+        },
+        {
+          "tirthankara": "Suvidhinath (Pushpadanta)",
+          "symbol": "Crocodile"
+        },
+        {
+          "tirthankara": "Shitalnath",
+          "symbol": "Srivatsa"
+        },
+        {
+          "tirthankara": "Shreyansnath",
+          "symbol": "Rhinoceros"
+        },
+        {
+          "tirthankara": "Vasupujya",
+          "symbol": "Buffalo"
+        },
+        {
+          "tirthankara": "Vimalnath",
+          "symbol": "Boar"
+        },
+        {
+          "tirthankara": "Ananthanath",
+          "symbol": "Falcon"
+        },
+        {
+          "tirthankara": "Dharmanath",
+          "symbol": "Vajra"
+        },
+        {
+          "tirthankara": "Shantinath",
+          "symbol": "Deer"
+        },
+        {
+          "tirthankara": "Kunthunath",
+          "symbol": "He-Goat"
+        },
+        {
+          "tirthankara": "Aranath",
+          "symbol": "Fish"
+        },
+        {
+          "tirthankara": "Mallinath",
+          "symbol": "Water Pot"
+        },
+        {
+          "tirthankara": "Munisuvratanath",
+          "symbol": "Tortoise"
+        },
+        {
+          "tirthankara": "Naminath",
+          "symbol": "Blue Lotus"
+        },
+        {
+          "tirthankara": "Arishtanemi (Neminath) #imp",
+          "symbol": "Conch Shell"
+        },
+        {
+          "tirthankara": "Parshvanath #imp",
+          "symbol": "Serpent"
+        },
+        {
+          "tirthankara": "Mahavira #imp",
+          "symbol": "Lion"
         }
       ]
     },
     {
-      "id": 13,
+      "name": "Key Facts – Jainism",
+      "content": [
+        "1st Tirthankara: Rishabhanath",
+        "23rd Tirthankara: Parshvanath",
+        "24th (Last) Tirthankara: Vardhaman Mahavira",
+        "Birth: Kundagrama near Vaishali (540 BC)",
+        "Childhood Name: Vardhaman",
+        "Belonged to the Jnatrika Kshatriya clan",
+        "Renounced home at age 30 and performed penance for 12 years",
+        "First follower: Jamali",
+        "Ajivika sect was founded by Makkhali Gosala",
+        "Bindusara was a follower of the Ajivika sect",
+        "Mahavira added the 5th Mahavrata – Brahmacharya",
+        "Lord Mahavira developed Syadvada philosophical system (Ans: B – SSC CHSL)",
+        "Syadvada = Doctrine of 'Perhaps' / Conditional Predication",
+        "Jain texts were written in Prakrit language",
+        "First Sanskrit text of Jainism: Tattvartha Sutra",
+        "Composed by Acharya Umaswami (1st Century AD)"
+      ]
+    }
+  ]
+},
+{
+  "id": 13,
+  "chapter": "Imperial / Medieval Cholas",
+  "type": "content",
+  "subtopics": [
+    {
+      "name": "Key Facts – Imperial / Medieval Cholas",
+      "content": [
+        "Period: 850–1279 AD",
+        "Founder / 1st Ruler: Vijayalaya Chola",
+        "The Cholas were feudatories of the Pallavas.",
+        "Capital of Medieval Cholas: Thanjavur",
+        "Capital of Early Cholas (Karikala Chola): Uraiyur",
+        "8th Ruler: Rajaraja I (985–1014 AD) #imp",
+        "9th Ruler: Rajendra I (1014–1044 AD) #imp",
+        "Rajaraja I built Rajarajeshwara Temple (Brihadeshwara Shiva Temple) at Thanjavur #imp",
+        "During the reign of Rajaraja I, Maldives was conquered.",
+        "Rajaraja I conferred the title 'Mahadandanayaka' upon Rajendra I after victory over Pandyas and Keralas.",
+        "Rajaraja I started the system of land survey called 'Kadamb'.",
+        "Rajaraja I annexed Northern Sri Lanka by defeating Mahinda V.",
+        "The capital of Sri Lanka was shifted from Anuradhapura to Polonnaruwa where a Shiva temple was built.",
+        "Rajendra I built the 'Cholagangam' tank for irrigation in the capital.",
+        "Rajendra I founded Gangaikondacholapuram after his northern victories. #imp",
+        "The famous Dancing Shiva (Nataraja) bronze belongs to the Chola period. #imp",
+        "Chola bronze sculptures were made using the Lost-Wax (Cire Perdue) technique.",
+        "The Cholas were famous for village administration.",
+        "Uttaramerur Inscription of Parantaka I describes the Chola village administration. #imp",
+        "Local Self-Government existed during the Chola period (basis of modern Panchayati Raj)."
+      ]
+    },
+    {
+      "name": "Important Rulers",
+      "type": "table",
+      "table": [
+        {
+          "ruler": "Vijayalaya Chola",
+          "reign": "-",
+          "importance": "Founder / 1st ruler"
+        },
+        {
+          "ruler": "Rajaraja I",
+          "reign": "985–1014 AD",
+          "importance": "Built Brihadeshwara Temple, conquered Maldives & Northern Sri Lanka, introduced land survey (Kadamb)"
+        },
+        {
+          "ruler": "Rajendra I",
+          "reign": "1014–1044 AD",
+          "importance": "Built Cholagangam tank and founded Gangaikondacholapuram"
+        }
+      ]
+    },
+    {
+      "name": "Village Administration",
+      "type": "table",
+      "table": [
+        {
+          "assembly": "Ur",
+          "description": "General assembly of the village; people of different castes lived here and paid regular taxes."
+        },
+        {
+          "assembly": "Agrahara",
+          "description": "Village inhabited only by Brahmins; exempted from taxes."
+        },
+        {
+          "assembly": "Sabha / Mahasabha",
+          "description": "Assembly of Agrahara (Brahmin village)."
+        }
+      ]
+    },
+    {
+      "name": "Taxes in Chola Dynasty",
+      "type": "table",
+      "table": [
+        {
+          "tax": "Kadmai / Irai #imp",
+          "purpose": "Land Tax"
+        },
+        {
+          "tax": "Pattam and Ayam",
+          "purpose": "Tax on non-agricultural professions (artisans, merchants, etc.)"
+        },
+        {
+          "tax": "Nirvilai / Nirkkirai",
+          "purpose": "Water Tax"
+        },
+        {
+          "tax": "Ulku / Sungam #imp",
+          "purpose": "Toll Tax"
+        },
+        {
+          "tax": "Tattar-Pattam",
+          "purpose": "Tax on Goldsmiths"
+        },
+        {
+          "tax": "Sungam",
+          "purpose": "Export and Import Tax"
+        },
+        {
+          "tax": "Kannala Kanam",
+          "purpose": "Marriage Tax"
+        },
+        {
+          "tax": "Poorvi",
+          "purpose": "War Tax"
+        },
+        {
+          "tax": "Vetti #imp",
+          "purpose": "Forced Labour Tax"
+        }
+      ]
+    },
+    {
+      "name": "Land Donations by Cholas",
+      "type": "table",
+      "table": [
+        {
+          "grant": "Shalabhoga #imp",
+          "purpose": "Land donated for maintenance of schools"
+        },
+        {
+          "grant": "Pallichchhandam #imp",
+          "purpose": "Land donated to Jaina institutions"
+        },
+        {
+          "grant": "Brahmadeya #imp 2024",
+          "purpose": "Tax-free land granted to Brahmins"
+        },
+        {
+          "grant": "Vellanvagai #imp",
+          "purpose": "Land donated to non-Brahmin peasant proprietors"
+        }
+      ]
+    },
+    {
+      "name": "PYQ Facts",
+      "content": [
+        "From the 7th century CE, kings commonly rewarded Brahmanas with land grants.",
+        "These grants were known as Agraharas.",
+        "Agraharas were tax-free (revenue exempted).",
+        "Agraharas also carried administrative and judicial rights."
+      ]
+    }
+  ]
+},
+    {
+      "id": 14,
       "chapter": "Mesopotamian Civilization",
       "type": "content",
       "subtopics": [

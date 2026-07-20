@@ -1,0 +1,931 @@
+{
+  "slug": "question-tags",
+  "title": "Question Tags",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Question Tags",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "A Question Tag is a short question added at the end of a statement to confirm information or seek agreement, formed using an auxiliary verb + subject pronoun.",
+    "marathi": "Statement च्या शेवटी माहिती Confirm करण्यासाठी किंवा Agreement मिळवण्यासाठी जोडलेल्या छोट्या Question ला Question Tag म्हणतात (Auxiliary Verb + Subject Pronoun).",
+    "structure": "Main Statement , + Auxiliary(opposite polarity) + Subject Pronoun ?",
+    "examples": [
+      {
+        "word": "It's a good day, isn't it?",
+        "tag": "Positive statement -> Negative tag"
+      },
+      {
+        "word": "You haven't seen my glasses, have you?",
+        "tag": "Negative statement -> Positive tag"
+      },
+      {
+        "word": "Let's go to the movies, shall we?",
+        "tag": "Let's -> shall we"
+      },
+      {
+        "word": "She rarely attends class, does she?",
+        "tag": "Negative word -> Positive tag"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "id": 1,
+      "title": "Positive-Negative Rule",
+      "english": "If the main statement is positive, the tag is negative. If the main statement is negative, the tag is positive.",
+      "marathi": "जर Statement Positive असेल तर Tag Negative असतो, आणि Statement Negative असेल तर Tag Positive असतो.",
+      "examples": [
+        "The cat is sleeping on the couch, isn't it?",
+        "You haven't seen my glasses, have you?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "The cat is sleeping on the couch, is it?",
+          "right": "The cat is sleeping on the couch, isn't it?"
+        },
+        {
+          "wrong": "You haven't seen my glasses, haven't you?",
+          "right": "You haven't seen my glasses, have you?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Negative Words Rule",
+      "english": "Certain words (hardly, scarcely, barely, rarely, seldom, few, little, none, nothing, neither) make a sentence negative in meaning, so the tag becomes positive.",
+      "marathi": "hardly, scarcely, barely, rarely, seldom, few, little, none, nothing, neither हे शब्द Sentence ला अर्थाने Negative बनवतात, त्यामुळे Tag Positive येतो.",
+      "examples": [
+        "He barely knows the truth, does he?",
+        "They've hardly tried their best, have they?",
+        "He hardly ever misses a class, does he?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He barely knows the truth, doesn't he?",
+          "right": "He barely knows the truth, does he?"
+        },
+        {
+          "wrong": "They've hardly tried their best, haven't they?",
+          "right": "They've hardly tried their best, have they?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Little/Few Family Rule",
+      "english": "Little/Few (negligible amount) are negative and take a positive tag. A little/A few (at least something) are positive and take a negative tag. The little/The few (remaining) are positive and take a negative tag.",
+      "marathi": "Little/Few (नगण्य) Negative असतात -> Positive Tag. A little/A few (काहीतरी) Positive असतात -> Negative Tag. The little/The few (उरलेले) Positive असतात -> Negative Tag.",
+      "examples": [
+        "I have little hope for success, do I?",
+        "She ate a few of the cookies, didn't she?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "I have little hope for success, don't I?",
+          "right": "I have little hope for success, do I?"
+        },
+        {
+          "wrong": "She ate a few of the cookies, did she?",
+          "right": "She ate a few of the cookies, didn't she?"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Let's Rule",
+      "english": "Let's always takes the tag 'shall we?' regardless of the main verb.",
+      "marathi": "Let's नंतर नेहमी 'shall we?' हा Tag येतो, Main Verb कोणताही असो.",
+      "examples": [
+        "Let's go to the movies, shall we?",
+        "Let's bake a cake, shall we?",
+        "Let's go for a walk, shall we?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Let's go to the movies, should we?",
+          "right": "Let's go to the movies, shall we?"
+        },
+        {
+          "wrong": "Let's bake a cake, will we?",
+          "right": "Let's bake a cake, shall we?"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Auxiliary Contraction Rule",
+      "english": "Use the correct negative contraction of the auxiliary verb in the tag (e.g. is not -> isn't, am not -> aren't I, have not -> haven't).",
+      "marathi": "Tag मध्ये Auxiliary Verb च्या योग्य Negative Contraction चा वापर करा (उदा. is not -> isn't, am not -> aren't I, have not -> haven't).",
+      "examples": [
+        "She doesn't like the dress, does she?",
+        "I'm not sure about this, am I?",
+        "I am your friend, aren't I?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "I'm not sure about this, isn't I?",
+          "right": "I'm not sure about this, am I?"
+        },
+        {
+          "wrong": "I am your friend, isn't I?",
+          "right": "I am your friend, aren't I?"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Indefinite Pronoun Rule",
+      "english": "Everybody/Everyone/Somebody/Someone/Nobody/Anybody take a plural tag pronoun (they), even though the verb agreement with the pronoun stays singular.",
+      "marathi": "Everybody/Everyone/Somebody/Someone/Nobody/Anybody या Indefinite Pronouns नंतर Tag मध्ये Plural Pronoun (they) वापरतात.",
+      "examples": [
+        "Everybody loves the new song, don't they?",
+        "Nobody has seen that movie, have they?",
+        "Someone has taken my book, haven't they?",
+        "Everyone stood up, didn't they?"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Everybody loves the new song, doesn't it?",
+          "right": "Everybody loves the new song, don't they?"
+        },
+        {
+          "wrong": "Nobody has seen that movie, has he?",
+          "right": "Nobody has seen that movie, have they?"
+        },
+        {
+          "wrong": "Someone has taken my book, hasn't he?",
+          "right": "Someone has taken my book, haven't they?"
+        },
+        {
+          "wrong": "Somebody was present there, wasn't he?",
+          "right": "Somebody was present there, weren't they?"
+        }
+      ]
+    }
+  ],
+  "auxiliaryContractions": {
+    "columns": [
+      "full",
+      "contracted"
+    ],
+    "rows": [
+      {
+        "full": "Do not",
+        "contracted": "Don't"
+      },
+      {
+        "full": "Does not",
+        "contracted": "Doesn't"
+      },
+      {
+        "full": "Did not",
+        "contracted": "Didn't"
+      },
+      {
+        "full": "Am I not",
+        "contracted": "Aren't I"
+      },
+      {
+        "full": "Is not",
+        "contracted": "Isn't"
+      },
+      {
+        "full": "Are not",
+        "contracted": "Aren't"
+      },
+      {
+        "full": "Have not",
+        "contracted": "Haven't"
+      },
+      {
+        "full": "Has not",
+        "contracted": "Hasn't"
+      },
+      {
+        "full": "Had not",
+        "contracted": "Hadn't"
+      },
+      {
+        "full": "Were not",
+        "contracted": "Weren't"
+      },
+      {
+        "full": "Shall not",
+        "contracted": "Shan't"
+      },
+      {
+        "full": "Will not",
+        "contracted": "Won't"
+      },
+      {
+        "full": "Can not",
+        "contracted": "Can't"
+      },
+      {
+        "full": "Could not",
+        "contracted": "Couldn't"
+      },
+      {
+        "full": "Would not",
+        "contracted": "Wouldn't"
+      },
+      {
+        "full": "Should not",
+        "contracted": "Shouldn't"
+      }
+    ]
+  },
+  "negativeWords": [
+    "hardly",
+    "scarcely",
+    "barely",
+    "rarely",
+    "neither",
+    "seldom",
+    "few",
+    "little",
+    "none",
+    "nothing"
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "The cat is sleeping on the couch, is it?",
+      "right": "The cat is sleeping on the couch, isn't it?"
+    },
+    {
+      "wrong": "You haven't seen my glasses, haven't you?",
+      "right": "You haven't seen my glasses, have you?"
+    },
+    {
+      "wrong": "He barely knows the truth, doesn't he?",
+      "right": "He barely knows the truth, does he?"
+    },
+    {
+      "wrong": "They've hardly tried their best, haven't they?",
+      "right": "They've hardly tried their best, have they?"
+    },
+    {
+      "wrong": "I have little hope for success, don't I?",
+      "right": "I have little hope for success, do I?"
+    },
+    {
+      "wrong": "She ate a few of the cookies, did she?",
+      "right": "She ate a few of the cookies, didn't she?"
+    },
+    {
+      "wrong": "Let's go to the movies, should we?",
+      "right": "Let's go to the movies, shall we?"
+    },
+    {
+      "wrong": "Let's bake a cake, will we?",
+      "right": "Let's bake a cake, shall we?"
+    },
+    {
+      "wrong": "I'm not sure about this, isn't I?",
+      "right": "I'm not sure about this, am I?"
+    },
+    {
+      "wrong": "I am your friend, isn't I?",
+      "right": "I am your friend, aren't I?"
+    },
+    {
+      "wrong": "Everybody loves the new song, doesn't it?",
+      "right": "Everybody loves the new song, don't they?"
+    },
+    {
+      "wrong": "Nobody has seen that movie, has he?",
+      "right": "Nobody has seen that movie, have they?"
+    },
+    {
+      "wrong": "Someone has taken my book, hasn't he?",
+      "right": "Someone has taken my book, haven't they?"
+    },
+    {
+      "wrong": "Somebody was present there, wasn't he?",
+      "right": "Somebody was present there, weren't they?"
+    },
+    {
+      "wrong": "No more sugar is needed, do you?",
+      "right": "No more sugar is needed, is it?"
+    },
+    {
+      "wrong": "She has completed the project on time, haven't she?",
+      "right": "She has completed the project on time, hasn't she?"
+    },
+    {
+      "wrong": "India is a great country, isn't he?",
+      "right": "India is a great country, isn't it?"
+    },
+    {
+      "wrong": "She rarely attends the class, doesn't she?",
+      "right": "She rarely attends the class, does she?"
+    },
+    {
+      "wrong": "They didn't see you coming here, is it?",
+      "right": "They didn't see you coming here, did they?"
+    },
+    {
+      "wrong": "It's raining, aren't it?",
+      "right": "It's raining, isn't it?"
+    },
+    {
+      "wrong": "They didn't catch you, are they?",
+      "right": "They didn't catch you, did they?"
+    },
+    {
+      "wrong": "Kavya invited all her friends, isn't it?",
+      "right": "Kavya invited all her friends, didn't she?"
+    },
+    {
+      "wrong": "Rashmi works at the hospital, don't she?",
+      "right": "Rashmi works at the hospital, doesn't she?"
+    },
+    {
+      "wrong": "You think you're clever, are you?",
+      "right": "You think you're clever, don't you?"
+    },
+    {
+      "wrong": "She'll visit us tomorrow, will she?",
+      "right": "She'll visit us tomorrow, won't she?"
+    },
+    {
+      "wrong": "Your sister cooks well, does she?",
+      "right": "Your sister cooks well, doesn't she?"
+    },
+    {
+      "wrong": "They haven't much money, haven't they?",
+      "right": "They haven't much money, have they?"
+    },
+    {
+      "wrong": "All the children went to bed at 9 p.m., did they?",
+      "right": "All the children went to bed at 9 p.m., didn't they?"
+    },
+    {
+      "wrong": "You're coming to the show, isn't it?",
+      "right": "You're coming to the show, aren't you?"
+    },
+    {
+      "wrong": "They won't shout at me, don't they?",
+      "right": "They won't shout at me, will they?"
+    },
+    {
+      "wrong": "I needn't get up early tomorrow, do I?",
+      "right": "I needn't get up early tomorrow, need I?"
+    },
+    {
+      "wrong": "None of us are playing the game with those boys, aren't we?",
+      "right": "None of us are playing the game with those boys, are we?"
+    },
+    {
+      "wrong": "The jury was consentient in its decision, weren't it?",
+      "right": "The jury was consentient in its decision, wasn't it?"
+    },
+    {
+      "wrong": "The cupcakes tasted very good, wasn't they?",
+      "right": "The cupcakes tasted very good, didn't they?"
+    },
+    {
+      "wrong": "He has been to the Andamans, has he?",
+      "right": "He has been to the Andamans, hasn't he?"
+    },
+    {
+      "wrong": "Rahul was not present yesterday, wasn't he?",
+      "right": "Rahul was not present yesterday, was he?"
+    },
+    {
+      "wrong": "He has lost everything he had, have he?",
+      "right": "He has lost everything he had, hasn't he?"
+    },
+    {
+      "wrong": "I am fine, am I?",
+      "right": "I am fine, aren't I?"
+    },
+    {
+      "wrong": "They had arrived before dawn, did they?",
+      "right": "They had arrived before dawn, hadn't they?"
+    },
+    {
+      "wrong": "He hardly ever misses a class, doesn't he?",
+      "right": "He hardly ever misses a class, does he?"
+    },
+    {
+      "wrong": "She has a car, isn't it?",
+      "right": "She has a car, hasn't she?"
+    },
+    {
+      "wrong": "The kitten that fell from the terrace was rescued by the local boys, was it?",
+      "right": "The kitten that fell from the terrace was rescued by the local boys, wasn't it?"
+    }
+  ],
+  "practiceQuestions": [
+    {
+      "id": 1,
+      "question": "She is the class teacher, ______ she?",
+      "options": {
+        "A": "can't",
+        "B": "isn't",
+        "C": "is",
+        "D": "can"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 2,
+      "question": "We met him yesterday, ______?",
+      "options": {
+        "A": "didn't we",
+        "B": "weren't we",
+        "C": "have we",
+        "D": "won't we"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 3,
+      "question": "They will come on time, ______?",
+      "options": {
+        "A": "won't they",
+        "B": "will they",
+        "C": "do they",
+        "D": "does they"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 4,
+      "question": "I am your friend, ______?",
+      "options": {
+        "A": "isn't I",
+        "B": "aren't I",
+        "C": "am I",
+        "D": "amn't I"
+      },
+      "answer": "B",
+      "rule": "Rule 5"
+    },
+    {
+      "id": 5,
+      "question": "Someone has taken my book, hasn't he? (Improve underlined)",
+      "options": {
+        "A": "hasn't he",
+        "B": "hasn't they",
+        "C": "haven't they",
+        "D": "No improvement"
+      },
+      "answer": "C",
+      "rule": "Rule 6"
+    },
+    {
+      "id": 6,
+      "question": "Everyone stood up, ______?",
+      "options": {
+        "A": "didn't they",
+        "B": "did he",
+        "C": "wasn't he",
+        "D": "were they"
+      },
+      "answer": "A",
+      "rule": "Rule 6"
+    },
+    {
+      "id": 7,
+      "question": "The new movie has received positive reviews, hasn't it? (Substitute underlined)",
+      "options": {
+        "A": "did it?",
+        "B": "no improvement",
+        "C": "didn't it?",
+        "D": "haven't it?"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 8,
+      "question": "No more sugar is needed, ______",
+      "options": {
+        "A": "it is?",
+        "B": "do you?",
+        "C": "is it?",
+        "D": "sure?"
+      },
+      "answer": "C",
+      "rule": "Rule 2"
+    },
+    {
+      "id": 9,
+      "question": "She has completed the project on time, haven't she? (Substitute underlined)",
+      "options": {
+        "A": "No substitution required",
+        "B": "hasn't she?",
+        "C": "have she?",
+        "D": "did she?"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 10,
+      "question": "Let's go for a walk, ______?",
+      "options": {
+        "A": "Shall we",
+        "B": "Are we",
+        "C": "Will we",
+        "D": "Shan't we"
+      },
+      "answer": "A",
+      "rule": "Rule 4"
+    },
+    {
+      "id": 11,
+      "question": "I said to my mom, \"India is a great country, ______?\"",
+      "options": {
+        "A": "isn't he",
+        "B": "isn't she",
+        "C": "isn't it",
+        "D": "aren't they"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 12,
+      "question": "She rarely attends the class, ______?",
+      "options": {
+        "A": "Does she",
+        "B": "Isn't it",
+        "C": "Is it",
+        "D": "Doesn't she"
+      },
+      "answer": "A",
+      "rule": "Rule 2"
+    },
+    {
+      "id": 13,
+      "question": "Somebody was present there, wasn't he? (Find error segment)",
+      "options": {
+        "A": "somebody was",
+        "B": "wasn't he ?",
+        "C": "No Error",
+        "D": "present there"
+      },
+      "answer": "B",
+      "rule": "Rule 6"
+    },
+    {
+      "id": 14,
+      "question": "They didn't see you coming here, (is it)?",
+      "options": {
+        "A": "did they",
+        "B": "didn't they",
+        "C": "didn't you",
+        "D": "did you"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 15,
+      "question": "It's raining, ______ .",
+      "options": {
+        "A": "Is it?",
+        "B": "Isn't it?",
+        "C": "Aren't it?",
+        "D": "Was it?"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 16,
+      "question": "Frame a question tag for: 'He has gone to the railway station to see off his cousin.'",
+      "options": {
+        "A": "Why ______?",
+        "B": "How much ______?",
+        "C": "Whose ______?",
+        "D": "None of the above"
+      },
+      "answer": "A",
+      "rule": "WH Question Tag"
+    },
+    {
+      "id": 17,
+      "question": "They didn't catch you, are they? (Substitute underlined)",
+      "options": {
+        "A": "did they",
+        "B": "wasn't it",
+        "C": "didn't they",
+        "D": "had they"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 18,
+      "question": "You don't mind if I open the window, do you? (Find grammatical error)",
+      "options": {
+        "A": "mind if I open the window",
+        "B": "You don't",
+        "C": "do you?",
+        "D": "No error"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 19,
+      "question": "Kavya invited all her friends, isn't it? (Substitute underlined)",
+      "options": {
+        "A": "didn't she?",
+        "B": "did she?",
+        "C": "don't she?",
+        "D": "isn't she?"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 20,
+      "question": "Rashmi works at the hospital, don't she? (Substitute underlined)",
+      "options": {
+        "A": "does she?",
+        "B": "has she?",
+        "C": "doesn't she?",
+        "D": "do she?"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 21,
+      "question": "You think you're clever, ______?",
+      "options": {
+        "A": "are you",
+        "B": "don't you",
+        "C": "aren't you",
+        "D": "do you"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 22,
+      "question": "She'll visit us tomorrow, ______?",
+      "options": {
+        "A": "will she",
+        "B": "wouldn't she",
+        "C": "won't she",
+        "D": "would she"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 23,
+      "question": "In which of the following is the question tag incorrectly put?",
+      "options": {
+        "A": "They haven't come, have they?",
+        "B": "Somebody has called, haven't they?",
+        "C": "Have some more rice, will you?",
+        "D": "Your sister cooks well, does she?"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 24,
+      "question": "They haven't much money, ______?",
+      "options": {
+        "A": "hadn't they",
+        "B": "haven't they",
+        "C": "had they",
+        "D": "have they"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 25,
+      "question": "All the children went to bed at 9 p.m. ______?",
+      "options": {
+        "A": "did they",
+        "B": "didn't they",
+        "C": "weren't they",
+        "D": "none of these"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 26,
+      "question": "You're coming to the Show, ______ ?",
+      "options": {
+        "A": "aren't you",
+        "B": "can't you",
+        "C": "isn't it",
+        "D": "won't you"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 27,
+      "question": "Let's go for a walk, ______",
+      "options": {
+        "A": "shall we?",
+        "B": "will we?",
+        "C": "shan't we?",
+        "D": "do we?"
+      },
+      "answer": "A",
+      "rule": "Rule 4"
+    },
+    {
+      "id": 28,
+      "question": "They won't shout at me, ______",
+      "options": {
+        "A": "do they?",
+        "B": "don't they?",
+        "C": "will they?",
+        "D": "won't they?"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 29,
+      "question": "I needn't get up early tomorrow ______?",
+      "options": {
+        "A": "need I",
+        "B": "do I",
+        "C": "don't I",
+        "D": "should I"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 30,
+      "question": "None of us are playing the game with those boys, aren't we? (Find error part)",
+      "options": {
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(d)",
+        "D": "(c)"
+      },
+      "answer": "D",
+      "rule": "Rule 2"
+    },
+    {
+      "id": 31,
+      "question": "The jury was consentient in its decision, ______",
+      "options": {
+        "A": "weren't it?",
+        "B": "wasn't it?",
+        "C": "aren't it?",
+        "D": "don't it?"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 32,
+      "question": "The cupcakes tasted very good, ______ they?",
+      "options": {
+        "A": "Wasn't",
+        "B": "Weren't",
+        "C": "Didn't",
+        "D": "Couldn't"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 33,
+      "question": "He has been to the Andamans, ______?",
+      "options": {
+        "A": "has he",
+        "B": "was he",
+        "C": "isn't he",
+        "D": "hasn't he"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 34,
+      "question": "Rahul was not present yesterday, ______.",
+      "options": {
+        "A": "was he?",
+        "B": "wasn't he?",
+        "C": "didn't he?",
+        "D": "isn't he?"
+      },
+      "answer": "A",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 35,
+      "question": "He has lost everything he had, ______.",
+      "options": {
+        "A": "have he?",
+        "B": "has he?",
+        "C": "doesn't he?",
+        "D": "hasn't he?"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 36,
+      "question": "I am fine, ______?",
+      "options": {
+        "A": "aren't I",
+        "B": "will I",
+        "C": "am I",
+        "D": "I am"
+      },
+      "answer": "A",
+      "rule": "Rule 5"
+    },
+    {
+      "id": 37,
+      "question": "They had arrived before dawn, ______?",
+      "options": {
+        "A": "didn't they",
+        "B": "did they",
+        "C": "had they",
+        "D": "hadn't they"
+      },
+      "answer": "D",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 38,
+      "question": "He hardly ever misses a class, ______?",
+      "options": {
+        "A": "doesn't he",
+        "B": "does he",
+        "C": "did he",
+        "D": "do he"
+      },
+      "answer": "B",
+      "rule": "Rule 2"
+    },
+    {
+      "id": 39,
+      "question": "She has a car, isn't it? (Substitute underlined)",
+      "options": {
+        "A": "doesn't she?",
+        "B": "hasn't she?",
+        "C": "isn't she?",
+        "D": "has she not?"
+      },
+      "answer": "B",
+      "rule": "Rule 1"
+    },
+    {
+      "id": 40,
+      "question": "The kitten that fell from the terrace was rescued by the local boys, was it? (Substitute underlined)",
+      "options": {
+        "A": "has it?",
+        "B": "will it?",
+        "C": "wasn't it?",
+        "D": "shouldn't it?"
+      },
+      "answer": "C",
+      "rule": "Rule 1"
+    }
+  ],
+  "examStrategy": [
+    {
+      "tier": "Tier-1",
+      "english": "Question Tags questions test Rule 1 (positive-negative), negative words (rarely, hardly), indefinite pronouns (everybody/somebody), and Let's -> shall we. These 4 patterns cover almost all Tier-1 questions.",
+      "marathi": "Tier-1 मध्ये Rule 1 (Positive-Negative), Negative Words (rarely, hardly), Indefinite Pronouns (everybody/somebody) आणि Let's -> shall we हे 4 Patterns जवळपास सर्व Questions Cover करतात."
+    },
+    {
+      "tier": "Tier-2",
+      "english": "Revise auxiliary contraction table thoroughly, along with collective nouns (jury), 'none/little/few' family, and modal verbs (needn't, won't) based question tags.",
+      "marathi": "Auxiliary Contraction Table, Collective Nouns (jury), 'none/little/few' Family आणि Modal Verbs (needn't, won't) आधारित Question Tags पूर्ण Revise करा."
+    }
+  ],
+  "goldenRevision": [
+    "Positive Statement -> Negative Tag",
+    "Negative Statement -> Positive Tag",
+    "hardly/scarcely/barely/rarely/seldom/few/little/none/nothing/neither -> Positive Tag",
+    "Little/Few -> Positive Tag",
+    "A little/A few -> Negative Tag",
+    "The little/The few -> Negative Tag",
+    "Let's -> shall we?",
+    "Everybody/Everyone/Somebody/Someone/Nobody/Anybody -> they (plural tag)",
+    "I am -> aren't I?",
+    "Imperative sentence -> will you?",
+    "Collective noun (jury/team) -> it",
+    "Needn't -> need I?",
+    "Won't -> will they?"
+  ]
+}

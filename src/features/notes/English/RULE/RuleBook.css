@@ -1,0 +1,28 @@
+.rulebook-app { max-width: 720px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; padding: 16px; }
+.rulebook-header { text-align: center; margin-bottom: 12px; }
+.rulebook-author { color: #666; font-size: 14px; }
+.tab-nav { display: flex; gap: 8px; margin-bottom: 16px; border-bottom: 2px solid #eee; }
+.tab-btn { flex: 1; padding: 10px; border: none; background: #f5f5f5; cursor: pointer; font-weight: 600; border-radius: 6px 6px 0 0; }
+.tab-btn.active { background: #2563eb; color: #fff; }
+.rule-card { background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.rule-card-header { display: flex; justify-content: space-between; color: #888; font-size: 13px; margin-bottom: 8px; }
+.rule-title { margin: 0 0 12px; font-size: 20px; color: #111; }
+.rule-text { font-size: 15px; line-height: 1.5; margin-bottom: 12px; }
+.rule-points li, .rule-examples li { margin-bottom: 6px; line-height: 1.4; }
+.rule-note { background: #fff7e6; padding: 8px 12px; border-radius: 6px; margin: 10px 0; font-size: 14px; }
+.rule-wordlist { margin: 10px 0; font-size: 14px; }
+.rule-questions { margin-top: 16px; border-top: 1px dashed #ddd; padding-top: 12px; }
+.rule-questions li { margin-bottom: 10px; font-size: 14px; }
+.q-source { color: #2563eb; font-size: 12px; }
+.answer-key summary { cursor: pointer; font-weight: 600; margin-top: 8px; }
+.pagination-bar { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 16px; }
+.page-btn { padding: 8px 16px; border-radius: 6px; border: 1px solid #ccc; background: #fff; cursor: pointer; }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.page-indicator { font-size: 14px; color: #444; }
+.page-jump-input { width: 50px; padding: 6px; border-radius: 6px; border: 1px solid #ccc; text-align: center; }
+.quick-revision-hint { font-size: 13px; color: #666; margin-bottom: 12px; }
+.quick-scroll-list { display: flex; flex-direction: column; gap: 10px; max-height: 80vh; overflow-y: auto; }
+.quick-item { display: flex; gap: 10px; background: #fafafa; border: 1px solid #eee; border-radius: 8px; padding: 10px 14px; }
+.quick-rule-num { font-weight: 700; color: #2563eb; min-width: 36px; }
+.quick-item-body h4 { margin: 0 0 4px; font-size: 14px; }
+.quick-item-body p { margin: 0; font-size: 13px; color: #555; }

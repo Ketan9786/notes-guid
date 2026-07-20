@@ -1,0 +1,931 @@
+{
+  "bookTitle": "Pocket Rocket English Formula Book",
+  "author": "Prashant Solanki",
+  "totalRules": 30,
+  "rules": [
+    {
+      "id": 1,
+      "page": 8,
+      "title": "Singular-Plural Subject Verb Agreement",
+      "ruleText": "Singular subject ke sath singular verb aur plural subject ke sath plural verb ka prayog kiya jata hai.",
+      "points": [
+        "Singular subjects → he, she, it, everyone, no one, something, someone, singular and uncountable nouns, etc.",
+        "Singular verbs → is, was, has, does, V1 + s/es, etc.",
+        "Plural subjects → you, we, they, plural nouns, etc.",
+        "Plural verbs → are, were, have, do, V1, etc."
+      ],
+      "note": "'I' ke sath am, was, have, do, V1 ka prayog hota hai.",
+      "examples": [
+        "Radhika live in Delhi. (use 'lives')",
+        "You was responsible for the loss. (use 'were')"
+      ],
+      "questions": [
+        {
+          "q": "The monsoon have (a)/in the past five days (b)/retreated from most parts of the country. (c)/no error (d)",
+          "source": "SSC CPO Pre 12/12/2019 Shift-I",
+          "answer": "a"
+        },
+        {
+          "q": "Saurav Ganguly have emerged (a)/as the new President (b)/of the BCCI (c)/after a night long discussion. (d)",
+          "source": "SSC CPO Pre 11/12/2019 Shift-I",
+          "answer": "a"
+        },
+        {
+          "q": "I goes (a)/to the school (b)/every day (c)/irrespective of the weather. (d)",
+          "source": "SSC CHSL 27/05/2022 Shift-I",
+          "answer": "a"
+        },
+        {
+          "q": "Rescue officials (a)/was unable to find any survivors (b)/in the California boat tragedy. (c)/no error (d)",
+          "source": "SSC CGL Mains 13/09/2019",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "page": 9,
+      "title": "Either-Or / Neither-Nor Subject Verb Agreement",
+      "ruleText": "Jab 'either-or', 'neither-nor', 'not only ...... but also' ya 'or' se 2 subjects ko connect kiya jata hai, tab verb hamesha paas wale subject ke anusar aati hai.",
+      "examples": [
+        "Either Radhika or her brothers is responsible for the misconduct. (use 'are')",
+        "There was not only the students but also the teacher. (use 'were')"
+      ],
+      "questions": [
+        {
+          "q": "Either Ramesh (a)/or Reema have (b)/the keys (c)/to the cupboard.(d)",
+          "source": "CPO 25/11/2020 (Evening)",
+          "answer": "b"
+        },
+        {
+          "q": "Neither Mohit nor Rohit (a)/were there at the shop (b)/when I went there. (c) no error (d)",
+          "source": "CPO- 12/3/2019 (Evening)",
+          "answer": "b"
+        },
+        {
+          "q": "Neither I nor my (a)/sisters was interested (b)/in learning music. (c)/no error (d)",
+          "source": "CPO- 13/3/2019(Morning)",
+          "answer": "b"
+        },
+        {
+          "q": "Neither Amit nor (a)/Raju are staying with (b)/his parents in Mumbai.(c)/no error (d)",
+          "source": "CPO Tier II 27/9/2019",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "page": 10,
+      "title": "Noun/Pronoun Joined by Preposition",
+      "ruleText": "Jab 2 noun/pronoun ko kisi preposition se joda jaye tab neeche diye gaye structure ko yaad rakhen.",
+      "structure": "Noun/pronoun + preposition + noun/pronoun → Verb according to first noun; Word list case; second noun In objective case",
+      "wordList": [
+        "as well as",
+        "like",
+        "unlike",
+        "but",
+        "besides",
+        "excluding",
+        "including",
+        "except",
+        "and not",
+        "along with",
+        "together with",
+        "in company of",
+        "accompanied by"
+      ],
+      "examples": [
+        "Abhishek and not his parents are a good businessman. (use 'is')",
+        "He together with his friends are going to temple. (use 'is')"
+      ],
+      "questions": [
+        {
+          "q": "The PM, alongwith (a)/the other ministers (b)/have left for America. (c)/no error (d)",
+          "source": "CGL, 03/3/2020(Afternoon)",
+          "answer": "c"
+        },
+        {
+          "q": "The child along with (a)/his parents were waiting (b)/for the programme to begin. (c)/no error (d)",
+          "source": "CGL- 11/6/2019 (Evening)",
+          "answer": "b"
+        },
+        {
+          "q": "The mother as well as (a)/her children were brought to (b)/the police station for interrogation. (c)/no error (d)",
+          "source": "MTS 14/8/2019 (afternoon)",
+          "answer": "b"
+        },
+        {
+          "q": "The doctor with (a)/his interns are (b)/due to arrive here by noon. (c)/no error (d)",
+          "source": "MTS 05/8/2019 (Afternoon)",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "page": 11,
+      "title": "Subject-Verb Separated by Phrases/Clauses",
+      "ruleText": "Subject aur verb ko alag karne ke liye aksar unke beech me preposition phrase, infinitive, relative clause, participles, etc. laga diye jate hain, aise mein dhyan rakhe ki verb subject ke according hi aati hai.",
+      "examples": [
+        "The monkies sitting on the wall is very wild. (use 'are')",
+        "The crowd across the bridge are very furious. (use 'is')"
+      ],
+      "questions": [
+        {
+          "q": "Lack of required (a)/vitamins and minerals (b)/lead to several complications (c)/in the human body. (d)",
+          "source": "CGL 13/08/2021 (Evening)",
+          "answer": "c"
+        },
+        {
+          "q": "The inflow of foreign portfolio funds (a)/into Indian equities have pushed (b)/up price-earning multiples and valuation. (c)/no error (d)",
+          "source": "SSC CHSL 15/03/2023 SHIFT-4",
+          "answer": "b"
+        },
+        {
+          "q": "The strain caused by (a)/the difficulties and anxieties (b)/were more than (c)/she could bear. (d)",
+          "source": "CGL Mains 28/01/2022",
+          "answer": "c"
+        },
+        {
+          "q": "The simplest way (a)/to get proper recognition (b)/are through doing things (c)/with dedication and sincerity. (d)",
+          "source": "CHSL 18/03/20(Evening)",
+          "answer": "c"
+        },
+        {
+          "q": "Everything that (a)/I like to eat (b)/are fattening. (c)/no error (d)",
+          "source": "CGL, 03/3/2020 S3",
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "page": 13,
+      "title": "'And' Joining Two Nouns",
+      "ruleText": "Jab 'and' se 2 nouns ko joda jaye, teen cases dhyan mein rakhein.",
+      "points": [
+        "Case 1. Divided sense (Alag cheezen): N1 'and' N2 → (divided sense) → plural verb. Such as: water and fire, poverty and development, time and tide, etc.",
+        "Case 2. Unified sense (Ek sath milke): N1 'and' N2 → (unified sense) → singular verb. Such as: the dance and music, soda and whiskey, sum and substance, rice and curry, horse and carriage, age and experience, drinking and driving, slow and steady, honour and glory, bread and butter, etc.",
+        "Hint: Agar article ya possessive case 1 baar ho tab verb singular aata hai, agar 2 baar ho tab verb plural aata hai.",
+        "Case 3. Each/every + N1 'and' N2 → singular verb"
+      ],
+      "examples": [
+        "Poverty and development goes hand in hand. (use 'go')",
+        "Slow and steady win the race. (use 'wins')",
+        "Every man and woman have to participate. (use 'has')",
+        "I want to thank each and every person who have contributed to this project. (use 'has')"
+      ],
+      "questions": [
+        {
+          "q": "Time and tide (a)/waits (b)/for none (c)/no error (d)",
+          "source": "HCM (DP) 10/10/2022 Shift-II",
+          "answer": "b"
+        },
+        {
+          "q": "Bread and butter (a)/are our (b)/usual breakfast. (c)/no error (d)",
+          "source": "Kolkata Police 2012",
+          "answer": "b"
+        },
+        {
+          "q": "Every man, woman and child in the hall (a)/have been given a pair of glasses (b)/with coloured lens to watch the 3D movie. (c)/no error (d)",
+          "source": "Indian coast gaurd 2017",
+          "answer": "b"
+        },
+        {
+          "q": "The poet (a)/and the author (b)/is awarded (c)/by the president. (d)",
+          "source": "SSC GD 24/11/2021",
+          "answer": "c"
+        },
+        {
+          "q": "The famous author (a)/and actor are being (b)/honoured at a function today. (c)/no error (d)",
+          "source": "SSC CGL 07/03/2020",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "page": 14,
+      "title": "Indefinite Pronouns take Singular Verb",
+      "ruleText": "Everyone/someone/anyone/no one, Everybody/somebody/anybody/nobody, Everything/something/anything/nothing, Each/either/neither/none/any — diye gaye pronouns ke saath singular verb aur singular pronoun/determiner ka hi prayog kiya jata hai.",
+      "examples": [
+        "Somebody has forgotten their key on the table. (use 'his')",
+        "Somebody need to be here to greet the late arrivals. (use 'needs')",
+        "Each of the students of my class are very intelligent. (use 'is')"
+      ],
+      "questions": [
+        {
+          "q": "Everyone have (a)/to join health orientation (b)/classes before (c)/going for trekking. (d)",
+          "source": "SSC CHSL 09/07/2024 Shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "Either of the two supervisors (a)/were supposed to be (b)/present at the site. (c)/no error (d)",
+          "source": "CPO 11/12/2019 Shift-III",
+          "answer": "b"
+        },
+        {
+          "q": "Each of (a)/the pictures (b)/have been (c)/signed by the football star. (d)",
+          "source": "CHSL 05/07/2019 Shift-III",
+          "answer": "c"
+        },
+        {
+          "q": "He asked (a)/whether either of the brothers (b)/were at home. (c)/no error (d)",
+          "source": "",
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "page": 15,
+      "title": "'One of' + Plural Noun + Singular Verb",
+      "ruleText": "One of ke baad plural noun aur singular verb ka prayog kiya jata hai, iske baad article 'the' ka prayog kiya jata hai aur agar adjective aaye tab superlative degree ka prayog kiya jata hai.",
+      "examples": [
+        "One of the boys were found guilty. (use 'was')",
+        "It is one of more serious problems. (use 'the most')"
+      ],
+      "questions": [
+        {
+          "q": "One of these (a)/boxes have (b)/the portrait (c)/of the heiress. (d)",
+          "source": "SSC CGL Pre 2023",
+          "answer": "b"
+        },
+        {
+          "q": "One of (a)/the biggest enterprise (b)/in India (c)/is declaring a lockout. (d)",
+          "source": "SSC CGL 2021",
+          "answer": "b"
+        },
+        {
+          "q": "Land revenue was one of the (a)/major source of income (b)/for Britishers in India. (c)/no error (d)",
+          "source": "SSC MTS 2021",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "page": 16,
+      "title": "All/Some/Any at Sentence Start",
+      "ruleText": "'All/some/any' agar sentence ki starting mein ho tab verb ka prayog unke baad prayog huye noun ke anusar kiya jata hai.",
+      "points": [
+        "Some/all/any + uncountable noun → singular verb",
+        "Some/all/any + plural noun → plural verb"
+      ],
+      "examples": [
+        "Some fruit juices is very acidic. (use 'are')",
+        "All wood tend to shrink. (use 'tends')"
+      ],
+      "questions": [
+        {
+          "q": "Some of the issues discussed (a)/in the media nowadays has no relevance (b)/to the nation building process. (c)/no error (d)",
+          "source": "CHSL 19/03/2020 Shift-II",
+          "answer": "b"
+        },
+        {
+          "q": "All our teachers (a)/teaches us very well (b)/but the mathematics teacher (c)/is the best.(d)",
+          "source": "CHSL 15/07/2021",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "page": 17,
+      "title": "Time/Money/Weight Expressions as a Unit",
+      "ruleText": "Jab bhi kisi sentence mein time, money, speed, weight, height, distance ke expressions ko as a whole (ek unit) ki tarah prayog kiya jaye, tab singular verb ka prayog hota hai. Agar inn expressions ko in various ways (alag-alag tareeko se) prayog kiya jaye, tab plural verb ka prayog hota hai.",
+      "examples": [
+        "Five years are a long time to wait. (use 'is')",
+        "Five years has passed since I last saw Radhika. (use 'have')"
+      ],
+      "questions": [
+        {
+          "q": "He reached quickly because (a)/five miles were not (b)/a long distance for (c)/a young man like him. (d)",
+          "source": "SSC Steno 18/11/2022 Shift-I",
+          "answer": "b"
+        },
+        {
+          "q": "Only five minutes are allowed (a)/for each speaker (b)/during the function. (c)/no error (d)",
+          "source": "CHSL 11/08/2021 Shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "Ten kilometers are (a)/a long distance (b)/to cover on foot (c)/for a child. (d)",
+          "source": "SSC CGL Pre 11/06/2019",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "page": 18,
+      "title": "Number/Amount Expressions with Verbs",
+      "ruleText": "Diye gaye structures ko yaad rakhein.",
+      "points": [
+        "(a) The number of / Many a / More than one / A certain + Pl./Sing./Sing./Sing. noun + Singular verb",
+        "(b) A number of / Many / A large no. of / A great or good no. of / Certain + Plural noun + Plural verb",
+        "(c) More + noun (pl) + than one + verb (pl)"
+      ],
+      "examples": [
+        "The number of participants are increasing. (use 'is')",
+        "Many a students has been awarded a scholarship. (use 'student')",
+        "More than one book have been lost from the library. (use 'has')",
+        "A number of teachers is attending the conference. (use 'are')",
+        "Many students has completed their assignments. (use 'have')",
+        "A large number of tourist visit this city every year. (use 'tourists')",
+        "A great many people has supported the campaign. (use 'have')",
+        "More book than one can read have been recommended for the exam. (use 'books')"
+      ],
+      "questions": [
+        {
+          "q": "The number of (a)/visitors at the fair (b)/were much larger (c)/than expected. (d)",
+          "source": "SSC CHSL 04/07/2019 shift-III",
+          "answer": "c"
+        },
+        {
+          "q": "The number of students (a)/attending their classes (b)/are constantly decreasing (c)/in our university. (d)",
+          "source": "SSC CGL 12/12/2022 shift-II",
+          "answer": "c"
+        },
+        {
+          "q": "Many a student (a)/have passed (b)/the IIT examination (c)/no error (d)",
+          "source": "SSC CGL Mains 2010",
+          "answer": "b"
+        },
+        {
+          "q": "A large number of (a)/worker have started (b)/walking home. (c)/no error (d)",
+          "source": "SSC CGL Mains 15/11/2022",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "page": 20,
+      "title": "There/Adverb of Place + Verb + Subject",
+      "ruleText": "There/adverb of place + singular verb + singular subject; There/adverb of place + plural verb + plural subject.",
+      "examples": [
+        "There were an abandoned supermarket trolly in the middle of the road. (use 'was')",
+        "Outside the temple lives two priests. (use 'live')"
+      ],
+      "questions": [
+        {
+          "q": "There is too many (a)/pieces of glass (b)/on the ground. (c)/no error (d)",
+          "source": "SSC Steno 18/11/2022 Shift-III",
+          "answer": "a"
+        },
+        {
+          "q": "There is many ways (a)/to make (b)/a stranger feel (c)/welcome in the community.",
+          "source": "SSC CHSL 26/05/2022 Shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "When there were (a)/a strong wind, (b)/the pine trees made (c)/sad, eerie sounds. (d)",
+          "source": "CGL Mains 15/11/2020",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "page": 20,
+      "title": "Proper Noun as Subject → Singular Verb",
+      "ruleText": "Jab kisi proper noun ko sentence ka subject bana kar prayog kiya jaye, tab uske baad verb ki 'singular form' ka prayog kiya jata hai.",
+      "points": [
+        "Confusing proper nouns: (i) Name of a book/novel (Malgudi Days, Arabian Nights, Pride and Prejudice) (ii) Name of a country (United States of America, The West Indies) (iii) Name of an organization (United Nations) (iv) Name of a game (Billiards, Darts) (v) Name of a movie (Three Idiots, The Avengers)"
+      ],
+      "examples": [
+        "Malgudi days are a classic book by R.K. Narayan. (use 'is')",
+        "The west Indies are known for its cricket teams. (use 'is')",
+        "The United Nations aim to promote peace. (use 'aims')",
+        "Billiards are a popular indoor game. (use 'is')",
+        "Three Idiots are a hit film in Bollywood. (use 'is')"
+      ],
+      "questions": [
+        {
+          "q": "Gulliver's travels (a)/were written (b)/in 1726. (c)/no error (d)",
+          "source": "SSC CHSL 2021",
+          "answer": "b"
+        },
+        {
+          "q": "Many people must have read (a)/the Arabian Nights, (b)/which are very interesting (c)/no error (d)",
+          "source": "SSC MTS 23/02/2014",
+          "answer": "c"
+        },
+        {
+          "q": "The Arabian Nights (a)/have (b)/many interesting stories for readers. (c)/no error (d)",
+          "source": "SSC Steno 2023",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "page": 22,
+      "title": "Singular Words that Look Plural",
+      "ruleText": "Diye gaye words ke sath singular verb ka prayog kiya jata hai lekin inke pahle the/my/his/her/our/your/their, etc. ka prayog hone par inke sath plural verb ka prayog kiya jata hai: News, Mathematics, Politics, Measles, Mumps, Billiards, Athletics, Linguistics, Ethics, etc.",
+      "examples": [
+        "Politics play a crucial role in shaping society. (use 'plays')",
+        "Their politics has changed over the years. (use 'have')",
+        "Mathematics are essential for understanding physics. (use 'is')"
+      ],
+      "questions": [
+        {
+          "q": "Mathematics help (a)/in developing (b)/the logical mindset (c)/of students. (d)",
+          "source": "SSC CHSL 10/07/2024 Shift-IV",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "page": 23,
+      "title": "Always Plural Words",
+      "ruleText": "Diye gaye words hamesha plural form mein aate hain aur yeh hamesha plural verbs lete hain: Belongings, savings, congratulations, scissors, proceeds, earrings, tidings, thanks, goggles, premises, surroundings, outskirts, shorts, pliers, tongs, jeans, regards, pantaloons, pyjamas, clothes, etc.",
+      "examples": [
+        "Her belonging are packed and ready. (use 'belongings')",
+        "The scissors is on the table. (use 'are')"
+      ],
+      "questions": [
+        {
+          "q": "My friend Jatin (a)/usually (b)/wears spectacle. (c)/no error (d)",
+          "source": "MTS 19/07/2022 Shift-I",
+          "answer": "c"
+        },
+        {
+          "q": "The beautiful (a)/surroundings of the place (b)/enchanted me. (c)/no error (d)",
+          "source": "SSC Section off. Audit 2008",
+          "answer": "d"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "page": 23,
+      "title": "Uncountable Nouns Without Plural Form",
+      "ruleText": "Diye gaye words plural forms mein exist nahi karte kyunki yeh sab uncountable nouns hain: Equipment, furniture, jewellery, luggage, poetry, machinery, scenery, information, advice, knowledge, baggage, hair, news, chalk, money, crockery, hardware, education, etc.",
+      "examples": [
+        "The room is filled with beautiful furnitures. (use 'furniture')",
+        "She loves to wear expensive jewelleries. (use 'jewellery')"
+      ],
+      "questions": [
+        {
+          "q": "They had to wait for the luggages to be (a)/put into the cab before (b)/they themselves got into it. (c)/no error (d)",
+          "source": "CHSL 17/03/2020 Shift-I",
+          "answer": "a"
+        },
+        {
+          "q": "This furnitures has been (a)/taken on hire for the function (b)/in the college. (c)/no error (d)",
+          "source": "CHSL 17/03/2020 shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "Plenty of information (a)/were given to me at (b)/the tourist office. (c)/no error (d)",
+          "source": "SSC CPO 07/03/2020",
+          "answer": "b"
+        },
+        {
+          "q": "The sceneries (a)/of Kashmir (b)/is very charming. (c)/no error (d)",
+          "source": "SSC T.A. 29/03/2009",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "page": 24,
+      "title": "Same Singular and Plural Forms",
+      "ruleText": "Kuch nouns ke singular aur plural form saman hote hain, isliye inka prayog savdhani se karna chahiye: Sheep, Deer, Swine, Series, Salmon, Fish, Vocation, Innings, Means, Headquarters, Aircraft, Hovercraft, Gallows, etc.",
+      "examples": [
+        "Sheep were grazing in the fields. [correct]",
+        "These leaves are toxic to sheeps. (use 'sheep')"
+      ],
+      "questions": [
+        {
+          "q": "When I was passing through the forest (a)/I happened to see (b)/a number of deers. (c)/no error (d)",
+          "source": "SSC MTS 16/02/2014",
+          "answer": "c"
+        },
+        {
+          "q": "The first inning (a)/of the match (b)/way very sensational. (c)/no error (d)",
+          "source": "SSC CGL Mains 21/09/2014",
+          "answer": "a"
+        },
+        {
+          "q": "I saw (a)/two deers (b)/in the woods. (c)/no error (d)",
+          "source": "SSC CPO 28/09/2014",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "page": 25,
+      "title": "Nouns That Look Singular but are Plural",
+      "ruleText": "Kuch nouns dekhne mein singular lagte hain, lekin yeh plural ki tarah hi prayog hote hain atah inke saath s/es nahi lagaya jata: People, Police, Children, Poultry, Gentry, Peasantry, Clergy, Vermin, Cattle, etc.",
+      "examples": [
+        "These cattles are being fattened up for slaughter. (use 'cattle')",
+        "The room was crawling with vermins. (use 'vermin')"
+      ],
+      "questions": [
+        {
+          "q": "The chart papers (a)/were distributed among (b)/all the childrens. (c)/no error (d)",
+          "source": "CPO Mains 27/09/2019",
+          "answer": "c"
+        },
+        {
+          "q": "These stray cattles (a)/are roaming (b)/around the town. (c)/no error (d)",
+          "source": "SSC CPO 14/03/2019 Shift-III",
+          "answer": "a"
+        },
+        {
+          "q": "People has been (a)/warning in advance (b)/about the coming economic crisis. (c)/no error (d)",
+          "source": "CHSL 15/04/2021 Shift-I",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "page": 26,
+      "title": "Plural of Compound Nouns",
+      "ruleText": "Plural of Compound Noun ko yaad rakhein.",
+      "points": [
+        "Book Shelf → Book Shelves",
+        "Code of conduct → Codes of conduct",
+        "Step daughter → Step daughters",
+        "Brother-in-law → Brothers-in-law",
+        "General Manager → General Managers",
+        "Commander in chief → Commanders in chief",
+        "Officer in charge → Officers in charge",
+        "Maid servant → Maid servants",
+        "Man doctor → Men doctors",
+        "Mouthful → Mouthfuls",
+        "Looker on → Lookers on",
+        "Woman doctor → Women doctors",
+        "Passer by → Passers by",
+        "Bagful → Bagfuls",
+        "Attorney General → Attorneys general"
+      ],
+      "examples": [
+        "She scooped up handsful of loose earther. (use 'handfuls')",
+        "Police asked passers-by if they had seen the accident. [correct]"
+      ],
+      "questions": [
+        {
+          "q": "She speaks (a)/very highly (b)/of both her (c)/daughter-in-laws. (d)",
+          "source": "CPO Mains 26/07/2021",
+          "answer": "d"
+        },
+        {
+          "q": "His son-in-laws (a)/have enhanced (b)/his business (c)/within a short period. (d)",
+          "source": "CGL Mains 28/01/2022",
+          "answer": "a"
+        },
+        {
+          "q": "This misogynist hates (a)/all mother-in-laws (b)/and house maids (c)/no error (d)",
+          "source": "SSC 12/09/2010",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "page": 28,
+      "title": "Noun Modifiers Stay Singular",
+      "ruleText": "'Main noun' se pahle prayog kiye gaye noun ko noun modifier kaha jata hai. Ye hamesha singular form mein rahte hain.",
+      "note": "Agar last mein noun na likha ho, kewal adjective ho, tab ye noun jarurat ke hisab se singular ya plural ho sakte hain.",
+      "examples": [
+        "It was a ten hours long journey. (use 'hour')",
+        "I met a forty years old lady. (use 'year')",
+        "The boy was ten year old. (use 'years')",
+        "The journey was three hour long. (use 'hours')"
+      ],
+      "questions": [
+        {
+          "q": "My neighbour's grandson (a)/is only (b)/five month old. (c)/no error (d)",
+          "source": "CGL Pre- 13/04/2022 Shift-II",
+          "answer": "c"
+        },
+        {
+          "q": "An eight years old (a)/girl has made (b)/this beautiful painting. (c)/no error (d)",
+          "source": "CGL Tier II 18/11/2020",
+          "answer": "a"
+        },
+        {
+          "q": "The 91 years old lady (a)/has been a fan (b)/of cricket for decades. (c)/no error (d)",
+          "source": "MTS 06/8/2019 Shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "Hari lost (a)/a hundred rupees note (b)/yesterday. (c)/no error (d)",
+          "source": "SSC CHSL 2012",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "page": 29,
+      "title": "Special Plural Forms",
+      "ruleText": "Special plural forms ko yaad rakhein.",
+      "points": [
+        "Crisis → Crises",
+        "Basis → Bases",
+        "Criterion → Criteria",
+        "Phenomenon → Phenomena",
+        "Thesis → Theses",
+        "Medium → Media",
+        "Syllabus → Syllabi",
+        "Axis → Axes",
+        "Datum → Data",
+        "Mouse → Mice",
+        "Oasis → Oases",
+        "Radius → Radii",
+        "Locus → Loci",
+        "Focus → Foci"
+      ],
+      "questions": [
+        {
+          "q": "The manager put forward (a)/a number of critereons (b)/for the post (c)/no error (d)",
+          "source": "SSC CHSL 27/11/2010",
+          "answer": "b"
+        },
+        {
+          "q": "The man played (a)/the flute and led (b)/all the mouse (c)/out of the town. (d)",
+          "source": "SSC CGL Mains 16/11/2020",
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "page": 30,
+      "title": "Important Collective Nouns",
+      "ruleText": "Important collective nouns ko yaad rakhein.",
+      "points": [
+        "Group of Directors – Board",
+        "Group of stars – Cluster/Constellation",
+        "Group of singers – Choir",
+        "Group of keys/grapes – Bunch",
+        "Group of people – Crowd/mob",
+        "Group of Bees/flies – Swarm",
+        "Group of trees – Groove/Clump",
+        "Group of cats – Clowder",
+        "Group of cards/Wolves – Pack/hounds",
+        "Group of flower – Garland/Bouquet",
+        "Group of puppies – Litter",
+        "Group of sheep – Herd",
+        "Groups of merchants/travellers – Caravan",
+        "Group of Girls/Women – Bevy",
+        "Group of Steps/Stairs/Birds – Flight",
+        "Group of mountains/hills – Range",
+        "Group of students – Class",
+        "Group of servants – Retinue",
+        "Group of laws – Code",
+        "Group of sailors – Crew",
+        "Group of carriages/followers – Train",
+        "Group of bullets/shots – Volley",
+        "Group of discussing people – Forum",
+        "Religious Group – Congregation",
+        "Group of events – Series",
+        "Group of Stones/ruins – Heap",
+        "Group of fish/Whales – School",
+        "Group of Geese/Sheep/Birds – Flock",
+        "Group of horses/Scouts/soldiers – Troop",
+        "Group of robbers/criminals – Gang",
+        "Group of shoes/scissors – Pair",
+        "Group of Corn/arrows – Sheaf",
+        "Group of lions/tigers – Pride"
+      ]
+    },
+    {
+      "id": 22,
+      "page": 32,
+      "title": "Noun + Preposition + Same Noun",
+      "ruleText": "Structure: Noun + preposition + noun (same). Iss structure mein noun ko hamesha singular form mein likha jata hai.",
+      "examples": [
+        "Days after days has passed without any change. (use 'day after day')",
+        "Towns after towns was destroyed. (use 'town after town')"
+      ],
+      "questions": [
+        {
+          "q": "My sister (a)/has read (b)/pages after pages of the bible. (c)/no error (d)",
+          "source": "SSC T.A 05/12/2004",
+          "answer": "c"
+        },
+        {
+          "q": "Speakers after speakers (a)/came on the stage (b)/to perform (c)/no error (d)",
+          "source": "SSC CHSL 04/11/2012",
+          "answer": "a"
+        },
+        {
+          "q": "Towns after towns (a)/was (b)/devastated (c)/no error (d)",
+          "source": "Air force Y group 04/11/2020",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "page": 33,
+      "title": "Definite Number Nouns (dozen, score, hundred)",
+      "ruleText": "Word list: pair, score, gross, hundred, dozen, thousand, million, billion, etc. Agar diye gaye nouns ke aage definite number diya gaya ho tab yeh nouns singular form mein prayog hote hain. Agar number na diya ho tab inko plural form mein prayog karte hain aur inke baad 'of' preposition aata hai.",
+      "examples": [
+        "She bought three dozens eggs. (use 'dozen')",
+        "She bought three dozens of eggs. [correct]"
+      ],
+      "questions": [
+        {
+          "q": "We bought (a)/two dozens (b)/mangoes from (c)/the market. (d)",
+          "source": "CGL Pre- 20/04/2022 Shift-III",
+          "answer": "b"
+        },
+        {
+          "q": "The factory complex houses a shop floor (a)/and 10 cubicles for the staff in an area (b)/of about thousand squares metres. (c)/no error (d)",
+          "source": "SSC CHSL 09/01/2016",
+          "answer": "c"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "page": 34,
+      "title": "Use of Apostrophe ('s)",
+      "ruleText": "Apostrophe ('s) ka prayog living beings ke sath possession ko dikhane ke liye kiya jata hai.",
+      "points": [
+        "Agar noun pahle se 's' par end ho to only apostrophe (') lagate hain 's' nahi.",
+        "Non-living things ke saath apostrophe ('s) ka prayog nahi hota hai, 'noun of noun' ka hota hai.",
+        "Kuch situations mein non-living things ke sath apostrophe ('s) aa sakta hai: personified objects, place names, measurement words, time words, heavenly bodies, kuchh idioms."
+      ],
+      "examples": [
+        "The book's cover is blue. [incorrect] The cover of the book is blue. [correct]"
+      ],
+      "questions": [
+        {
+          "q": "The chair's leg (a)/is (b)/broken. (c)/no error (d)",
+          "source": "OPSC ASO 2015",
+          "answer": "a"
+        },
+        {
+          "q": "The table's legs (a)/have been (b)/elaborately carved (c)/no error (d)",
+          "source": "SSC T.A. Income tax 29/03/2009",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "page": 35,
+      "title": "Common vs Split Possession",
+      "ruleText": "(a) Common possession - Jab 2 nouns closely connected ho aur common possession dikhayi de rahi ho, tab second noun ke saath apostrophe ('s) ka prayog hota hai. (b) Split possession - Jab 2 connected nouns, separate possession dikhate ho, tab dono ke saath apostrophe ('s) ka prayog hota hai.",
+      "examples": [
+        "Tom's and Jerry's friendship is famous. (use \"Tom and Jerry's\")",
+        "Radhika and Kavita's cars are parked outside. (use \"Radhika's and Kavita's\")"
+      ],
+      "questions": [
+        {
+          "q": "There is no money in (a)/Rajesh's and (b)/Reena's joint account. (c)/no error (d)",
+          "source": "SSC CPO Pre 03/07/2017",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "page": 36,
+      "title": "Use of little, a little, the little",
+      "ruleText": "Diye gaye quantifiers ka prayog uncountable nouns ke saath hota hai.",
+      "points": [
+        "Little - Hardly any (bilkul thoda) (-ve sense)",
+        "A little - some but not much (thoda) (+ve sense)",
+        "The little - all that is available (jitna hai, sab kuch)",
+        "Only a little - very little"
+      ],
+      "examples": [
+        "There is the little hope of his recovery. (use 'a little')",
+        "She has spent a little money that she saved for her birthday. (use 'the little')"
+      ],
+      "questions": [
+        {
+          "q": "There is a very little time (a)/for them to prepare (b)/for the show. (c)/no error (d)",
+          "source": "CGL Pre 13/04/2022 Shift-I",
+          "answer": "a"
+        },
+        {
+          "q": "All of us were (a)/a little nervous when (b)/we came into this room today. (c)/no error (d)",
+          "source": "SSC CPO 23/11/2020 Shift-II",
+          "answer": "d"
+        },
+        {
+          "q": "Will you please (a)/give me little milk (b)/for my cat. (c)/no error (d)",
+          "source": "SSC Steno 2016",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "page": 37,
+      "title": "Use of few, a few, the few",
+      "ruleText": "In quantifiers ka prayog plural nouns ke saath hota hai.",
+      "points": [
+        "Few - Hardly any (bilkul kam) (-ve sense)",
+        "A few - some but not many (+ve sense)",
+        "The few - all that are available (jitne hain, sab kuch)",
+        "Only a few - very few"
+      ],
+      "examples": [
+        "Few people attended the meeting. [correct]",
+        "She has a few good idea for the project. (use 'ideas')"
+      ],
+      "questions": [
+        {
+          "q": "My brother brought (a)/a few rice while (b)/coming from the market. (c)/no error (d)",
+          "source": "MTS 06/08/2019 Shift-II",
+          "answer": "b"
+        },
+        {
+          "q": "Deepak said he would (a)/pack few things he (b)/had and vacate the hostel room the next day. (c)/no error (d)",
+          "source": "CHSL 10/07/2019 Shift-II",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "page": 38,
+      "title": "Use of some and any",
+      "ruleText": "(a) 'Any' ka prayog negative aur interrogative sentences mein hota hai, jabki 'some' ka use positive sentences mein hota hai. (b) Agar interrogative sentence ka expected answer positive ho, tab interrogative sentence mein 'some' ka prayog kiya ja sakta hai.",
+      "examples": [
+        "Radhika bought any apples from the market. (use 'some')",
+        "I don't have some money left. (use 'any')"
+      ],
+      "questions": [
+        {
+          "q": "I want to buy this (a)/book please give (b)/me any money. (c)/no error (d)",
+          "source": "CHSL 05/08/2021 Shift-III",
+          "answer": "c"
+        },
+        {
+          "q": "I do not see (a)/some reasons why my (b)/application should be rejected. (c)/no error (d)",
+          "source": "CGL Pre 07/03/2020 Shift-III",
+          "answer": "b"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "page": 38,
+      "title": "Determiners with Countable/Uncountable Nouns",
+      "ruleText": "(a) Niche diye gaye determiners ke sath only uncountable noun ka prayog kiya jata hai: Little, much, A great deal of, amount of, etc. (b) Niche diye gaye determiners ke sath only countable nouns (singular/plural) hi prayog kiye ja sakte hai: Few, Many, Number of, etc.",
+      "questions": [
+        {
+          "q": "Very little metals (a)/are as precious (b)/as gold. (c)/no error (d)",
+          "source": "CHSL 10/7/2019 Shift-III",
+          "answer": "a"
+        },
+        {
+          "q": "We can see (a)/much changes in (b)/Government schools (c)/these days. (d)",
+          "source": "CHSL 16/10/20 Shift-III",
+          "answer": "b"
+        },
+        {
+          "q": "Much of us (a)/lack the (b)/important virtue (c)/of patience. (d)",
+          "source": "CPO Tier-II 26/07/2021",
+          "answer": "a"
+        },
+        {
+          "q": "How many money did (a)/Sudhir win in (b)/the lottery? (c)/no error (d)",
+          "source": "CPO 12/12/2019 Shift-III",
+          "answer": "a"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "page": 39,
+      "title": "All/Both/Half Placement",
+      "ruleText": "All → for more than two; Both → for two; Half → aadha. In teeno ke sath mein article, possessive case, these, those ka prayog ho tab pahle all/both/half ka prayog hota hai.",
+      "note": "Whole ke sath the/possessive case ka prayog whole se pahle hota hai.",
+      "examples": [
+        "I lost my all money. (use 'all my')",
+        "He reached there in a half hour. (use 'half an')",
+        "I lost my whole money. [correct]"
+      ],
+      "questions": [
+        {
+          "q": "The both (a)/children go to (b)/the same school. (c)/no error (d)",
+          "source": "CGL, 06/3/2020 Shift-II",
+          "answer": "a"
+        },
+        {
+          "q": "These all (a)/mangoes (b)/are ripe (c)/no error (d)",
+          "source": "SSC CGL 29/09/2013",
+          "answer": "a"
+        }
+      ]
+    }
+  ]
+}

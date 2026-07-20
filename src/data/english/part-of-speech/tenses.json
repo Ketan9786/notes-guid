@@ -1,0 +1,1717 @@
+{
+  "slug": "tenses",
+  "title": "Tenses",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Tenses",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "A Tense is the form of a verb that indicates the time of an action, event, or state.",
+    "marathi": "क्रिया कोणत्या काळात घडते (वर्तमान, भूत किंवा भविष्य), हे दर्शवणाऱ्या Verb च्या रूपाला Tense म्हणतात.",
+    "examples": [
+       {
+        "word": "I play cricket.",
+        "tag": "Present"
+      },
+       {
+        "word": "I played cricket.",
+        "tag": "Past"
+      },
+       {
+        "word": "I will play cricket.",
+        "tag": "Future"
+      }
+      
+      
+      
+    ]
+  },
+  "types": [
+    {
+      "name": "Present Tense",
+      "english": "Action happening in present.",
+      "marathi": "सध्या घडणारी क्रिया.",
+      "examples": [
+        "Simple",
+        "Continuous",
+        "Perfect",
+        "Perfect Continuous"
+      ]
+    },
+    {
+      "name": "Past Tense",
+      "english": "Action happened in past.",
+      "marathi": "भूतकाळात घडलेली क्रिया.",
+      "examples": [
+        "Simple",
+        "Continuous",
+        "Perfect",
+        "Perfect Continuous"
+      ]
+    },
+    {
+      "name": "Future Tense",
+      "english": "Action will happen in future.",
+      "marathi": "भविष्यात घडणारी क्रिया.",
+      "examples": [
+        "Simple",
+        "Continuous",
+        "Perfect",
+        "Perfect Continuous"
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Present Tenses",
+      "definition": {
+        "english": "Present Tense tells about present action, habit, routine, universal truth, scheduled event, current action, recently completed action, or action continuing from past till present.",
+        "marathi": "Present Tense वर्तमान क्रिया, सवय, दिनक्रम, सत्य, वेळापत्रक किंवा भूतकाळापासून सुरू असलेली क्रिया दर्शवतो."
+      },
+      "tenseTypes": [
+        {
+          "name": "Simple Present Tense",
+          "definition": {
+            "english": "Used for habit, daily routine, universal truth, facts, permanent situations, newspaper headlines, and scheduled events.",
+            "marathi": "नेहमी होणारी क्रिया, सवय, सत्य, दिनक्रम किंवा कायमची गोष्ट दर्शवण्यासाठी वापरला जातो."
+          },
+          "structure": {
+            "positive": "Subject + V1(s/es) + Object",
+            "negative": "Subject + do/does + not + V1",
+            "interrogative": "Do/Does + Subject + V1 ?"
+          },
+          "examples": [
+            "I play cricket.",
+            "She goes to school.",
+            "The sun rises in the east.",
+            "Water boils at 100°C."
+          ],
+          "signalWords": [
+            "Always",
+            "Usually",
+            "Often",
+            "Every day",
+            "Daily",
+            "Generally",
+            "Normally",
+            "Frequently"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Third Person Singular",
+              "english": "He/She/It/Any Singular Noun takes V1 + s/es.",
+              "marathi": "He/She/It किंवा Singular Noun नंतर V1+s/es वापरतात.",
+              "examples": [
+                "He plays football."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "He play football.",
+                  "right": "He plays football."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "I / We / You / They",
+              "english": "Use only V1 with I, We, You, They.",
+              "marathi": "I/We/You/They नंतर फक्त V1 वापरतात.",
+              "examples": [
+                "They play football."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "They plays football.",
+                  "right": "They play football."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "title": "Universal Truth",
+              "english": "Always use Simple Present for universal truths.",
+              "marathi": "सार्वत्रिक सत्यासाठी नेहमी Simple Present वापरतात.",
+              "examples": [
+                "Earth revolves around the Sun."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "Earth is revolving around the Sun.",
+                  "right": "Earth revolves around the Sun."
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "title": "Habit / Routine",
+              "english": "Daily activities use Simple Present.",
+              "marathi": "दैनंदिन क्रियांसाठी Simple Present वापरतात.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 5,
+              "title": "Newspaper Headlines",
+              "english": "Simple Present is used in newspaper headlines.",
+              "marathi": "वृत्तपत्राच्या मथळ्यांमध्ये Simple Present वापरतात.",
+              "examples": [
+                "PM visits France.",
+                "India wins match."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 6,
+              "title": "Scheduled Events",
+              "english": "Used for timetable, train, flight etc.",
+              "marathi": "वेळापत्रक, ट्रेन, फ्लाईट यासाठी वापरतात.",
+              "examples": [
+                "The train leaves at 8 AM.",
+                "Flight arrives tomorrow morning."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscPyqRule": "After Every day, Always, Usually, Generally, Often, Never → Use Simple Present"
+        },
+        {
+          "name": "Present Continuous Tense",
+          "definition": {
+            "english": "Action happening right now or around the present time.",
+            "marathi": "सध्या सुरू असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + is/am/are + V-ing",
+            "negative": "Subject + is/am/are + not + V-ing",
+            "interrogative": "Is/Am/Are + Subject + V-ing ?"
+          },
+          "examples": [
+            "I am studying.",
+            "She is cooking.",
+            "They are playing."
+          ],
+          "signalWords": [
+            "Now",
+            "At present",
+            "Right now",
+            "Currently",
+            "These days",
+            "Nowadays",
+            "At this moment"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Be Verb Agreement",
+              "english": "I → am, He/She/It → is, We/You/They → are.",
+              "marathi": "I→am, He/She/It→is, We/You/They→are.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Temporary Action",
+              "english": "Used for temporary actions.",
+              "marathi": "तात्पुरत्या क्रियेसाठी वापरतात.",
+              "examples": [
+                "I am living in Pune these days."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Changing Situation",
+              "english": "Used for a changing situation.",
+              "marathi": "बदलत्या परिस्थितीसाठी वापरतात.",
+              "examples": [
+                "The weather is getting colder."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Fixed Near Future",
+              "english": "Used for personal arrangements in the near future.",
+              "marathi": "जवळच्या भविष्यातील ठरलेल्या नियोजनासाठी वापरतात.",
+              "examples": [
+                "I am meeting him tomorrow."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 5,
+              "title": "Repeated Annoying Action",
+              "english": "Always + Present Continuous shows irritation.",
+              "marathi": "Always + Present Continuous त्रास/चीड दर्शवते.",
+              "examples": [
+                "He is always shouting."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscTrap": {
+            "wrong": "He is knowing me.",
+            "right": "He knows me."
+          }
+        },
+        {
+          "name": "Present Perfect Tense",
+          "definition": {
+            "english": "Action completed recently or whose result is connected with the present.",
+            "marathi": "आत्ताच पूर्ण झालेली किंवा वर्तमानाशी संबंध असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + has/have + V3",
+            "negative": "Subject + has/have + not + V3",
+            "interrogative": "Has/Have + Subject + V3 ?"
+          },
+          "examples": [
+            "I have finished my work.",
+            "She has written a letter.",
+            "They have arrived."
+          ],
+          "signalWords": [
+            "Already",
+            "Just",
+            "Yet",
+            "Recently",
+            "So far",
+            "Till now",
+            "Up to now",
+            "Ever",
+            "Never"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Has vs Have",
+              "english": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
+              "marathi": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Completed Action",
+              "english": "Used for a recently completed action.",
+              "marathi": "अलीकडे पूर्ण झालेल्या क्रियेसाठी वापरतात.",
+              "examples": [
+                "I have completed my homework."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Experience",
+              "english": "Used to describe experience.",
+              "marathi": "अनुभव दर्शवण्यासाठी वापरतात.",
+              "examples": [
+                "I have visited Delhi twice."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Yet",
+              "english": "Yet is used only in negative and question sentences.",
+              "marathi": "Yet फक्त Negative आणि Question मध्ये वापरतात.",
+              "examples": [
+                "Have you finished?",
+                "I haven't finished yet."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 5,
+              "title": "Already",
+              "english": "Already is used only in positive sentences.",
+              "marathi": "Already फक्त Positive वाक्यात वापरतात.",
+              "examples": [
+                "I have already completed it."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 6,
+              "title": "Since/For",
+              "english": "Normally used with Perfect Continuous, but can appear with Present Perfect if action is completed.",
+              "marathi": "साधारणपणे Perfect Continuous सोबत, पण क्रिया पूर्ण झाल्यास Present Perfect सोबतही येऊ शकते.",
+              "examples": [],
+              "wrongRight": []
+            }
+          ],
+          "sscPyqTrap": {
+            "wrong": "I have seen him yesterday.",
+            "right": "I saw him yesterday."
+          }
+        },
+        {
+          "name": "Present Perfect Continuous Tense",
+          "definition": {
+            "english": "Action started in the past and is still continuing.",
+            "marathi": "भूतकाळात सुरू झालेली आणि अजूनही सुरू असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + has/have + been + V-ing + Since/For",
+            "negative": "Subject + has/have + not + been + V-ing",
+            "interrogative": "Has/Have + Subject + been + V-ing ?"
+          },
+          "examples": [
+            "I have been studying for three hours.",
+            "She has been living here since 2020."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Since = Point of Time",
+              "english": "Since is used with a point of time (2019, Monday, Morning, 5 PM, January, Childhood).",
+              "marathi": "Since वेळेच्या बिंदूसाठी वापरतात.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "For = Period of Time",
+              "english": "For is used with a period of time (2 hours, 5 years, 3 months, 10 days, Long time).",
+              "marathi": "For कालावधीसाठी वापरतात.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Action Must Continue",
+              "english": "The action must still continue.",
+              "marathi": "क्रिया अजूनही सुरू असणे आवश्यक.",
+              "examples": [
+                "I have been working here since 2023."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Duration + Present",
+              "english": "Duration expressions indicate Present Perfect Continuous.",
+              "marathi": "कालावधी दर्शवणारे शब्द Present Perfect Continuous दर्शवतात.",
+              "examples": [],
+              "wrongRight": []
+            }
+          ],
+          "sinceVsFor": [
+            {
+              "since": "Since Monday",
+              "for": "For two days"
+            },
+            {
+              "since": "Since 2015",
+              "for": "For five years"
+            },
+            {
+              "since": "Since morning",
+              "for": "For three hours"
+            }
+          ]
+        }
+      ],
+      "summaryTable": [
+        {
+          "tense": "Simple Present",
+          "structure": "V1 / V1+s"
+        },
+        {
+          "tense": "Present Continuous",
+          "structure": "is/am/are + V-ing"
+        },
+        {
+          "tense": "Present Perfect",
+          "structure": "has/have + V3"
+        },
+        {
+          "tense": "Present Perfect Continuous",
+          "structure": "has/have been + V-ing"
+        }
+      ],
+      "goldenRevision": [
+        "V1(s/es) → Habit / Routine",
+        "is/am/are + V-ing → Action Now",
+        "has/have + V3 → Completed Recently",
+        "has/have been + V-ing → Started in Past & Continuing",
+        "Since → Point",
+        "For → Period",
+        "Universal Truth → Simple Present",
+        "Timetable → Simple Present",
+        "Newspaper Headlines → Simple Present",
+        "Temporary Action → Present Continuous",
+        "Already → Positive",
+        "Yet → Negative / Question"
+      ],
+      "pyqTraps": [
+        {
+          "wrong": "He go to school.",
+          "right": "He goes to school."
+        },
+        {
+          "wrong": "I am knowing him.",
+          "right": "I know him."
+        },
+        {
+          "wrong": "I have seen him yesterday.",
+          "right": "I saw him yesterday."
+        },
+        {
+          "wrong": "She has been living here for Monday.",
+          "right": "She has been living here since Monday."
+        },
+        {
+          "wrong": "He have finished work.",
+          "right": "He has finished work."
+        },
+        {
+          "wrong": "They has arrived.",
+          "right": "They have arrived."
+        }
+      ],
+      "examStrategy": [
+        {
+          "label": "Tier-1",
+          "text": "Learn all 4 Present Tense structures. Memorize Since vs For. Practice 40–50 Present Tense PYQs."
+        },
+        {
+          "label": "Tier-2",
+          "text": "Focus on Sentence Improvement. Master Present Perfect vs Simple Past. Revise State Verbs (Part 4)."
+        }
+      ],
+      "finalVerdict": "These notes cover nearly 95–100% of the Present Tense syllabus asked in SSC CGL Tier-1 & Tier-2, combining standard grammar rules with common SSC PYQ patterns in a compact revision format."
+    },
+    {
+      "partNumber": 2,
+      "title": "Past Tenses",
+      "definition": {
+        "english": "Past Tense is used to describe an action that happened or was completed in the past.",
+        "marathi": "भूतकाळात घडलेली किंवा पूर्ण झालेली क्रिया दर्शवण्यासाठी Past Tense वापरला जातो."
+      },
+      "tenseTypes": [
+        {
+          "name": "Simple Past Tense",
+          "definition": {
+            "english": "Used for an action completed in the past.",
+            "marathi": "भूतकाळात पूर्ण झालेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + V2 + Object",
+            "negative": "Subject + did not + V1",
+            "interrogative": "Did + Subject + V1 ?"
+          },
+          "examples": [
+            "I played cricket.",
+            "She visited Mumbai.",
+            "They completed the work."
+          ],
+          "signalWords": [
+            "Yesterday",
+            "Last night",
+            "Last week",
+            "Last year",
+            "Ago",
+            "In 2010",
+            "Once",
+            "Previously",
+            "Earlier"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Use V2 in Affirmative",
+              "english": "Always use V2 in affirmative sentence.",
+              "marathi": "Affirmative वाक्यात नेहमी V2 वापरतात.",
+              "examples": [
+                "He wrote a letter."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "He write a letter.",
+                  "right": "He wrote a letter."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "After Did, use V1",
+              "english": "V1 is used after Did.",
+              "marathi": "Did नंतर V1 वापरतात.",
+              "examples": [
+                "Did you go?"
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "Did you went?",
+                  "right": "Did you go?"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "title": "Negative uses V1",
+              "english": "Negative sentences also use V1.",
+              "marathi": "Negative वाक्यातही V1 वापरतात.",
+              "examples": [
+                "He did not come."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "He did not came.",
+                  "right": "He did not come."
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "title": "Finished Action",
+              "english": "Used for a finished action in the past.",
+              "marathi": "भूतकाळातील पूर्ण झालेल्या क्रियेसाठी वापरतात.",
+              "examples": [
+                "I met him yesterday."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscPyqRule": "Yesterday, Ago, Last, Previous → Use Simple Past"
+        },
+        {
+          "name": "Past Continuous Tense",
+          "definition": {
+            "english": "An action that was going on at a particular time in the past.",
+            "marathi": "भूतकाळातील एका विशिष्ट वेळी सुरू असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + was/were + V-ing",
+            "negative": "Subject + was/were + not + V-ing",
+            "interrogative": "Was/Were + Subject + V-ing ?"
+          },
+          "examples": [
+            "I was reading.",
+            "She was cooking.",
+            "They were playing."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Was vs Were",
+              "english": "I/He/She/It/Singular → Was; We/You/They/Plural → Were.",
+              "marathi": "I/He/She/It/Singular→Was; We/You/They/Plural→Were.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Interrupted Action",
+              "english": "Past Continuous + Simple Past shows an interrupted action.",
+              "marathi": "Past Continuous + Simple Past मध्ये अडथळा आलेली क्रिया दर्शवते.",
+              "examples": [
+                "I was sleeping when he called."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Two Simultaneous Actions",
+              "english": "Past Continuous + Past Continuous shows two actions happening together.",
+              "marathi": "Past Continuous + Past Continuous दोन एकत्र क्रिया दर्शवते.",
+              "examples": [
+                "While I was reading, she was cooking."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Specific Past Time",
+              "english": "Used with a specific past time.",
+              "marathi": "विशिष्ट भूतकाळातील वेळेसाठी वापरतात.",
+              "examples": [
+                "At 8 PM yesterday, I was studying."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscTrap": {
+            "wrong": "When he came, I studied.",
+            "right": "When he came, I was studying."
+          }
+        },
+        {
+          "name": "Past Perfect Tense",
+          "definition": {
+            "english": "An action completed before another action in the past.",
+            "marathi": "भूतकाळातील दुसऱ्या क्रियेपूर्वी पूर्ण झालेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + had + V3",
+            "negative": "Subject + had not + V3",
+            "interrogative": "Had + Subject + V3 ?"
+          },
+          "examples": [
+            "I had finished my work before he arrived.",
+            "She had left before I reached."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Comes Before Another Past Action",
+              "english": "Past Perfect always comes before another Past Action.",
+              "marathi": "Past Perfect नेहमी दुसऱ्या Past Action पूर्वी येते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Past Perfect + Simple Past",
+              "english": "Past Perfect combines with Simple Past.",
+              "marathi": "Past Perfect Simple Past सोबत वापरतात.",
+              "examples": [
+                "The train had left before we reached."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Sequence",
+              "english": "Earlier Action → Had + V3; Later Action → V2.",
+              "marathi": "आधीची क्रिया → Had+V3; नंतरची क्रिया → V2.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Signal Words",
+              "english": "After, Before, By the time, When often indicate Past Perfect.",
+              "marathi": "After, Before, By the time, When हे Past Perfect दर्शवतात.",
+              "examples": [],
+              "wrongRight": []
+            }
+          ],
+          "sscTrap": {
+            "wrong": "He had reached yesterday.",
+            "right": "He reached yesterday."
+          }
+        },
+        {
+          "name": "Past Perfect Continuous Tense",
+          "definition": {
+            "english": "Action continued for some time before another action in the past.",
+            "marathi": "भूतकाळातील दुसऱ्या क्रियेपूर्वी काही काळ चालू असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + had been + V-ing + Since/For",
+            "negative": "Subject + had not been + V-ing",
+            "interrogative": "Had + Subject + been + V-ing ?"
+          },
+          "examples": [
+            "I had been waiting for two hours before the bus arrived.",
+            "She had been working since morning before she became ill."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Had been + V-ing",
+              "english": "Structure uses had been + V-ing.",
+              "marathi": "रचना had been + V-ing अशी असते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Duration Before Past Event",
+              "english": "Shows duration before another past event.",
+              "marathi": "दुसऱ्या भूतकाळातील घटनेपूर्वीचा कालावधी दर्शवते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Since / For",
+              "english": "Uses Since or For.",
+              "marathi": "Since किंवा For वापरतात.",
+              "examples": [],
+              "wrongRight": []
+            }
+          ]
+        }
+      ],
+      "sinceVsAgo": {
+        "since": [
+          "Since Monday",
+          "Since 2019",
+          "Since Morning"
+        ],
+        "ago": [
+          "Two days ago",
+          "Five years ago",
+          "Ten minutes ago"
+        ]
+      },
+      "usedTo": {
+        "definition": "Past Habit that no longer happens now.",
+        "structure": "Subject + Used to + V1",
+        "examples": [
+          "I used to play cricket.",
+          "He used to smoke."
+        ],
+        "sscRule": "Used to = Past Habit"
+      },
+      "would": {
+        "definition": "Repeated action in the Past.",
+        "examples": [
+          "Every evening my grandfather would tell stories.",
+          "We would play in the garden."
+        ],
+        "difference": "Used To → Habit + State; Would → Repeated Action only.",
+        "wrongRight": [
+          {
+            "wrong": "I would live in Pune.",
+            "right": "I used to live in Pune."
+          }
+        ]
+      },
+      "simplePastVsPresentPerfect": [
+        {
+          "simplePast": "Yesterday",
+          "presentPerfect": "Already"
+        },
+        {
+          "simplePast": "Last week",
+          "presentPerfect": "Just"
+        },
+        {
+          "simplePast": "Ago",
+          "presentPerfect": "Yet"
+        },
+        {
+          "simplePast": "In 2010",
+          "presentPerfect": "Recently"
+        }
+      ],
+      "summaryTable": [
+        {
+          "tense": "Simple Past",
+          "structure": "V2"
+        },
+        {
+          "tense": "Past Continuous",
+          "structure": "was/were + V-ing"
+        },
+        {
+          "tense": "Past Perfect",
+          "structure": "had + V3"
+        },
+        {
+          "tense": "Past Perfect Continuous",
+          "structure": "had been + V-ing"
+        }
+      ],
+      "goldenRevision": [
+        "V2 → Completed Past Action",
+        "Did + V1",
+        "was/were + V-ing → Past Ongoing Action",
+        "had + V3 → Earlier Past Action",
+        "had been + V-ing → Duration Before Past Action",
+        "Used To → Past Habit",
+        "Would → Repeated Past Action",
+        "Yesterday → Simple Past",
+        "Ago → Simple Past",
+        "Since → Point",
+        "For → Period"
+      ],
+      "pyqTraps": [
+        {
+          "wrong": "Did he went?",
+          "right": "Did he go?"
+        },
+        {
+          "wrong": "He did not came.",
+          "right": "He did not come."
+        },
+        {
+          "wrong": "I had seen him yesterday.",
+          "right": "I saw him yesterday."
+        },
+        {
+          "wrong": "When I reached, he left.",
+          "right": "When I reached, he had left."
+        },
+        {
+          "wrong": "I would live in Delhi.",
+          "right": "I used to live in Delhi."
+        },
+        {
+          "wrong": "She was cooked food.",
+          "right": "She was cooking food."
+        }
+      ],
+      "examStrategy": [
+        {
+          "label": "Tier-1",
+          "text": "Learn all 4 Past Tense structures. Master Did + V1. Understand Past Perfect sequence. Practice 40–50 Past Tense PYQs."
+        },
+        {
+          "label": "Tier-2",
+          "text": "Focus on Past Perfect vs Simple Past, Used To vs Would, Since vs Ago, Sentence Improvement."
+        }
+      ],
+      "finalVerdict": "These notes cover nearly 95–100% of the Past Tense syllabus asked in SSC CGL Tier-1 & Tier-2, including structures, error patterns, sequence rules, Used To, Would, and Since/Ago."
+    },
+    {
+      "partNumber": 3,
+      "title": "Future Tenses",
+      "definition": {
+        "english": "Future Tense is used to describe an action that will happen in the future.",
+        "marathi": "भविष्यात घडणारी किंवा घडणार असलेली क्रिया दर्शवण्यासाठी Future Tense वापरला जातो."
+      },
+      "tenseTypes": [
+        {
+          "name": "Simple Future Tense",
+          "definition": {
+            "english": "Used for an action that will happen in the future.",
+            "marathi": "भविष्यात होणारी क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + will + V1",
+            "negative": "Subject + will not (won't) + V1",
+            "interrogative": "Will + Subject + V1 ?"
+          },
+          "examples": [
+            "I will help you.",
+            "She will come tomorrow.",
+            "They will win the match."
+          ],
+          "signalWords": [
+            "Tomorrow",
+            "Next week",
+            "Soon",
+            "Later",
+            "Tonight",
+            "In future",
+            "After some time"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Use V1 after Will",
+              "english": "V1 is used after Will.",
+              "marathi": "Will नंतर V1 वापरतात.",
+              "examples": [
+                "He will go."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "He will goes.",
+                  "right": "He will go."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Future Prediction",
+              "english": "Used for future predictions.",
+              "marathi": "भविष्यातील अंदाजासाठी वापरतात.",
+              "examples": [
+                "It will rain tomorrow."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Promise / Decision",
+              "english": "Used for promise or decision.",
+              "marathi": "वचन किंवा निर्णयासाठी वापरतात.",
+              "examples": [
+                "I will always support you."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 4,
+              "title": "Instant Decision",
+              "english": "Used for an instant decision.",
+              "marathi": "तात्काळ निर्णयासाठी वापरतात.",
+              "examples": [
+                "The phone is ringing. I will answer it."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscPyqRule": "Tomorrow, Next, Soon, Later → Use Simple Future"
+        },
+        {
+          "name": "Future Continuous Tense",
+          "definition": {
+            "english": "Action that will be in progress at a particular time in the future.",
+            "marathi": "भविष्यातील एका विशिष्ट वेळी सुरू असलेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + will be + V-ing",
+            "negative": "Subject + will not be + V-ing",
+            "interrogative": "Will + Subject + be + V-ing ?"
+          },
+          "examples": [
+            "I will be studying at 10 PM.",
+            "They will be travelling tomorrow."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Ongoing Future Action",
+              "english": "Shows an ongoing future action.",
+              "marathi": "भविष्यातील सुरू असलेली क्रिया दर्शवते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Specific Future Time",
+              "english": "Used with a specific future time.",
+              "marathi": "विशिष्ट भविष्यातील वेळेसाठी वापरतात.",
+              "examples": [
+                "At 8 PM, I will be watching TV."
+              ],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Polite Inquiry",
+              "english": "Used for polite inquiries.",
+              "marathi": "सौजन्यपूर्ण चौकशीसाठी वापरतात.",
+              "examples": [
+                "Will you be joining us tomorrow?"
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscTrap": {
+            "wrong": "I will studying tomorrow.",
+            "right": "I will be studying tomorrow."
+          }
+        },
+        {
+          "name": "Future Perfect Tense",
+          "definition": {
+            "english": "Action that will be completed before a particular time in the future.",
+            "marathi": "भविष्यातील एका विशिष्ट वेळेपूर्वी पूर्ण झालेली क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + will have + V3",
+            "negative": "Subject + will not have + V3",
+            "interrogative": "Will + Subject + have + V3 ?"
+          },
+          "examples": [
+            "I will have finished the work by evening.",
+            "She will have reached home before 8 PM."
+          ],
+          "signalWords": [
+            "Before",
+            "By",
+            "By then",
+            "By next year",
+            "Before tomorrow"
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Completed Future Action",
+              "english": "Shows a completed future action.",
+              "marathi": "भविष्यातील पूर्ण झालेली क्रिया दर्शवते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Future Deadline",
+              "english": "Used for a future deadline.",
+              "marathi": "भविष्यातील अंतिम मुदतीसाठी वापरतात.",
+              "examples": [
+                "They will have completed the project by Friday."
+              ],
+              "wrongRight": []
+            }
+          ],
+          "sscTrap": {
+            "wrong": "I will has finished.",
+            "right": "I will have finished."
+          }
+        },
+        {
+          "name": "Future Perfect Continuous Tense",
+          "definition": {
+            "english": "Action that will continue up to a point in the future.",
+            "marathi": "भविष्यातील एका वेळेपर्यंत चालू राहणारी क्रिया."
+          },
+          "structure": {
+            "positive": "Subject + will have been + V-ing + Since/For",
+            "negative": "Subject + will not have been + V-ing",
+            "interrogative": "Will + Subject + have been + V-ing ?"
+          },
+          "examples": [
+            "By next month, I will have been working here for five years.",
+            "Next June, she will have been teaching for ten years."
+          ],
+          "rules": [
+            {
+              "id": 1,
+              "title": "Duration Till Future",
+              "english": "Shows duration till a point in the future.",
+              "marathi": "भविष्यातील एका बिंदूपर्यंतचा कालावधी दर्शवते.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 2,
+              "title": "Since / For",
+              "english": "Uses Since or For.",
+              "marathi": "Since किंवा For वापरतात.",
+              "examples": [],
+              "wrongRight": []
+            },
+            {
+              "id": 3,
+              "title": "Sentence Improvement",
+              "english": "Generally asked in Sentence Improvement questions.",
+              "marathi": "साधारणपणे Sentence Improvement मध्ये विचारले जाते.",
+              "examples": [],
+              "wrongRight": []
+            }
+          ]
+        }
+      ],
+      "shallVsWill": {
+        "shall": {
+          "usage": "Traditionally used with I, We. Nowadays Will is accepted for all subjects.",
+          "examples": [
+            "I shall return.",
+            "We shall overcome."
+          ]
+        },
+        "will": {
+          "usage": "Used with all subjects.",
+          "examples": [
+            "He will come.",
+            "They will arrive tomorrow."
+          ]
+        }
+      },
+      "goingTo": {
+        "definition": "Used for planned action, strong prediction, and visible evidence.",
+        "structure": "Subject + is/am/are + going to + V1",
+        "examples": [
+          "I am going to buy a new phone.",
+          "It is going to rain."
+        ],
+        "difference": {
+          "will": "Instant decision, prediction, promise.",
+          "goingTo": "Already planned, strong evidence."
+        }
+      },
+      "futureTimeClauses": {
+        "connectors": [
+          "After",
+          "Before",
+          "Until",
+          "When",
+          "As soon as",
+          "Unless",
+          "If"
+        ],
+        "rule": "Use Simple Present, not Future, after these connectors.",
+        "examples": [
+          "I will call you when I reach home.",
+          "We will start after he comes."
+        ],
+        "wrongRight": [
+          {
+            "wrong": "I will call you when I will reach home.",
+            "right": "I will call you when I reach home."
+          }
+        ]
+      },
+      "ifClauseFirstConditional": {
+        "formula": "If + Present Simple, Future Simple",
+        "examples": [
+          "If you study, you will pass."
+        ],
+        "wrongRight": [
+          {
+            "wrong": "If you will study, you will pass.",
+            "right": "If you study, you will pass."
+          }
+        ]
+      },
+      "summaryTable": [
+        {
+          "tense": "Simple Future",
+          "structure": "will + V1"
+        },
+        {
+          "tense": "Future Continuous",
+          "structure": "will be + V-ing"
+        },
+        {
+          "tense": "Future Perfect",
+          "structure": "will have + V3"
+        },
+        {
+          "tense": "Future Perfect Continuous",
+          "structure": "will have been + V-ing"
+        }
+      ],
+      "goldenRevision": [
+        "will + V1 → Future Action",
+        "will be + V-ing → Future Ongoing Action",
+        "will have + V3 → Future Completed Action",
+        "will have been + V-ing → Future Duration",
+        "Tomorrow → Future",
+        "Next Week → Future",
+        "By → Future Perfect",
+        "Going To → Planned Action",
+        "Will → Instant Decision",
+        "Future Time Clause → Present Simple",
+        "If + Present → Future"
+      ],
+      "pyqTraps": [
+        {
+          "wrong": "He will goes.",
+          "right": "He will go."
+        },
+        {
+          "wrong": "I will be study.",
+          "right": "I will be studying."
+        },
+        {
+          "wrong": "I will has completed.",
+          "right": "I will have completed."
+        },
+        {
+          "wrong": "I am going buy a car.",
+          "right": "I am going to buy a car."
+        },
+        {
+          "wrong": "I will call you when I will arrive.",
+          "right": "I will call you when I arrive."
+        },
+        {
+          "wrong": "If you will work hard, you will succeed.",
+          "right": "If you work hard, you will succeed."
+        },
+        {
+          "wrong": "She will have been work here for five years.",
+          "right": "She will have been working here for five years."
+        }
+      ],
+      "examStrategy": [
+        {
+          "label": "Tier-1",
+          "text": "Memorize all 4 Future Tense structures. Learn Will vs Going To. Practice Future Time Clauses. Solve 40–50 PYQs."
+        },
+        {
+          "label": "Tier-2",
+          "text": "Focus on Future Perfect, Future Perfect Continuous, If Clauses, Sentence Improvement, Error Spotting."
+        }
+      ],
+      "finalVerdict": "These notes cover nearly 95–100% of the Future Tense syllabus asked in SSC CGL Tier-1 & Tier-2, including Will vs Shall, Will vs Going To, Future Time Clauses, First Conditional, and common PYQ traps."
+    },
+    {
+      "partNumber": 4,
+      "title": "Advanced Tense Rules + SSC PYQ Tricks",
+      "sequenceOfTenses": {
+        "definition": {
+          "english": "The verb in one clause depends on the tense of the other clause.",
+          "marathi": "एका Clause मधील Tense दुसऱ्या Clause च्या Tense नुसार बदलतो."
+        },
+        "rules": [
+          {
+            "id": 1,
+            "title": "Present → Present",
+            "english": "When the reporting verb is in Present, the reported verb stays in Present.",
+            "marathi": "Reporting Verb Present असल्यास Reported Verb ही Present राहते.",
+            "examples": [
+              "He says that he is busy."
+            ],
+            "wrongRight": []
+          },
+          {
+            "id": 2,
+            "title": "Past → Past",
+            "english": "When the reporting verb is in Past, the reported verb also changes to Past.",
+            "marathi": "Reporting Verb Past असल्यास Reported Verb ही Past होते.",
+            "examples": [
+              "He said that he was busy."
+            ],
+            "wrongRight": []
+          },
+          {
+            "id": 3,
+            "title": "Universal Truth Never Changes",
+            "english": "A universal truth never changes tense.",
+            "marathi": "सार्वत्रिक सत्याचा Tense कधीही बदलत नाही.",
+            "examples": [
+              "Teacher said that the Earth revolves around the Sun."
+            ],
+            "wrongRight": [
+              {
+                "wrong": "Teacher said that the Earth revolved around the Sun.",
+                "right": "Teacher said that the Earth revolves around the Sun."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Historical Fact Never Changes",
+            "english": "A historical fact never changes tense.",
+            "marathi": "ऐतिहासिक सत्याचा Tense कधीही बदलत नाही.",
+            "examples": [
+              "He said that Shivaji was a great king."
+            ],
+            "wrongRight": []
+          }
+        ],
+        "sscTrap": {
+          "wrong": "He said that the Sun rose in the east.",
+          "right": "He said that the Sun rises in the east."
+        }
+      },
+      "stateVerbs": {
+        "definition": {
+          "english": "These verbs generally do not take Continuous Tense.",
+          "marathi": "ही Verbs सामान्यतः Continuous Tense मध्ये वापरली जात नाहीत."
+        },
+        "commonVerbs": [
+          "Know",
+          "Believe",
+          "Love",
+          "Like",
+          "Hate",
+          "Understand",
+          "Remember",
+          "Forget",
+          "Need",
+          "Want",
+          "Prefer",
+          "Own",
+          "Belong",
+          "Contain",
+          "Appear (seem)",
+          "Hear",
+          "See (understand)",
+          "Smell",
+          "Taste",
+          "Feel (opinion)"
+        ],
+        "wrongRight": [
+          {
+            "wrong": "I am knowing him.",
+            "right": "I know him."
+          },
+          {
+            "wrong": "She is liking tea.",
+            "right": "She likes tea."
+          },
+          {
+            "wrong": "I am understanding.",
+            "right": "I understand your problem."
+          }
+        ]
+      },
+      "conditionalSentences": [
+        {
+          "type": "Zero Conditional",
+          "usage": "Truth",
+          "formula": "If + Present, Present",
+          "examples": [
+            "If you heat water, it boils."
+          ]
+        },
+        {
+          "type": "First Conditional",
+          "usage": "Possible Future",
+          "formula": "If + Present, Future",
+          "examples": [
+            "If you study, you will pass."
+          ]
+        },
+        {
+          "type": "Second Conditional",
+          "usage": "Impossible / Imaginary Present",
+          "formula": "If + V2, would + V1",
+          "examples": [
+            "If I were rich, I would help everyone."
+          ]
+        },
+        {
+          "type": "Third Conditional",
+          "usage": "Impossible Past",
+          "formula": "If + had + V3, would have + V3",
+          "examples": [
+            "If he had studied, he would have passed."
+          ]
+        },
+        {
+          "type": "Mixed Conditional",
+          "usage": "Past affects Present.",
+          "formula": "If + had + V3, would + V1",
+          "examples": [
+            "If I had worked harder, I would be rich now."
+          ]
+        }
+      ],
+      "sscGoldenRuleConditional": {
+        "rule": "After If, never use Future.",
+        "wrongRight": [
+          {
+            "wrong": "If you will come...",
+            "right": "If you come..."
+          }
+        ]
+      },
+      "specialUsageCases": [
+        {
+          "case": "Universal Truth",
+          "usage": "Simple Present",
+          "examples": [
+            "Water boils at 100°C.",
+            "Earth revolves around the Sun."
+          ]
+        },
+        {
+          "case": "Scheduled Events",
+          "usage": "Simple Present",
+          "examples": [
+            "Train leaves at 8 PM.",
+            "Flight departs tomorrow morning."
+          ]
+        },
+        {
+          "case": "Live Commentary",
+          "usage": "Simple Present",
+          "examples": [
+            "Dhoni hits a six.",
+            "Kohli takes the catch."
+          ]
+        },
+        {
+          "case": "Newspaper Headlines",
+          "usage": "Simple Present",
+          "examples": [
+            "Government reduces tax.",
+            "India wins the match."
+          ]
+        },
+        {
+          "case": "Exclamatory Sentences (Here/There)",
+          "usage": "Simple Present",
+          "examples": [
+            "Here comes the bus.",
+            "There goes the train."
+          ]
+        }
+      ],
+      "timeMarkers": [
+        {
+          "tense": "Simple Present",
+          "markers": [
+            "Always",
+            "Usually",
+            "Often",
+            "Daily",
+            "Every day",
+            "Normally"
+          ]
+        },
+        {
+          "tense": "Present Continuous",
+          "markers": [
+            "Now",
+            "Currently",
+            "Nowadays",
+            "These days",
+            "At present"
+          ]
+        },
+        {
+          "tense": "Present Perfect",
+          "markers": [
+            "Already",
+            "Just",
+            "Yet",
+            "Recently",
+            "So far",
+            "Till now"
+          ]
+        },
+        {
+          "tense": "Present Perfect Continuous",
+          "markers": [
+            "Since",
+            "For"
+          ]
+        },
+        {
+          "tense": "Simple Past",
+          "markers": [
+            "Yesterday",
+            "Ago",
+            "Last",
+            "In 2015",
+            "Once",
+            "Earlier"
+          ]
+        },
+        {
+          "tense": "Past Continuous",
+          "markers": [
+            "While",
+            "When",
+            "At that time"
+          ]
+        },
+        {
+          "tense": "Past Perfect",
+          "markers": [
+            "Before",
+            "After",
+            "By the time"
+          ]
+        },
+        {
+          "tense": "Future",
+          "markers": [
+            "Tomorrow",
+            "Soon",
+            "Next",
+            "Later"
+          ]
+        },
+        {
+          "tense": "Future Perfect",
+          "markers": [
+            "Before",
+            "By",
+            "By then"
+          ]
+        }
+      ],
+      "importantSscRules": [
+        {
+          "id": 1,
+          "title": "After Did, use V1",
+          "examples": [
+            "Did he go?"
+          ],
+          "wrongRight": [
+            {
+              "wrong": "Did he went?",
+              "right": "Did he go?"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "After Does, use V1",
+          "examples": [
+            "Does he play?"
+          ],
+          "wrongRight": [
+            {
+              "wrong": "Does he plays?",
+              "right": "Does he play?"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "After Will, use V1",
+          "examples": [
+            "Will he come?"
+          ],
+          "wrongRight": [
+            {
+              "wrong": "Will he comes?",
+              "right": "Will he come?"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "After Has/Have/Had, use V3",
+          "examples": [
+            "Has he finished?"
+          ],
+          "wrongRight": []
+        },
+        {
+          "id": 5,
+          "title": "After is/am/are, was/were, use V-ing",
+          "examples": [],
+          "wrongRight": []
+        },
+        {
+          "id": 6,
+          "title": "After Modal Verbs, use V1",
+          "english": "can, may, must, should, could, might, would",
+          "examples": [
+            "He can swim."
+          ],
+          "wrongRight": [
+            {
+              "wrong": "He can swims.",
+              "right": "He can swim."
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Since = Point of Time",
+          "examples": [
+            "Monday",
+            "2015",
+            "Morning"
+          ],
+          "wrongRight": []
+        },
+        {
+          "id": 8,
+          "title": "For = Period of Time",
+          "examples": [
+            "Two years",
+            "Five months",
+            "Ten days"
+          ],
+          "wrongRight": []
+        },
+        {
+          "id": 9,
+          "title": "Ago Shows Past Time",
+          "examples": [],
+          "wrongRight": []
+        },
+        {
+          "id": 10,
+          "title": "By Usually Indicates Future Perfect",
+          "examples": [],
+          "wrongRight": []
+        }
+      ],
+      "sentenceImprovementRules": [
+        "Yesterday → Simple Past",
+        "Now → Present Continuous",
+        "Already → Present Perfect",
+        "Since → Perfect Continuous",
+        "By tomorrow → Future Perfect",
+        "While → Continuous",
+        "Before → Perfect",
+        "If → Present + Future"
+      ],
+      "pyqTraps": [
+        {
+          "wrong": "I am knowing him.",
+          "right": "I know him."
+        },
+        {
+          "wrong": "Did he went?",
+          "right": "Did he go?"
+        },
+        {
+          "wrong": "He has finished yesterday.",
+          "right": "He finished yesterday."
+        },
+        {
+          "wrong": "I have seen him yesterday.",
+          "right": "I saw him yesterday."
+        },
+        {
+          "wrong": "She is having two sisters.",
+          "right": "She has two sisters."
+        },
+        {
+          "wrong": "If you will work hard...",
+          "right": "If you work hard..."
+        },
+        {
+          "wrong": "I will call you when I will reach.",
+          "right": "I will call you when I reach."
+        },
+        {
+          "wrong": "He had reached yesterday.",
+          "right": "He reached yesterday."
+        },
+        {
+          "wrong": "The Earth revolved around the Sun.",
+          "right": "The Earth revolves around the Sun."
+        },
+        {
+          "wrong": "She is resembling her mother.",
+          "right": "She resembles her mother."
+        },
+        {
+          "wrong": "He is understanding.",
+          "right": "He understands."
+        },
+        {
+          "wrong": "We are belonging to India.",
+          "right": "We belong to India."
+        }
+      ],
+      "finalGoldenRevision": {
+        "structures": [
+          "V1 / V1+s → Simple Present",
+          "is/am/are + V-ing → Present Continuous",
+          "has/have + V3 → Present Perfect",
+          "has/have been + V-ing → Present Perfect Continuous",
+          "V2 → Simple Past",
+          "was/were + V-ing → Past Continuous",
+          "had + V3 → Past Perfect",
+          "had been + V-ing → Past Perfect Continuous",
+          "will + V1 → Simple Future",
+          "will be + V-ing → Future Continuous",
+          "will have + V3 → Future Perfect",
+          "will have been + V-ing → Future Perfect Continuous"
+        ],
+        "goldenFormulas": [
+          "Since → Point",
+          "For → Period",
+          "Ago → Past",
+          "By → Future Perfect",
+          "If → Present + Future",
+          "Did → V1",
+          "Does → V1",
+          "Will → V1",
+          "Modal → V1",
+          "Has/Have/Had → V3",
+          "is/am/are → V-ing"
+        ],
+        "pyqRapidFire": [
+          "Universal Truth → Present",
+          "Habit → Present",
+          "Newspaper → Present",
+          "Commentary → Present",
+          "Timetable → Present",
+          "Temporary Action → Present Continuous",
+          "Completed Action → Perfect",
+          "Yesterday → Past",
+          "Before another Past → Past Perfect",
+          "Future Deadline → Future Perfect"
+        ]
+      },
+      "examStrategy": [
+        {
+          "label": "Tier-1",
+          "text": "Learn 12 tense structures by heart. Memorize signal words. Revise Golden Revision Page daily. Solve 120–150 Tense PYQs."
+        },
+        {
+          "label": "Tier-2",
+          "text": "Focus on Error Spotting, Sentence Improvement, Fill in the Blanks, Cloze Test, Para Completion, Mixed Tense Questions."
+        }
+      ],
+      "finalVerdict": "These four parts together cover nearly 95–100% of the Tenses syllabus asked in SSC CGL Tier-1 & Tier-2, including all 12 Tenses, Sequence of Tenses, State Verbs, Conditional Sentences, Signal Words, and Common PYQ Traps. Read → Understand → Revise → Solve 120–150 PYQs → Re-revise will give a strong command over Tenses for SSC CGL English."
+    }
+  ]
+}
