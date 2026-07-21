@@ -31,6 +31,11 @@ import QuestionTag from "../features/notes/English/part-of-speech/QuestionTags";
 import VocabularyTable from "../features/notes/English/Vocabulary/VocabularyTable";
 import RuleBookApp from "../features/notes/English/RULE/RuleBookApp";
 import PhrasalVerb from "../features/notes/English/Vocabulary/PhrasalVerb";
+import ProVerb from "../features/notes/English/Vocabulary/ProVerb";
+import SynoAntoCom from "../features/notes/English/Vocabulary/SynoAntoCom";
+import Synonymous from "../features/notes/English/Vocabulary/Synonymous";
+import Antonyms from "../features/notes/English/Vocabulary/Antonyms";
+import Homonyms from "../features/notes/English/Vocabulary/Homonyms";
 
 
 const AppRoutes = () => {
@@ -111,6 +116,28 @@ const AppRoutes = () => {
             path="/english/vocabulary/phrasal-verb"
             element={<PhrasalVerb/>}
           /> 
+
+          <Route
+            path="/english/vocabulary/pro-verb"
+            element={<ProVerb/>}
+          /> 
+          <Route
+            path="/english/vocabulary/syn+ant/top100"
+            element={<SynoAntoCom/>}
+          /> 
+          <Route
+            path= "/english/vocabulary/Synonymous/top100"
+            element={<Synonymous/>}
+          /> 
+          <Route
+            path= "/english/vocabulary/Antonyms/top100"
+            element={<Antonyms/>}
+          /> 
+          <Route
+            path= "/english/vocabulary/homonyms-homophones"
+            element={<Homonyms/>}
+          /> 
+
            <Route
             path="/english/vocab/imp"
             element={<VocabularyTable />}

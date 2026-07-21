@@ -1,0 +1,2382 @@
+{
+  "title": "Top 100 Antonyms",
+  "description": "Top 100 most frequently asked Antonym word sets in SSC exams, with English meaning, Hindi meaning, part of speech, and repetition counts (SSC / Other exams).",
+  "totalWords": 100,
+  "totalTimesAsked": 470,
+  "words": [
+    {
+      "sn": 1,
+      "word": "Flexible",
+      "pos": "Adj.",
+      "hindi": "लचीला",
+      "meaning": "Capable of bending easily without breaking",
+      "repetitionSSC": 10,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Rigid",
+          "hindi": "कठोर",
+          "extra": false
+        },
+        {
+          "word": "Stiff",
+          "hindi": "सख्त",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "word": "Bold",
+      "pos": "Adj.",
+      "hindi": "साहसी, निडर",
+      "meaning": "Showing courage, confidence, or willingness to take risks",
+      "repetitionSSC": 9,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Timid",
+          "hindi": "डरपोक",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "word": "Frugality",
+      "pos": "N.",
+      "hindi": "मितव्ययिता",
+      "meaning": "The quality of being frugal",
+      "repetitionSSC": 5,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Prodigality",
+          "hindi": "फिजूलखर्ची",
+          "extra": false
+        },
+        {
+          "word": "Wastefulness",
+          "hindi": "अपव्यय",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "word": "Shallow",
+      "pos": "Adj.",
+      "hindi": "उथला",
+      "meaning": "Having little depth",
+      "repetitionSSC": 9,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Deep",
+          "hindi": "गहरा",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "word": "Wicked",
+      "pos": "Adj.",
+      "hindi": "दुष्ट",
+      "meaning": "Evil or morally wrong",
+      "repetitionSSC": 6,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Good",
+          "hindi": "अच्छा",
+          "extra": false
+        },
+        {
+          "word": "Righteous",
+          "hindi": "न्यायसंगत",
+          "extra": false
+        },
+        {
+          "word": "Moral",
+          "hindi": "नैतिक",
+          "extra": false
+        },
+        {
+          "word": "Virtuous",
+          "hindi": "सद्गुणी",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 6,
+      "word": "Compulsory",
+      "pos": "Adj.",
+      "hindi": "अनिवार्य",
+      "meaning": "Required by law or rule; obligatory",
+      "repetitionSSC": 6,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Optional",
+          "hindi": "ऐच्छिक",
+          "extra": false
+        },
+        {
+          "word": "Voluntary",
+          "hindi": "स्वैच्छिक",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 7,
+      "word": "Denounce",
+      "pos": "V.",
+      "hindi": "निंदा करना",
+      "meaning": "To publicly declare to be wrong or evil",
+      "repetitionSSC": 6,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Praise",
+          "hindi": "प्रशंसा करना",
+          "extra": false
+        },
+        {
+          "word": "Compliment",
+          "hindi": "तारीफ करना",
+          "extra": false
+        },
+        {
+          "word": "Defend",
+          "hindi": "रक्षा करना",
+          "extra": false
+        },
+        {
+          "word": "Appreciate",
+          "hindi": "सराहना करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 8,
+      "word": "Exonerate",
+      "pos": "V.",
+      "hindi": "दोषमुक्त करना",
+      "meaning": "To free from blame or declare innocent",
+      "repetitionSSC": 5,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Convict",
+          "hindi": "दोषी सिद्ध करना",
+          "extra": false
+        },
+        {
+          "word": "Sentence",
+          "hindi": "सजा देना",
+          "extra": false
+        },
+        {
+          "word": "Accuse",
+          "hindi": "आरोप लगाना",
+          "extra": true
+        },
+        {
+          "word": "Incriminate",
+          "hindi": "दोषी ठहराना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 9,
+      "word": "Captivity",
+      "pos": "N.",
+      "hindi": "कैद",
+      "meaning": "The condition of being imprisoned or confined",
+      "repetitionSSC": 6,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Liberty",
+          "hindi": "स्वतंत्रता",
+          "extra": false
+        },
+        {
+          "word": "Freedom",
+          "hindi": "आजादी",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 10,
+      "word": "Coherent",
+      "pos": "Adj.",
+      "hindi": "सुसंगत",
+      "meaning": "Logical and consistent",
+      "repetitionSSC": 3,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Illogical",
+          "hindi": "तर्कहीन",
+          "extra": false
+        },
+        {
+          "word": "Incomprehensible",
+          "hindi": "समझ से बाहर",
+          "extra": false
+        },
+        {
+          "word": "Disorganized",
+          "hindi": "अव्यवस्थित",
+          "extra": false
+        },
+        {
+          "word": "Inconsistent",
+          "hindi": "असंगत",
+          "extra": true
+        },
+        {
+          "word": "Disconnected",
+          "hindi": "असंबद्ध",
+          "extra": true
+        },
+        {
+          "word": "Confused",
+          "hindi": "भ्रमित",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 11,
+      "word": "Refreshing",
+      "pos": "Adj.",
+      "hindi": "ताज़ा करने वाला",
+      "meaning": "Pleasantly new or restoring energy",
+      "repetitionSSC": 3,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Stale",
+          "hindi": "बासी",
+          "extra": false
+        },
+        {
+          "word": "Wearying",
+          "hindi": "थकाने वाला",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 12,
+      "word": "Accelerate",
+      "pos": "V.",
+      "hindi": "गति बढ़ाना",
+      "meaning": "To move faster or increase speed",
+      "repetitionSSC": 3,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Delay",
+          "hindi": "विलंब करना",
+          "extra": false
+        },
+        {
+          "word": "Slacken",
+          "hindi": "धीमा करना",
+          "extra": true
+        },
+        {
+          "word": "Impede",
+          "hindi": "बाधा डालना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 13,
+      "word": "Accessible",
+      "pos": "Adj.",
+      "hindi": "पहुँचने योग्य",
+      "meaning": "Easy to reach, approach, or use",
+      "repetitionSSC": 5,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Restricted",
+          "hindi": "प्रतिबंधित",
+          "extra": false
+        },
+        {
+          "word": "Inaccessible",
+          "hindi": "पहुँच से बाहर",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 14,
+      "word": "Appoint",
+      "pos": "V.",
+      "hindi": "नियुक्त करना",
+      "meaning": "To assign a job or role to someone",
+      "repetitionSSC": 6,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Dismiss",
+          "hindi": "बर्खास्त करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 15,
+      "word": "Clear",
+      "pos": "Adj.",
+      "hindi": "स्पष्ट",
+      "meaning": "Easy to perceive, understand, or interpret",
+      "repetitionSSC": 5,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Nebulous",
+          "hindi": "अस्पष्ट",
+          "extra": false
+        },
+        {
+          "word": "Opaque",
+          "hindi": "अपारदर्शी",
+          "extra": false
+        },
+        {
+          "word": "Murky",
+          "hindi": "धुंधला",
+          "extra": false
+        },
+        {
+          "word": "Dim",
+          "hindi": "मंद",
+          "extra": false
+        },
+        {
+          "word": "Obscure",
+          "hindi": "अबोधगम्य",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 16,
+      "word": "Expand",
+      "pos": "V.",
+      "hindi": "विस्तार करना",
+      "meaning": "To become or make larger or more extensive",
+      "repetitionSSC": 5,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Contract",
+          "hindi": "संकुचित होना",
+          "extra": false
+        },
+        {
+          "word": "Shrink",
+          "hindi": "सिकुड़ना",
+          "extra": false
+        },
+        {
+          "word": "Restrict",
+          "hindi": "सीमित करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 17,
+      "word": "Florid",
+      "pos": "Adj.",
+      "hindi": "अत्यधिक सजावटी",
+      "meaning": "Having a red or flushed complexion; excessively ornate or elaborate",
+      "repetitionSSC": 3,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Plain",
+          "hindi": "सादा",
+          "extra": false
+        },
+        {
+          "word": "Pale",
+          "hindi": "फीका",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 18,
+      "word": "Guilty",
+      "pos": "Adj.",
+      "hindi": "दोषी",
+      "meaning": "Culpable or responsible for a wrongdoing",
+      "repetitionSSC": 6,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Innocent",
+          "hindi": "निर्दोष",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 19,
+      "word": "Material",
+      "pos": "Adj.",
+      "hindi": "भौतिक",
+      "meaning": "Relating to physical substance",
+      "repetitionSSC": 1,
+      "repetitionOther": 5,
+      "antonyms": [
+        {
+          "word": "Abstract",
+          "hindi": "अमूर्त",
+          "extra": false
+        },
+        {
+          "word": "Spiritual",
+          "hindi": "आध्यात्मिक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 20,
+      "word": "Obfuscate",
+      "pos": "V.",
+      "hindi": "उलझाना",
+      "meaning": "To make something unclear or hard to understand",
+      "repetitionSSC": 2,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Clarify",
+          "hindi": "स्पष्ट करना",
+          "extra": false
+        },
+        {
+          "word": "Streamline",
+          "hindi": "सरल बनाना",
+          "extra": true
+        },
+        {
+          "word": "Illuminate",
+          "hindi": "स्पष्ट करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 21,
+      "word": "Spiritual",
+      "pos": "Adj.",
+      "hindi": "आध्यात्मिक",
+      "meaning": "Relating to or affecting the human spirit or soul as opposed to material or physical things",
+      "repetitionSSC": 4,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Physical",
+          "hindi": "भौतिक",
+          "extra": false
+        },
+        {
+          "word": "Material",
+          "hindi": "भौतिक",
+          "extra": false
+        },
+        {
+          "word": "Bodily",
+          "hindi": "शारीरिक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 22,
+      "word": "Animosity",
+      "pos": "N.",
+      "hindi": "शत्रुता",
+      "meaning": "A strong feeling of dislike or hostility",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Benevolence",
+          "hindi": "दयालुता",
+          "extra": false
+        },
+        {
+          "word": "Love",
+          "hindi": "प्रेम",
+          "extra": false
+        },
+        {
+          "word": "Affection",
+          "hindi": "लगाव",
+          "extra": false
+        },
+        {
+          "word": "Comity",
+          "hindi": "सौहार्द",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 23,
+      "word": "Approach",
+      "pos": "V.",
+      "hindi": "समीप आना",
+      "meaning": "To come near or nearer to someone or something in distance",
+      "repetitionSSC": 5,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Withdraw",
+          "hindi": "वापस लेना",
+          "extra": false
+        },
+        {
+          "word": "Retreat",
+          "hindi": "पीछे हटना",
+          "extra": false
+        },
+        {
+          "word": "Recede",
+          "hindi": "दूर हटना",
+          "extra": false
+        },
+        {
+          "word": "Avoid",
+          "hindi": "बचना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 24,
+      "word": "Concur",
+      "pos": "V.",
+      "hindi": "सहमत होना",
+      "meaning": "To be of the same opinion; agree",
+      "repetitionSSC": 5,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Disagree",
+          "hindi": "असहमत होना",
+          "extra": false
+        },
+        {
+          "word": "Differ",
+          "hindi": "भिन्न होना",
+          "extra": false
+        },
+        {
+          "word": "Resist",
+          "hindi": "विरोध करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 25,
+      "word": "Critical",
+      "pos": "Adj.",
+      "hindi": "गंभीर, संकटपूर्ण, आलोचनात्मक",
+      "meaning": "Very important in a crucial situation; dangerous or serious; expressing severe criticism",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Complimentary",
+          "hindi": "प्रशंसात्मक",
+          "extra": false
+        },
+        {
+          "word": "Unimportant",
+          "hindi": "महत्वहीन",
+          "extra": true
+        },
+        {
+          "word": "Safe",
+          "hindi": "सुरक्षित",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 26,
+      "word": "Curt",
+      "pos": "Adj.",
+      "hindi": "संक्षिप्त, रूखा",
+      "meaning": "Rudely brief",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Polite",
+          "hindi": "शिष्ट",
+          "extra": false
+        },
+        {
+          "word": "Tactful",
+          "hindi": "व्यवहारकुशल",
+          "extra": true
+        },
+        {
+          "word": "Courteous",
+          "hindi": "विनीत",
+          "extra": true
+        },
+        {
+          "word": "Expansive",
+          "hindi": "विस्तृत",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 27,
+      "word": "Dull",
+      "pos": "Adj.",
+      "hindi": "सुस्त; फीका; कुंद",
+      "meaning": "Lacking interest or excitement; not bright or shining; not sharp",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Keen",
+          "hindi": "उत्सुक",
+          "extra": false
+        },
+        {
+          "word": "Exciting",
+          "hindi": "रोमांचक",
+          "extra": false
+        },
+        {
+          "word": "Bright",
+          "hindi": "उज्ज्वल",
+          "extra": false
+        },
+        {
+          "word": "Riveting",
+          "hindi": "आकर्षक",
+          "extra": false
+        },
+        {
+          "word": "Interesting",
+          "hindi": "दिलचस्प",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 28,
+      "word": "Extensive",
+      "pos": "Adj.",
+      "hindi": "व्यापक",
+      "meaning": "Covering a large area or scope",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Limited",
+          "hindi": "सीमित",
+          "extra": false
+        },
+        {
+          "word": "Intensive",
+          "hindi": "गहन",
+          "extra": false
+        },
+        {
+          "word": "Negligible",
+          "hindi": "नगण्य",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 29,
+      "word": "Friendly",
+      "pos": "Adj./N.",
+      "hindi": "मित्रतापूर्ण; मैत्री मैच",
+      "meaning": "Kind and pleasant (Adj.); A non-competitive match (N.)",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Hostile",
+          "hindi": "शत्रुतापूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Unfriendly",
+          "hindi": "अमित्रवत",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 30,
+      "word": "Ignorance",
+      "pos": "N.",
+      "hindi": "अज्ञान",
+      "meaning": "Lack of knowledge or information",
+      "repetitionSSC": 5,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Knowledge",
+          "hindi": "ज्ञान",
+          "extra": false
+        },
+        {
+          "word": "Acumen",
+          "hindi": "कुशाग्र बुद्धि",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 31,
+      "word": "Insatiable",
+      "pos": "Adj.",
+      "hindi": "अतृप्त",
+      "meaning": "Impossible to satisfy or fully meet desire",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Satiable",
+          "hindi": "संतुष्ट होने योग्य",
+          "extra": false
+        },
+        {
+          "word": "Satisfiable",
+          "hindi": "संतुष्ट होने योग्य",
+          "extra": false
+        },
+        {
+          "word": "Content",
+          "hindi": "संतुष्ट",
+          "extra": false
+        },
+        {
+          "word": "Fulfilled",
+          "hindi": "पूर्ण",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 32,
+      "word": "Intentional",
+      "pos": "Adj.",
+      "hindi": "जानबूझकर",
+      "meaning": "Done on purpose; deliberate",
+      "repetitionSSC": 5,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Accidental",
+          "hindi": "आकस्मिक",
+          "extra": false
+        },
+        {
+          "word": "Unplanned",
+          "hindi": "अनियोजित",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 33,
+      "word": "Liberal",
+      "pos": "Adj.",
+      "hindi": "उदार",
+      "meaning": "Open to new ideas and willing to discard traditional values",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Intolerant",
+          "hindi": "असहिष्णु",
+          "extra": false
+        },
+        {
+          "word": "Stingy",
+          "hindi": "कंजूस",
+          "extra": false
+        },
+        {
+          "word": "Conservative",
+          "hindi": "रूढ़िवादी",
+          "extra": false
+        },
+        {
+          "word": "Bigoted",
+          "hindi": "कट्टर",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 34,
+      "word": "Overt",
+      "pos": "Adj.",
+      "hindi": "प्रत्यक्ष",
+      "meaning": "Done or shown openly; clearly visible",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Hidden",
+          "hindi": "छिपा हुआ",
+          "extra": false
+        },
+        {
+          "word": "Concealed",
+          "hindi": "गुप्त",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 35,
+      "word": "Prominent",
+      "pos": "Adj.",
+      "hindi": "प्रमुख",
+      "meaning": "Important or easily noticed, well-known",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Obscure",
+          "hindi": "अज्ञात",
+          "extra": false
+        },
+        {
+          "word": "Unknown",
+          "hindi": "अज्ञात",
+          "extra": false
+        },
+        {
+          "word": "Inconspicuous",
+          "hindi": "अस्पष्ट",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 36,
+      "word": "Scrupulous",
+      "pos": "Adj.",
+      "hindi": "ईमानदार",
+      "meaning": "Very careful about what is morally right",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Dishonest",
+          "hindi": "बेईमान",
+          "extra": false
+        },
+        {
+          "word": "Immoral",
+          "hindi": "अनैतिक",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 37,
+      "word": "Success",
+      "pos": "N.",
+      "hindi": "सफलता",
+      "meaning": "The achievement of a goal",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Failure",
+          "hindi": "असफलता",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 38,
+      "word": "Suppress",
+      "pos": "V.",
+      "hindi": "दबाना",
+      "meaning": "To stop or prevent forcefully",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Incite",
+          "hindi": "उकसाना",
+          "extra": false
+        },
+        {
+          "word": "Reveal",
+          "hindi": "उजागर करना",
+          "extra": false
+        },
+        {
+          "word": "Release",
+          "hindi": "मुक्त करना",
+          "extra": false
+        },
+        {
+          "word": "Stimulate",
+          "hindi": "उत्तेजित करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 39,
+      "word": "Suspicious",
+      "pos": "Adj.",
+      "hindi": "संदिग्ध",
+      "meaning": "Showing doubt or cautious distrust",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Definitive",
+          "hindi": "निश्चित",
+          "extra": false
+        },
+        {
+          "word": "Certain",
+          "hindi": "सुनिश्चित",
+          "extra": false
+        },
+        {
+          "word": "Trustworthy",
+          "hindi": "विश्वसनीय",
+          "extra": false
+        },
+        {
+          "word": "Credible",
+          "hindi": "भरोसेमंद",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 40,
+      "word": "Tardy",
+      "pos": "Adj.",
+      "hindi": "विलंबित",
+      "meaning": "Arriving or happening later than expected; late",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Prompt",
+          "hindi": "तत्पर",
+          "extra": false
+        },
+        {
+          "word": "Quick",
+          "hindi": "शीघ्र",
+          "extra": false
+        },
+        {
+          "word": "Early",
+          "hindi": "जल्दी",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 41,
+      "word": "Terminate",
+      "pos": "V.",
+      "hindi": "समाप्त करना",
+      "meaning": "To bring to an end",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Begin",
+          "hindi": "शुरू करना",
+          "extra": false
+        },
+        {
+          "word": "Commence",
+          "hindi": "आरंभ करना",
+          "extra": false
+        },
+        {
+          "word": "Introduce",
+          "hindi": "परिचय कराना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 42,
+      "word": "Vilify",
+      "pos": "V.",
+      "hindi": "बदनाम करना",
+      "meaning": "To speak badly about someone to damage reputation",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Commend",
+          "hindi": "प्रशंसा करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 43,
+      "word": "Virtuous",
+      "pos": "Adj.",
+      "hindi": "नैतिक",
+      "meaning": "Having or showing high moral standards",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Vicious",
+          "hindi": "कुटिल",
+          "extra": false
+        },
+        {
+          "word": "Sinful",
+          "hindi": "पापी",
+          "extra": false
+        },
+        {
+          "word": "Unethical",
+          "hindi": "अनैतिक",
+          "extra": false
+        },
+        {
+          "word": "Wicked",
+          "hindi": "दुष्ट",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 44,
+      "word": "Vouch",
+      "pos": "V.",
+      "hindi": "गारंटी देना",
+      "meaning": "To confirm or guarantee something",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "antonyms": [
+        {
+          "word": "Invalidate",
+          "hindi": "अमान्य करना",
+          "extra": false
+        },
+        {
+          "word": "Abjure",
+          "hindi": "त्यागना",
+          "extra": true
+        },
+        {
+          "word": "Disclaim",
+          "hindi": "अस्वीकार करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 45,
+      "word": "Wrath",
+      "pos": "N.",
+      "hindi": "क्रोध",
+      "meaning": "Extreme anger",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Glee",
+          "hindi": "आनंद",
+          "extra": false
+        },
+        {
+          "word": "Composure",
+          "hindi": "संयम",
+          "extra": false
+        },
+        {
+          "word": "Happiness",
+          "hindi": "खुशी",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 46,
+      "word": "Abhor",
+      "pos": "V.",
+      "hindi": "घृणा करना",
+      "meaning": "To regard with disgust and hatred",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Love",
+          "hindi": "प्रेम करना",
+          "extra": false
+        },
+        {
+          "word": "Admire",
+          "hindi": "प्रशंसा करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 47,
+      "word": "Alive",
+      "pos": "Adj.",
+      "hindi": "जीवित",
+      "meaning": "Living, not dead",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Dead",
+          "hindi": "मृत",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 48,
+      "word": "Altercation",
+      "pos": "N.",
+      "hindi": "झगड़ा",
+      "meaning": "A noisy argument or disagreement, especially in public",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Compromise",
+          "hindi": "समझौता",
+          "extra": false
+        },
+        {
+          "word": "Agreement",
+          "hindi": "सहमति",
+          "extra": false
+        },
+        {
+          "word": "Concord",
+          "hindi": "सौहार्द",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 49,
+      "word": "Appreciate",
+      "pos": "V.",
+      "hindi": "मूल्य बढ़ाना; प्रशंसा करना",
+      "meaning": "To recognize the full worth of something; to increase in value",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Disvalue",
+          "hindi": "कम आँकना",
+          "extra": false
+        },
+        {
+          "word": "Depreciate",
+          "hindi": "मूल्य घटाना",
+          "extra": false
+        },
+        {
+          "word": "Decrease",
+          "hindi": "कम होना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 50,
+      "word": "Artificial",
+      "pos": "Adj.",
+      "hindi": "कृत्रिम",
+      "meaning": "Made by humans, not natural or genuine",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Natural",
+          "hindi": "प्राकृतिक",
+          "extra": false
+        },
+        {
+          "word": "Genuine",
+          "hindi": "असली",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 51,
+      "word": "Controversial",
+      "pos": "Adj.",
+      "hindi": "विवादास्पद",
+      "meaning": "Giving rise to disagreement",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Indisputable",
+          "hindi": "निर्विवाद",
+          "extra": false
+        },
+        {
+          "word": "Undisputed",
+          "hindi": "अविवादित",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 52,
+      "word": "Courtesy",
+      "pos": "N.",
+      "hindi": "शिष्टाचार",
+      "meaning": "The showing of politeness toward others",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Rudeness",
+          "hindi": "अशिष्टता",
+          "extra": false
+        },
+        {
+          "word": "Crudeness",
+          "hindi": "असभ्यता",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 53,
+      "word": "Delay",
+      "pos": "N./V.",
+      "hindi": "देरी; देर करना",
+      "meaning": "A period of waiting (N.); To make something happen later (V.)",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Advance",
+          "hindi": "पहले करना",
+          "extra": false
+        },
+        {
+          "word": "Haste",
+          "hindi": "जल्दबाजी",
+          "extra": false
+        },
+        {
+          "word": "Hasten",
+          "hindi": "जल्दी करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 54,
+      "word": "Dominate",
+      "pos": "V.",
+      "hindi": "हावी होना",
+      "meaning": "To control or strongly influence",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Liberate",
+          "hindi": "मुक्त करना",
+          "extra": false
+        },
+        {
+          "word": "Surrender",
+          "hindi": "आत्मसमर्पण करना",
+          "extra": false
+        },
+        {
+          "word": "Submit",
+          "hindi": "समर्पण करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 55,
+      "word": "Elegance",
+      "pos": "N.",
+      "hindi": "भव्यता",
+      "meaning": "The quality of being graceful and stylish",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Vulgarity",
+          "hindi": "अभद्रता",
+          "extra": false
+        },
+        {
+          "word": "Gracelessness",
+          "hindi": "अशालीनता",
+          "extra": false
+        },
+        {
+          "word": "Coarseness",
+          "hindi": "रूखापन",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 56,
+      "word": "Elevation",
+      "pos": "N.",
+      "hindi": "ऊँचाई; पदोन्नति",
+      "meaning": "The act of being raised; A higher level or position",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Depression",
+          "hindi": "गिरावट",
+          "extra": false
+        },
+        {
+          "word": "Demotion",
+          "hindi": "पदावनति",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 57,
+      "word": "Expostulate",
+      "pos": "V.",
+      "hindi": "विरोध करना",
+      "meaning": "To argue or protest against something to persuade someone",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Agree",
+          "hindi": "सहमत होना",
+          "extra": false
+        },
+        {
+          "word": "Laud",
+          "hindi": "प्रशंसा करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 58,
+      "word": "Expunge",
+      "pos": "V.",
+      "hindi": "मिटाना",
+      "meaning": "To erase or remove completely",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Insert",
+          "hindi": "डालना",
+          "extra": false
+        },
+        {
+          "word": "Add",
+          "hindi": "जोड़ना",
+          "extra": false
+        },
+        {
+          "word": "Restore",
+          "hindi": "पुनर्स्थापित करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 59,
+      "word": "Hollow",
+      "pos": "Adj./N.",
+      "hindi": "खोखला; गड्डा",
+      "meaning": "Having an empty space inside (Adj.); A hole or depression (N.)",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Solid",
+          "hindi": "ठोस",
+          "extra": false
+        },
+        {
+          "word": "Worthwhile",
+          "hindi": "उपयोगी",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 60,
+      "word": "Improve",
+      "pos": "V.",
+      "hindi": "सुधारना",
+      "meaning": "To make better",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Spoil",
+          "hindi": "बिगाड़ना",
+          "extra": false
+        },
+        {
+          "word": "Deteriorate",
+          "hindi": "बिगाड़ना",
+          "extra": false
+        },
+        {
+          "word": "Diminish",
+          "hindi": "कम करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 61,
+      "word": "Incompetent",
+      "pos": "Adj.",
+      "hindi": "अयोग्य",
+      "meaning": "Lacking ability to do something successfully",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Adept",
+          "hindi": "निपुण",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 62,
+      "word": "Infallible",
+      "pos": "Adj.",
+      "hindi": "अचूक",
+      "meaning": "Incapable of making mistakes or being wrong",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Imperfect",
+          "hindi": "अपूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Faulty",
+          "hindi": "त्रुटिपूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Unreliable",
+          "hindi": "अविश्वसनीय",
+          "extra": true
+        },
+        {
+          "word": "Erring",
+          "hindi": "त्रुटिशील",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 63,
+      "word": "Inferior",
+      "pos": "Adj.",
+      "hindi": "घटिया",
+      "meaning": "Lower in rank, status, or quality",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Superior",
+          "hindi": "श्रेष्ठ",
+          "extra": false
+        },
+        {
+          "word": "Senior",
+          "hindi": "वरिष्ठ",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 64,
+      "word": "Linger",
+      "pos": "V.",
+      "hindi": "देर तक ठहरना",
+      "meaning": "To stay in a place longer than necessary",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Quicken",
+          "hindi": "तेज़ करना",
+          "extra": false
+        },
+        {
+          "word": "Hasten",
+          "hindi": "जल्दी करना",
+          "extra": false
+        },
+        {
+          "word": "Leave",
+          "hindi": "छोड़ देना",
+          "extra": false
+        },
+        {
+          "word": "Forge",
+          "hindi": "तेजी से आगे बढ़ना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 65,
+      "word": "Lively",
+      "pos": "Adj.",
+      "hindi": "जीवंत",
+      "meaning": "Full of life, energy, and outgoing spirit",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Sluggish",
+          "hindi": "सुस्त",
+          "extra": false
+        },
+        {
+          "word": "Gloomy",
+          "hindi": "निस्तेज",
+          "extra": false
+        },
+        {
+          "word": "Sombre",
+          "hindi": "गंभीर",
+          "extra": false
+        },
+        {
+          "word": "Dull",
+          "hindi": "नीरस",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 66,
+      "word": "Myth",
+      "pos": "N.",
+      "hindi": "मिथक",
+      "meaning": "A traditional story; a commonly believed but untrue idea",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "antonyms": []
+    },
+    {
+      "sn": 67,
+      "word": "Often",
+      "pos": "Adv.",
+      "hindi": "अक्सर",
+      "meaning": "Frequently; many times",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Seldom",
+          "hindi": "शायद ही कभी",
+          "extra": false
+        },
+        {
+          "word": "Rarely",
+          "hindi": "कभी कभार",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 68,
+      "word": "Opprobrium",
+      "pos": "N.",
+      "hindi": "अपमान",
+      "meaning": "Harsh public criticism or disgrace",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Honor",
+          "hindi": "सम्मान",
+          "extra": false
+        },
+        {
+          "word": "Adulation",
+          "hindi": "प्रशंसा",
+          "extra": false
+        },
+        {
+          "word": "Praise",
+          "hindi": "प्रशंसा",
+          "extra": true
+        },
+        {
+          "word": "Encomium",
+          "hindi": "औपचारिक प्रशंसा",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 69,
+      "word": "Originate",
+      "pos": "V.",
+      "hindi": "उत्पन्न होना",
+      "meaning": "To have a specified beginning",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Terminate",
+          "hindi": "समाप्त होना",
+          "extra": false
+        },
+        {
+          "word": "End",
+          "hindi": "खत्म होना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 70,
+      "word": "Relentless",
+      "pos": "Adj.",
+      "hindi": "लगातार; निर्दयी",
+      "meaning": "Continuing without stopping; harsh and unmerciful",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Yielding",
+          "hindi": "लचीला",
+          "extra": false
+        },
+        {
+          "word": "Intermittent",
+          "hindi": "रुक-रुक कर होने वाला",
+          "extra": false
+        },
+        {
+          "word": "Merciful",
+          "hindi": "दयालु",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 71,
+      "word": "Sober",
+      "pos": "Adj.",
+      "hindi": "संयमित",
+      "meaning": "Not drunk; calm and serious",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Drunk",
+          "hindi": "नशे में",
+          "extra": false
+        },
+        {
+          "word": "Agitated",
+          "hindi": "उत्तेजित",
+          "extra": false
+        },
+        {
+          "word": "Unreserved",
+          "hindi": "बेझिझक",
+          "extra": true
+        },
+        {
+          "word": "Excited",
+          "hindi": "उत्साहित",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 72,
+      "word": "Suspend",
+      "pos": "V.",
+      "hindi": "निलंबित करना",
+      "meaning": "To temporarily stop or delay something",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Continue",
+          "hindi": "जारी रखना",
+          "extra": false
+        },
+        {
+          "word": "Resume",
+          "hindi": "फिर से शुरू करना",
+          "extra": false
+        },
+        {
+          "word": "Persist",
+          "hindi": "बने रहना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 73,
+      "word": "Usurp",
+      "pos": "V.",
+      "hindi": "हड़पना",
+      "meaning": "To take power or position illegally or by force",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Surrender",
+          "hindi": "समर्पण करना",
+          "extra": false
+        },
+        {
+          "word": "Restore",
+          "hindi": "पुनः स्थापित करना",
+          "extra": false
+        },
+        {
+          "word": "Release",
+          "hindi": "मुक्त करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 74,
+      "word": "Vehement",
+      "pos": "Adj.",
+      "hindi": "प्रचंड",
+      "meaning": "Showing strong feeling; intense or passionate",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Mild",
+          "hindi": "हल्का",
+          "extra": false
+        },
+        {
+          "word": "Subdued",
+          "hindi": "संयमित",
+          "extra": true
+        },
+        {
+          "word": "Apathetic",
+          "hindi": "उदासीन",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 75,
+      "word": "Verdant",
+      "pos": "Adj.",
+      "hindi": "हरा-भरा",
+      "meaning": "Green with fresh grass or rich vegetation; Flourishing",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "antonyms": [
+        {
+          "word": "Dying",
+          "hindi": "मुरझाया हुआ",
+          "extra": false
+        },
+        {
+          "word": "Dry",
+          "hindi": "शुष्क",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 76,
+      "word": "Veteran",
+      "pos": "N.",
+      "hindi": "अनुभवी",
+      "meaning": "A person who has had long experience in a particular field",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Novice",
+          "hindi": "नौसिखिया",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 77,
+      "word": "Widespread",
+      "pos": "Adj.",
+      "hindi": "व्यापक",
+      "meaning": "Found or distributed over a large area or number of people",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Limited",
+          "hindi": "सीमित",
+          "extra": false
+        },
+        {
+          "word": "Localized",
+          "hindi": "स्थानीय",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 78,
+      "word": "Witty",
+      "pos": "Adj.",
+      "hindi": "हाजिरजवाबी",
+      "meaning": "Showing quick and clever verbal humour",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Stupid",
+          "hindi": "मूर्ख",
+          "extra": false
+        },
+        {
+          "word": "Serious",
+          "hindi": "गंभीर",
+          "extra": false
+        },
+        {
+          "word": "Lame",
+          "hindi": "असंतोषजनक",
+          "extra": false
+        },
+        {
+          "word": "Unamusing",
+          "hindi": "नीरस",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 79,
+      "word": "Abstract",
+      "pos": "Adj.",
+      "hindi": "अमूर्त, भाववाचक",
+      "meaning": "Existing as an idea, not physical",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Concrete",
+          "hindi": "ठोस",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 80,
+      "word": "Acerbic",
+      "pos": "Adj.",
+      "hindi": "तीखा",
+      "meaning": "Sharp and forthright in speech or comment",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Bland",
+          "hindi": "सौम्य",
+          "extra": false
+        },
+        {
+          "word": "Polite",
+          "hindi": "विनम्र",
+          "extra": true
+        },
+        {
+          "word": "Sweet",
+          "hindi": "मधुर",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 81,
+      "word": "Algid",
+      "pos": "Adj.",
+      "hindi": "ठंडा",
+      "meaning": "Extremely cold in temperature",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Scorching",
+          "hindi": "झुलसाने वाला",
+          "extra": false
+        },
+        {
+          "word": "Igneous",
+          "hindi": "आग्नेय, अत्यधिक गर्म",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 82,
+      "word": "Amalgamate",
+      "pos": "V.",
+      "hindi": "एकीकृत करना",
+      "meaning": "To combine or unite to form one organization or structure",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Dismantle",
+          "hindi": "विघटित करना",
+          "extra": false
+        },
+        {
+          "word": "Separate",
+          "hindi": "अलग करना",
+          "extra": true
+        },
+        {
+          "word": "Disperse",
+          "hindi": "बिखेरना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 83,
+      "word": "Antecedent",
+      "pos": "N.",
+      "hindi": "पूर्ववर्ती",
+      "meaning": "A thing or event that existed before or logically precedes another",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Consequence",
+          "hindi": "परिणाम",
+          "extra": false
+        },
+        {
+          "word": "Result",
+          "hindi": "नतीजा",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 84,
+      "word": "Antiquated",
+      "pos": "Adj.",
+      "hindi": "पुराना",
+      "meaning": "Old-fashioned or outdated",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Contemporary",
+          "hindi": "समकालीन",
+          "extra": false
+        },
+        {
+          "word": "Modern",
+          "hindi": "आधुनिक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 85,
+      "word": "Appearance",
+      "pos": "N.",
+      "hindi": "उपस्थिति",
+      "meaning": "An occasion when someone appears in public",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Exit",
+          "hindi": "निकास",
+          "extra": false
+        },
+        {
+          "word": "Disappearance",
+          "hindi": "गायब होना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 86,
+      "word": "Ascent",
+      "pos": "N.",
+      "hindi": "चढ़ाव",
+      "meaning": "A climb or walk to the summit of a mountain or hill",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Descent",
+          "hindi": "उतराव",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 87,
+      "word": "Authorize",
+      "pos": "V.",
+      "hindi": "अधिकृत करना",
+      "meaning": "To give official permission or power",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Forbid",
+          "hindi": "मना करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 88,
+      "word": "Baroque",
+      "pos": "Adj.",
+      "hindi": "बहुत सजावटी",
+      "meaning": "Very decorative, fancy, and full of elaborate details",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Plain",
+          "hindi": "सादा",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 89,
+      "word": "Belittle",
+      "pos": "V.",
+      "hindi": "छोटा महसूस कराना",
+      "meaning": "To dismiss or diminish the importance of something",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Extol",
+          "hindi": "प्रशंसा करना",
+          "extra": false
+        },
+        {
+          "word": "Praise",
+          "hindi": "तारीफ करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 90,
+      "word": "Bestow",
+      "pos": "V.",
+      "hindi": "प्रदान करना",
+      "meaning": "To give or confer as an honor or gift",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Deny",
+          "hindi": "मना करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 91,
+      "word": "Better",
+      "pos": "Adj.",
+      "hindi": "बेहतर",
+      "meaning": "Higher in quality",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Inferior",
+          "hindi": "निम्न",
+          "extra": false
+        },
+        {
+          "word": "Worse",
+          "hindi": "बदतर",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 92,
+      "word": "Betterment",
+      "pos": "N.",
+      "hindi": "सुधार",
+      "meaning": "The improvement or progress in something",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Deterioration",
+          "hindi": "ह्रास",
+          "extra": false
+        },
+        {
+          "word": "Worsening",
+          "hindi": "गिरावट",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 93,
+      "word": "Bless",
+      "pos": "V.",
+      "hindi": "आशीर्वाद देना",
+      "meaning": "To give divine favor or express good wishes",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Curse",
+          "hindi": "शाप देना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 94,
+      "word": "Capacious",
+      "pos": "Adj.",
+      "hindi": "विशाल",
+      "meaning": "Having a lot of space inside; roomy",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "antonyms": [
+        {
+          "word": "Cramped",
+          "hindi": "तंग",
+          "extra": false
+        },
+        {
+          "word": "Limited",
+          "hindi": "सीमित",
+          "extra": true
+        },
+        {
+          "word": "Confined",
+          "hindi": "परिसीमित",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 95,
+      "word": "Cheap",
+      "pos": "Adj.",
+      "hindi": "सस्ता",
+      "meaning": "Low in price, especially in relation to similar items",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Expensive",
+          "hindi": "महंगा",
+          "extra": false
+        },
+        {
+          "word": "Costly",
+          "hindi": "महँगा",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 96,
+      "word": "Cheerful",
+      "pos": "Adj.",
+      "hindi": "प्रसन्न",
+      "meaning": "Noticeably happy and optimistic",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Gloomy",
+          "hindi": "उदास",
+          "extra": false
+        },
+        {
+          "word": "Sad",
+          "hindi": "दुखी",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 97,
+      "word": "Combative",
+      "pos": "Adj.",
+      "hindi": "लड़ाकू",
+      "meaning": "Ready or eager to fight or argue",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "antonyms": [
+        {
+          "word": "Peaceful",
+          "hindi": "शांतिपूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Agreeable",
+          "hindi": "सहमत",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 98,
+      "word": "Complete",
+      "pos": "Adj.",
+      "hindi": "पूर्ण",
+      "meaning": "Having all necessary or appropriate parts",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Partial",
+          "hindi": "आंशिक",
+          "extra": false
+        },
+        {
+          "word": "Incomplete",
+          "hindi": "अधूरा",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 99,
+      "word": "Conform",
+      "pos": "V.",
+      "hindi": "अनुरूप होना",
+      "meaning": "To comply with rules, standards, or laws",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Differ",
+          "hindi": "भिन्न होना",
+          "extra": false
+        },
+        {
+          "word": "Deviate",
+          "hindi": "विचलित होना",
+          "extra": false
+        },
+        {
+          "word": "Disobey",
+          "hindi": "अवज्ञा करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 100,
+      "word": "Contentment",
+      "pos": "N.",
+      "hindi": "संतोष",
+      "meaning": "A state of happiness and satisfaction",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "antonyms": [
+        {
+          "word": "Sadness",
+          "hindi": "दुख",
+          "extra": false
+        },
+        {
+          "word": "Discomfort",
+          "hindi": "असुविधा",
+          "extra": false
+        },
+        {
+          "word": "Agitation",
+          "hindi": "व्याकुलता",
+          "extra": true
+        }
+      ]
+    }
+  ]
+}

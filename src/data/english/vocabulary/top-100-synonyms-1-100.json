@@ -1,0 +1,2388 @@
+{
+  "title": "Top 100 Synonyms",
+  "description": "Top 100 most frequently asked Synonym word sets in SSC exams, with English meaning, Hindi meaning, part of speech, and repetition counts (SSC / Other exams).",
+  "totalWords": 100,
+  "totalTimesAsked": 453,
+  "words": [
+    {
+      "sn": 1,
+      "word": "Forbear",
+      "pos": "V.",
+      "hindi": "संयम बरतना",
+      "meaning": "To restrain oneself from doing something",
+      "repetitionSSC": 6,
+      "repetitionOther": 6,
+      "synonyms": [
+        {
+          "word": "Refrain",
+          "hindi": "परहेज करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 2,
+      "word": "Contemptuous",
+      "pos": "Adj.",
+      "hindi": "अनादरपूर्ण",
+      "meaning": "Showing strong dislike or disrespect",
+      "repetitionSSC": 1,
+      "repetitionOther": 9,
+      "synonyms": [
+        {
+          "word": "Derisive",
+          "hindi": "मजाक उड़ाने वाला",
+          "extra": false
+        },
+        {
+          "word": "Disrespectful",
+          "hindi": "अनादरयुक्त",
+          "extra": true
+        },
+        {
+          "word": "Disdainful",
+          "hindi": "तिरस्कारपूर्ण",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 3,
+      "word": "Banish",
+      "pos": "V.",
+      "hindi": "निर्वासित करना",
+      "meaning": "To send someone away from a country as punishment",
+      "repetitionSSC": 7,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Expel",
+          "hindi": "निकाल देना",
+          "extra": false
+        },
+        {
+          "word": "Exile",
+          "hindi": "देश-निकाला देना",
+          "extra": false
+        },
+        {
+          "word": "Deport",
+          "hindi": "देश से निकालना",
+          "extra": false
+        },
+        {
+          "word": "Relegate",
+          "hindi": "नीचे स्तर पर भेजना",
+          "extra": false
+        },
+        {
+          "word": "Dispel",
+          "hindi": "दूर करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 4,
+      "word": "Erroneous",
+      "pos": "Adj.",
+      "hindi": "गलत",
+      "meaning": "Containing or characterized by error",
+      "repetitionSSC": 6,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "False",
+          "hindi": "झूठा",
+          "extra": false
+        },
+        {
+          "word": "Invalid",
+          "hindi": "अमान्य",
+          "extra": false
+        },
+        {
+          "word": "Wrong",
+          "hindi": "गलत",
+          "extra": false
+        },
+        {
+          "word": "Inaccurate",
+          "hindi": "अशुद्ध",
+          "extra": false
+        },
+        {
+          "word": "Fallacious",
+          "hindi": "भ्रांतिपूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Mistaken",
+          "hindi": "भ्रांत",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 5,
+      "word": "Forsake",
+      "pos": "V.",
+      "hindi": "त्यागना",
+      "meaning": "To abandon or give up",
+      "repetitionSSC": 5,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Abandon",
+          "hindi": "छोड़ देना",
+          "extra": false
+        },
+        {
+          "word": "Desert",
+          "hindi": "छोड़कर भाग जाना",
+          "extra": false
+        },
+        {
+          "word": "Discard",
+          "hindi": "त्याग देना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 6,
+      "word": "Impart",
+      "pos": "V.",
+      "hindi": "प्रसारित करना",
+      "meaning": "To make information known; communicate",
+      "repetitionSSC": 4,
+      "repetitionOther": 4,
+      "synonyms": [
+        {
+          "word": "Transmit",
+          "hindi": "संचारित करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 7,
+      "word": "Obliterate",
+      "pos": "V.",
+      "hindi": "मिटाना",
+      "meaning": "To destroy completely; wipe out",
+      "repetitionSSC": 3,
+      "repetitionOther": 5,
+      "synonyms": [
+        {
+          "word": "Annihilate",
+          "hindi": "नष्ट करना",
+          "extra": false
+        },
+        {
+          "word": "Abolish",
+          "hindi": "हटाना",
+          "extra": false
+        },
+        {
+          "word": "Erase",
+          "hindi": "मिटाना",
+          "extra": false
+        },
+        {
+          "word": "Demolish",
+          "hindi": "ध्वस्त करना",
+          "extra": true
+        },
+        {
+          "word": "Eradicate",
+          "hindi": "मिटा देना",
+          "extra": true
+        },
+        {
+          "word": "Destroy",
+          "hindi": "नष्ट करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 8,
+      "word": "Frantic",
+      "pos": "Adj.",
+      "hindi": "घबराया हुआ",
+      "meaning": "Wild or distraught with fear or anxiety",
+      "repetitionSSC": 4,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Agitated",
+          "hindi": "व्याकुल",
+          "extra": false
+        },
+        {
+          "word": "Distraught",
+          "hindi": "घबराया हुआ",
+          "extra": false
+        },
+        {
+          "word": "Violent",
+          "hindi": "उग्र",
+          "extra": false
+        },
+        {
+          "word": "Berserk",
+          "hindi": "उन्मादी",
+          "extra": true
+        },
+        {
+          "word": "Panicky",
+          "hindi": "आतंकित",
+          "extra": true
+        },
+        {
+          "word": "Desperate",
+          "hindi": "बेताब",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 9,
+      "word": "Hurdle",
+      "pos": "N.",
+      "hindi": "बाधा",
+      "meaning": "A difficulty or obstacle",
+      "repetitionSSC": 6,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Obstacle",
+          "hindi": "रुकावट",
+          "extra": false
+        },
+        {
+          "word": "Impediment",
+          "hindi": "अड़चन",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 10,
+      "word": "Obligation",
+      "pos": "N.",
+      "hindi": "दायित्व",
+      "meaning": "A moral or legal duty or commitment",
+      "repetitionSSC": 4,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Commitment",
+          "hindi": "प्रतिबद्धता",
+          "extra": false
+        },
+        {
+          "word": "Duty",
+          "hindi": "कर्तव्य",
+          "extra": false
+        },
+        {
+          "word": "Responsibility",
+          "hindi": "जिम्मेदारी",
+          "extra": false
+        },
+        {
+          "word": "Binding",
+          "hindi": "बंधन",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 11,
+      "word": "Sycophant",
+      "pos": "N.",
+      "hindi": "चापलूसी",
+      "meaning": "A person who flatters someone powerful for gain",
+      "repetitionSSC": 3,
+      "repetitionOther": 4,
+      "synonyms": [
+        {
+          "word": "Fawner",
+          "hindi": "खुशामदी",
+          "extra": false
+        },
+        {
+          "word": "Flatterer",
+          "hindi": "चापलूसी",
+          "extra": false
+        },
+        {
+          "word": "Adulator",
+          "hindi": "चाटुकार",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 12,
+      "word": "Anticipate",
+      "pos": "V.",
+      "hindi": "पूर्वानुमान करना",
+      "meaning": "To expect or prepare for something in advance",
+      "repetitionSSC": 5,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Expect",
+          "hindi": "उम्मीद करना",
+          "extra": false
+        },
+        {
+          "word": "Predict",
+          "hindi": "भविष्यवाणी करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 13,
+      "word": "Companion",
+      "pos": "N.",
+      "hindi": "साथी",
+      "meaning": "A person or animal with whom one spends time or travels",
+      "repetitionSSC": 1,
+      "repetitionOther": 5,
+      "synonyms": [
+        {
+          "word": "Mate",
+          "hindi": "संगी",
+          "extra": false
+        },
+        {
+          "word": "Comrade",
+          "hindi": "सहचर",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 14,
+      "word": "Deteriorate",
+      "pos": "V.",
+      "hindi": "खराब होना",
+      "meaning": "To become progressively worse",
+      "repetitionSSC": 4,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Worsen",
+          "hindi": "बिगाड़ना",
+          "extra": false
+        },
+        {
+          "word": "Dilapidate",
+          "hindi": "खंडहर बनाना",
+          "extra": false
+        },
+        {
+          "word": "Retrogress",
+          "hindi": "पतन होना",
+          "extra": false
+        },
+        {
+          "word": "Decline",
+          "hindi": "गिरना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 15,
+      "word": "Foster",
+      "pos": "V.",
+      "hindi": "बढ़ावा देना",
+      "meaning": "To encourage or help develop",
+      "repetitionSSC": 2,
+      "repetitionOther": 4,
+      "synonyms": [
+        {
+          "word": "Promote",
+          "hindi": "प्रोत्साहित करना",
+          "extra": false
+        },
+        {
+          "word": "Nurture",
+          "hindi": "पालन-पोषण करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 16,
+      "word": "Impediment",
+      "pos": "N.",
+      "hindi": "बाधा",
+      "meaning": "A hindrance or obstruction in doing something",
+      "repetitionSSC": 3,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Obstruction",
+          "hindi": "अवरोध",
+          "extra": false
+        },
+        {
+          "word": "Obstacle",
+          "hindi": "रुकावट",
+          "extra": false
+        },
+        {
+          "word": "Barrier",
+          "hindi": "रोक",
+          "extra": false
+        },
+        {
+          "word": "Hurdle",
+          "hindi": "अड़चन",
+          "extra": true
+        },
+        {
+          "word": "Restriction",
+          "hindi": "प्रतिबंध",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 17,
+      "word": "Luxuriant",
+      "pos": "Adj.",
+      "hindi": "प्रचुर",
+      "meaning": "Rich and profuse in growth",
+      "repetitionSSC": 4,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Abundant",
+          "hindi": "बहुतायत",
+          "extra": false
+        },
+        {
+          "word": "Lush",
+          "hindi": "भरपूर",
+          "extra": false
+        },
+        {
+          "word": "Flourishing",
+          "hindi": "फलता-फूलता",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 18,
+      "word": "Precedence",
+      "pos": "N.",
+      "hindi": "प्राथमिकता",
+      "meaning": "The condition of having higher importance or priority",
+      "repetitionSSC": 6,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Priority",
+          "hindi": "प्राथमिकता",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 19,
+      "word": "Wander",
+      "pos": "V.",
+      "hindi": "भटकना",
+      "meaning": "To move about aimlessly or casually",
+      "repetitionSSC": 5,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Roam",
+          "hindi": "घूमना",
+          "extra": false
+        },
+        {
+          "word": "Deviate",
+          "hindi": "विचलित होना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 20,
+      "word": "Achieve",
+      "pos": "V.",
+      "hindi": "हासिल करना",
+      "meaning": "To complete something by hard work and skill",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Accomplish",
+          "hindi": "पूरा करना",
+          "extra": false
+        },
+        {
+          "word": "Succeed",
+          "hindi": "सफल होना",
+          "extra": false
+        },
+        {
+          "word": "Attain",
+          "hindi": "प्राप्त करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 21,
+      "word": "Amaze",
+      "pos": "V.",
+      "hindi": "चकित करना",
+      "meaning": "To surprise greatly",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Astonish",
+          "hindi": "आश्चर्यचकित करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 22,
+      "word": "Dedicate",
+      "pos": "V.",
+      "hindi": "समर्पित करना",
+      "meaning": "To devote to a task or purpose",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Devote",
+          "hindi": "समर्पण करना",
+          "extra": false
+        },
+        {
+          "word": "Commit",
+          "hindi": "प्रतिबद्ध होना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 23,
+      "word": "Deride",
+      "pos": "V.",
+      "hindi": "मज़ाक उड़ाना",
+      "meaning": "To express contempt for; to ridicule",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Mock",
+          "hindi": "मज़ाक उड़ाना",
+          "extra": false
+        },
+        {
+          "word": "Ridicule",
+          "hindi": "उपहास करना",
+          "extra": false
+        },
+        {
+          "word": "Taunt",
+          "hindi": "ताना मारना",
+          "extra": false
+        },
+        {
+          "word": "Disdain",
+          "hindi": "तिरस्कार करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 24,
+      "word": "Envisage",
+      "pos": "V.",
+      "hindi": "कल्पना करना",
+      "meaning": "To consider or imagine a future possibility",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "synonyms": [
+        {
+          "word": "Imagine",
+          "hindi": "परिकल्पना करना",
+          "extra": false
+        },
+        {
+          "word": "Contemplate",
+          "hindi": "विचार करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 25,
+      "word": "Fling",
+      "pos": "V.",
+      "hindi": "फेंकना",
+      "meaning": "To throw or hurl forcefully",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Throw",
+          "hindi": "फेंकना",
+          "extra": false
+        },
+        {
+          "word": "Propel",
+          "hindi": "धकेलना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 26,
+      "word": "Flout",
+      "pos": "V.",
+      "hindi": "अवहेलना करना",
+      "meaning": "To openly disregard a rule, law, or convention",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Mock",
+          "hindi": "अवज्ञा करना",
+          "extra": false
+        },
+        {
+          "word": "Defy",
+          "hindi": "अवहेलना करना",
+          "extra": false
+        },
+        {
+          "word": "Disregard",
+          "hindi": "अनदेखा करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 27,
+      "word": "Garnish",
+      "pos": "V.",
+      "hindi": "सजावट करना",
+      "meaning": "To decorate or embellish something, especially food",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Adorn",
+          "hindi": "सजाना",
+          "extra": false
+        },
+        {
+          "word": "Embellish",
+          "hindi": "सुशोभित करना",
+          "extra": false
+        },
+        {
+          "word": "Decorate",
+          "hindi": "सजावट करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 28,
+      "word": "Innuendo",
+      "pos": "N.",
+      "hindi": "इशारा",
+      "meaning": "An allusive or oblique remark or hint",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Insinuation",
+          "hindi": "इशारा",
+          "extra": false
+        },
+        {
+          "word": "Implication",
+          "hindi": "संकेत",
+          "extra": false
+        },
+        {
+          "word": "Hint",
+          "hindi": "इशारा",
+          "extra": true
+        },
+        {
+          "word": "Allusion",
+          "hindi": "संकेत",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 29,
+      "word": "Jealous",
+      "pos": "Adj.",
+      "hindi": "ईर्ष्यालु",
+      "meaning": "Feeling or showing envy of someone or their achievements and advantages",
+      "repetitionSSC": 3,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Envious",
+          "hindi": "ईर्ष्यालु",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 30,
+      "word": "Sanction",
+      "pos": "N.",
+      "hindi": "अनुमति",
+      "meaning": "The official approval or authorization",
+      "repetitionSSC": 4,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Permission",
+          "hindi": "अनुमति",
+          "extra": false
+        },
+        {
+          "word": "Approval",
+          "hindi": "स्वीकृति",
+          "extra": false
+        },
+        {
+          "word": "Permit",
+          "hindi": "अनुमति",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 31,
+      "word": "Stroll",
+      "pos": "V.",
+      "hindi": "टहलना",
+      "meaning": "To walk in a leisurely way",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Walk",
+          "hindi": "चलना",
+          "extra": false
+        },
+        {
+          "word": "Saunter",
+          "hindi": "आराम से चलना",
+          "extra": false
+        },
+        {
+          "word": "Roam",
+          "hindi": "घूमना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 32,
+      "word": "Tepid",
+      "pos": "Adj.",
+      "hindi": "गुनगुना",
+      "meaning": "Slightly warm; not hot or cold",
+      "repetitionSSC": 1,
+      "repetitionOther": 4,
+      "synonyms": [
+        {
+          "word": "Warm",
+          "hindi": "हल्का गर्म",
+          "extra": false
+        },
+        {
+          "word": "Dull",
+          "hindi": "नीरस",
+          "extra": true
+        },
+        {
+          "word": "Lukewarm",
+          "hindi": "गुनगुना",
+          "extra": true
+        },
+        {
+          "word": "Moderate",
+          "hindi": "मध्यम",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 33,
+      "word": "Yearn",
+      "pos": "V.",
+      "hindi": "तीव्र इच्छा करना",
+      "meaning": "To feel a deep longing for something",
+      "repetitionSSC": 2,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Desire",
+          "hindi": "इच्छा करना",
+          "extra": false
+        },
+        {
+          "word": "Crave",
+          "hindi": "लालसा करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 34,
+      "word": "Adapt",
+      "pos": "V.",
+      "hindi": "ढालना",
+      "meaning": "To make something suitable for a new use or purpose",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Adjust",
+          "hindi": "तालमेल बिठाना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 35,
+      "word": "Anger",
+      "pos": "N.",
+      "hindi": "क्रोध",
+      "meaning": "A strong feeling of annoyance or hostility",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Fury",
+          "hindi": "प्रकोप",
+          "extra": false
+        },
+        {
+          "word": "Rage",
+          "hindi": "प्रकोप",
+          "extra": false
+        },
+        {
+          "word": "Displeasure",
+          "hindi": "असंतोष",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 36,
+      "word": "Anguish",
+      "pos": "N.",
+      "hindi": "पीड़ा",
+      "meaning": "Severe mental or physical pain or suffering",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Agony",
+          "hindi": "यातना",
+          "extra": false
+        },
+        {
+          "word": "Ache",
+          "hindi": "दर्द",
+          "extra": false
+        },
+        {
+          "word": "Sorrow",
+          "hindi": "दुख",
+          "extra": false
+        },
+        {
+          "word": "Pain",
+          "hindi": "वेदना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 37,
+      "word": "Bashful",
+      "pos": "Adj.",
+      "hindi": "शर्मीला",
+      "meaning": "Reluctant to draw attention to oneself; shy",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Shy",
+          "hindi": "लजीला",
+          "extra": false
+        },
+        {
+          "word": "Introverted",
+          "hindi": "अंतर्मुखी",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 38,
+      "word": "Bind",
+      "pos": "V.",
+      "hindi": "बाँधना",
+      "meaning": "To tie or fasten something tightly",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Fasten",
+          "hindi": "कसना",
+          "extra": false
+        },
+        {
+          "word": "Secure",
+          "hindi": "सुरक्षित करना",
+          "extra": false
+        },
+        {
+          "word": "Unite",
+          "hindi": "एकजुट करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 39,
+      "word": "Contrite",
+      "pos": "Adj.",
+      "hindi": "पश्चात्तापी",
+      "meaning": "Feeling or expressing remorse; affected by guilt",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Regretful",
+          "hindi": "खेदपूर्ण",
+          "extra": false
+        },
+        {
+          "word": "Remorseful",
+          "hindi": "पश्चातापपूर्ण",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 40,
+      "word": "Conundrum",
+      "pos": "N.",
+      "hindi": "पहेली",
+      "meaning": "A confusing and difficult problem or question",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Problem",
+          "hindi": "समस्या",
+          "extra": false
+        },
+        {
+          "word": "Confusion",
+          "hindi": "भ्रम",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 41,
+      "word": "Crux",
+      "pos": "N.",
+      "hindi": "सार",
+      "meaning": "The decisive or most important point at issue",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Essence",
+          "hindi": "मूल",
+          "extra": false
+        },
+        {
+          "word": "Gist",
+          "hindi": "सार",
+          "extra": false
+        },
+        {
+          "word": "Core",
+          "hindi": "केंद्र",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 42,
+      "word": "Deadly",
+      "pos": "Adj.",
+      "hindi": "जानलेवा",
+      "meaning": "Causing or able to cause death",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Fatal",
+          "hindi": "प्राणघातक",
+          "extra": false
+        },
+        {
+          "word": "Lethal",
+          "hindi": "घातक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 43,
+      "word": "Deft",
+      "pos": "Adj.",
+      "hindi": "निपुण",
+      "meaning": "Showing skill and quickness",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Skilful",
+          "hindi": "कुशल",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 44,
+      "word": "Determined",
+      "pos": "Adj.",
+      "hindi": "दृढ़निश्चयी",
+      "meaning": "Having made a firm decision and being resolved not to change it",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Resolved",
+          "hindi": "संकल्पित",
+          "extra": false
+        },
+        {
+          "word": "Resolute",
+          "hindi": "दृढ़निश्चयी",
+          "extra": false
+        },
+        {
+          "word": "Decisive",
+          "hindi": "निर्णायक",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 45,
+      "word": "Devastate",
+      "pos": "V.",
+      "hindi": "नष्ट करना",
+      "meaning": "To cause complete destruction or ruin",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Destroy",
+          "hindi": "नष्ट करना",
+          "extra": false
+        },
+        {
+          "word": "Destruct",
+          "hindi": "नष्ट करना",
+          "extra": false
+        },
+        {
+          "word": "Ruin",
+          "hindi": "बर्बाद करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 46,
+      "word": "Discern",
+      "pos": "V.",
+      "hindi": "पहचानना",
+      "meaning": "To perceive or recognize clearly",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Discriminate",
+          "hindi": "भेद करना",
+          "extra": false
+        },
+        {
+          "word": "Perceive",
+          "hindi": "जानना",
+          "extra": false
+        },
+        {
+          "word": "Determine",
+          "hindi": "निर्धारित करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 47,
+      "word": "Disparity",
+      "pos": "N.",
+      "hindi": "असमानता",
+      "meaning": "A great difference",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Difference",
+          "hindi": "अंतर",
+          "extra": false
+        },
+        {
+          "word": "Diversity",
+          "hindi": "विविधता",
+          "extra": false
+        },
+        {
+          "word": "Inequality",
+          "hindi": "असमानता",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 48,
+      "word": "Disrupt",
+      "pos": "V.",
+      "hindi": "भंग करना",
+      "meaning": "To interrupt by causing disorder or trouble",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Break",
+          "hindi": "तोड़ना",
+          "extra": false
+        },
+        {
+          "word": "Disturb",
+          "hindi": "परेशान करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 49,
+      "word": "Distinguished",
+      "pos": "Adj.",
+      "hindi": "प्रतिष्ठित",
+      "meaning": "Very successful and highly respected",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Dignified",
+          "hindi": "गरिमामय",
+          "extra": false
+        },
+        {
+          "word": "Acclaimed",
+          "hindi": "प्रशंसित",
+          "extra": false
+        },
+        {
+          "word": "Honoured",
+          "hindi": "सम्मानित",
+          "extra": false
+        },
+        {
+          "word": "Esteemed",
+          "hindi": "प्रतिष्ठित",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 50,
+      "word": "Dodge",
+      "pos": "V.",
+      "hindi": "चकमा देना",
+      "meaning": "To avoid or evade by quick or clever action",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Avoid",
+          "hindi": "टालना",
+          "extra": false
+        },
+        {
+          "word": "Evade",
+          "hindi": "बचना",
+          "extra": false
+        },
+        {
+          "word": "Sidestep",
+          "hindi": "बचकर निकलना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 51,
+      "word": "Estrange",
+      "pos": "V.",
+      "hindi": "पराया कर देना",
+      "meaning": "To cause people to become distant or unfriendly.",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Separate",
+          "hindi": "अलग होना",
+          "extra": false
+        },
+        {
+          "word": "Alienate",
+          "hindi": "दूर कर देना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 52,
+      "word": "Execute",
+      "pos": "V.",
+      "hindi": "पालन करना, पूरा करना",
+      "meaning": "To carry out or put into effect",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Implement",
+          "hindi": "लागू करना",
+          "extra": false
+        },
+        {
+          "word": "Accomplish",
+          "hindi": "पूरा करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 53,
+      "word": "Fatal",
+      "pos": "Adj.",
+      "hindi": "घातक",
+      "meaning": "Causing death",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Deadly",
+          "hindi": "जानलेवा",
+          "extra": false
+        },
+        {
+          "word": "Disastrous",
+          "hindi": "विनाशकारी",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 54,
+      "word": "Feign",
+      "pos": "V.",
+      "hindi": "दिखावा करना",
+      "meaning": "To pretend to be affected by a feeling or state",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Pretend",
+          "hindi": "नाटक करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 55,
+      "word": "Fury",
+      "pos": "N.",
+      "hindi": "क्रोध",
+      "meaning": "Wild or violent anger",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Anger",
+          "hindi": "गुस्सा",
+          "extra": false
+        },
+        {
+          "word": "Rage",
+          "hindi": "रोष",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 56,
+      "word": "Glib",
+      "pos": "Adj.",
+      "hindi": "चिकनी-चुपड़ी बातें करने वाला",
+      "meaning": "Fluent and voluble but insincere and shallow",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Artful",
+          "hindi": "चालाक",
+          "extra": false
+        },
+        {
+          "word": "Slick",
+          "hindi": "चालाक",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 57,
+      "word": "Hoodwink",
+      "pos": "V.",
+      "hindi": "आँख में धूल झोंकना",
+      "meaning": "To deceive or trick someone",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Deceive",
+          "hindi": "धोखा देना",
+          "extra": false
+        },
+        {
+          "word": "Cheat",
+          "hindi": "बेईमानी करना",
+          "extra": false
+        },
+        {
+          "word": "Defraud",
+          "hindi": "ठगना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 58,
+      "word": "Impetus",
+      "pos": "N.",
+      "hindi": "प्रेरणा",
+      "meaning": "Force or motivation that makes something happen",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Encouragement",
+          "hindi": "प्रोत्साहन",
+          "extra": false
+        },
+        {
+          "word": "Incitement",
+          "hindi": "उकसावा",
+          "extra": false
+        },
+        {
+          "word": "Momentum",
+          "hindi": "गति",
+          "extra": true
+        },
+        {
+          "word": "Stimulant",
+          "hindi": "उत्तेजक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 59,
+      "word": "Incognito",
+      "pos": "Adj./Adv.",
+      "hindi": "गुमनाम; गुप्त रूप से",
+      "meaning": "Having one's identity hidden (Adj.); with identity hidden (Adv.)",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Anonymous",
+          "hindi": "अज्ञात",
+          "extra": false
+        },
+        {
+          "word": "Concealed",
+          "hindi": "छिपा हुआ",
+          "extra": true
+        },
+        {
+          "word": "Secretly",
+          "hindi": "गुप्त रूप से",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 60,
+      "word": "Labour",
+      "pos": "N.",
+      "hindi": "श्रम",
+      "meaning": "Physical or mental work",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Toil",
+          "hindi": "कड़ी मेहनत",
+          "extra": false
+        },
+        {
+          "word": "Drudge",
+          "hindi": "कठिन परिश्रम",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 61,
+      "word": "Labyrinth",
+      "pos": "N.",
+      "hindi": "भूलभुलैया",
+      "meaning": "A complex network of passages; a maze",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Meander",
+          "hindi": "घुमाव",
+          "extra": false
+        },
+        {
+          "word": "Maze",
+          "hindi": "भूलभुलैया",
+          "extra": false
+        },
+        {
+          "word": "Complexity",
+          "hindi": "जटिलता",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 62,
+      "word": "Lurid",
+      "pos": "Adj.",
+      "hindi": "भड़कीला",
+      "meaning": "Unpleasantly vivid; ghastly; sensational; gruesome; terrible or distorted",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Shocking",
+          "hindi": "चौंकाने वाला",
+          "extra": false
+        },
+        {
+          "word": "Over-Bright",
+          "hindi": "अत्यधिक चमकीला",
+          "extra": false
+        },
+        {
+          "word": "Violent",
+          "hindi": "हिंसक",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 63,
+      "word": "Onus",
+      "pos": "N.",
+      "hindi": "भार",
+      "meaning": "A duty or responsibility placed on someone",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Responsibility",
+          "hindi": "ज़िम्मेदारी",
+          "extra": false
+        },
+        {
+          "word": "Burden",
+          "hindi": "बोझ",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 64,
+      "word": "Palpable",
+      "pos": "Adj.",
+      "hindi": "स्पष्ट",
+      "meaning": "Easily felt or clearly noticeable",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Detectable",
+          "hindi": "पता लगाने योग्य",
+          "extra": false
+        },
+        {
+          "word": "Tangible",
+          "hindi": "स्पर्शनीय",
+          "extra": false
+        },
+        {
+          "word": "Obvious",
+          "hindi": "स्पष्ट",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 65,
+      "word": "Panacea",
+      "pos": "N.",
+      "hindi": "रामबाण",
+      "meaning": "A remedy for all problems or diseases",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Cure-All",
+          "hindi": "सर्वरोग निवारण",
+          "extra": false
+        },
+        {
+          "word": "Remedy",
+          "hindi": "इलाज",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 66,
+      "word": "Paramount",
+      "pos": "Adj.",
+      "hindi": "सर्वोपरि",
+      "meaning": "More important than anything else",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Central",
+          "hindi": "केंद्रीय",
+          "extra": false
+        },
+        {
+          "word": "Supreme",
+          "hindi": "सर्वोच्च",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 67,
+      "word": "Pester",
+      "pos": "V.",
+      "hindi": "सताना",
+      "meaning": "To annoy someone repeatedly",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Annoy",
+          "hindi": "परेशान करना",
+          "extra": false
+        },
+        {
+          "word": "Bother",
+          "hindi": "कष्ट देना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 68,
+      "word": "Pleasant",
+      "pos": "Adj.",
+      "hindi": "सुखद",
+      "meaning": "Giving a sense of happy satisfaction or enjoyment",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Amusing",
+          "hindi": "मनोरंजक",
+          "extra": false
+        },
+        {
+          "word": "Delightful",
+          "hindi": "आनंददायक",
+          "extra": false
+        },
+        {
+          "word": "Refreshing",
+          "hindi": "ताज़गी भरा",
+          "extra": false
+        },
+        {
+          "word": "Enjoyable",
+          "hindi": "आनंद देने वाला",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 69,
+      "word": "Ponder",
+      "pos": "V.",
+      "hindi": "चिंतन करना",
+      "meaning": "To think carefully and seriously about something",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Meditate",
+          "hindi": "ध्यान लगाना",
+          "extra": false
+        },
+        {
+          "word": "Contemplate",
+          "hindi": "विचार करना",
+          "extra": false
+        },
+        {
+          "word": "Think",
+          "hindi": "सोचना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 70,
+      "word": "Pugnacious",
+      "pos": "Adj.",
+      "hindi": "लड़ाकू",
+      "meaning": "Quick to argue or ready to fight",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Truculent",
+          "hindi": "आक्रामक",
+          "extra": false
+        },
+        {
+          "word": "Belligerent",
+          "hindi": "झगड़ालू",
+          "extra": false
+        },
+        {
+          "word": "Waspish",
+          "hindi": "चिड़चिड़ा",
+          "extra": false
+        },
+        {
+          "word": "Quarrelsome",
+          "hindi": "झगड़ालू",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 71,
+      "word": "Quandary",
+      "pos": "N.",
+      "hindi": "दुविधा",
+      "meaning": "A state of uncertainty in a difficult situation",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Dilemma",
+          "hindi": "कठिन चुनाव",
+          "extra": false
+        },
+        {
+          "word": "Impasse",
+          "hindi": "अटकाव",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 72,
+      "word": "Rampart",
+      "pos": "N.",
+      "hindi": "किलेबंदी",
+      "meaning": "A defensive wall built for protection",
+      "repetitionSSC": 4,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Bulwark",
+          "hindi": "किलेबंदी",
+          "extra": false
+        },
+        {
+          "word": "Parapet",
+          "hindi": "सुरक्षा-दीवार",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 73,
+      "word": "Requisite",
+      "pos": "Adj./N.",
+      "hindi": "अनिवार्य; आवश्यक वस्तु",
+      "meaning": "Necessary for a purpose (Adj.); Something that is required (N.)",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Obligatory",
+          "hindi": "अनिवार्य",
+          "extra": false
+        },
+        {
+          "word": "Essential",
+          "hindi": "आवश्यक",
+          "extra": false
+        },
+        {
+          "word": "Precondition",
+          "hindi": "पूर्व शर्त",
+          "extra": false
+        },
+        {
+          "word": "Necessity",
+          "hindi": "आवश्यकता",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 74,
+      "word": "Respect",
+      "pos": "N.",
+      "hindi": "आदर",
+      "meaning": "A feeling of esteem or admiration",
+      "repetitionSSC": 3,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Deference",
+          "hindi": "सम्मान",
+          "extra": false
+        },
+        {
+          "word": "Honour",
+          "hindi": "गौरव",
+          "extra": false
+        },
+        {
+          "word": "Regard",
+          "hindi": "सम्मान",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 75,
+      "word": "Tendency",
+      "pos": "N.",
+      "hindi": "प्रवृत्ति",
+      "meaning": "An inclination towards a particular behaviour or characteristic",
+      "repetitionSSC": 2,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Propensity",
+          "hindi": "प्रवृत्ति",
+          "extra": false
+        },
+        {
+          "word": "Proneness",
+          "hindi": "झुकाव",
+          "extra": false
+        },
+        {
+          "word": "Predisposition",
+          "hindi": "पूर्व-प्रवृत्ति",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 76,
+      "word": "Transcend",
+      "pos": "V.",
+      "hindi": "पार करना",
+      "meaning": "To go beyond or rise above a limit or level",
+      "repetitionSSC": 1,
+      "repetitionOther": 3,
+      "synonyms": [
+        {
+          "word": "Eclipse",
+          "hindi": "पीछे छोड़ देना",
+          "extra": false
+        },
+        {
+          "word": "Surpass",
+          "hindi": "पीछे छोड़ना",
+          "extra": true
+        },
+        {
+          "word": "Cross",
+          "hindi": "पार करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 77,
+      "word": "Ablaze",
+      "pos": "Adj.",
+      "hindi": "जलता हुआ",
+      "meaning": "Burning fiercely or filled with anger",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Burning",
+          "hindi": "जलता हुआ",
+          "extra": false
+        },
+        {
+          "word": "Furious",
+          "hindi": "क्रोधित",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 78,
+      "word": "Abysmal",
+      "pos": "Adj.",
+      "hindi": "बहुत खराब",
+      "meaning": "Extremely bad or shocking in quality",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Terrible",
+          "hindi": "भयानक",
+          "extra": false
+        },
+        {
+          "word": "Deplorable",
+          "hindi": "दयनीय",
+          "extra": true
+        },
+        {
+          "word": "Appalling",
+          "hindi": "भयावह",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 79,
+      "word": "Acclaim",
+      "pos": "N.",
+      "hindi": "सार्वजनिक सराहना",
+      "meaning": "Enthusiastic public praise",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Praise",
+          "hindi": "प्रशंसा",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 80,
+      "word": "Accrue",
+      "pos": "V.",
+      "hindi": "जमा होना",
+      "meaning": "To accumulate or receive payments or benefits over time",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Accumulate",
+          "hindi": "इकट्ठा होना",
+          "extra": false
+        },
+        {
+          "word": "Collect",
+          "hindi": "जमा होना",
+          "extra": false
+        },
+        {
+          "word": "Gather",
+          "hindi": "एकत्र होना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 81,
+      "word": "Adjourn",
+      "pos": "V.",
+      "hindi": "स्थगित करना",
+      "meaning": "To stop something temporarily and continue later",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Postpone",
+          "hindi": "टालना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 82,
+      "word": "Admit",
+      "pos": "V.",
+      "hindi": "स्वीकार करना",
+      "meaning": "To confess to be true or to be the case",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Acknowledge",
+          "hindi": "स्वीकार करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 83,
+      "word": "Amity",
+      "pos": "N.",
+      "hindi": "मैत्री, सौहार्द",
+      "meaning": "A friendly relationship",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Goodwill",
+          "hindi": "सद्भाव",
+          "extra": false
+        },
+        {
+          "word": "Friendship",
+          "hindi": "मित्रता",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 84,
+      "word": "Appalled",
+      "pos": "Adj.",
+      "hindi": "स्तब्ध",
+      "meaning": "Greatly shocked or horrified",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Disgusted",
+          "hindi": "घृणा से भरा हुआ",
+          "extra": false
+        },
+        {
+          "word": "Alarmed",
+          "hindi": "घबराया हुआ",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 85,
+      "word": "Artful",
+      "pos": "Adj.",
+      "hindi": "चालाक",
+      "meaning": "Clever or skilful, typically in a crafty or cunning way",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Cunning",
+          "hindi": "चतुर",
+          "extra": false
+        },
+        {
+          "word": "Crafty",
+          "hindi": "कपटी",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 86,
+      "word": "Attain",
+      "pos": "V.",
+      "hindi": "प्राप्त करना",
+      "meaning": "To succeed in achieving something desired",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Achieve",
+          "hindi": "हासिल करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 87,
+      "word": "Awry",
+      "pos": "Adj.",
+      "hindi": "तिरछा",
+      "meaning": "Out of correct position",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Crooked",
+          "hindi": "टेढ़ा",
+          "extra": false
+        },
+        {
+          "word": "Askew",
+          "hindi": "एक तरफ झुका हुआ",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 88,
+      "word": "Bibliophile",
+      "pos": "N.",
+      "hindi": "पुस्तक प्रेमी",
+      "meaning": "A person who loves or collects books",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Booklover",
+          "hindi": "किताबों का शौकीन",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 89,
+      "word": "Bonhomie",
+      "pos": "N.",
+      "hindi": "खुशमिजाजी",
+      "meaning": "Cheerful friendliness and easy sociability",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Companionship",
+          "hindi": "साथ",
+          "extra": false
+        },
+        {
+          "word": "Friendliness",
+          "hindi": "मिलनसारिता",
+          "extra": false
+        },
+        {
+          "word": "Geniality",
+          "hindi": "सौहार्दपूर्णता",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 90,
+      "word": "Calibrate",
+      "pos": "V.",
+      "hindi": "मानकीकृत करना",
+      "meaning": "To mark a gauge with a standard scale",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Gauge",
+          "hindi": "मापना",
+          "extra": false
+        },
+        {
+          "word": "Adjust",
+          "hindi": "समायोजित करना",
+          "extra": false
+        },
+        {
+          "word": "Regulate",
+          "hindi": "नियंत्रित करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 91,
+      "word": "Calumny",
+      "pos": "N.",
+      "hindi": "बदनामी, झूठा आरोप",
+      "meaning": "False statements meant to damage reputation",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Slander",
+          "hindi": "मानहानि",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 92,
+      "word": "Capitulate",
+      "pos": "V.",
+      "hindi": "हथियार डालना",
+      "meaning": "To stop resisting and surrender; to accept defeat",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Surrender",
+          "hindi": "आत्मसमर्पण करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 93,
+      "word": "Castigate",
+      "pos": "V.",
+      "hindi": "कड़ी निंदा करना",
+      "meaning": "To criticize or punish someone severely",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Condemn",
+          "hindi": "निंदा करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 94,
+      "word": "Cavil",
+      "pos": "V.",
+      "hindi": "कमी निकालना",
+      "meaning": "To raise petty objections",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Quibble",
+          "hindi": "तर्क-वितर्क करना",
+          "extra": false
+        },
+        {
+          "word": "Complain",
+          "hindi": "शिकायत करना",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 95,
+      "word": "Coddle",
+      "pos": "V.",
+      "hindi": "लाड़ प्यार करना",
+      "meaning": "To treat in an indulgent or overprotective way",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Pamper",
+          "hindi": "लाड़ करना",
+          "extra": false
+        },
+        {
+          "word": "Indulge",
+          "hindi": "लाड़-प्यार करना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 96,
+      "word": "Comprehend",
+      "pos": "V.",
+      "hindi": "समझना",
+      "meaning": "To understand something mentally",
+      "repetitionSSC": 3,
+      "repetitionOther": 0,
+      "synonyms": [
+        {
+          "word": "Understand",
+          "hindi": "समझना",
+          "extra": false
+        },
+        {
+          "word": "Assimilate",
+          "hindi": "पूरी तरह से समझ लेना",
+          "extra": false
+        },
+        {
+          "word": "Grasp",
+          "hindi": "बूझना",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 97,
+      "word": "Consequence",
+      "pos": "N.",
+      "hindi": "परिणाम",
+      "meaning": "A result or effect of an action or condition",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Outcome",
+          "hindi": "नतीजा",
+          "extra": false
+        },
+        {
+          "word": "Result",
+          "hindi": "परिणाम",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 98,
+      "word": "Contemplation",
+      "pos": "N.",
+      "hindi": "चिंतन",
+      "meaning": "The action of thinking deeply",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Meditation",
+          "hindi": "ध्यान",
+          "extra": false
+        },
+        {
+          "word": "Reflection",
+          "hindi": "चिंतन",
+          "extra": false
+        },
+        {
+          "word": "Introspection",
+          "hindi": "आत्मचिंतन",
+          "extra": true
+        }
+      ]
+    },
+    {
+      "sn": 99,
+      "word": "Craven",
+      "pos": "Adj.",
+      "hindi": "डरपोक",
+      "meaning": "Contemptibly lacking in courage",
+      "repetitionSSC": 1,
+      "repetitionOther": 2,
+      "synonyms": [
+        {
+          "word": "Cowardly",
+          "hindi": "कायर",
+          "extra": false
+        }
+      ]
+    },
+    {
+      "sn": 100,
+      "word": "Crescendo",
+      "pos": "N.",
+      "hindi": "उत्कर्ष",
+      "meaning": "The loudest point in a gradually increasing sound",
+      "repetitionSSC": 2,
+      "repetitionOther": 1,
+      "synonyms": [
+        {
+          "word": "Climax",
+          "hindi": "चरम बिंदु",
+          "extra": false
+        },
+        {
+          "word": "Escalation",
+          "hindi": "वृद्धि",
+          "extra": false
+        },
+        {
+          "word": "Upsurge",
+          "hindi": "उछाल",
+          "extra": true
+        }
+      ]
+    }
+  ]
+}

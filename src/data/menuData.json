@@ -89,7 +89,45 @@
               }
             ]
           },
-            
+              {"topic": "Pro Verb",
+            "subTopics": [
+               {
+                "name": "Pro Verb",
+                "path": "/english/vocabulary/pro-verb"
+              }
+            ]
+          },
+          {"topic": "Homonyms-homophones",
+            "subTopics": [
+               {
+                "name": "Homonyms-homophones",
+                "path": "/english/vocabulary/homonyms-homophones"
+              }
+            ]
+          },{"topic": "Synonymous+antonyms",
+            "subTopics": [
+               {
+                "name": "Synonymous-antonyms-common list top100",
+                "path": "/english/vocabulary/syn+ant/top100"
+              }
+            ]
+          },
+          {"topic": "Synonymous",
+            "subTopics": [
+               {
+                "name": "Synonymous Top 100",
+                "path": "/english/vocabulary/Synonymous/top100"
+              }
+            ]
+          },
+          {"topic": "Antonyms",
+            "subTopics": [
+               {
+                "name": "Antonyms Top 100",
+                "path": "/english/vocabulary/Antonyms/top100"
+              }
+            ]
+          },
             {"topic": "IMP VOCAB",
             "subTopics": [
                {
