@@ -3451,35 +3451,35 @@
       "synonyms": [
         {
           "word": "Lying",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "लेटा हुआ",
+          "context": "In a horizontal, resting position."
         },
         {
           "word": "Supine",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "पीठ के बल लेटा",
+          "context": "Lying face upward."
         },
         {
           "word": "Flat",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "सपाट",
+          "context": "Lying horizontally without curves."
         }
       ],
       "antonyms": [
         {
           "word": "Upright",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "खड़ा",
+          "context": "In a vertical, standing position."
         },
         {
           "word": "Standing",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "खड़ा हुआ",
+          "context": "In an erect, vertical position."
         },
         {
           "word": "Erect",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "सीधा खड़ा",
+          "context": "Straight and upright in posture."
         }
       ],
       "mnemonic": {
@@ -3496,35 +3496,35 @@
       "synonyms": [
         {
           "word": "Right",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "अधिकार",
+          "context": "A privilege that belongs to a particular person or group."
         },
         {
           "word": "Privilege",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "विशेषाधिकार",
+          "context": "A special right granted to a particular person."
         },
         {
           "word": "Entitlement",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "हक़दारी",
+          "context": "The fact of having a right to something."
         }
       ],
       "antonyms": [
         {
           "word": "Duty",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "कर्तव्य",
+          "context": "A moral or legal obligation to act."
         },
         {
           "word": "Obligation",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "बाध्यता",
+          "context": "A requirement to do something, often by law or promise."
         },
         {
           "word": "Restriction",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "प्रतिबंध",
+          "context": "A limiting condition or measure."
         }
       ],
       "mnemonic": {
@@ -3541,35 +3541,35 @@
       "synonyms": [
         {
           "word": "Reckless",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "लापरवाह",
+          "context": "Acting without thinking of consequences."
         },
         {
           "word": "Malicious",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "दुर्भावनापूर्ण",
+          "context": "Intending to cause harm."
         },
         {
           "word": "Unrestrained",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "अनियंत्रित",
+          "context": "Not controlled or held back."
         }
       ],
       "antonyms": [
         {
           "word": "Careful",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "सावधान",
+          "context": "Cautious and attentive to consequences."
         },
         {
           "word": "Justifiable",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "न्यायसंगत",
+          "context": "Able to be defended or excused."
         },
         {
           "word": "Restrained",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "नियंत्रित",
+          "context": "Kept under control, not excessive."
         }
       ],
       "mnemonic": {
@@ -3586,35 +3586,35 @@
       "synonyms": [
         {
           "word": "Preference",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "पसंद",
+          "context": "A greater liking for one option over another."
         },
         {
           "word": "Fondness",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "प्रेम",
+          "context": "A liking or affection for something."
         },
         {
           "word": "Inclination",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "रुझान",
+          "context": "A natural tendency to prefer something."
         }
       ],
       "antonyms": [
         {
           "word": "Dislike",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "नापसंद",
+          "context": "A feeling of distaste toward something."
         },
         {
           "word": "Aversion",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "घृणा",
+          "context": "A strong feeling of dislike or repugnance."
         },
         {
           "word": "Antipathy",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "विरोध",
+          "context": "A deep-seated feeling of dislike."
         }
       ],
       "mnemonic": {
@@ -3631,35 +3631,35 @@
       "synonyms": [
         {
           "word": "Dilemma",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "दुविधा",
+          "context": "A difficult choice between two or more options."
         },
         {
           "word": "Predicament",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "कठिन स्थिति",
+          "context": "An unpleasant or difficult situation."
         },
         {
           "word": "Perplexity",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "उलझन",
+          "context": "A state of being confused or puzzled."
         }
       ],
       "antonyms": [
         {
           "word": "Certainty",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "निश्चितता",
+          "context": "The state of being completely sure."
         },
         {
           "word": "Resolution",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "समाधान",
+          "context": "A firm decision or solution to a problem."
         },
         {
           "word": "Solution",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "समाधान",
+          "context": "A means of solving a problem."
         }
       ],
       "mnemonic": {
@@ -3676,35 +3676,35 @@
       "synonyms": [
         {
           "word": "Fluctuations",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "उतार-चढ़ाव",
+          "context": "Irregular rises and falls in a situation."
         },
         {
           "word": "Variations",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "परिवर्तन",
+          "context": "Changes or differences over time."
         },
         {
           "word": "Shifts",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "बदलाव",
+          "context": "Changes in position, direction, or condition."
         }
       ],
       "antonyms": [
         {
           "word": "Stability",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "स्थिरता",
+          "context": "The state of being steady and unchanging."
         },
         {
           "word": "Constancy",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "स्थिरता",
+          "context": "The quality of being unchanging over time."
         },
         {
           "word": "Uniformity",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "एकरूपता",
+          "context": "The state of being consistent and unchanging."
         }
       ],
       "mnemonic": {
@@ -3721,35 +3721,35 @@
       "synonyms": [
         {
           "word": "Abstainer",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "परहेज़ करने वाला",
+          "context": "A person who abstains from something, usually alcohol."
         },
         {
           "word": "Non-drinker",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "शराब न पीने वाला",
+          "context": "A person who does not consume alcohol."
         },
         {
           "word": "Prohibitionist",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "मद्यनिषेधवादी",
+          "context": "A person who advocates the banning of alcohol."
         }
       ],
       "antonyms": [
         {
           "word": "Drinker",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "शराब पीने वाला",
+          "context": "A person who consumes alcoholic beverages."
         },
         {
           "word": "Alcoholic",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "शराबी",
+          "context": "A person addicted to alcohol."
         },
         {
           "word": "Drunkard",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "शराबी",
+          "context": "A person who is habitually drunk."
         }
       ],
       "mnemonic": {
@@ -3766,35 +3766,35 @@
       "synonyms": [
         {
           "word": "Gloomy",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "अंधकारमय",
+          "context": "Dark and depressing in appearance."
         },
         {
           "word": "Drab",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "नीरस",
+          "context": "Dull, lacking brightness or color."
         },
         {
           "word": "Shabby",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "जीर्ण-शीर्ण",
+          "context": "Worn out and in poor condition."
         }
       ],
       "antonyms": [
         {
           "word": "Bright",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "रोशन",
+          "context": "Full of light, vivid and cheerful."
         },
         {
           "word": "Pristine",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "बेदाग़",
+          "context": "In its original, perfectly clean condition."
         },
         {
           "word": "Immaculate",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "निष्कलंक",
+          "context": "Perfectly clean and neat, without flaw."
         }
       ],
       "mnemonic": {
@@ -3811,35 +3811,35 @@
       "synonyms": [
         {
           "word": "Advocate",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "समर्थक",
+          "context": "A person who publicly supports an idea."
         },
         {
           "word": "Supporter",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "समर्थक",
+          "context": "Someone who backs a cause or person."
         },
         {
           "word": "Promoter",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "प्रवर्तक",
+          "context": "A person who actively supports and furthers a cause."
         }
       ],
       "antonyms": [
         {
           "word": "Critic",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "आलोचक",
+          "context": "A person who expresses disapproval or judgment."
         },
         {
           "word": "Opponent",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "विरोधी",
+          "context": "A person who competes against or disagrees."
         },
         {
           "word": "Detractor",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "निंदक",
+          "context": "A person who criticizes or disparages something."
         }
       ],
       "mnemonic": {
@@ -3856,35 +3856,35 @@
       "synonyms": [
         {
           "word": "External",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "बाहरी",
+          "context": "Coming from outside a system or entity."
         },
         {
           "word": "Extraneous",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "असंबंधित",
+          "context": "Irrelevant or unrelated to the subject."
         },
         {
           "word": "Outside",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "बाहरी",
+          "context": "Not part of the inherent nature of a thing."
         }
       ],
       "antonyms": [
         {
           "word": "Intrinsic",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "अंतर्निहित",
+          "context": "Belonging naturally; essential to a thing."
         },
         {
           "word": "Inherent",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "स्वाभाविक",
+          "context": "Existing as a natural or permanent part."
         },
         {
           "word": "Essential",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "अनिवार्य",
+          "context": "Absolutely necessary or fundamental."
         }
       ],
       "mnemonic": {
@@ -3901,35 +3901,35 @@
       "synonyms": [
         {
           "word": "Royal",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "शाही",
+          "context": "Relating to a king or queen."
         },
         {
           "word": "Majestic",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "भव्य",
+          "context": "Having impressive beauty or dignity."
         },
         {
           "word": "Magnificent",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "शानदार",
+          "context": "Extremely beautiful, elaborate, or impressive."
         }
       ],
       "antonyms": [
         {
           "word": "Common",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "सामान्य",
+          "context": "Ordinary, not special or distinguished."
         },
         {
           "word": "Humble",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "विनम्र",
+          "context": "Modest, lacking pretension or grandeur."
         },
         {
           "word": "Ordinary",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "साधारण",
+          "context": "Plain, with no special or distinctive features."
         }
       ],
       "mnemonic": {
@@ -3946,35 +3946,35 @@
       "synonyms": [
         {
           "word": "Tangle",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "उलझाना",
+          "context": "To twist into a confused mass."
         },
         {
           "word": "Intertwine",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "आपस में गूंथना",
+          "context": "To twist together closely."
         },
         {
           "word": "Involve",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "शामिल करना",
+          "context": "To draw someone into a complicated situation."
         }
       ],
       "antonyms": [
         {
           "word": "Untangle",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "सुलझाना",
+          "context": "To free from a tangled state."
         },
         {
           "word": "Free",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "मुक्त करना",
+          "context": "To release from restriction or restraint."
         },
         {
           "word": "Extricate",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "मुक्त कराना",
+          "context": "To free someone from a difficult situation."
         }
       ],
       "mnemonic": {
@@ -3991,35 +3991,35 @@
       "synonyms": [
         {
           "word": "Impulse",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "आवेग",
+          "context": "A sudden strong urge to act."
         },
         {
           "word": "Urge",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "इच्छा",
+          "context": "A strong desire to do something."
         },
         {
           "word": "Caprice",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "मौज",
+          "context": "A sudden, unpredictable change of mind."
         }
       ],
       "antonyms": [
         {
           "word": "Plan",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "योजना",
+          "context": "A detailed proposal for achieving something."
         },
         {
           "word": "Certainty",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "निश्चितता",
+          "context": "The quality of being sure and firm."
         },
         {
           "word": "Premeditation",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "पूर्वविचार",
+          "context": "Careful thought or planning beforehand."
         }
       ],
       "mnemonic": {
@@ -4036,35 +4036,35 @@
       "synonyms": [
         {
           "word": "Frantic",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "बेकाबू",
+          "context": "Wildly excited or anxious, out of control."
         },
         {
           "word": "Crazy",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "पागल",
+          "context": "Behaving in an irrational, uncontrolled manner."
         },
         {
           "word": "Wild",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "उन्मत्त",
+          "context": "Out of control, acting without restraint."
         }
       ],
       "antonyms": [
         {
           "word": "Calm",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "शांत",
+          "context": "Not showing or feeling nervous or anxious behavior."
         },
         {
           "word": "Sane",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "स्वस्थचित्त",
+          "context": "Having a sound, rational mind."
         },
         {
           "word": "Placid",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "शांत",
+          "context": "Not easily upset or excited."
         }
       ],
       "mnemonic": {
@@ -4081,35 +4081,35 @@
       "synonyms": [
         {
           "word": "Seize",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "छीन लेना",
+          "context": "To take possession of property forcibly."
         },
         {
           "word": "Impound",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "जब्त करना",
+          "context": "To officially take and keep, often by authorities."
         },
         {
           "word": "Appropriate",
-          "hindiMeaning": "",
-          "context": "Synonym"
+          "hindiMeaning": "अपने अधिकार में लेना",
+          "context": "To take for oneself, often without permission."
         }
       ],
       "antonyms": [
         {
           "word": "Return",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "वापस करना",
+          "context": "To give something back to its owner."
         },
         {
           "word": "Restore",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "पुनः स्थापित करना",
+          "context": "To give back something taken."
         },
         {
           "word": "Give",
-          "hindiMeaning": "",
-          "context": "Antonym"
+          "hindiMeaning": "देना",
+          "context": "To hand over something to someone."
         }
       ],
       "mnemonic": {
@@ -4124,8 +4124,110 @@
       "partOfSpeech": "adjective",
       "context": "Showing a casual and cheerful indifference (often considered improper).",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "A generally happy and pleasant disposition."
+        },
+        {
+          "word": "Carefree",
+          "hindiMeaning": "बेफिक्र",
+          "context": "Free from worry or anxiety about consequences."
+        },
+        {
+          "word": "Merry",
+          "hindiMeaning": "आनंदी",
+          "context": "Full of high spirits and light fun."
+        },
+        {
+          "word": "Jovial",
+          "hindiMeaning": "हंसमुख",
+          "context": "Friendly and full of good humor."
+        },
+        {
+          "word": "Lighthearted",
+          "hindiMeaning": "निश्चिंत",
+          "context": "Not taking things too seriously."
+        },
+        {
+          "word": "Nonchalant",
+          "hindiMeaning": "उदासीन पर खुश",
+          "context": "Casually calm despite the situation."
+        },
+        {
+          "word": "Breezy",
+          "hindiMeaning": "सहज",
+          "context": "An easy, casual, pleasant manner."
+        },
+        {
+          "word": "Gleeful",
+          "hindiMeaning": "प्रसन्नचित्त",
+          "context": "Showing great delight, sometimes mischievously."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्साहित",
+          "context": "Cheerfully optimistic and resilient."
+        },
+        {
+          "word": "Airy",
+          "hindiMeaning": "हल्का-फुल्का",
+          "context": "Light and unconcerned in manner."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious and dark in mood."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "उदास",
+          "context": "Dark, depressing, lacking cheer."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Deep, pensive sadness."
+        },
+        {
+          "word": "Grave",
+          "hindiMeaning": "गंभीर",
+          "context": "Very serious in demeanor."
+        },
+        {
+          "word": "Anxious",
+          "hindiMeaning": "चिंतित",
+          "context": "Worried and uneasy about outcomes."
+        },
+        {
+          "word": "Solemn",
+          "hindiMeaning": "गंभीर",
+          "context": "Formal and serious, lacking levity."
+        },
+        {
+          "word": "Troubled",
+          "hindiMeaning": "परेशान",
+          "context": "Burdened by worry or distress."
+        },
+        {
+          "word": "Downcast",
+          "hindiMeaning": "खिन्न",
+          "context": "Feeling discouraged and low."
+        },
+        {
+          "word": "Careworn",
+          "hindiMeaning": "चिंता से थका",
+          "context": "Showing signs of worry and fatigue."
+        },
+        {
+          "word": "Serious",
+          "hindiMeaning": "गंभीर",
+          "context": "Thoughtful and lacking playfulness."
+        }
+      ],
       "mnemonic": {
         "english": "BLITHE sounds like 'BLISS-the' - full of blissful cheer.",
         "hindi": "'ब्लिस' यानी आनंद - Blithe मतलब बेफिक्र खुश रहने वाला।"
@@ -4138,8 +4240,110 @@
       "partOfSpeech": "adjective",
       "context": "Filled with lively energy and excitement; growing profusely.",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Enthusiastic",
+          "hindiMeaning": "उत्साही",
+          "context": "Showing eager excitement about something."
+        },
+        {
+          "word": "Ebullient",
+          "hindiMeaning": "उमंग से भरा",
+          "context": "Bubbling over with lively energy."
+        },
+        {
+          "word": "Effervescent",
+          "hindiMeaning": "जोशीला",
+          "context": "Vivacious and full of bubbly spirit."
+        },
+        {
+          "word": "Vivacious",
+          "hindiMeaning": "जिंदादिल",
+          "context": "Attractively lively and animated."
+        },
+        {
+          "word": "Exhilarated",
+          "hindiMeaning": "रोमांचित",
+          "context": "Feeling thrilled and elated."
+        },
+        {
+          "word": "Zestful",
+          "hindiMeaning": "उमंगी",
+          "context": "Full of enthusiasm and gusto."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Cheerful and energetic in nature."
+        },
+        {
+          "word": "Lively",
+          "hindiMeaning": "सजीव",
+          "context": "Full of vigor and animated energy."
+        },
+        {
+          "word": "Luxuriant",
+          "hindiMeaning": "समृद्ध",
+          "context": "Growing profusely and abundantly, as in plants."
+        },
+        {
+          "word": "Vibrant",
+          "hindiMeaning": "जीवंत",
+          "context": "Full of energy and bright vitality."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Subdued",
+          "hindiMeaning": "दबा हुआ",
+          "context": "Quiet and lacking in liveliness."
+        },
+        {
+          "word": "Listless",
+          "hindiMeaning": "उत्साहहीन",
+          "context": "Lacking energy or enthusiasm."
+        },
+        {
+          "word": "Sluggish",
+          "hindiMeaning": "सुस्त",
+          "context": "Slow moving and lacking vigor."
+        },
+        {
+          "word": "Reserved",
+          "hindiMeaning": "संकोची",
+          "context": "Restrained and unemotional in expression."
+        },
+        {
+          "word": "Apathetic",
+          "hindiMeaning": "उदासीन",
+          "context": "Showing no interest or enthusiasm."
+        },
+        {
+          "word": "Dull",
+          "hindiMeaning": "निरुत्साह",
+          "context": "Lacking excitement or interest."
+        },
+        {
+          "word": "Restrained",
+          "hindiMeaning": "नियंत्रित",
+          "context": "Holding back emotion or energy."
+        },
+        {
+          "word": "Lethargic",
+          "hindiMeaning": "आलसी",
+          "context": "Sluggish, lacking energy or enthusiasm."
+        },
+        {
+          "word": "Muted",
+          "hindiMeaning": "मंद",
+          "context": "Toned down, without intensity."
+        },
+        {
+          "word": "Sparse",
+          "hindiMeaning": "अल्प",
+          "context": "Thin or scanty, opposite of profuse."
+        }
+      ],
       "mnemonic": {
         "english": "EXUBERANT sounds like 'EXTRA-VIBRANT' - extra vibrant energy and excitement.",
         "hindi": "'एक्स्ट्रा-वाइब्रेंट' यानी बहुत ज्यादा जोशीला - Exuberant।"
@@ -4152,8 +4356,110 @@
       "partOfSpeech": "adjective",
       "context": "An intense, overpowering feeling of happiness (often short-lived).",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Feeling extremely happy and excited."
+        },
+        {
+          "word": "Ecstatic",
+          "hindiMeaning": "आनंदातिरेक",
+          "context": "Overwhelming feeling of joy or delight."
+        },
+        {
+          "word": "Overjoyed",
+          "hindiMeaning": "अत्यधिक हर्षित",
+          "context": "Filled with extreme happiness."
+        },
+        {
+          "word": "Exhilarated",
+          "hindiMeaning": "रोमांचित",
+          "context": "Made lively and cheerful by excitement."
+        },
+        {
+          "word": "Rapturous",
+          "hindiMeaning": "रोमांचकारी",
+          "context": "Full of intense pleasure and delight."
+        },
+        {
+          "word": "Blissful",
+          "hindiMeaning": "आनंदमय",
+          "context": "Perfect happiness with no cares."
+        },
+        {
+          "word": "Jubilant",
+          "hindiMeaning": "आनंदित",
+          "context": "Great happiness from a victory or success."
+        },
+        {
+          "word": "Delirious",
+          "hindiMeaning": "उन्मत्त",
+          "context": "Wildly excited, almost losing control."
+        },
+        {
+          "word": "Thrilled",
+          "hindiMeaning": "रोमांचित",
+          "context": "Feeling a sudden wave of excitement."
+        },
+        {
+          "word": "Intoxicated",
+          "hindiMeaning": "मदमस्त",
+          "context": "Overwhelmed as if drunk with joy."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Depressed",
+          "hindiMeaning": "उदास",
+          "context": "Feeling persistent sadness and low mood."
+        },
+        {
+          "word": "Miserable",
+          "hindiMeaning": "दुःखी",
+          "context": "Extremely unhappy or uncomfortable."
+        },
+        {
+          "word": "Despondent",
+          "hindiMeaning": "हताश",
+          "context": "Low in spirits from loss of hope."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark and depressing in mood."
+        },
+        {
+          "word": "Dejected",
+          "hindiMeaning": "निराश",
+          "context": "Sad and discouraged in spirit."
+        },
+        {
+          "word": "Downhearted",
+          "hindiMeaning": "हतोत्साहित",
+          "context": "Feeling low after disappointment."
+        },
+        {
+          "word": "Sullen",
+          "hindiMeaning": "रूखा",
+          "context": "Gloomy and bad-tempered."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Pensive, sorrowful state of mind."
+        },
+        {
+          "word": "Crestfallen",
+          "hindiMeaning": "मायूस",
+          "context": "Sad and disappointed suddenly."
+        },
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious, dark mood devoid of joy."
+        }
+      ],
       "mnemonic": {
         "english": "EUPHORIC sounds like 'YOU-FOR-IC' high feeling - an intense high of joy.",
         "hindi": "'यूफोरिया' जैसे किसी जीत पर आने वाला परम सुख - Euphoric।"
@@ -4166,8 +4472,110 @@
       "partOfSpeech": "adjective",
       "context": "Feeling or expressing great happiness because of a victory or success.",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Feeling very happy after success."
+        },
+        {
+          "word": "Triumphant",
+          "hindiMeaning": "विजयी",
+          "context": "Celebrating victory or achievement."
+        },
+        {
+          "word": "Exultant",
+          "hindiMeaning": "हर्षोल्लासित",
+          "context": "Showing great joy from success."
+        },
+        {
+          "word": "Joyous",
+          "hindiMeaning": "आनंदपूर्ण",
+          "context": "Full of happiness and celebration."
+        },
+        {
+          "word": "Overjoyed",
+          "hindiMeaning": "अत्यधिक हर्षित",
+          "context": "Extremely happy about an event."
+        },
+        {
+          "word": "Delighted",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Feeling great pleasure from success."
+        },
+        {
+          "word": "Ecstatic",
+          "hindiMeaning": "आनंदातिरेक",
+          "context": "Overwhelmingly happy with excitement."
+        },
+        {
+          "word": "Cheering",
+          "hindiMeaning": "जयकार करते हुए",
+          "context": "Shouting with happiness at victory."
+        },
+        {
+          "word": "Gleeful",
+          "hindiMeaning": "प्रसन्नचित्त",
+          "context": "Showing joyful delight openly."
+        },
+        {
+          "word": "Rejoicing",
+          "hindiMeaning": "उल्लास मनाते हुए",
+          "context": "Celebrating a happy achievement."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Despondent",
+          "hindiMeaning": "हताश",
+          "context": "Low spirited after a loss."
+        },
+        {
+          "word": "Dejected",
+          "hindiMeaning": "निराश",
+          "context": "Sad and discouraged after failure."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "उदास",
+          "context": "Dark mood lacking celebration."
+        },
+        {
+          "word": "Sorrowful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Feeling deep sadness, opposite of joy."
+        },
+        {
+          "word": "Downcast",
+          "hindiMeaning": "खिन्न",
+          "context": "Discouraged and unhappy."
+        },
+        {
+          "word": "Mournful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Expressing grief rather than joy."
+        },
+        {
+          "word": "Crestfallen",
+          "hindiMeaning": "मायूस",
+          "context": "Suddenly disappointed and sad."
+        },
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious and joyless mood."
+        },
+        {
+          "word": "Disheartened",
+          "hindiMeaning": "हतोत्साहित",
+          "context": "Losing enthusiasm after setback."
+        },
+        {
+          "word": "Glum",
+          "hindiMeaning": "उदास",
+          "context": "Sulky, dispirited mood."
+        }
+      ],
       "mnemonic": {
         "english": "JUBILANT sounds like 'JUBILEE'-ant - celebrating like a jubilee/victory event.",
         "hindi": "'जुबली' मनाना यानी जीत की खुशी - Jubilant।"
@@ -4180,8 +4588,110 @@
       "partOfSpeech": "adjective",
       "context": "Derived from 'beatitude'; a holy or spiritual calm and happiness.",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Blissful",
+          "hindiMeaning": "आनंदमय",
+          "context": "Perfect, serene happiness."
+        },
+        {
+          "word": "Serene",
+          "hindiMeaning": "शांत",
+          "context": "Calm and peaceful in nature."
+        },
+        {
+          "word": "Radiant",
+          "hindiMeaning": "चमकता हुआ",
+          "context": "Glowing with joy and peace."
+        },
+        {
+          "word": "Angelic",
+          "hindiMeaning": "देवदूत सा",
+          "context": "Pure, saintly calm expression."
+        },
+        {
+          "word": "Heavenly",
+          "hindiMeaning": "स्वर्गीय",
+          "context": "Divine, perfect sense of peace."
+        },
+        {
+          "word": "Peaceful",
+          "hindiMeaning": "शांतिपूर्ण",
+          "context": "Calm and tranquil disposition."
+        },
+        {
+          "word": "Saintly",
+          "hindiMeaning": "संत सा",
+          "context": "Holy calm and virtue in expression."
+        },
+        {
+          "word": "Glowing",
+          "hindiMeaning": "दीप्तिमान",
+          "context": "Radiating serene happiness."
+        },
+        {
+          "word": "Divine",
+          "hindiMeaning": "दिव्य",
+          "context": "Of a spiritual, exalted nature."
+        },
+        {
+          "word": "Tranquil",
+          "hindiMeaning": "शांत",
+          "context": "Free from disturbance, calm joy."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Anguished",
+          "hindiMeaning": "पीड़ित",
+          "context": "Suffering severe mental distress."
+        },
+        {
+          "word": "Tormented",
+          "hindiMeaning": "तड़पता हुआ",
+          "context": "In great pain or suffering."
+        },
+        {
+          "word": "Troubled",
+          "hindiMeaning": "परेशान",
+          "context": "Full of worry and disturbance."
+        },
+        {
+          "word": "Distressed",
+          "hindiMeaning": "संकटग्रस्त",
+          "context": "Suffering extreme anxiety or pain."
+        },
+        {
+          "word": "Grim",
+          "hindiMeaning": "कठोर",
+          "context": "Harsh and joyless expression."
+        },
+        {
+          "word": "Agitated",
+          "hindiMeaning": "बेचैन",
+          "context": "Troubled and unable to relax."
+        },
+        {
+          "word": "Miserable",
+          "hindiMeaning": "दुःखी",
+          "context": "Extremely unhappy state."
+        },
+        {
+          "word": "Wretched",
+          "hindiMeaning": "अभागा",
+          "context": "Deeply unhappy and unfortunate."
+        },
+        {
+          "word": "Turbulent",
+          "hindiMeaning": "अशांत",
+          "context": "Full of conflict, not calm."
+        },
+        {
+          "word": "Demonic",
+          "hindiMeaning": "शैतानी",
+          "context": "Evil in nature, opposite of holy calm."
+        }
+      ],
       "mnemonic": {
         "english": "BEATIFIC sounds like 'BE-A-TERRIFIC' calm - a serene, saintly happiness.",
         "hindi": "'बीटीफिक' - जैसे संत का शांत, दिव्य आनंद - Beatific।"
@@ -4194,8 +4704,110 @@
       "partOfSpeech": "adjective",
       "context": "Cheerful and full of energy; bubbling over with enthusiasm.",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Exuberant",
+          "hindiMeaning": "उमंग से भरा",
+          "context": "Overflowing with lively energy."
+        },
+        {
+          "word": "Enthusiastic",
+          "hindiMeaning": "उत्साही",
+          "context": "Full of eager excitement."
+        },
+        {
+          "word": "Effervescent",
+          "hindiMeaning": "जोशीला",
+          "context": "Vivacious, bubbly personality."
+        },
+        {
+          "word": "Vivacious",
+          "hindiMeaning": "जिंदादिल",
+          "context": "Lively, attractively energetic."
+        },
+        {
+          "word": "Zestful",
+          "hindiMeaning": "उमंगी",
+          "context": "Full of gusto and enthusiasm."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Cheerful and resilient energy."
+        },
+        {
+          "word": "Animated",
+          "hindiMeaning": "जोशपूर्ण",
+          "context": "Full of excitement and spirit."
+        },
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Very happy and excited."
+        },
+        {
+          "word": "Sparkling",
+          "hindiMeaning": "चमकीला",
+          "context": "Bright, lively personality or wit."
+        },
+        {
+          "word": "Effusive",
+          "hindiMeaning": "अतिशय भावुक",
+          "context": "Expressing feelings overflowingly."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Subdued",
+          "hindiMeaning": "दबा हुआ",
+          "context": "Toned down, lacking excitement."
+        },
+        {
+          "word": "Reserved",
+          "hindiMeaning": "संकोची",
+          "context": "Restrained emotional expression."
+        },
+        {
+          "word": "Listless",
+          "hindiMeaning": "उत्साहहीन",
+          "context": "Lacking energy or enthusiasm."
+        },
+        {
+          "word": "Apathetic",
+          "hindiMeaning": "उदासीन",
+          "context": "Showing no interest or excitement."
+        },
+        {
+          "word": "Lethargic",
+          "hindiMeaning": "सुस्त",
+          "context": "Sluggish and low energy."
+        },
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious, muted mood."
+        },
+        {
+          "word": "Dull",
+          "hindiMeaning": "निरुत्साह",
+          "context": "Lacking excitement or vibrancy."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Sad, low-energy state."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Calm without energetic display."
+        },
+        {
+          "word": "Restrained",
+          "hindiMeaning": "नियंत्रित",
+          "context": "Holding back enthusiasm."
+        }
+      ],
       "mnemonic": {
         "english": "EBULLIENT sounds like 'BUBBLE'-ient - bubbling over with excitement like boiling water.",
         "hindi": "'बबल' की तरह उबलता उत्साह - Ebullient।"
@@ -4208,8 +4820,110 @@
       "partOfSpeech": "adjective",
       "context": "Well-chosen or suited to the circumstances; pleasing and fortunate.",
       "clusterCategory": "Happy & Enthusiastic Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Apt",
+          "hindiMeaning": "उचित",
+          "context": "Perfectly suited to the situation."
+        },
+        {
+          "word": "Fitting",
+          "hindiMeaning": "उपयुक्त",
+          "context": "Appropriate for the occasion."
+        },
+        {
+          "word": "Suitable",
+          "hindiMeaning": "उचित",
+          "context": "Right for the purpose."
+        },
+        {
+          "word": "Appropriate",
+          "hindiMeaning": "समुचित",
+          "context": "Correctly matched to circumstances."
+        },
+        {
+          "word": "Well-chosen",
+          "hindiMeaning": "सुविचारित",
+          "context": "Carefully and correctly selected."
+        },
+        {
+          "word": "Opportune",
+          "hindiMeaning": "अवसर के अनुकूल",
+          "context": "Occurring at the right time."
+        },
+        {
+          "word": "Pertinent",
+          "hindiMeaning": "संबंधित",
+          "context": "Relevant and to the point."
+        },
+        {
+          "word": "Timely",
+          "hindiMeaning": "समयानुकूल",
+          "context": "Happening at a favorable time."
+        },
+        {
+          "word": "Graceful",
+          "hindiMeaning": "सुंदर",
+          "context": "Elegant in expression or wording."
+        },
+        {
+          "word": "Fortunate",
+          "hindiMeaning": "भाग्यशाली",
+          "context": "Bringing pleasing, lucky results."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Inappropriate",
+          "hindiMeaning": "अनुचित",
+          "context": "Not suited to the occasion."
+        },
+        {
+          "word": "Awkward",
+          "hindiMeaning": "अटपटा",
+          "context": "Clumsy, ill-fitting expression."
+        },
+        {
+          "word": "Unsuitable",
+          "hindiMeaning": "अयोग्य",
+          "context": "Not right for the purpose."
+        },
+        {
+          "word": "Untimely",
+          "hindiMeaning": "असामयिक",
+          "context": "Occurring at a bad time."
+        },
+        {
+          "word": "Tactless",
+          "hindiMeaning": "अशिष्ट",
+          "context": "Lacking sensitivity in wording."
+        },
+        {
+          "word": "Clumsy",
+          "hindiMeaning": "भद्दा",
+          "context": "Poorly executed or expressed."
+        },
+        {
+          "word": "Inopportune",
+          "hindiMeaning": "प्रतिकूल समय पर",
+          "context": "Happening at an inconvenient time."
+        },
+        {
+          "word": "Ill-suited",
+          "hindiMeaning": "बेमेल",
+          "context": "Poorly matched to the situation."
+        },
+        {
+          "word": "Unfortunate",
+          "hindiMeaning": "दुर्भाग्यपूर्ण",
+          "context": "Bringing unlucky, poor results."
+        },
+        {
+          "word": "Irrelevant",
+          "hindiMeaning": "अप्रासंगिक",
+          "context": "Not related to the matter at hand."
+        }
+      ],
       "mnemonic": {
         "english": "FELICITOUS sounds like 'FELICITY' - a fitting happiness/luck for the occasion.",
         "hindi": "'फेलिसिटी' यानी सही मौके पर सही बात - Felicitous।"
@@ -4222,8 +4936,110 @@
       "partOfSpeech": "adjective",
       "context": "Angry and bitter (typically used to describe a speech or a debate).",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Bitter",
+          "hindiMeaning": "कड़वा",
+          "context": "Full of resentment in tone."
+        },
+        {
+          "word": "Rancorous",
+          "hindiMeaning": "द्वेषपूर्ण",
+          "context": "Deep-seated ill will in a dispute."
+        },
+        {
+          "word": "Caustic",
+          "hindiMeaning": "चुभने वाला",
+          "context": "Sharp, biting criticism or remarks."
+        },
+        {
+          "word": "Vitriolic",
+          "hindiMeaning": "द्वेषपूर्ण",
+          "context": "Filled with malicious, acid-like speech."
+        },
+        {
+          "word": "Hostile",
+          "hindiMeaning": "शत्रुतापूर्ण",
+          "context": "Openly unfriendly and antagonistic."
+        },
+        {
+          "word": "Sharp-tongued",
+          "hindiMeaning": "तीखी जुबान वाला",
+          "context": "Speaking harshly and cuttingly."
+        },
+        {
+          "word": "Bad-tempered",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily angered during a discussion."
+        },
+        {
+          "word": "Contentious",
+          "hindiMeaning": "विवादास्पद",
+          "context": "Causing heated argument or disagreement."
+        },
+        {
+          "word": "Venomous",
+          "hindiMeaning": "विषैला",
+          "context": "Full of malice in expression."
+        },
+        {
+          "word": "Testy",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily irritated in tone."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Amicable",
+          "hindiMeaning": "मैत्रीपूर्ण",
+          "context": "Friendly and free from resentment."
+        },
+        {
+          "word": "Cordial",
+          "hindiMeaning": "सौहार्दपूर्ण",
+          "context": "Warm and friendly in tone."
+        },
+        {
+          "word": "Congenial",
+          "hindiMeaning": "अनुकूल",
+          "context": "Pleasant and agreeable in nature."
+        },
+        {
+          "word": "Harmonious",
+          "hindiMeaning": "सामंजस्यपूर्ण",
+          "context": "Free of conflict, in agreement."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Warmly friendly and cheerful."
+        },
+        {
+          "word": "Diplomatic",
+          "hindiMeaning": "कूटनीतिक",
+          "context": "Handled with tact and sensitivity."
+        },
+        {
+          "word": "Pleasant",
+          "hindiMeaning": "सुखद",
+          "context": "Agreeable and free from bitterness."
+        },
+        {
+          "word": "Peaceful",
+          "hindiMeaning": "शांतिपूर्ण",
+          "context": "Calm, free of hostility."
+        },
+        {
+          "word": "Courteous",
+          "hindiMeaning": "विनम्र",
+          "context": "Polite and respectful in tone."
+        },
+        {
+          "word": "Gracious",
+          "hindiMeaning": "उदार",
+          "context": "Kind and pleasant in manner."
+        }
+      ],
       "mnemonic": {
         "english": "ACRIMONIOUS sounds like 'ACRID-monious' - an acrid, bitter tone in an argument.",
         "hindi": "'एसिड' जैसा तीखा और कड़वा वाद-विवाद - Acrimonious।"
@@ -4236,8 +5052,110 @@
       "partOfSpeech": "adjective",
       "context": "Having a tendency to be easily angered; 'thin-skinned.'",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Irritable",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily annoyed by small things."
+        },
+        {
+          "word": "Short-tempered",
+          "hindiMeaning": "कम सहनशील",
+          "context": "Quick to anger over minor issues."
+        },
+        {
+          "word": "Testy",
+          "hindiMeaning": "तुनकमिज़ाज",
+          "context": "Easily agitated and impatient."
+        },
+        {
+          "word": "Touchy",
+          "hindiMeaning": "संवेदनशील और गुस्सैल",
+          "context": "Overly sensitive and easily offended."
+        },
+        {
+          "word": "Snappish",
+          "hindiMeaning": "झटपट गुस्सा करने वाला",
+          "context": "Quick to speak sharply in anger."
+        },
+        {
+          "word": "Cranky",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Bad-tempered and easily annoyed."
+        },
+        {
+          "word": "Peppery",
+          "hindiMeaning": "तेज-मिर्ची स्वभाव",
+          "context": "Fiery and quick-tempered nature."
+        },
+        {
+          "word": "Choleric",
+          "hindiMeaning": "गुस्सैल",
+          "context": "Bad-tempered and irritable disposition."
+        },
+        {
+          "word": "Volatile",
+          "hindiMeaning": "अस्थिर स्वभाव",
+          "context": "Unpredictable, prone to sudden anger."
+        },
+        {
+          "word": "Fiery",
+          "hindiMeaning": "आवेशी",
+          "context": "Quick and intense in temper."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Even-tempered",
+          "hindiMeaning": "शांत स्वभाव",
+          "context": "Calm and steady disposition."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Calm and undisturbed nature."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and easygoing manner."
+        },
+        {
+          "word": "Serene",
+          "hindiMeaning": "निर्मल",
+          "context": "Peaceful and calm in temperament."
+        },
+        {
+          "word": "Patient",
+          "hindiMeaning": "सहनशील",
+          "context": "Able to tolerate delay without anger."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Friendly and warm in nature."
+        },
+        {
+          "word": "Composed",
+          "hindiMeaning": "संयत",
+          "context": "Calm and controlled emotionally."
+        },
+        {
+          "word": "Good-natured",
+          "hindiMeaning": "नेक स्वभाव",
+          "context": "Pleasant and easy to get along with."
+        },
+        {
+          "word": "Tolerant",
+          "hindiMeaning": "सहनशील",
+          "context": "Accepting of others without irritation."
+        },
+        {
+          "word": "Mild",
+          "hindiMeaning": "सौम्य",
+          "context": "Gentle temperament, rarely angered."
+        }
+      ],
       "mnemonic": {
         "english": "IRASCIBLE sounds like 'IRE-ascible' - full of ire (anger) that flares easily.",
         "hindi": "'आयर' यानी गुस्सा जो जल्दी भड़के - Irascible।"
@@ -4250,8 +5168,110 @@
       "partOfSpeech": "adjective",
       "context": "Bad-tempered or irritable (one of the four medieval temperaments).",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Irritable",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily annoyed or angered."
+        },
+        {
+          "word": "Hot-tempered",
+          "hindiMeaning": "तेज गुस्सैल",
+          "context": "Quick to become angry."
+        },
+        {
+          "word": "Irascible",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Prone to sudden anger."
+        },
+        {
+          "word": "Testy",
+          "hindiMeaning": "तुनकमिज़ाज",
+          "context": "Impatient and quickly annoyed."
+        },
+        {
+          "word": "Bad-tempered",
+          "hindiMeaning": "बदमिज़ाज",
+          "context": "Generally irritable disposition."
+        },
+        {
+          "word": "Snappy",
+          "hindiMeaning": "झल्लाने वाला",
+          "context": "Quick to speak sharply."
+        },
+        {
+          "word": "Volatile",
+          "hindiMeaning": "अस्थिर स्वभाव",
+          "context": "Prone to unpredictable anger."
+        },
+        {
+          "word": "Peevish",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily irritated by trivial matters."
+        },
+        {
+          "word": "Fiery",
+          "hindiMeaning": "आवेशी",
+          "context": "Passionate and quick to anger."
+        },
+        {
+          "word": "Splenetic",
+          "hindiMeaning": "बदमिज़ाज",
+          "context": "Irritable and spiteful nature."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Calm",
+          "hindiMeaning": "शांत",
+          "context": "Free from agitation or anger."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Undisturbed, peaceful nature."
+        },
+        {
+          "word": "Even-tempered",
+          "hindiMeaning": "शांत स्वभाव",
+          "context": "Steady and consistent mood."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and pleasant disposition."
+        },
+        {
+          "word": "Serene",
+          "hindiMeaning": "निर्मल",
+          "context": "Calm and untroubled temperament."
+        },
+        {
+          "word": "Good-humored",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Cheerful, easygoing nature."
+        },
+        {
+          "word": "Patient",
+          "hindiMeaning": "सहनशील",
+          "context": "Tolerant, not easily angered."
+        },
+        {
+          "word": "Gentle",
+          "hindiMeaning": "कोमल",
+          "context": "Mild and kind temperament."
+        },
+        {
+          "word": "Composed",
+          "hindiMeaning": "संयत",
+          "context": "Emotionally controlled and calm."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Easy to manage, calm nature."
+        }
+      ],
       "mnemonic": {
         "english": "CHOLERIC relates to 'CHOLERA'-like bile, believed to cause a hot temper in old medicine.",
         "hindi": "'कोलेरिक' यानी पित्त से भरा गुस्सैल स्वभाव - Choleric।"
@@ -4264,8 +5284,110 @@
       "partOfSpeech": "adjective",
       "context": "Filled with bitter criticism or malice; 'acid-like' speech.",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Acrimonious",
+          "hindiMeaning": "उग्र",
+          "context": "Bitter and full of anger."
+        },
+        {
+          "word": "Caustic",
+          "hindiMeaning": "चुभने वाला",
+          "context": "Sharp, biting remarks."
+        },
+        {
+          "word": "Scathing",
+          "hindiMeaning": "तीखा",
+          "context": "Harshly critical in tone."
+        },
+        {
+          "word": "Venomous",
+          "hindiMeaning": "विषैला",
+          "context": "Full of hatred and malice."
+        },
+        {
+          "word": "Bitter",
+          "hindiMeaning": "कड़वा",
+          "context": "Filled with sharp resentment."
+        },
+        {
+          "word": "Malicious",
+          "hindiMeaning": "दुर्भावनापूर्ण",
+          "context": "Intended to cause harm."
+        },
+        {
+          "word": "Spiteful",
+          "hindiMeaning": "विद्वेषपूर्ण",
+          "context": "Showing a desire to hurt others."
+        },
+        {
+          "word": "Cutting",
+          "hindiMeaning": "तेज़ / चुभता हुआ",
+          "context": "Deeply hurtful in expression."
+        },
+        {
+          "word": "Virulent",
+          "hindiMeaning": "विषैला",
+          "context": "Extremely bitter and hostile."
+        },
+        {
+          "word": "Trenchant",
+          "hindiMeaning": "तीक्ष्ण",
+          "context": "Sharp and incisive criticism."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Complimentary",
+          "hindiMeaning": "प्रशंसात्मक",
+          "context": "Expressing praise and approval."
+        },
+        {
+          "word": "Kind",
+          "hindiMeaning": "दयालु",
+          "context": "Gentle and considerate speech."
+        },
+        {
+          "word": "Gentle",
+          "hindiMeaning": "कोमल",
+          "context": "Mild and non-hurtful in tone."
+        },
+        {
+          "word": "Benign",
+          "hindiMeaning": "सौम्य",
+          "context": "Harmless and gentle in nature."
+        },
+        {
+          "word": "Sympathetic",
+          "hindiMeaning": "सहानुभूतिपूर्ण",
+          "context": "Showing understanding and care."
+        },
+        {
+          "word": "Warm",
+          "hindiMeaning": "सौहार्दपूर्ण",
+          "context": "Friendly and affectionate tone."
+        },
+        {
+          "word": "Encouraging",
+          "hindiMeaning": "उत्साहवर्धक",
+          "context": "Supportive and positive speech."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मैत्रीपूर्ण",
+          "context": "Friendly and good-natured."
+        },
+        {
+          "word": "Soothing",
+          "hindiMeaning": "शांत करने वाला",
+          "context": "Calming and gentle in effect."
+        },
+        {
+          "word": "Charitable",
+          "hindiMeaning": "उदार",
+          "context": "Generous and forgiving in judgment."
+        }
+      ],
       "mnemonic": {
         "english": "VITRIOLIC comes from 'VITRIOL' (acid) - speech that burns like acid.",
         "hindi": "'विट्रियोल' यानी तेजाब जैसी जलती हुई बात - Vitriolic।"
@@ -4278,8 +5400,110 @@
       "partOfSpeech": "adjective",
       "context": "Easily irritated, especially by unimportant things.",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Irritable",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily annoyed by small things."
+        },
+        {
+          "word": "Cranky",
+          "hindiMeaning": "बदमिज़ाज",
+          "context": "Bad-tempered, easily upset."
+        },
+        {
+          "word": "Fretful",
+          "hindiMeaning": "बेचैन",
+          "context": "Constantly complaining or worrying."
+        },
+        {
+          "word": "Querulous",
+          "hindiMeaning": "शिकायती",
+          "context": "Habitually complaining in a whining tone."
+        },
+        {
+          "word": "Testy",
+          "hindiMeaning": "तुनकमिज़ाज",
+          "context": "Impatient and easily annoyed."
+        },
+        {
+          "word": "Snappish",
+          "hindiMeaning": "झल्लाने वाला",
+          "context": "Quick to react sharply."
+        },
+        {
+          "word": "Grumpy",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Sulky and bad-tempered mood."
+        },
+        {
+          "word": "Petulant",
+          "hindiMeaning": "जिद्दी और चिढ़ने वाला",
+          "context": "Childishly sulky or irritable."
+        },
+        {
+          "word": "Touchy",
+          "hindiMeaning": "संवेदनशील",
+          "context": "Easily offended by minor issues."
+        },
+        {
+          "word": "Ill-tempered",
+          "hindiMeaning": "बुरे स्वभाव का",
+          "context": "Generally bad-natured and irritable."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy and pleasant in disposition."
+        },
+        {
+          "word": "Good-natured",
+          "hindiMeaning": "नेक स्वभाव",
+          "context": "Kind and easygoing temperament."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and agreeable manner."
+        },
+        {
+          "word": "Easygoing",
+          "hindiMeaning": "सहज",
+          "context": "Relaxed and tolerant nature."
+        },
+        {
+          "word": "Even-tempered",
+          "hindiMeaning": "शांत स्वभाव",
+          "context": "Calm, steady mood."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Warm and friendly disposition."
+        },
+        {
+          "word": "Patient",
+          "hindiMeaning": "सहनशील",
+          "context": "Tolerant of small annoyances."
+        },
+        {
+          "word": "Content",
+          "hindiMeaning": "संतुष्ट",
+          "context": "Satisfied, without complaint."
+        },
+        {
+          "word": "Pleasant",
+          "hindiMeaning": "सुखद",
+          "context": "Agreeable, pleasing manner."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Calm and untroubled nature."
+        }
+      ],
       "mnemonic": {
         "english": "PEEVISH sounds like 'PEEVE'-ish - easily peeved (annoyed) by small things.",
         "hindi": "'पीव' यानी छोटी बात पर चिढ़ जाना - Peevish।"
@@ -4292,8 +5516,110 @@
       "partOfSpeech": "adjective",
       "context": "Very irritable; derived from the belief that the spleen caused anger.",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Irritable",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily annoyed, bad-tempered."
+        },
+        {
+          "word": "Peevish",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Easily irritated by trivial things."
+        },
+        {
+          "word": "Bad-tempered",
+          "hindiMeaning": "बदमिज़ाज",
+          "context": "Generally irritable and short-fused."
+        },
+        {
+          "word": "Choleric",
+          "hindiMeaning": "गुस्सैल",
+          "context": "Quick-tempered and irritable."
+        },
+        {
+          "word": "Testy",
+          "hindiMeaning": "तुनकमिज़ाज",
+          "context": "Impatient and easily annoyed."
+        },
+        {
+          "word": "Waspish",
+          "hindiMeaning": "चुभने वाला",
+          "context": "Sharp-tongued and irritable."
+        },
+        {
+          "word": "Crabby",
+          "hindiMeaning": "चिड़चिड़ा",
+          "context": "Grumpy and easily irritated."
+        },
+        {
+          "word": "Spiteful",
+          "hindiMeaning": "विद्वेषपूर्ण",
+          "context": "Malicious, wishing to hurt others."
+        },
+        {
+          "word": "Cantankerous",
+          "hindiMeaning": "झगड़ालू",
+          "context": "Quarrelsome and bad-tempered."
+        },
+        {
+          "word": "Sullen",
+          "hindiMeaning": "रूखा",
+          "context": "Gloomy and irritable in mood."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Good-humored",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Cheerful and pleasant disposition."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and easygoing nature."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Warmly cheerful and friendly."
+        },
+        {
+          "word": "Even-tempered",
+          "hindiMeaning": "शांत स्वभाव",
+          "context": "Calm, consistent mood."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Calm and untroubled temperament."
+        },
+        {
+          "word": "Serene",
+          "hindiMeaning": "निर्मल",
+          "context": "Peaceful and calm nature."
+        },
+        {
+          "word": "Pleasant",
+          "hindiMeaning": "सुखद",
+          "context": "Agreeable and cheerful manner."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Gentle and easy to manage."
+        },
+        {
+          "word": "Tolerant",
+          "hindiMeaning": "सहनशील",
+          "context": "Patient and accepting nature."
+        },
+        {
+          "word": "Kindly",
+          "hindiMeaning": "दयालु",
+          "context": "Gentle and considerate disposition."
+        }
+      ],
       "mnemonic": {
         "english": "SPLENETIC comes from 'SPLEEN' - the organ once believed to be the seat of anger.",
         "hindi": "'स्प्लीन' (तिल्ली) से जुड़ा गुस्सैल स्वभाव - Splenetic।"
@@ -4306,8 +5632,110 @@
       "partOfSpeech": "adjective",
       "context": "Having or showing a strong or unreasoning desire for revenge.",
       "clusterCategory": "Angry & Critical Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Vengeful",
+          "hindiMeaning": "प्रतिशोधी",
+          "context": "Seeking revenge for a wrong."
+        },
+        {
+          "word": "Spiteful",
+          "hindiMeaning": "विद्वेषपूर्ण",
+          "context": "Showing a desire to hurt someone."
+        },
+        {
+          "word": "Retaliatory",
+          "hindiMeaning": "प्रतिकारात्मक",
+          "context": "Acting to pay back harm done."
+        },
+        {
+          "word": "Rancorous",
+          "hindiMeaning": "द्वेषपूर्ण",
+          "context": "Bitter and resentful, seeking harm."
+        },
+        {
+          "word": "Unforgiving",
+          "hindiMeaning": "क्षमाहीन",
+          "context": "Refusing to forgive or let go."
+        },
+        {
+          "word": "Malevolent",
+          "hindiMeaning": "द्वेषपूर्ण",
+          "context": "Wishing evil or harm on others."
+        },
+        {
+          "word": "Resentful",
+          "hindiMeaning": "क्रोधित",
+          "context": "Bitter feelings leading to revenge."
+        },
+        {
+          "word": "Punitive",
+          "hindiMeaning": "दंडात्मक",
+          "context": "Intended to punish harshly."
+        },
+        {
+          "word": "Cruel",
+          "hindiMeaning": "निर्दयी",
+          "context": "Deliberately causing pain to others."
+        },
+        {
+          "word": "Bitter",
+          "hindiMeaning": "कड़वा",
+          "context": "Harboring long-standing resentment."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forgiving",
+          "hindiMeaning": "क्षमाशील",
+          "context": "Willing to pardon wrongs."
+        },
+        {
+          "word": "Merciful",
+          "hindiMeaning": "दयालु",
+          "context": "Showing compassion instead of punishment."
+        },
+        {
+          "word": "Magnanimous",
+          "hindiMeaning": "उदारचित्त",
+          "context": "Generous in overlooking insult or injury."
+        },
+        {
+          "word": "Charitable",
+          "hindiMeaning": "उदार",
+          "context": "Kind and generous in judgment."
+        },
+        {
+          "word": "Benevolent",
+          "hindiMeaning": "दयालु",
+          "context": "Kind and well-meaning toward others."
+        },
+        {
+          "word": "Compassionate",
+          "hindiMeaning": "करुणामय",
+          "context": "Showing sympathy rather than revenge."
+        },
+        {
+          "word": "Gracious",
+          "hindiMeaning": "कृपापूर्ण",
+          "context": "Kind and pleasant despite wrongs."
+        },
+        {
+          "word": "Tolerant",
+          "hindiMeaning": "सहनशील",
+          "context": "Accepting without seeking payback."
+        },
+        {
+          "word": "Kind",
+          "hindiMeaning": "दयालु",
+          "context": "Gentle and well-intentioned."
+        },
+        {
+          "word": "Lenient",
+          "hindiMeaning": "उदार",
+          "context": "Not harsh in judgment or punishment."
+        }
+      ],
       "mnemonic": {
         "english": "VINDICTIVE sounds like 'VENGEANCE'-tive - full of vengeance and desire for revenge.",
         "hindi": "'विंडिक्टिव' यानी बदले की भावना रखने वाला।"
@@ -4320,8 +5748,110 @@
       "partOfSpeech": "adjective/noun",
       "context": "A feeling of pensive sadness, typically with no obvious cause.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Sad",
+          "hindiMeaning": "उदास",
+          "context": "Feeling sorrow or unhappiness."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark, depressing mood."
+        },
+        {
+          "word": "Wistful",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Sadly longing for something."
+        },
+        {
+          "word": "Pensive",
+          "hindiMeaning": "चिंतनशील",
+          "context": "Thoughtfully sad or reflective."
+        },
+        {
+          "word": "Sorrowful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Full of deep sadness."
+        },
+        {
+          "word": "Mournful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Expressing grief or sorrow."
+        },
+        {
+          "word": "Dejected",
+          "hindiMeaning": "निराश",
+          "context": "Sad and discouraged."
+        },
+        {
+          "word": "Blue",
+          "hindiMeaning": "उदास",
+          "context": "Informal term for feeling sad."
+        },
+        {
+          "word": "Despondent",
+          "hindiMeaning": "हताश",
+          "context": "Low in spirits, without hope."
+        },
+        {
+          "word": "Doleful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Expressing sorrow, mournful look."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy and pleasant disposition."
+        },
+        {
+          "word": "Joyful",
+          "hindiMeaning": "आनंदित",
+          "context": "Full of happiness and delight."
+        },
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Extremely happy and excited."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Cheerful and optimistic energy."
+        },
+        {
+          "word": "Merry",
+          "hindiMeaning": "आनंदी",
+          "context": "Full of high spirits and fun."
+        },
+        {
+          "word": "Upbeat",
+          "hindiMeaning": "उत्साहपूर्ण",
+          "context": "Cheerful and positive mood."
+        },
+        {
+          "word": "Content",
+          "hindiMeaning": "संतुष्ट",
+          "context": "Satisfied and at peace."
+        },
+        {
+          "word": "Gleeful",
+          "hindiMeaning": "प्रसन्नचित्त",
+          "context": "Showing great delight."
+        },
+        {
+          "word": "Bright",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Cheerful and lively in mood."
+        },
+        {
+          "word": "Lighthearted",
+          "hindiMeaning": "निश्चिंत",
+          "context": "Free from worry, cheerful."
+        }
+      ],
       "mnemonic": {
         "english": "MELANCHOLY sounds like 'MELON-collie' - a heavy, sad melon-like weight on the heart.",
         "hindi": "'मेलन-कॉली' - बिना वजह मन का उदास होना - Melancholy।"
@@ -4334,8 +5864,110 @@
       "partOfSpeech": "adjective",
       "context": "Pitifully sad and abandoned or lonely.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Abandoned",
+          "hindiMeaning": "परित्यक्त",
+          "context": "Left alone and deserted."
+        },
+        {
+          "word": "Desolate",
+          "hindiMeaning": "उजाड़",
+          "context": "Feeling utterly alone and empty."
+        },
+        {
+          "word": "Lonely",
+          "hindiMeaning": "अकेला",
+          "context": "Sad from lack of companionship."
+        },
+        {
+          "word": "Wretched",
+          "hindiMeaning": "अभागा",
+          "context": "Deeply unhappy and unfortunate."
+        },
+        {
+          "word": "Miserable",
+          "hindiMeaning": "दुःखी",
+          "context": "Extremely unhappy and pitiable."
+        },
+        {
+          "word": "Hopeless",
+          "hindiMeaning": "निराश",
+          "context": "Without hope, deeply sad."
+        },
+        {
+          "word": "Dejected",
+          "hindiMeaning": "निराश",
+          "context": "Sad and discouraged."
+        },
+        {
+          "word": "Bereft",
+          "hindiMeaning": "वंचित",
+          "context": "Deprived of something valued, left sad."
+        },
+        {
+          "word": "Pitiable",
+          "hindiMeaning": "दयनीय",
+          "context": "Deserving pity due to sad state."
+        },
+        {
+          "word": "Woebegone",
+          "hindiMeaning": "शोकाकुल दिखने वाला",
+          "context": "Looking sad and miserable."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy and full of good spirits."
+        },
+        {
+          "word": "Content",
+          "hindiMeaning": "संतुष्ट",
+          "context": "Satisfied and at peace."
+        },
+        {
+          "word": "Hopeful",
+          "hindiMeaning": "आशायुक्त",
+          "context": "Full of expectation for good things."
+        },
+        {
+          "word": "Cared-for",
+          "hindiMeaning": "देखभाल किया गया",
+          "context": "Not abandoned, well looked after."
+        },
+        {
+          "word": "Joyful",
+          "hindiMeaning": "आनंदित",
+          "context": "Full of happiness, opposite of sad."
+        },
+        {
+          "word": "Fortunate",
+          "hindiMeaning": "भाग्यशाली",
+          "context": "Blessed with good luck."
+        },
+        {
+          "word": "Accompanied",
+          "hindiMeaning": "साथ में",
+          "context": "Not alone, with companionship."
+        },
+        {
+          "word": "Secure",
+          "hindiMeaning": "सुरक्षित",
+          "context": "Safe and free from abandonment."
+        },
+        {
+          "word": "Comforted",
+          "hindiMeaning": "संतोष प्राप्त",
+          "context": "Given relief and reassurance."
+        },
+        {
+          "word": "Blessed",
+          "hindiMeaning": "धन्य",
+          "context": "Fortunate and favored."
+        }
+      ],
       "mnemonic": {
         "english": "FORLORN sounds like 'FOR-LOST-lorn' - lost and abandoned, feeling forlorn.",
         "hindi": "'फॉर-लॉर्न' यानी बिल्कुल तनहा और उदास - Forlorn।"
@@ -4348,8 +5980,110 @@
       "partOfSpeech": "adjective",
       "context": "Looking or sounding incredibly sad and dismal (often exaggerated).",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Mournful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Expressing sorrow, exaggerated grief."
+        },
+        {
+          "word": "Dismal",
+          "hindiMeaning": "उदासीभरा",
+          "context": "Depressing and gloomy in appearance."
+        },
+        {
+          "word": "Doleful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Sad and mournful expression."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark and dreary in mood."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Deep, pensive sadness."
+        },
+        {
+          "word": "Woeful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Full of sorrow or misery."
+        },
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious and dark in tone."
+        },
+        {
+          "word": "Funereal",
+          "hindiMeaning": "शवयात्रा जैसा",
+          "context": "Resembling the gloom of a funeral."
+        },
+        {
+          "word": "Sepulchral",
+          "hindiMeaning": "कब्र जैसा गंभीर",
+          "context": "Deep, dark and dismal tone."
+        },
+        {
+          "word": "Plaintive",
+          "hindiMeaning": "विलापपूर्ण",
+          "context": "Sad-sounding, expressing sorrow."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Bright and happy in appearance."
+        },
+        {
+          "word": "Jolly",
+          "hindiMeaning": "आनंदी",
+          "context": "Merry and full of good cheer."
+        },
+        {
+          "word": "Lighthearted",
+          "hindiMeaning": "निश्चिंत",
+          "context": "Carefree and cheerful."
+        },
+        {
+          "word": "Bright",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Lively and happy in mood."
+        },
+        {
+          "word": "Merry",
+          "hindiMeaning": "आनंदी",
+          "context": "Full of joy and fun."
+        },
+        {
+          "word": "Joyous",
+          "hindiMeaning": "आनंदपूर्ण",
+          "context": "Full of happiness and celebration."
+        },
+        {
+          "word": "Upbeat",
+          "hindiMeaning": "उत्साहपूर्ण",
+          "context": "Positive, cheerful mood."
+        },
+        {
+          "word": "Sprightly",
+          "hindiMeaning": "प्रफुल्लित",
+          "context": "Lively and full of energy."
+        },
+        {
+          "word": "Gleeful",
+          "hindiMeaning": "प्रसन्नचित्त",
+          "context": "Showing joyful delight."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Cheerful and resilient in spirit."
+        }
+      ],
       "mnemonic": {
         "english": "LUGUBRIOUS sounds like 'LUG-a-BOO-rious' - dragging a heavy, exaggerated sadness.",
         "hindi": "'लगु-ब्रियस' यानी बहुत नाटकीय शोक - Lugubrious।"
@@ -4362,8 +6096,110 @@
       "partOfSpeech": "adjective",
       "context": "Sullen and ill-tempered; refusing to be social due to sadness.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Sullen",
+          "hindiMeaning": "रूखा",
+          "context": "Gloomy and bad-tempered, unsociable."
+        },
+        {
+          "word": "Glum",
+          "hindiMeaning": "उदास",
+          "context": "Dispirited and sulky mood."
+        },
+        {
+          "word": "Sulky",
+          "hindiMeaning": "चिढ़ा हुआ",
+          "context": "Silently annoyed and withdrawn."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark, low mood."
+        },
+        {
+          "word": "Dour",
+          "hindiMeaning": "कठोर",
+          "context": "Stern and gloomy in manner."
+        },
+        {
+          "word": "Brooding",
+          "hindiMeaning": "चिंतनशील उदासी",
+          "context": "Deep in gloomy thought."
+        },
+        {
+          "word": "Sour",
+          "hindiMeaning": "रूखा स्वभाव",
+          "context": "Unpleasant, bad-tempered nature."
+        },
+        {
+          "word": "Taciturn",
+          "hindiMeaning": "अल्पभाषी",
+          "context": "Reserved and unsociable due to sadness."
+        },
+        {
+          "word": "Ill-humored",
+          "hindiMeaning": "बदमिज़ाज",
+          "context": "Bad-tempered and unsociable."
+        },
+        {
+          "word": "Despondent",
+          "hindiMeaning": "हताश",
+          "context": "Low in spirits, lacking hope."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy and sociable disposition."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Warm and friendly manner."
+        },
+        {
+          "word": "Amiable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and easygoing nature."
+        },
+        {
+          "word": "Affable",
+          "hindiMeaning": "सौम्य",
+          "context": "Warm and easy to talk to."
+        },
+        {
+          "word": "Sociable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Enjoys company, friendly."
+        },
+        {
+          "word": "Jovial",
+          "hindiMeaning": "हंसमुख",
+          "context": "Full of good humor and cheer."
+        },
+        {
+          "word": "Pleasant",
+          "hindiMeaning": "सुखद",
+          "context": "Agreeable and pleasing manner."
+        },
+        {
+          "word": "Bright",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Cheerful, positive mood."
+        },
+        {
+          "word": "Warm",
+          "hindiMeaning": "सौहार्दपूर्ण",
+          "context": "Friendly and welcoming manner."
+        },
+        {
+          "word": "Good-humored",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Cheerful and easygoing."
+        }
+      ],
       "mnemonic": {
         "english": "MOROSE sounds like 'MORE-ROSE'-less - no roses (joy) left, just gloom.",
         "hindi": "'मोरोज़' यानी उदासी में रूखा और चुप रहना।"
@@ -4376,8 +6212,110 @@
       "partOfSpeech": "adjective",
       "context": "Slow, gloomy, and mysterious.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark and dreary temperament."
+        },
+        {
+          "word": "Morose",
+          "hindiMeaning": "रूखा",
+          "context": "Sullen, unsociable mood."
+        },
+        {
+          "word": "Sullen",
+          "hindiMeaning": "रूखा",
+          "context": "Gloomy and withdrawn nature."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Deep, pensive sadness."
+        },
+        {
+          "word": "Brooding",
+          "hindiMeaning": "चिंतनशील उदासी",
+          "context": "Dwelling in dark, quiet thought."
+        },
+        {
+          "word": "Dour",
+          "hindiMeaning": "कठोर",
+          "context": "Stern, gloomy demeanor."
+        },
+        {
+          "word": "Somber",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious and dark in mood."
+        },
+        {
+          "word": "Taciturn",
+          "hindiMeaning": "अल्पभाषी",
+          "context": "Quiet and withdrawn, mysterious."
+        },
+        {
+          "word": "Grave",
+          "hindiMeaning": "गंभीर",
+          "context": "Serious and heavy in demeanor."
+        },
+        {
+          "word": "Dismal",
+          "hindiMeaning": "उदासीभरा",
+          "context": "Depressing and cheerless nature."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy, bright temperament."
+        },
+        {
+          "word": "Lively",
+          "hindiMeaning": "सजीव",
+          "context": "Full of energy, vibrant nature."
+        },
+        {
+          "word": "Sociable",
+          "hindiMeaning": "मिलनसार",
+          "context": "Friendly and open in nature."
+        },
+        {
+          "word": "Sunny",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Bright and cheerful disposition."
+        },
+        {
+          "word": "Genial",
+          "hindiMeaning": "सौम्य",
+          "context": "Warm and friendly manner."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Optimistic, cheerful energy."
+        },
+        {
+          "word": "Bright",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Cheerful, lively mood."
+        },
+        {
+          "word": "Vivacious",
+          "hindiMeaning": "जिंदादिल",
+          "context": "Lively and attractively animated."
+        },
+        {
+          "word": "Affable",
+          "hindiMeaning": "सौम्य",
+          "context": "Easy to approach and talk to."
+        },
+        {
+          "word": "Open",
+          "hindiMeaning": "खुला स्वभाव",
+          "context": "Not mysterious, easy to know."
+        }
+      ],
       "mnemonic": {
         "english": "SATURNINE relates to the planet SATURN, believed astrologically to cause a gloomy temperament.",
         "hindi": "'सैटर्न' ग्रह जैसा ठंडा और गंभीर स्वभाव - Saturnine।"
@@ -4390,8 +6328,110 @@
       "partOfSpeech": "adjective",
       "context": "In low spirits from loss of hope or courage.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Dejected",
+          "hindiMeaning": "निराश",
+          "context": "Sad and discouraged in spirit."
+        },
+        {
+          "word": "Downcast",
+          "hindiMeaning": "खिन्न",
+          "context": "Feeling low and discouraged."
+        },
+        {
+          "word": "Disheartened",
+          "hindiMeaning": "हतोत्साहित",
+          "context": "Losing enthusiasm or confidence."
+        },
+        {
+          "word": "Hopeless",
+          "hindiMeaning": "निराश",
+          "context": "Without hope, deeply sad."
+        },
+        {
+          "word": "Downhearted",
+          "hindiMeaning": "हताश",
+          "context": "Feeling low after disappointment."
+        },
+        {
+          "word": "Gloomy",
+          "hindiMeaning": "निराशाजनक",
+          "context": "Dark mood, lacking optimism."
+        },
+        {
+          "word": "Crestfallen",
+          "hindiMeaning": "मायूस",
+          "context": "Suddenly disappointed and sad."
+        },
+        {
+          "word": "Discouraged",
+          "hindiMeaning": "हतोत्साहित",
+          "context": "Losing confidence after setback."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Pensive, deep sadness."
+        },
+        {
+          "word": "Forlorn",
+          "hindiMeaning": "निराश",
+          "context": "Sad and abandoned feeling."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Hopeful",
+          "hindiMeaning": "आशायुक्त",
+          "context": "Full of positive expectation."
+        },
+        {
+          "word": "Optimistic",
+          "hindiMeaning": "आशावादी",
+          "context": "Believing good things will happen."
+        },
+        {
+          "word": "Encouraged",
+          "hindiMeaning": "उत्साहित",
+          "context": "Given confidence and hope."
+        },
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy, positive disposition."
+        },
+        {
+          "word": "Buoyant",
+          "hindiMeaning": "उत्फुल्ल",
+          "context": "Resilient, cheerful energy."
+        },
+        {
+          "word": "Confident",
+          "hindiMeaning": "आत्मविश्वासी",
+          "context": "Certain and secure about outcome."
+        },
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Extremely happy and uplifted."
+        },
+        {
+          "word": "Upbeat",
+          "hindiMeaning": "उत्साहपूर्ण",
+          "context": "Positive and cheerful mood."
+        },
+        {
+          "word": "Content",
+          "hindiMeaning": "संतुष्ट",
+          "context": "Satisfied and at peace."
+        },
+        {
+          "word": "Sanguine",
+          "hindiMeaning": "आशावादी",
+          "context": "Optimistic even in tough situations."
+        }
+      ],
       "mnemonic": {
         "english": "DESPONDENT sounds like 'DE-SPOND'-ent (from 'despond' - lose hope).",
         "hindi": "'डिस्पॉन्डेंट' यानी हिम्मत हार जाना - Despondent।"
@@ -4404,8 +6444,110 @@
       "partOfSpeech": "adjective",
       "context": "Feeling or expressing great sorrow or distress.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Sorrowful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Full of deep sadness or grief."
+        },
+        {
+          "word": "Mournful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Expressing grief and sorrow."
+        },
+        {
+          "word": "Woeful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Full of misery and distress."
+        },
+        {
+          "word": "Doleful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Sad and mournful in expression."
+        },
+        {
+          "word": "Grievous",
+          "hindiMeaning": "पीड़ादायक",
+          "context": "Causing severe sorrow or pain."
+        },
+        {
+          "word": "Anguished",
+          "hindiMeaning": "पीड़ित",
+          "context": "Suffering severe mental pain."
+        },
+        {
+          "word": "Plaintive",
+          "hindiMeaning": "विलापपूर्ण",
+          "context": "Sad-sounding expression of sorrow."
+        },
+        {
+          "word": "Melancholic",
+          "hindiMeaning": "विषादपूर्ण",
+          "context": "Deep, pensive sadness."
+        },
+        {
+          "word": "Lamentable",
+          "hindiMeaning": "शोचनीय",
+          "context": "Deserving grief or regret."
+        },
+        {
+          "word": "Tragic",
+          "hindiMeaning": "दुःखद",
+          "context": "Extremely sad, causing distress."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Joyful",
+          "hindiMeaning": "आनंदित",
+          "context": "Full of happiness and delight."
+        },
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy, pleasant disposition."
+        },
+        {
+          "word": "Delightful",
+          "hindiMeaning": "आनंददायक",
+          "context": "Highly pleasing and pleasant."
+        },
+        {
+          "word": "Elated",
+          "hindiMeaning": "अति प्रसन्न",
+          "context": "Extremely happy and excited."
+        },
+        {
+          "word": "Pleasant",
+          "hindiMeaning": "सुखद",
+          "context": "Agreeable and pleasing mood."
+        },
+        {
+          "word": "Blissful",
+          "hindiMeaning": "आनंदमय",
+          "context": "Perfect, serene happiness."
+        },
+        {
+          "word": "Happy",
+          "hindiMeaning": "खुश",
+          "context": "Feeling contentment and joy."
+        },
+        {
+          "word": "Merry",
+          "hindiMeaning": "आनंदी",
+          "context": "Full of high spirits and fun."
+        },
+        {
+          "word": "Glad",
+          "hindiMeaning": "प्रसन्न",
+          "context": "Pleased and happy about something."
+        },
+        {
+          "word": "Festive",
+          "hindiMeaning": "उत्सवपूर्ण",
+          "context": "Cheerful and celebratory mood."
+        }
+      ],
       "mnemonic": {
         "english": "DOLOROUS sounds like 'DOLOR' (Latin for pain/grief).",
         "hindi": "'डोलोरस' यानी गहरा दुख व्यक्त करने वाला।"
@@ -4418,8 +6560,110 @@
       "partOfSpeech": "adjective",
       "context": "Tearful or given to weeping; used for someone who cries easily.",
       "clusterCategory": "Sad & Gloomy Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Tearful",
+          "hindiMeaning": "अश्रुपूर्ण",
+          "context": "Prone to crying easily."
+        },
+        {
+          "word": "Weepy",
+          "hindiMeaning": "रोने वाला",
+          "context": "Inclined to cry frequently."
+        },
+        {
+          "word": "Sobbing",
+          "hindiMeaning": "सिसकियां भरता हुआ",
+          "context": "Crying with short gasping breaths."
+        },
+        {
+          "word": "Maudlin",
+          "hindiMeaning": "भावुक और रोने वाला",
+          "context": "Self-pityingly sentimental and tearful."
+        },
+        {
+          "word": "Sentimental",
+          "hindiMeaning": "भावुक",
+          "context": "Excessively emotional, prone to tears."
+        },
+        {
+          "word": "Mournful",
+          "hindiMeaning": "शोकपूर्ण",
+          "context": "Expressing grief through tears."
+        },
+        {
+          "word": "Doleful",
+          "hindiMeaning": "शोकाकुल",
+          "context": "Sad expression, prone to tears."
+        },
+        {
+          "word": "Plaintive",
+          "hindiMeaning": "विलापपूर्ण",
+          "context": "Sad tone suggesting tears."
+        },
+        {
+          "word": "Blubbering",
+          "hindiMeaning": "बिलखते हुए",
+          "context": "Crying noisily and uncontrollably."
+        },
+        {
+          "word": "Emotional",
+          "hindiMeaning": "भावुक",
+          "context": "Easily moved to tears."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stoic",
+          "hindiMeaning": "अविचल",
+          "context": "Enduring without showing emotion."
+        },
+        {
+          "word": "Unemotional",
+          "hindiMeaning": "भावशून्य",
+          "context": "Not showing feelings, dry-eyed."
+        },
+        {
+          "word": "Composed",
+          "hindiMeaning": "संयत",
+          "context": "Calm and controlled, no tears."
+        },
+        {
+          "word": "Dry-eyed",
+          "hindiMeaning": "बिना आंसू के",
+          "context": "Not crying despite sadness."
+        },
+        {
+          "word": "Cheerful",
+          "hindiMeaning": "खुशमिजाज",
+          "context": "Happy, opposite of tearful."
+        },
+        {
+          "word": "Impassive",
+          "hindiMeaning": "निर्विकार",
+          "context": "Showing no emotional reaction."
+        },
+        {
+          "word": "Restrained",
+          "hindiMeaning": "नियंत्रित",
+          "context": "Holding back emotional display."
+        },
+        {
+          "word": "Detached",
+          "hindiMeaning": "तटस्थ",
+          "context": "Emotionally distant, unmoved."
+        },
+        {
+          "word": "Cold",
+          "hindiMeaning": "शुष्क",
+          "context": "Lacking emotional warmth or tears."
+        },
+        {
+          "word": "Placid",
+          "hindiMeaning": "शांत",
+          "context": "Calm without emotional outburst."
+        }
+      ],
       "mnemonic": {
         "english": "LACHRYMOSE sounds like 'LACRIME' (tears in Latin/French) - tearful.",
         "hindi": "'लैक्रिमोस' यानी हर बात पर आँसू आना - Lachrymose।"
@@ -4432,8 +6676,110 @@
       "partOfSpeech": "adjective",
       "context": "Stubbornly refusing to change one's opinion (often used for children).",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Stubborn",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Refusing to change one's mind."
+        },
+        {
+          "word": "Headstrong",
+          "hindiMeaning": "जिद्दी",
+          "context": "Determined to do things one's own way."
+        },
+        {
+          "word": "Willful",
+          "hindiMeaning": "मनमौजी",
+          "context": "Insisting on having one's own way."
+        },
+        {
+          "word": "Inflexible",
+          "hindiMeaning": "अनम्य",
+          "context": "Unwilling to change position."
+        },
+        {
+          "word": "Unyielding",
+          "hindiMeaning": "अटल",
+          "context": "Not giving in to pressure."
+        },
+        {
+          "word": "Adamant",
+          "hindiMeaning": "दृढ़",
+          "context": "Refusing to be persuaded."
+        },
+        {
+          "word": "Obdurate",
+          "hindiMeaning": "हठी",
+          "context": "Stubbornly refusing to change."
+        },
+        {
+          "word": "Pigheaded",
+          "hindiMeaning": "मूर्खतापूर्वक ज़िद्दी",
+          "context": "Foolishly and stubbornly insistent."
+        },
+        {
+          "word": "Firm",
+          "hindiMeaning": "दृढ़",
+          "context": "Not easily moved from a stance."
+        },
+        {
+          "word": "Persistent",
+          "hindiMeaning": "अटूट",
+          "context": "Continuing firmly despite difficulty."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Willing to adapt and change."
+        },
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Willing to comply with wishes."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open to suggestion or change."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving in easily to pressure."
+        },
+        {
+          "word": "Tractable",
+          "hindiMeaning": "वश में आने वाला",
+          "context": "Easy to control or manage."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Easy to manage or teach."
+        },
+        {
+          "word": "Cooperative",
+          "hindiMeaning": "सहयोगी",
+          "context": "Willing to work with others."
+        },
+        {
+          "word": "Adaptable",
+          "hindiMeaning": "अनुकूलनीय",
+          "context": "Adjusting well to change."
+        },
+        {
+          "word": "Agreeable",
+          "hindiMeaning": "सहमत",
+          "context": "Willing to accept others' views."
+        },
+        {
+          "word": "Accommodating",
+          "hindiMeaning": "समायोजित करने वाला",
+          "context": "Willing to fit others' needs."
+        }
+      ],
       "mnemonic": {
         "english": "OBSTINATE sounds like 'OB-STAY-nate' - staying stubbornly on one position.",
         "hindi": "'ऑब्स्टिनेट' यानी अपनी बात पर अड़ जाना - Obstinate।"
@@ -4446,8 +6792,110 @@
       "partOfSpeech": "adjective",
       "context": "Stubbornly refusing to change one's opinion; hard-hearted or lacking remorse.",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Stubborn",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Refusing to change one's mind."
+        },
+        {
+          "word": "Hard-hearted",
+          "hindiMeaning": "निष्ठुर",
+          "context": "Lacking sympathy or remorse."
+        },
+        {
+          "word": "Unyielding",
+          "hindiMeaning": "अटल",
+          "context": "Not giving in despite pressure."
+        },
+        {
+          "word": "Inflexible",
+          "hindiMeaning": "अनम्य",
+          "context": "Unwilling to change position."
+        },
+        {
+          "word": "Adamant",
+          "hindiMeaning": "दृढ़",
+          "context": "Firmly refusing to be persuaded."
+        },
+        {
+          "word": "Intransigent",
+          "hindiMeaning": "कट्टर",
+          "context": "Refusing to compromise at all."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly refusing to change opinion."
+        },
+        {
+          "word": "Callous",
+          "hindiMeaning": "संवेदनाहीन",
+          "context": "Insensitive and unfeeling."
+        },
+        {
+          "word": "Rigid",
+          "hindiMeaning": "कठोर",
+          "context": "Fixed and unwilling to bend."
+        },
+        {
+          "word": "Immovable",
+          "hindiMeaning": "अचल",
+          "context": "Impossible to move or persuade."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Compassionate",
+          "hindiMeaning": "करुणामय",
+          "context": "Showing sympathy and understanding."
+        },
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Willing to adapt to change."
+        },
+        {
+          "word": "Softhearted",
+          "hindiMeaning": "कोमल हृदय",
+          "context": "Easily moved by feelings."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving in to persuasion easily."
+        },
+        {
+          "word": "Remorseful",
+          "hindiMeaning": "पछतावा करने वाला",
+          "context": "Feeling regret for wrongdoing."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open and responsive to suggestion."
+        },
+        {
+          "word": "Gentle",
+          "hindiMeaning": "कोमल",
+          "context": "Kind and mild in manner."
+        },
+        {
+          "word": "Sensitive",
+          "hindiMeaning": "संवेदनशील",
+          "context": "Responsive to others' feelings."
+        },
+        {
+          "word": "Tender",
+          "hindiMeaning": "कोमल",
+          "context": "Showing gentleness and care."
+        },
+        {
+          "word": "Malleable",
+          "hindiMeaning": "नरम",
+          "context": "Easily influenced or shaped."
+        }
+      ],
       "mnemonic": {
         "english": "OBDURATE sounds like 'OB-DOOR-ate' - a door that won't budge, hard-hearted.",
         "hindi": "'ऑब्डुरेट' यानी बिना पछतावे के अड़ना - Obdurate।"
@@ -4460,8 +6908,110 @@
       "partOfSpeech": "adjective",
       "context": "Refusing to agree or compromise (used in political or formal negotiations).",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Uncompromising",
+          "hindiMeaning": "अटल",
+          "context": "Refusing to make any concessions."
+        },
+        {
+          "word": "Inflexible",
+          "hindiMeaning": "अनम्य",
+          "context": "Unwilling to change stance."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly refusing to change."
+        },
+        {
+          "word": "Unyielding",
+          "hindiMeaning": "अटल",
+          "context": "Not giving in despite pressure."
+        },
+        {
+          "word": "Rigid",
+          "hindiMeaning": "कठोर",
+          "context": "Fixed and unwilling to bend."
+        },
+        {
+          "word": "Adamant",
+          "hindiMeaning": "दृढ़",
+          "context": "Refusing firmly to be persuaded."
+        },
+        {
+          "word": "Obdurate",
+          "hindiMeaning": "हठी",
+          "context": "Stubbornly resistant to change."
+        },
+        {
+          "word": "Immovable",
+          "hindiMeaning": "अचल",
+          "context": "Impossible to move from position."
+        },
+        {
+          "word": "Hardline",
+          "hindiMeaning": "कट्टर",
+          "context": "Strict, uncompromising in stance."
+        },
+        {
+          "word": "Recalcitrant",
+          "hindiMeaning": "अड़ियल",
+          "context": "Uncooperative toward authority."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Conciliatory",
+          "hindiMeaning": "समझौतावादी",
+          "context": "Willing to make peace or compromise."
+        },
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Open to adapting one's position."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Willing to accept new ideas."
+        },
+        {
+          "word": "Cooperative",
+          "hindiMeaning": "सहयोगी",
+          "context": "Willing to work together."
+        },
+        {
+          "word": "Accommodating",
+          "hindiMeaning": "समायोजित करने वाला",
+          "context": "Willing to fit others' needs."
+        },
+        {
+          "word": "Compromising",
+          "hindiMeaning": "समझौता करने वाला",
+          "context": "Willing to meet halfway."
+        },
+        {
+          "word": "Open-minded",
+          "hindiMeaning": "खुले विचारों वाला",
+          "context": "Willing to consider new views."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving way to others' wishes."
+        },
+        {
+          "word": "Reasonable",
+          "hindiMeaning": "तर्कसंगत",
+          "context": "Willing to negotiate sensibly."
+        },
+        {
+          "word": "Agreeable",
+          "hindiMeaning": "सहमत",
+          "context": "Ready to accept others' terms."
+        }
+      ],
       "mnemonic": {
         "english": "INTRANSIGENT sounds like 'IN-TRANS-igent' - won't transition/compromise at all.",
         "hindi": "'इन-ट्रांस-इजेंट' यानी किसी भी बदलाव या समझौते से इनकार - Intransigent।"
@@ -4474,8 +7024,110 @@
       "partOfSpeech": "adjective",
       "context": "Refusing to be persuaded; suggesting a 'rock-like' firmness (from Adamas, diamond).",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Unyielding",
+          "hindiMeaning": "अटल",
+          "context": "Not giving in despite pressure."
+        },
+        {
+          "word": "Firm",
+          "hindiMeaning": "दृढ़",
+          "context": "Steadfast and resolute in stance."
+        },
+        {
+          "word": "Resolute",
+          "hindiMeaning": "दृढ़संकल्पित",
+          "context": "Determined and unwavering in purpose."
+        },
+        {
+          "word": "Immovable",
+          "hindiMeaning": "अचल",
+          "context": "Impossible to shift from position."
+        },
+        {
+          "word": "Inflexible",
+          "hindiMeaning": "अनम्य",
+          "context": "Unwilling to change decision."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly holding one's ground."
+        },
+        {
+          "word": "Steadfast",
+          "hindiMeaning": "अडिग",
+          "context": "Loyally and firmly maintaining position."
+        },
+        {
+          "word": "Determined",
+          "hindiMeaning": "दृढ़निश्चयी",
+          "context": "Fixed in purpose, resolved fully."
+        },
+        {
+          "word": "Unwavering",
+          "hindiMeaning": "अटूट",
+          "context": "Not wavering in conviction."
+        },
+        {
+          "word": "Set",
+          "hindiMeaning": "निश्चित",
+          "context": "Fixed firmly in decision."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Willing to change position easily."
+        },
+        {
+          "word": "Irresolute",
+          "hindiMeaning": "अनिश्चित",
+          "context": "Uncertain, lacking firm decision."
+        },
+        {
+          "word": "Wavering",
+          "hindiMeaning": "डगमगाता हुआ",
+          "context": "Uncertain, changing between choices."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving in easily to persuasion."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open to being persuaded."
+        },
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Willing to go along with others."
+        },
+        {
+          "word": "Malleable",
+          "hindiMeaning": "नरम",
+          "context": "Easily shaped or influenced."
+        },
+        {
+          "word": "Indecisive",
+          "hindiMeaning": "अनिर्णायक",
+          "context": "Unable to decide firmly."
+        },
+        {
+          "word": "Uncertain",
+          "hindiMeaning": "असंश्चित",
+          "context": "Lacking a firm resolve."
+        },
+        {
+          "word": "Pliable",
+          "hindiMeaning": "लचीला",
+          "context": "Easily bent or persuaded."
+        }
+      ],
       "mnemonic": {
         "english": "ADAMANT comes from 'ADAMAS' (Greek for diamond) - unbreakable and firm.",
         "hindi": "'हीरे' जैसा अटल - Adamant का मतलब दृढ़।"
@@ -4488,8 +7140,110 @@
       "partOfSpeech": "adjective",
       "context": "Holding firmly to an opinion or course of action; implies persistence (can be positive).",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Persistent",
+          "hindiMeaning": "दृढ़",
+          "context": "Continuing firmly despite difficulty."
+        },
+        {
+          "word": "Tenacious",
+          "hindiMeaning": "दृढ़",
+          "context": "Holding firmly to a course of action."
+        },
+        {
+          "word": "Determined",
+          "hindiMeaning": "दृढ़निश्चयी",
+          "context": "Fixed in purpose, resolved fully."
+        },
+        {
+          "word": "Resolute",
+          "hindiMeaning": "दृढ़संकल्पित",
+          "context": "Firm and unwavering in intent."
+        },
+        {
+          "word": "Stubborn",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Firmly holding onto one's position."
+        },
+        {
+          "word": "Steadfast",
+          "hindiMeaning": "अडिग",
+          "context": "Loyally maintaining position or belief."
+        },
+        {
+          "word": "Unrelenting",
+          "hindiMeaning": "अविराम",
+          "context": "Not easing effort or intensity."
+        },
+        {
+          "word": "Dogged",
+          "hindiMeaning": "हठी",
+          "context": "Showing determination, not giving up."
+        },
+        {
+          "word": "Insistent",
+          "hindiMeaning": "आग्रही",
+          "context": "Demanding attention persistently."
+        },
+        {
+          "word": "Unwavering",
+          "hindiMeaning": "अटूट",
+          "context": "Not wavering from a chosen course."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Irresolute",
+          "hindiMeaning": "अनिश्चित",
+          "context": "Uncertain, lacking firm decision."
+        },
+        {
+          "word": "Wavering",
+          "hindiMeaning": "डगमगाता हुआ",
+          "context": "Uncertain, changing between choices."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving in easily to persuasion."
+        },
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Willing to change position readily."
+        },
+        {
+          "word": "Fickle",
+          "hindiMeaning": "चंचल",
+          "context": "Changing frequently, lacking consistency."
+        },
+        {
+          "word": "Halfhearted",
+          "hindiMeaning": "अधूरे मन से",
+          "context": "Lacking full commitment or effort."
+        },
+        {
+          "word": "Indecisive",
+          "hindiMeaning": "अनिर्णायक",
+          "context": "Unable to decide firmly."
+        },
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Easily going along with others."
+        },
+        {
+          "word": "Weak-willed",
+          "hindiMeaning": "कमज़ोर इरादे वाला",
+          "context": "Lacking firm resolve or persistence."
+        },
+        {
+          "word": "Submissive",
+          "hindiMeaning": "विनम्र",
+          "context": "Easily giving way to others."
+        }
+      ],
       "mnemonic": {
         "english": "PERTINACIOUS sounds like 'PERSIST-nacious' - persistently holding on.",
         "hindi": "'पर्टिनेशियस' यानी किसी बात पर लगातार डटे रहना।"
@@ -4502,8 +7256,110 @@
       "partOfSpeech": "adjective",
       "context": "Having an obstinately uncooperative attitude toward authority or discipline.",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Defiant",
+          "hindiMeaning": "अवज्ञाकारी",
+          "context": "Boldly resisting authority."
+        },
+        {
+          "word": "Uncooperative",
+          "hindiMeaning": "असहयोगी",
+          "context": "Refusing to work with others."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly refusing to comply."
+        },
+        {
+          "word": "Rebellious",
+          "hindiMeaning": "विद्रोही",
+          "context": "Resisting control or authority."
+        },
+        {
+          "word": "Intractable",
+          "hindiMeaning": "बेकाबू",
+          "context": "Hard to control or manage."
+        },
+        {
+          "word": "Unruly",
+          "hindiMeaning": "उपद्रवी",
+          "context": "Disorderly and disobedient."
+        },
+        {
+          "word": "Willful",
+          "hindiMeaning": "मनमौजी",
+          "context": "Insisting on having one's own way."
+        },
+        {
+          "word": "Insubordinate",
+          "hindiMeaning": "अवज्ञाकारी",
+          "context": "Disobedient toward authority."
+        },
+        {
+          "word": "Refractory",
+          "hindiMeaning": "जिद्दी",
+          "context": "Stubbornly resistant to control."
+        },
+        {
+          "word": "Balky",
+          "hindiMeaning": "अड़ियल",
+          "context": "Refusing to move or cooperate."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Willing to follow rules or orders."
+        },
+        {
+          "word": "Obedient",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Following instructions willingly."
+        },
+        {
+          "word": "Cooperative",
+          "hindiMeaning": "सहयोगी",
+          "context": "Willing to work with others."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Easy to manage and control."
+        },
+        {
+          "word": "Tractable",
+          "hindiMeaning": "वश में आने वाला",
+          "context": "Easily controlled or handled."
+        },
+        {
+          "word": "Submissive",
+          "hindiMeaning": "विनम्र",
+          "context": "Yielding readily to authority."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open to being persuaded."
+        },
+        {
+          "word": "Agreeable",
+          "hindiMeaning": "सहमत",
+          "context": "Willing to comply and cooperate."
+        },
+        {
+          "word": "Manageable",
+          "hindiMeaning": "नियंत्रणीय",
+          "context": "Easy to direct or control."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving way easily to pressure."
+        }
+      ],
       "mnemonic": {
         "english": "RECALCITRANT sounds like 'RE-KICK-strant' - kicking back against authority repeatedly.",
         "hindi": "'रीकैल्सिट्रेंट' यानी अधिकार के सामने बार-बार विरोध करना।"
@@ -4516,8 +7372,110 @@
       "partOfSpeech": "adjective",
       "context": "Hard to control or deal with (used for both people and complex problems).",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Unmanageable",
+          "hindiMeaning": "बेकाबू",
+          "context": "Difficult to control or handle."
+        },
+        {
+          "word": "Stubborn",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Firmly resisting change or control."
+        },
+        {
+          "word": "Uncontrollable",
+          "hindiMeaning": "अनियंत्रित",
+          "context": "Impossible to keep in check."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly resistant to persuasion."
+        },
+        {
+          "word": "Unruly",
+          "hindiMeaning": "उपद्रवी",
+          "context": "Disorderly and hard to manage."
+        },
+        {
+          "word": "Recalcitrant",
+          "hindiMeaning": "अड़ियल",
+          "context": "Uncooperative toward authority."
+        },
+        {
+          "word": "Refractory",
+          "hindiMeaning": "जिद्दी",
+          "context": "Stubbornly resistant to control."
+        },
+        {
+          "word": "Difficult",
+          "hindiMeaning": "कठिन",
+          "context": "Hard to deal with or solve."
+        },
+        {
+          "word": "Persistent",
+          "hindiMeaning": "अटूट",
+          "context": "Continuing despite attempts to stop."
+        },
+        {
+          "word": "Wild",
+          "hindiMeaning": "अनियंत्रित",
+          "context": "Untamed and hard to control."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Manageable",
+          "hindiMeaning": "नियंत्रणीय",
+          "context": "Easy to direct or control."
+        },
+        {
+          "word": "Tractable",
+          "hindiMeaning": "वश में आने वाला",
+          "context": "Easily controlled or handled."
+        },
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Willing to follow rules."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Easy to teach or manage."
+        },
+        {
+          "word": "Controllable",
+          "hindiMeaning": "नियंत्रण में",
+          "context": "Able to be kept in check."
+        },
+        {
+          "word": "Cooperative",
+          "hindiMeaning": "सहयोगी",
+          "context": "Willing to work with others."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open and responsive to guidance."
+        },
+        {
+          "word": "Easy",
+          "hindiMeaning": "आसान",
+          "context": "Simple to handle or resolve."
+        },
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Adaptable, easy to adjust."
+        },
+        {
+          "word": "Solvable",
+          "hindiMeaning": "हल करने योग्य",
+          "context": "Capable of being resolved."
+        }
+      ],
       "mnemonic": {
         "english": "INTRACTABLE sounds like 'IN-TRACTOR'-able - like a tractor that can't be steered or controlled.",
         "hindi": "'इन-ट्रैक्टेबल' यानी काबू में न आने वाला - Intractable।"
@@ -4530,8 +7488,110 @@
       "partOfSpeech": "adjective",
       "context": "Resembling a mule; being unreasonably and awkwardly obstinate.",
       "clusterCategory": "Stubborn & Unyielding Cluster",
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        {
+          "word": "Stubborn",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Refusing to change one's mind."
+        },
+        {
+          "word": "Obstinate",
+          "hindiMeaning": "ज़िद्दी",
+          "context": "Stubbornly resistant to persuasion."
+        },
+        {
+          "word": "Headstrong",
+          "hindiMeaning": "जिद्दी",
+          "context": "Determined to have one's own way."
+        },
+        {
+          "word": "Willful",
+          "hindiMeaning": "मनमौजी",
+          "context": "Insisting on personal preference."
+        },
+        {
+          "word": "Inflexible",
+          "hindiMeaning": "अनम्य",
+          "context": "Unwilling to change position."
+        },
+        {
+          "word": "Pigheaded",
+          "hindiMeaning": "मूर्खतापूर्वक ज़िद्दी",
+          "context": "Foolishly and stubbornly insistent."
+        },
+        {
+          "word": "Obdurate",
+          "hindiMeaning": "हठी",
+          "context": "Stubbornly refusing to change."
+        },
+        {
+          "word": "Bullheaded",
+          "hindiMeaning": "अक्खड़",
+          "context": "Recklessly and stubbornly determined."
+        },
+        {
+          "word": "Unyielding",
+          "hindiMeaning": "अटल",
+          "context": "Not giving in despite pressure."
+        },
+        {
+          "word": "Contrary",
+          "hindiMeaning": "विरोधी",
+          "context": "Habitually opposing or resisting."
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Flexible",
+          "hindiMeaning": "लचीला",
+          "context": "Willing to adapt and change."
+        },
+        {
+          "word": "Compliant",
+          "hindiMeaning": "आज्ञाकारी",
+          "context": "Willing to comply with wishes."
+        },
+        {
+          "word": "Docile",
+          "hindiMeaning": "विनम्र",
+          "context": "Easy to manage or teach."
+        },
+        {
+          "word": "Amenable",
+          "hindiMeaning": "सहमत होने वाला",
+          "context": "Open to suggestion or change."
+        },
+        {
+          "word": "Tractable",
+          "hindiMeaning": "वश में आने वाला",
+          "context": "Easy to control or manage."
+        },
+        {
+          "word": "Agreeable",
+          "hindiMeaning": "सहमत",
+          "context": "Willing to accept others' views."
+        },
+        {
+          "word": "Cooperative",
+          "hindiMeaning": "सहयोगी",
+          "context": "Willing to work with others."
+        },
+        {
+          "word": "Yielding",
+          "hindiMeaning": "झुकनेवाला",
+          "context": "Giving in easily to pressure."
+        },
+        {
+          "word": "Accommodating",
+          "hindiMeaning": "समायोजित करने वाला",
+          "context": "Willing to fit others' needs."
+        },
+        {
+          "word": "Reasonable",
+          "hindiMeaning": "तर्कसंगत",
+          "context": "Willing to negotiate sensibly."
+        }
+      ],
       "mnemonic": {
         "english": "MULISH literally comes from 'MULE' - stubborn like a mule that won't move.",
         "hindi": "'खच्चर' जैसा अड़ियल स्वभाव - Mulish।"

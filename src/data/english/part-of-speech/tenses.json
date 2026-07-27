@@ -11,21 +11,18 @@
     "english": "A Tense is the form of a verb that indicates the time of an action, event, or state.",
     "marathi": "क्रिया कोणत्या काळात घडते (वर्तमान, भूत किंवा भविष्य), हे दर्शवणाऱ्या Verb च्या रूपाला Tense म्हणतात.",
     "examples": [
-       {
+      {
         "word": "I play cricket.",
         "tag": "Present"
       },
-       {
+      {
         "word": "I played cricket.",
         "tag": "Past"
       },
-       {
+      {
         "word": "I will play cricket.",
         "tag": "Future"
       }
-      
-      
-      
     ]
   },
   "types": [
@@ -102,7 +99,7 @@
           "rules": [
             {
               "id": 1,
-              "title": "Third Person Singular",
+              "title": "Third Person Singular : He/She/It/Any Singular Noun takes V1 + s/es.",
               "english": "He/She/It/Any Singular Noun takes V1 + s/es.",
               "marathi": "He/She/It किंवा Singular Noun नंतर V1+s/es वापरतात.",
               "examples": [
@@ -117,7 +114,7 @@
             },
             {
               "id": 2,
-              "title": "I / We / You / They",
+              "title": "I / We / You / They : Use only V1 ",
               "english": "Use only V1 with I, We, You, They.",
               "marathi": "I/We/You/They नंतर फक्त V1 वापरतात.",
               "examples": [
@@ -132,7 +129,7 @@
             },
             {
               "id": 3,
-              "title": "Universal Truth",
+              "title": "Universal Truth : Always use Simple Present for universal truths.",
               "english": "Always use Simple Present for universal truths.",
               "marathi": "सार्वत्रिक सत्यासाठी नेहमी Simple Present वापरतात.",
               "examples": [
@@ -147,34 +144,65 @@
             },
             {
               "id": 4,
-              "title": "Habit / Routine",
+              "title": "Habit / Routine : Daily activities use Simple Present.",
               "english": "Daily activities use Simple Present.",
               "marathi": "दैनंदिन क्रियांसाठी Simple Present वापरतात.",
-              "examples": [],
-              "wrongRight": []
+              "examples": [
+                "I get up at 6 AM every day.",
+                "She drinks coffee every morning."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "She is drinking coffee every morning.",
+                  "right": "She drinks coffee every morning."
+                }
+              ]
             },
             {
-              "id": 5,
-              "title": "Newspaper Headlines",
-              "english": "Simple Present is used in newspaper headlines.",
-              "marathi": "वृत्तपत्राच्या मथळ्यांमध्ये Simple Present वापरतात.",
-              "examples": [
-                "PM visits France.",
-                "India wins match."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 6,
-              "title": "Scheduled Events",
-              "english": "Used for timetable, train, flight etc.",
-              "marathi": "वेळापत्रक, ट्रेन, फ्लाईट यासाठी वापरतात.",
-              "examples": [
-                "The train leaves at 8 AM.",
-                "Flight arrives tomorrow morning."
-              ],
-              "wrongRight": []
-            }
+  "id": 5,
+  "title": "Newspaper Headlines : Simple Present",
+  "english": "Simple Present is used in newspaper headlines.",
+  "marathi": "वृत्तपत्राच्या मथळ्यांमध्ये Simple Present वापरतात.",
+  "examples": [
+    "PM visits France.",
+    "India wins the match.",
+    "Government cuts fuel prices.",
+    "Company launches new product.",
+    "Police arrest two suspects."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "PM is visiting France.",
+      "right": "PM visits France."
+    },
+    {
+      "wrong": "India is winning the match.",
+      "right": "India wins the match."
+    }
+  ]
+},
+           {
+  "id": 6,
+  "title": "Scheduled Events : Used for timetable, train, flight etc.",
+  "english": "Simple Present is used for fixed schedules such as timetables, trains, flights, buses, exams, and programs.",
+  "marathi": "वेळापत्रक, ट्रेन, फ्लाईट, बस, परीक्षा, कार्यक्रम अशा निश्चित वेळापत्रकासाठी Simple Present वापरतात.",
+  "examples": [
+    "The train leaves at 8 AM.",
+    "The flight arrives tomorrow morning.",
+    "The bus departs at 6:30 PM.",
+    "The examination starts on Monday."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "The train will leave at 8 AM.",
+      "right": "The train leaves at 8 AM."
+    },
+    {
+      "wrong": "The flight will arrive tomorrow morning.",
+      "right": "The flight arrives tomorrow morning."
+    }
+  ]
+}
           ],
           "sscPyqRule": "After Every day, Always, Usually, Generally, Often, Never → Use Simple Present"
         },
@@ -206,52 +234,89 @@
           "rules": [
             {
               "id": 1,
-              "title": "Be Verb Agreement",
+              "title": "Be Verb Agreement : I → am, He/She/It → is, We/You/They → are.",
               "english": "I → am, He/She/It → is, We/You/They → are.",
               "marathi": "I→am, He/She/It→is, We/You/They→are.",
-              "examples": [],
-              "wrongRight": []
+              "examples": [
+                "I am reading a book.",
+                "She is singing.",
+                "They are playing football."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "They is playing.",
+                  "right": "They are playing."
+                }
+              ]
             },
             {
-              "id": 2,
-              "title": "Temporary Action",
-              "english": "Used for temporary actions.",
-              "marathi": "तात्पुरत्या क्रियेसाठी वापरतात.",
-              "examples": [
-                "I am living in Pune these days."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Changing Situation",
-              "english": "Used for a changing situation.",
-              "marathi": "बदलत्या परिस्थितीसाठी वापरतात.",
-              "examples": [
-                "The weather is getting colder."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 4,
-              "title": "Fixed Near Future",
-              "english": "Used for personal arrangements in the near future.",
-              "marathi": "जवळच्या भविष्यातील ठरलेल्या नियोजनासाठी वापरतात.",
-              "examples": [
-                "I am meeting him tomorrow."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 5,
-              "title": "Repeated Annoying Action",
-              "english": "Always + Present Continuous shows irritation.",
-              "marathi": "Always + Present Continuous त्रास/चीड दर्शवते.",
-              "examples": [
-                "He is always shouting."
-              ],
-              "wrongRight": []
-            }
+  "id": 2,
+  "title": "Temporary Action",
+  "english": "Used for temporary actions.",
+  "marathi": "तात्पुरत्या क्रियेसाठी वापरतात.",
+  "examples": [
+    "I am living in Pune these days.",
+    "She is working from home this week.",
+    "They are staying with their relatives for a few days."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "I live in Pune these days.",
+      "right": "I am living in Pune these days."
+    }
+  ]
+},
+{
+  "id": 3,
+  "title": "Changing Situation",
+  "english": "Used for a changing situation.",
+  "marathi": "बदलत्या परिस्थितीसाठी वापरतात.",
+  "examples": [
+    "The weather is getting colder.",
+    "The population is increasing rapidly.",
+    "Technology is improving every year."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "The population increases rapidly nowadays.",
+      "right": "The population is increasing rapidly nowadays."
+    }
+  ]
+},
+{
+  "id": 4,
+  "title": "Fixed Near Future",
+  "english": "Used for personal arrangements in the near future.",
+  "marathi": "जवळच्या भविष्यातील ठरलेल्या नियोजनासाठी वापरतात.",
+  "examples": [
+    "I am meeting him tomorrow.",
+    "We are leaving for Delhi next week.",
+    "She is visiting her grandmother this evening."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "I will meet him tomorrow. (already arranged)",
+      "right": "I am meeting him tomorrow."
+    }
+  ]
+},
+{
+  "id": 5,
+  "title": "Repeated Annoying Action",
+  "english": "Always + Present Continuous shows irritation.",
+  "marathi": "Always + Present Continuous त्रास/चीड दर्शवते.",
+  "examples": [
+    "He is always shouting.",
+    "She is always complaining.",
+    "They are always making noise."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "He always shouts. (Habit)",
+      "right": "He is always shouting. (Irritation)"
+    }
+  ]
+}
           ],
           "sscTrap": {
             "wrong": "He is knowing me.",
@@ -285,69 +350,124 @@
             "Ever",
             "Never"
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Has vs Have",
-              "english": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
-              "marathi": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Completed Action",
-              "english": "Used for a recently completed action.",
-              "marathi": "अलीकडे पूर्ण झालेल्या क्रियेसाठी वापरतात.",
-              "examples": [
-                "I have completed my homework."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Experience",
-              "english": "Used to describe experience.",
-              "marathi": "अनुभव दर्शवण्यासाठी वापरतात.",
-              "examples": [
-                "I have visited Delhi twice."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 4,
-              "title": "Yet",
-              "english": "Yet is used only in negative and question sentences.",
-              "marathi": "Yet फक्त Negative आणि Question मध्ये वापरतात.",
-              "examples": [
-                "Have you finished?",
-                "I haven't finished yet."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 5,
-              "title": "Already",
-              "english": "Already is used only in positive sentences.",
-              "marathi": "Already फक्त Positive वाक्यात वापरतात.",
-              "examples": [
-                "I have already completed it."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 6,
-              "title": "Since/For",
-              "english": "Normally used with Perfect Continuous, but can appear with Present Perfect if action is completed.",
-              "marathi": "साधारणपणे Perfect Continuous सोबत, पण क्रिया पूर्ण झाल्यास Present Perfect सोबतही येऊ शकते.",
-              "examples": [],
-              "wrongRight": []
-            }
-          ],
+         "rules": [
+  {
+    "id": 1,
+    "title": "Has vs Have: He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
+    "english": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
+    "marathi": "He/She/It/Singular → Has; I/We/You/They/Plural → Have.",
+    "examples": [
+      "He has completed the work.",
+      "She has written a letter.",
+      "They have completed the work.",
+      "We have finished our homework."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "They has completed the work.",
+        "right": "They have completed the work."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Completed Action",
+    "english": "Used for a recently completed action whose result is connected with the present.",
+    "marathi": "आत्ताच पूर्ण झालेल्या आणि ज्याचा परिणाम वर्तमानाशी संबंधित आहे अशा क्रियेसाठी Present Perfect वापरतात.",
+    "examples": [
+      "I have completed my homework.",
+      "She has cleaned the room.",
+      "They have finished the project."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I completed my homework just now.",
+        "right": "I have completed my homework."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Experience",
+    "english": "Used to describe life experiences without mentioning a specific past time.",
+    "marathi": "विशिष्ट वेळ न सांगता जीवनातील अनुभव दर्शवण्यासाठी Present Perfect वापरतात.",
+    "examples": [
+      "I have visited Delhi twice.",
+      "She has never seen the Taj Mahal.",
+      "Have you ever travelled by air?"
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I have visited Delhi yesterday.",
+        "right": "I visited Delhi yesterday."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Yet: used only in negative and interrogative sentences.",
+    "english": "Yet is used only in negative and interrogative sentences.",
+    "marathi": "Yet फक्त Negative आणि Interrogative वाक्यांमध्ये वापरतात.",
+    "examples": [
+      "Have you finished yet?",
+      "I haven't finished my work yet.",
+      "Has she arrived yet?"
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I have yet finished my work.",
+        "right": "I haven't finished my work yet."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Already",
+    "english": "Already is generally used in affirmative sentences to show an action happened earlier than expected.",
+    "marathi": "Already मुख्यतः Positive वाक्यांमध्ये अपेक्षेपेक्षा आधी पूर्ण झालेली क्रिया दर्शवण्यासाठी वापरतात.",
+    "examples": [
+      "I have already completed it.",
+      "She has already left.",
+      "They have already reached the station."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I haven't already finished the work.",
+        "right": "I haven't finished the work yet."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Since / For : Point of Time",
+    "english": "Since is used with a point of time, and For is used with a period of time. They are commonly used with Present Perfect Continuous, but may also be used with Present Perfect.",
+    "marathi": "Since वेळेच्या बिंदूसाठी (Point of Time) आणि For कालावधीसाठी (Period of Time) वापरतात. हे सामान्यतः Present Perfect Continuous सोबत येतात, परंतु Present Perfect सोबतही वापरले जाऊ शकतात.",
+    "examples": [
+      "I have lived in Pune for five years.",
+      "She has worked here since 2020.",
+      "He has been studying for three hours.",
+      "They have been living here since January."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I have been living here since five years.",
+        "right": "I have been living here for five years."
+      },
+      {
+        "wrong": "She has worked here for 2020.",
+        "right": "She has worked here since 2020."
+      }
+    ]
+  }
+],
           "sscPyqTrap": {
             "wrong": "I have seen him yesterday.",
             "right": "I saw him yesterday."
-          }
+          },
+          "sscPyqTrap2": {
+  "wrong": "I completed my homework just.",
+  "right": "I have just completed my homework."
+}
         },
         {
           "name": "Present Perfect Continuous Tense",
@@ -370,35 +490,71 @@
               "title": "Since = Point of Time",
               "english": "Since is used with a point of time (2019, Monday, Morning, 5 PM, January, Childhood).",
               "marathi": "Since वेळेच्या बिंदूसाठी वापरतात.",
-              "examples": [],
-              "wrongRight": []
+              "examples": [
+                "She has been studying since Monday.",
+                "I have lived here since 2022."
+              ],
+              "wrongRight": [
+                {
+                  "wrong": "She has been studying for Monday.",
+                  "right": "She has been studying since Monday."
+                }
+              ]
             },
             {
               "id": 2,
               "title": "For = Period of Time",
               "english": "For is used with a period of time (2 hours, 5 years, 3 months, 10 days, Long time).",
               "marathi": "For कालावधीसाठी वापरतात.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Action Must Continue",
-              "english": "The action must still continue.",
-              "marathi": "क्रिया अजूनही सुरू असणे आवश्यक.",
               "examples": [
-                "I have been working here since 2023."
+                "He has been waiting for two hours.",
+                "They have been working for five years."
               ],
-              "wrongRight": []
+              "wrongRight": [
+                {
+                  "wrong": "He has been waiting since two hours.",
+                  "right": "He has been waiting for two hours."
+                }
+              ]
             },
             {
-              "id": 4,
-              "title": "Duration + Present",
-              "english": "Duration expressions indicate Present Perfect Continuous.",
-              "marathi": "कालावधी दर्शवणारे शब्द Present Perfect Continuous दर्शवतात.",
-              "examples": [],
-              "wrongRight": []
-            }
+  "id": 3,
+  "title": "Action Must Continue",
+  "english": "The action must still continue.",
+  "marathi": "क्रिया अजूनही सुरू असणे आवश्यक.",
+  "examples": [
+    "I have been working here since 2023.",
+    "She has been studying for three hours.",
+    "They have been living in Pune since 2020."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "I have been working here since 2023, but I left the job last year.",
+      "right": "I worked here from 2023 to last year."
+    }
+  ]
+},
+           {
+  "id": 4,
+  "title": "Duration + Present",
+  "english": "Duration expressions indicate Present Perfect Continuous.",
+  "marathi": "कालावधी दर्शवणारे शब्द Present Perfect Continuous दर्शवतात.",
+  "examples": [
+    "I have been waiting for two hours.",
+    "She has been teaching since morning.",
+    "They have been playing all day."
+  ],
+  "wrongRight": [
+    {
+      "wrong": "I am waiting for two hours.",
+      "right": "I have been waiting for two hours."
+    },
+    {
+      "wrong": "She is teaching since morning.",
+      "right": "She has been teaching since morning."
+    }
+  ]
+}
           ],
           "sinceVsFor": [
             {
@@ -521,63 +677,72 @@
             "Previously",
             "Earlier"
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Use V2 in Affirmative",
-              "english": "Always use V2 in affirmative sentence.",
-              "marathi": "Affirmative वाक्यात नेहमी V2 वापरतात.",
-              "examples": [
-                "He wrote a letter."
-              ],
-              "wrongRight": [
-                {
-                  "wrong": "He write a letter.",
-                  "right": "He wrote a letter."
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "title": "After Did, use V1",
-              "english": "V1 is used after Did.",
-              "marathi": "Did नंतर V1 वापरतात.",
-              "examples": [
-                "Did you go?"
-              ],
-              "wrongRight": [
-                {
-                  "wrong": "Did you went?",
-                  "right": "Did you go?"
-                }
-              ]
-            },
-            {
-              "id": 3,
-              "title": "Negative uses V1",
-              "english": "Negative sentences also use V1.",
-              "marathi": "Negative वाक्यातही V1 वापरतात.",
-              "examples": [
-                "He did not come."
-              ],
-              "wrongRight": [
-                {
-                  "wrong": "He did not came.",
-                  "right": "He did not come."
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "title": "Finished Action",
-              "english": "Used for a finished action in the past.",
-              "marathi": "भूतकाळातील पूर्ण झालेल्या क्रियेसाठी वापरतात.",
-              "examples": [
-                "I met him yesterday."
-              ],
-              "wrongRight": []
-            }
-          ],
+       "rules": [
+  {
+    "id": 1,
+    "title": "Use V2 in Affirmative",
+    "english": "Always use V2 in affirmative sentence.",
+    "marathi": "Affirmative वाक्यात नेहमी V2 वापरतात.",
+    "examples": [
+      "He wrote a letter.",
+      "She visited Delhi last week."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "He write a letter.",
+        "right": "He wrote a letter."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "After Did, use V1",
+    "english": "V1 is used after Did.",
+    "marathi": "Did नंतर V1 वापरतात.",
+    "examples": [
+      "Did you go?",
+      "Did she complete the work?"
+    ],
+    "wrongRight": [
+      {
+        "wrong": "Did you went?",
+        "right": "Did you go?"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Negative uses V1",
+    "english": "Negative sentences also use V1.",
+    "marathi": "Negative वाक्यातही V1 वापरतात.",
+    "examples": [
+      "He did not come.",
+      "They did not play yesterday."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "He did not came.",
+        "right": "He did not come."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Finished Action",
+    "english": "Used for a finished action in the past.",
+    "marathi": "भूतकाळातील पूर्ण झालेल्या क्रियेसाठी वापरतात.",
+    "examples": [
+      "I met him yesterday.",
+      "She finished her homework last night."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I have met him yesterday.",
+        "right": "I met him yesterday."
+      }
+    ]
+  }
+],
           "sscPyqRule": "Yesterday, Ago, Last, Previous → Use Simple Past"
         },
         {
@@ -596,46 +761,72 @@
             "She was cooking.",
             "They were playing."
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Was vs Were",
-              "english": "I/He/She/It/Singular → Was; We/You/They/Plural → Were.",
-              "marathi": "I/He/She/It/Singular→Was; We/You/They/Plural→Were.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Interrupted Action",
-              "english": "Past Continuous + Simple Past shows an interrupted action.",
-              "marathi": "Past Continuous + Simple Past मध्ये अडथळा आलेली क्रिया दर्शवते.",
-              "examples": [
-                "I was sleeping when he called."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Two Simultaneous Actions",
-              "english": "Past Continuous + Past Continuous shows two actions happening together.",
-              "marathi": "Past Continuous + Past Continuous दोन एकत्र क्रिया दर्शवते.",
-              "examples": [
-                "While I was reading, she was cooking."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 4,
-              "title": "Specific Past Time",
-              "english": "Used with a specific past time.",
-              "marathi": "विशिष्ट भूतकाळातील वेळेसाठी वापरतात.",
-              "examples": [
-                "At 8 PM yesterday, I was studying."
-              ],
-              "wrongRight": []
-            }
-          ],
+         "rules": [
+  {
+    "id": 1,
+    "title": "Was vs Were",
+    "english": "I/He/She/It/Singular → Was; We/You/They/Plural → Were.",
+    "marathi": "I/He/She/It/Singular → Was; We/You/They/Plural → Were.",
+    "examples": [
+      "He was sleeping.",
+      "They were studying."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "They was studying.",
+        "right": "They were studying."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Interrupted Action",
+    "english": "Past Continuous + Simple Past shows an interrupted action.",
+    "marathi": "Past Continuous + Simple Past मध्ये चालू असलेली क्रिया दुसऱ्या क्रियेमुळे थांबते.",
+    "examples": [
+      "I was sleeping when he called.",
+      "She was cooking when the lights went out."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I slept when he called.",
+        "right": "I was sleeping when he called."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Two Simultaneous Actions",
+    "english": "Past Continuous + Past Continuous shows two actions happening together.",
+    "marathi": "Past Continuous + Past Continuous दोन एकाच वेळी सुरू असलेल्या क्रिया दर्शवते.",
+    "examples": [
+      "While I was reading, she was cooking.",
+      "They were talking while we were watching TV."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "While I read, she was cooking.",
+        "right": "While I was reading, she was cooking."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Specific Past Time",
+    "english": "Used with a specific past time.",
+    "marathi": "भूतकाळातील विशिष्ट वेळेला चालू असलेली क्रिया दर्शवण्यासाठी वापरतात.",
+    "examples": [
+      "At 8 PM yesterday, I was studying.",
+      "At this time last year, we were travelling."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "At 8 PM yesterday, I studied.",
+        "right": "At 8 PM yesterday, I was studying."
+      }
+    ]
+  }
+],
           "sscTrap": {
             "wrong": "When he came, I studied.",
             "right": "When he came, I was studying."
@@ -656,42 +847,82 @@
             "I had finished my work before he arrived.",
             "She had left before I reached."
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Comes Before Another Past Action",
-              "english": "Past Perfect always comes before another Past Action.",
-              "marathi": "Past Perfect नेहमी दुसऱ्या Past Action पूर्वी येते.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Past Perfect + Simple Past",
-              "english": "Past Perfect combines with Simple Past.",
-              "marathi": "Past Perfect Simple Past सोबत वापरतात.",
-              "examples": [
-                "The train had left before we reached."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Sequence",
-              "english": "Earlier Action → Had + V3; Later Action → V2.",
-              "marathi": "आधीची क्रिया → Had+V3; नंतरची क्रिया → V2.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 4,
-              "title": "Signal Words",
-              "english": "After, Before, By the time, When often indicate Past Perfect.",
-              "marathi": "After, Before, By the time, When हे Past Perfect दर्शवतात.",
-              "examples": [],
-              "wrongRight": []
-            }
-          ],
+"rules": [
+  {
+    "id": 1,
+    "title": "Comes Before Another Past Action",
+    "english": "Past Perfect is used for the action that happened before another action in the past.",
+    "marathi": "भूतकाळातील दोन क्रियांपैकी आधी घडलेल्या क्रियेसाठी Past Perfect वापरतात.",
+    "examples": [
+      "I had finished my homework before my friends arrived.",
+      "She had left before I reached the station."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I finished my homework before my friends arrived.",
+        "right": "I had finished my homework before my friends arrived."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Past Perfect + Simple Past",
+    "english": "Past Perfect is generally used with Simple Past to show the order of two past actions.",
+    "marathi": "दोन भूतकाळातील क्रियांचा क्रम दाखवण्यासाठी Past Perfect सोबत Simple Past वापरतात.",
+    "examples": [
+      "The train had left before we reached.",
+      "The teacher had started the class before the students entered."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "The train left before we reached.",
+        "right": "The train had left before we reached."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sequence",
+    "english": "Earlier Action → Had + V3; Later Action → V2.",
+    "marathi": "आधीची क्रिया → Had + V3; नंतरची क्रिया → V2.",
+    "examples": [
+      "I had eaten before he arrived.",
+      "She had gone home before it rained.",
+      "They had completed the project before the deadline ended.",
+       "He arrived after I had eaten.",
+    "It rained after she had gone home.",
+    "The deadline ended after they had completed the project."
+    ],
+   "wrongRight": [
+    {
+      "wrong": "She went home before it rained.",
+      "right": "She had gone home before it rained."
+    },
+    {
+      "wrong": "He arrived after I ate.",
+      "right": "He arrived after I had eaten."
+    }
+  ]
+  },
+  {
+    "id": 4,
+    "title": "Signal Words",
+    "english": "Words like Before, After, By the time, When, Already often indicate the use of Past Perfect.",
+    "marathi": "Before, After, By the time, When, Already हे शब्द अनेकदा Past Perfect दर्शवतात.",
+    "examples": [
+      "By the time I reached, he had gone.",
+      "After she had finished her work, she went home.",
+      "When we arrived, the movie had already started."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "When we arrived, the movie already started.",
+        "right": "When we arrived, the movie had already started."
+      }
+    ]
+  }
+]
+,
           "sscTrap": {
             "wrong": "He had reached yesterday.",
             "right": "He reached yesterday."
@@ -712,32 +943,72 @@
             "I had been waiting for two hours before the bus arrived.",
             "She had been working since morning before she became ill."
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Had been + V-ing",
-              "english": "Structure uses had been + V-ing.",
-              "marathi": "रचना had been + V-ing अशी असते.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Duration Before Past Event",
-              "english": "Shows duration before another past event.",
-              "marathi": "दुसऱ्या भूतकाळातील घटनेपूर्वीचा कालावधी दर्शवते.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Since / For",
-              "english": "Uses Since or For.",
-              "marathi": "Since किंवा For वापरतात.",
-              "examples": [],
-              "wrongRight": []
-            }
-          ]
+       "rules": [
+  {
+    "id": 1,
+    "title": "Had been + V-ing",
+    "english": "Structure uses had been + V-ing.",
+    "marathi": "रचना Had been + V-ing अशी असते.",
+    "examples": [
+      "He had been studying for three hours.",
+      "They had been waiting since morning.",
+      "She had been working all day."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "He had been study for three hours.",
+        "right": "He had been studying for three hours."
+      },
+      {
+        "wrong": "They had been wait since morning.",
+        "right": "They had been waiting since morning."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Duration Before Past Event",
+    "english": "Shows duration before another past event.",
+    "marathi": "दुसऱ्या भूतकाळातील घटनेपूर्वी किती काळ क्रिया सुरू होती हे दर्शवते.",
+    "examples": [
+      "I had been working for five years before I resigned.",
+      "She had been living there since 2015 before she moved.",
+      "They had been playing for two hours before it started raining."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I worked for five years before I resigned.",
+        "right": "I had been working for five years before I resigned."
+      },
+      {
+        "wrong": "They were playing for two hours before it started raining.",
+        "right": "They had been playing for two hours before it started raining."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Since / For",
+    "english": "Uses Since for a point of time and For for a period of time.",
+    "marathi": "Since वेळेच्या बिंदूसाठी (Point of Time) आणि For कालावधीसाठी (Period of Time) वापरतात.",
+    "examples": [
+      "He had been waiting since 8 AM.",
+      "She had been studying for three hours.",
+      "They had been living there since 2018.",
+      "I had been working for ten years before retirement."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "He had been waiting for 8 AM.",
+        "right": "He had been waiting since 8 AM."
+      },
+      {
+        "wrong": "She had been studying since three hours.",
+        "right": "She had been studying for three hours."
+      }
+    ]
+  }
+]
         }
       ],
       "sinceVsAgo": {
@@ -895,53 +1166,92 @@
             "In future",
             "After some time"
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Use V1 after Will",
-              "english": "V1 is used after Will.",
-              "marathi": "Will नंतर V1 वापरतात.",
-              "examples": [
-                "He will go."
-              ],
-              "wrongRight": [
-                {
-                  "wrong": "He will goes.",
-                  "right": "He will go."
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "title": "Future Prediction",
-              "english": "Used for future predictions.",
-              "marathi": "भविष्यातील अंदाजासाठी वापरतात.",
-              "examples": [
-                "It will rain tomorrow."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Promise / Decision",
-              "english": "Used for promise or decision.",
-              "marathi": "वचन किंवा निर्णयासाठी वापरतात.",
-              "examples": [
-                "I will always support you."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 4,
-              "title": "Instant Decision",
-              "english": "Used for an instant decision.",
-              "marathi": "तात्काळ निर्णयासाठी वापरतात.",
-              "examples": [
-                "The phone is ringing. I will answer it."
-              ],
-              "wrongRight": []
-            }
-          ],
+         "rules": [
+  {
+    "id": 1,
+    "title": "Use V1 after Will",
+    "english": "V1 is always used after 'Will'.",
+    "marathi": "Will नंतर नेहमी Verb चे पहिले रूप (V1) वापरतात.",
+    "examples": [
+      "He will go to Delhi.",
+      "She will help me.",
+      "They will win the match."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "He will goes to Delhi.",
+        "right": "He will go to Delhi."
+      },
+      {
+        "wrong": "She will helped me.",
+        "right": "She will help me."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Future Prediction",
+    "english": "Simple Future is used to make predictions about the future.",
+    "marathi": "भविष्यात काय होईल याचा अंदाज व्यक्त करण्यासाठी Simple Future वापरतात.",
+    "examples": [
+      "It will rain tomorrow.",
+      "India will win the match.",
+      "You will become successful."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "It rains tomorrow.",
+        "right": "It will rain tomorrow."
+      },
+      {
+        "wrong": "India wins the match tomorrow.",
+        "right": "India will win the match tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Promise / Decision",
+    "english": "Will is used for promises, offers, and decisions.",
+    "marathi": "वचन, ऑफर किंवा निर्णय व्यक्त करण्यासाठी Will वापरतात.",
+    "examples": [
+      "I will always support you.",
+      "I will help you with your homework.",
+      "We will never forget your kindness."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I always support you tomorrow.",
+        "right": "I will always support you."
+      },
+      {
+        "wrong": "We are support you.",
+        "right": "We will support you."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Instant Decision",
+    "english": "Will is used for decisions made at the moment of speaking.",
+    "marathi": "बोलत असताना तात्काळ घेतलेल्या निर्णयासाठी Will वापरतात.",
+    "examples": [
+      "The phone is ringing. I will answer it.",
+      "I am thirsty. I will get some water.",
+      "Someone is at the door. I will open it."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "The phone is ringing. I answer it.",
+        "right": "The phone is ringing. I will answer it."
+      },
+      {
+        "wrong": "Someone is at the door. I am opening it.",
+        "right": "Someone is at the door. I will open it."
+      }
+    ]
+  }
+],
           "sscPyqRule": "Tomorrow, Next, Soon, Later → Use Simple Future"
         },
         {
@@ -959,36 +1269,71 @@
             "I will be studying at 10 PM.",
             "They will be travelling tomorrow."
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Ongoing Future Action",
-              "english": "Shows an ongoing future action.",
-              "marathi": "भविष्यातील सुरू असलेली क्रिया दर्शवते.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Specific Future Time",
-              "english": "Used with a specific future time.",
-              "marathi": "विशिष्ट भविष्यातील वेळेसाठी वापरतात.",
-              "examples": [
-                "At 8 PM, I will be watching TV."
-              ],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Polite Inquiry",
-              "english": "Used for polite inquiries.",
-              "marathi": "सौजन्यपूर्ण चौकशीसाठी वापरतात.",
-              "examples": [
-                "Will you be joining us tomorrow?"
-              ],
-              "wrongRight": []
-            }
-          ],
+         "rules": [
+  {
+    "id": 1,
+    "title": "Ongoing Future Action",
+    "english": "Shows an action that will be in progress at a particular time in the future.",
+    "marathi": "भविष्यातील एका विशिष्ट वेळी सुरू असलेली क्रिया दर्शवते.",
+    "examples": [
+      "I will be studying at 10 PM.",
+      "They will be travelling tomorrow.",
+      "She will be sleeping when you call."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "I will studying at 10 PM.",
+        "right": "I will be studying at 10 PM."
+      },
+      {
+        "wrong": "They will be travel tomorrow.",
+        "right": "They will be travelling tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Specific Future Time",
+    "english": "Used for an action that will be happening at a specific future time.",
+    "marathi": "भविष्यातील विशिष्ट वेळेस सुरू असणारी क्रिया दर्शवण्यासाठी वापरतात.",
+    "examples": [
+      "At 8 PM, I will be watching TV.",
+      "This time tomorrow, we will be flying to Delhi.",
+      "At noon, she will be attending a meeting."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "At 8 PM, I will watch TV.",
+        "right": "At 8 PM, I will be watching TV."
+      },
+      {
+        "wrong": "This time tomorrow, we will fly to Delhi.",
+        "right": "This time tomorrow, we will be flying to Delhi."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Polite Inquiry",
+    "english": "Future Continuous is used to make polite inquiries about someone's plans.",
+    "marathi": "एखाद्याच्या नियोजनाबद्दल नम्रपणे विचारण्यासाठी Future Continuous वापरतात.",
+    "examples": [
+      "Will you be joining us tomorrow?",
+      "Will you be using your car this evening?",
+      "Will she be attending the meeting?"
+    ],
+    "wrongRight": [
+      {
+        "wrong": "Will you join us tomorrow?",
+        "right": "Will you be joining us tomorrow?"
+      },
+      {
+        "wrong": "Will she attend the meeting?",
+        "right": "Will she be attending the meeting?"
+      }
+    ]
+  }
+],
           "sscTrap": {
             "wrong": "I will studying tomorrow.",
             "right": "I will be studying tomorrow."
@@ -1022,7 +1367,10 @@
               "title": "Completed Future Action",
               "english": "Shows a completed future action.",
               "marathi": "भविष्यातील पूर्ण झालेली क्रिया दर्शवते.",
-              "examples": [],
+              "examples": [
+                "She will have completed the project by Friday.",
+                "I will have reached home by 8 PM."
+              ],
               "wrongRight": []
             },
             {
@@ -1056,32 +1404,71 @@
             "By next month, I will have been working here for five years.",
             "Next June, she will have been teaching for ten years."
           ],
-          "rules": [
-            {
-              "id": 1,
-              "title": "Duration Till Future",
-              "english": "Shows duration till a point in the future.",
-              "marathi": "भविष्यातील एका बिंदूपर्यंतचा कालावधी दर्शवते.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 2,
-              "title": "Since / For",
-              "english": "Uses Since or For.",
-              "marathi": "Since किंवा For वापरतात.",
-              "examples": [],
-              "wrongRight": []
-            },
-            {
-              "id": 3,
-              "title": "Sentence Improvement",
-              "english": "Generally asked in Sentence Improvement questions.",
-              "marathi": "साधारणपणे Sentence Improvement मध्ये विचारले जाते.",
-              "examples": [],
-              "wrongRight": []
-            }
-          ]
+       "rules": [
+  {
+    "id": 1,
+    "title": "Duration Till Future",
+    "english": "Shows the duration of an action up to a particular point in the future.",
+    "marathi": "भविष्यातील एका विशिष्ट वेळेपर्यंत क्रिया किती काळ चालू असेल हे दर्शवते.",
+    "examples": [
+      "By next year, I will have been working here for five years.",
+      "She will have been teaching for ten years by June.",
+      "By 8 PM, they will have been travelling for twelve hours."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "By next year, I will have worked here for five years.",
+        "right": "By next year, I will have been working here for five years."
+      },
+      {
+        "wrong": "By 8 PM, they will have been travel for twelve hours.",
+        "right": "By 8 PM, they will have been travelling for twelve hours."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Since / For",
+    "english": "Use Since for a point of time and For for a period of time.",
+    "marathi": "Since वेळेच्या बिंदूसाठी (Point of Time) आणि For कालावधीसाठी (Period of Time) वापरतात.",
+    "examples": [
+      "By next month, I will have been living here since 2020.",
+      "By December, she will have been working for five years.",
+      "Next week, they will have been studying for three months."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "She will have been working since five years.",
+        "right": "She will have been working for five years."
+      },
+      {
+        "wrong": "I will have been living here for 2020.",
+        "right": "I will have been living here since 2020."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sentence Improvement",
+    "english": "Future Perfect Continuous is commonly tested in Sentence Improvement and Error Spotting questions.",
+    "marathi": "Future Perfect Continuous प्रामुख्याने Sentence Improvement आणि Error Spotting मध्ये विचारला जातो.",
+    "examples": [
+      "By next July, I will have been preparing for the SSC CGL exam for one year.",
+      "By tomorrow morning, she will have been waiting for six hours.",
+      "By 2028, they will have been running this company for twenty years."
+    ],
+    "wrongRight": [
+      {
+        "wrong": "By next July, I will have preparing for one year.",
+        "right": "By next July, I will have been preparing for one year."
+      },
+      {
+        "wrong": "By tomorrow morning, she will have been waited for six hours.",
+        "right": "By tomorrow morning, she will have been waiting for six hours."
+      }
+    ]
+  }
+]
         }
       ],
       "shallVsWill": {

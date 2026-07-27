@@ -1,0 +1,26 @@
+.vocab-table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden; /* keeps header corners clipped cleanly */
+}
+
+.vocab-table th {
+  background: #f5f5f7;
+  color: #1a1a2e !important;   /* force visible dark text */
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 12px 14px;
+  border-bottom: 2px solid #e0e0e0;
+  text-align: left;
+}
+
+.vocab-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+  color: #222;
+}

@@ -4,6 +4,7 @@ import NotesPage from "../features/notes/NotesPage";
 import MindMapPage from "../features/mindMap/MindMap";
 import QuickRevisionPage from "../features/QuickRevesion";
 import NotesPage2 from "../features/notes/NotesPage2";
+import NotesPage3 from "../features/notes/NotesPage3";
 
 
 
@@ -29,7 +30,7 @@ const ChapterLayout = ({ data ,type}) => {
         {tab === 0 && type === "2" ? (
           <NotesPage2 data={data} />
 ) : (
-        <NotesPage data={data} />
+       tab === 0 && <NotesPage3 data={data} />
 )}
         {tab === 1 && <MindMapPage data={data} />}
         {tab === 2 && <QuickRevisionPage data={data}/>}
