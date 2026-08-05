@@ -6,7 +6,7 @@ import {
   TableHead,
   TableRow,
 } from "@mui/material";
-import palette from "../theme/Theme.jsx";
+import palette from "../theme/Theme3.jsx";
 
 const CommonTable = ({ columns = [], rows = [] }) => {
   return (

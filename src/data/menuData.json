@@ -3,7 +3,7 @@
     "subject": "English",
     "chapters": [
       {
-        "chapter": "Grammar",
+        "chapter": "ENGLISH",
         "topics": [
           {
             "topic": "Parts of Speech",
@@ -49,94 +49,62 @@
               },{
                 "name": "Question-Tag",
                 "path": "/english/grammar/pos/question-tag"
+              },
+              {
+                "name": "Conditional-Sentence",
+                "path": "/english/grammar/pos/conditional-sentence"
               }
             ]
-          }
-          ,{"topic": "120 RULE",
-            "subTopics": [
-               {
-                "name": "120 Rule",
-                "path": "/english/grammar/rule/120"
-              }
-            ]
-
-          }
-        ]
-      },{
-        "chapter": "Vocabulary",
-        "topics": [
+          },  
           {
-            "topic": "OWS",
+            "topic": "GRAMMAR",
             "subTopics": [
               {
-                "name": "OWS : 1-408",
-                "path": "/english/vocabulary/ows/1-408"
+                "name": "Direct and Indirect Speech",
+                "path": "/english/grammar/direct-indirect-speech"
               }]
-            },
-           {
-            "topic": "Idioms and phrases",
+          }, {
+            "topic": "Vocabulary",
             "subTopics": [
               {
+                "name": "OWS : 1-842`",
+                "path": "/english/vocabulary/ows/1-408"
+              },
+                {
                 "name": "idioms and phrases 1-388",
                 "path": "/english/vocabulary/idioms-and-phrases/1-388"
-              }]
-            }, 
-            {"topic": "Phrasal Verb",
-            "subTopics": [
-               {
+              },
+              {
                 "name": "Phrasal Verb",
                 "path": "/english/vocabulary/phrasal-verb"
-              }
-            ]
-          },
-              {"topic": "Pro Verb",
-            "subTopics": [
-               {
+              },
+              {
                 "name": "Pro Verb",
                 "path": "/english/vocabulary/pro-verb"
-              }
-            ]
-          },
-          {"topic": "Homonyms-homophones",
-            "subTopics": [
-               {
+              },
+              {
                 "name": "Homonyms-homophones",
                 "path": "/english/vocabulary/homonyms-homophones"
-              }
-            ]
-          },{"topic": "Synonymous+antonyms",
-            "subTopics": [
-               {
+              }, 
+              {
                 "name": "Synonymous-antonyms-common list top100",
                 "path": "/english/vocabulary/syn+ant/top100"
-              }
-            ]
-          },
-          {"topic": "Synonymous",
-            "subTopics": [
-               {
+              },
+              {
                 "name": "Synonymous Top 100",
                 "path": "/english/vocabulary/Synonymous/top100"
-              }
-            ]
-          },
-          {"topic": "Antonyms",
-            "subTopics": [
-               {
+              },
+                 {
                 "name": "Antonyms Top 100",
                 "path": "/english/vocabulary/Antonyms/top100"
-              }
-            ]
-          },
-            {"topic": "IMP VOCAB",
-            "subTopics": [
-               {
+              },
+             {
                 "name": "IMP VOCAB",
                 "path": "/english/vocab/imp"
-              }
-            ]
-          }
-          ]
+              }]
+            }
+
+        ]
       }
     ]
   },{

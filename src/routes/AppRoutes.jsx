@@ -29,13 +29,15 @@ import Idioms_1_388 from "../features/notes/English/Vocabulary/Idioms-1-338";
 import Tenses from "../features/notes/English/part-of-speech/Tenses";
 import QuestionTag from "../features/notes/English/part-of-speech/QuestionTags";
 import VocabularyTable from "../features/notes/English/Vocabulary/VocabularyTable";
-import RuleBookApp from "../features/notes/English/RULE/RuleBookApp";
 import PhrasalVerb from "../features/notes/English/Vocabulary/PhrasalVerb";
 import ProVerb from "../features/notes/English/Vocabulary/ProVerb";
 import SynoAntoCom from "../features/notes/English/Vocabulary/SynoAntoCom";
 import Synonymous from "../features/notes/English/Vocabulary/Synonymous";
 import Antonyms from "../features/notes/English/Vocabulary/Antonyms";
 import Homonyms from "../features/notes/English/Vocabulary/Homonyms";
+import ConditionalSentences from "../features/notes/English/part-of-speech/ConditionalSentence";
+import DirectIndirect from "../features/notes/English/grammer/DirectIndirect";
+
 
 
 const AppRoutes = () => {
@@ -102,6 +104,16 @@ const AppRoutes = () => {
             path="/english/grammar/pos/question-tag"
             element={<QuestionTag />}
           /> 
+           <Route
+            path="/english/grammar/pos/conditional-sentence"
+            element={<ConditionalSentences />}
+          /> 
+
+          {/* Grammar ROUTES  */}
+         <Route
+            path="/english/grammar/direct-indirect-speech"
+            element={<DirectIndirect />}
+          /> 
 
           {/* Vocabulary ROUTES  */}
            <Route
@@ -137,17 +149,13 @@ const AppRoutes = () => {
             path= "/english/vocabulary/homonyms-homophones"
             element={<Homonyms/>}
           /> 
-
            <Route
             path="/english/vocab/imp"
             element={<VocabularyTable />}
           /> 
-           <Route
-            path="/english/grammar/rule/120"
-            element={<RuleBookApp />}
-          /> 
 
 
+ 
 
 
  {/* GK NOTES */}

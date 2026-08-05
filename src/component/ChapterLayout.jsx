@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Box, Tab, Tabs } from "@mui/material";
-import NotesPage from "../features/notes/NotesPage";
 import MindMapPage from "../features/mindMap/MindMap";
 import QuickRevisionPage from "../features/QuickRevesion";
 import NotesPage2 from "../features/notes/NotesPage2";

@@ -1,0 +1,575 @@
+{
+  "slug": "direct-indirect-speech",
+  "title": "Direct & Indirect Speech",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Narration",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "Narration is the way in which the words spoken by one person are reported to another person. It has two forms: Direct Speech and Indirect Speech.",
+    "marathi": "एका व्यक्तीने बोललेले वाक्य दुसऱ्या व्यक्तीला सांगण्याच्या पद्धतीला Narration (Direct & Indirect Speech) म्हणतात.",
+    "examples": [
+      {
+        "word": "Ram said, \"I am busy.\"",
+        "tag": "Direct Speech"
+      },
+      {
+        "word": "Ram said that he was busy.",
+        "tag": "Indirect Speech"
+      }
+    ]
+  },
+  "types": [
+    {
+      "name": "Direct Speech",
+      "english": "The speaker's exact words are written as they are, within quotation marks (\" \").",
+      "marathi": "Speaker चे शब्द जसेच्या तसे (\" \") मध्ये लिहिले जातात.",
+      "examples": [
+        "Ram said, \"I am busy.\""
+      ]
+    },
+    {
+      "name": "Indirect Speech",
+      "english": "The speaker's words are reported in one's own language, without quotation marks.",
+      "marathi": "Speaker चे शब्द आपल्या भाषेत सांगितले जातात.",
+      "examples": [
+        "Ram said that he was busy."
+      ]
+    }
+  ],
+  "goldenConcept": {
+    "title": "SSC Golden Concept: Reporting Verb Tense Rule",
+    "english": "Whether the tense changes in Indirect Speech depends entirely on the tense of the Reporting Verb, not just on habit.",
+    "marathi": "Reported Speech मधील Tense Change हे केवळ सवयीने नाही तर Reporting Verb च्या Tense वर अवलंबून असते.",
+    "wrongThinking": [
+      "Indirect Speech मध्ये Tense नेहमीच बदलतो",
+      "Reporting Verb कडे लक्ष न देता थेट Tense बदलणे"
+    ],
+    "correctThinking": [
+      "Reporting Verb Present/Future/Present Perfect असल्यास -> Tense Change होत नाही",
+      "Reporting Verb Past असल्यास -> Tense Change होतो"
+    ]
+  },
+  "tables": [
+    {
+      "id": "table-1",
+      "title": "Tense Change Table (Direct → Indirect)",
+      "columns": [
+        "direct",
+        "indirect"
+      ],
+      "rows": [
+        {
+          "direct": "Present Indefinite",
+          "indirect": "Past Indefinite"
+        },
+        {
+          "direct": "Present Continuous",
+          "indirect": "Past Continuous"
+        },
+        {
+          "direct": "Present Perfect",
+          "indirect": "Past Perfect"
+        },
+        {
+          "direct": "Present Perfect Continuous",
+          "indirect": "Past Perfect Continuous"
+        },
+        {
+          "direct": "Past Indefinite",
+          "indirect": "Past Perfect"
+        },
+        {
+          "direct": "Past Continuous",
+          "indirect": "Past Perfect Continuous"
+        },
+        {
+          "direct": "Past Perfect",
+          "indirect": "No Change"
+        },
+        {
+          "direct": "Past Perfect Continuous",
+          "indirect": "No Change"
+        },
+        {
+          "direct": "Future (Will)",
+          "indirect": "Would"
+        },
+        {
+          "direct": "Future Continuous",
+          "indirect": "Would be"
+        },
+        {
+          "direct": "Future Perfect",
+          "indirect": "Would have"
+        },
+        {
+          "direct": "Future Perfect Continuous",
+          "indirect": "Would have been"
+        }
+      ]
+    },
+    {
+      "id": "table-2",
+      "title": "Word / Time Expression Change Table (Direct → Indirect)",
+      "columns": [
+        "direct",
+        "indirect"
+      ],
+      "rows": [
+        {
+          "direct": "This",
+          "indirect": "That"
+        },
+        {
+          "direct": "These",
+          "indirect": "Those"
+        },
+        {
+          "direct": "Here",
+          "indirect": "There"
+        },
+        {
+          "direct": "Hence",
+          "indirect": "Thence"
+        },
+        {
+          "direct": "Now",
+          "indirect": "Then"
+        },
+        {
+          "direct": "Thus",
+          "indirect": "So"
+        },
+        {
+          "direct": "Today",
+          "indirect": "That day"
+        },
+        {
+          "direct": "Tonight",
+          "indirect": "That night"
+        },
+        {
+          "direct": "Tomorrow",
+          "indirect": "The next day"
+        },
+        {
+          "direct": "Yesterday",
+          "indirect": "The previous day"
+        },
+        {
+          "direct": "Day before yesterday",
+          "indirect": "Two days before"
+        },
+        {
+          "direct": "Day after tomorrow",
+          "indirect": "In two days' time"
+        },
+        {
+          "direct": "Ago",
+          "indirect": "Before"
+        },
+        {
+          "direct": "Next day/week/month/year",
+          "indirect": "Following day/week/month/year"
+        }
+      ]
+    },
+    {
+      "id": "table-3",
+      "title": "Modal Changes (Direct → Indirect)",
+      "columns": [
+        "direct",
+        "indirect"
+      ],
+      "rows": [
+        {
+          "direct": "Will",
+          "indirect": "Would"
+        },
+        {
+          "direct": "Shall",
+          "indirect": "Should / Would"
+        },
+        {
+          "direct": "Can",
+          "indirect": "Could"
+        },
+        {
+          "direct": "May",
+          "indirect": "Might"
+        },
+        {
+          "direct": "Must",
+          "indirect": "Had to (Context नुसार Must तसाच राहू शकतो)"
+        }
+      ]
+    },
+    {
+      "id": "table-4",
+      "title": "Sentence Type → Reporting Verb & Structure",
+      "columns": [
+        "sentenceType",
+        "ruleFormula"
+      ],
+      "rows": [
+        {
+          "sentenceType": "Assertive / Statement",
+          "ruleFormula": "Said + That"
+        },
+        {
+          "sentenceType": "Said To",
+          "ruleFormula": "Said to → Told"
+        },
+        {
+          "sentenceType": "Yes/No Question",
+          "ruleFormula": "Asked/Inquired/Wanted to know + If/Whether"
+        },
+        {
+          "sentenceType": "WH Question",
+          "ruleFormula": "Asked + Same WH Word"
+        },
+        {
+          "sentenceType": "Imperative",
+          "ruleFormula": "Ordered/Requested/Advised/Warned/Commanded/Urged/Begged/Told + To + V1"
+        },
+        {
+          "sentenceType": "Negative Imperative",
+          "ruleFormula": "Advised/Told + Not To + V1"
+        },
+        {
+          "sentenceType": "Exclamatory",
+          "ruleFormula": "Exclaimed with joy/sorrow/surprise/wonder/regret + that"
+        },
+        {
+          "sentenceType": "Optative",
+          "ruleFormula": "Prayed/Wished/Blessed/Cursed + that"
+        }
+      ]
+    }
+  ],
+  "cheatSheet": {
+    "noTenseChangeConditions": [
+      "Reporting Verb Present/Future मध्ये असेल",
+      "Universal Truth",
+      "Scientific Fact",
+      "Habitual Fact",
+      "Historical Fact",
+      "Reported Speech आधीच Past Perfect किंवा Past Perfect Continuous मध्ये असेल"
+    ],
+    "statementReportingVerbs": [
+      "Said",
+      "Told"
+    ],
+    "questionReportingVerbs": [
+      "Asked",
+      "Inquired",
+      "Wanted to know"
+    ],
+    "imperativeReportingVerbs": [
+      "Ordered",
+      "Requested",
+      "Advised",
+      "Warned",
+      "Commanded",
+      "Urged",
+      "Begged",
+      "Told"
+    ],
+    "exclamatoryReportingVerbs": [
+      "Exclaimed with joy",
+      "Exclaimed with sorrow",
+      "Exclaimed with surprise",
+      "Exclaimed with wonder",
+      "Exclaimed with regret"
+    ],
+    "optativeReportingVerbs": [
+      "Prayed",
+      "Wished",
+      "Blessed",
+      "Cursed"
+    ],
+    "whWords": [
+      "Why",
+      "What",
+      "Who",
+      "Where",
+      "When",
+      "Which",
+      "Whose",
+      "How"
+    ]
+  },
+  "fixedExpressions": {
+    "sentenceTypeRules": [
+      "Said → That",
+      "Said to → Told",
+      "Statement → That",
+      "Yes/No Question → Asked + If/Whether",
+      "WH Question → Asked + WH Word",
+      "Order → Ordered + To + V1",
+      "Advice → Advised + To + V1",
+      "Request → Requested + To + V1",
+      "Negative Command → Not To + V1"
+    ],
+    "tenseAndWordRules": [
+      "Present → Past",
+      "Past → Past Perfect",
+      "Will → Would",
+      "Shall → Should",
+      "Can → Could",
+      "May → Might",
+      "Today → That day",
+      "Tomorrow → The next day",
+      "Yesterday → The previous day"
+    ]
+  },
+  "rules": [
+    {
+      "id": 1,
+      "title": "Narration म्हणजे काय",
+      "english": "Narration is the way of reporting what one person has said to another person.",
+      "marathi": "एका व्यक्तीने बोललेले वाक्य दुसऱ्या व्यक्तीला सांगण्याच्या पद्धतीला Narration म्हणतात.",
+      "examples": [
+        "Ram said, \"I am busy.\"",
+        "Ram said that he was busy."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Direct Speech चे दोन भाग - Reporting Verb",
+      "english": "Reporting Verb is the verb used by the person who reported the sentence.",
+      "marathi": "ज्याने वाक्य सांगितले त्या Verb ला Reporting Verb म्हणतात.",
+      "examples": [
+        "Ram said, \"I am busy.\" (said = Reporting Verb)"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Direct Speech चे दोन भाग - Reported Speech",
+      "english": "Reported Speech is the actual sentence that was spoken, written inside quotation marks.",
+      "marathi": "जे प्रत्यक्ष बोलले गेले तो भाग म्हणजे Reported Speech.",
+      "examples": [
+        "Ram said, \"I am busy.\" (\"I am busy.\" = Reported Speech)"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Reporting Verb Present/Future/Present Perfect - No Tense Change",
+      "english": "If the Reporting Verb is in Present, Future or Present Perfect, the tense of Reported Speech does not change.",
+      "marathi": "Reporting Verb Present/Future/Present Perfect मध्ये असेल तर Tense Change होत नाही.",
+      "examples": [
+        "He says, \"I work hard.\" → He says that he works hard."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Reporting Verb Past - Tense Change",
+      "english": "If the Reporting Verb is in Past tense, the tense of Reported Speech changes accordingly.",
+      "marathi": "Reporting Verb Past मध्ये असेल तर Tense Change होतो.",
+      "examples": [
+        "He said, \"I work hard.\" → He said that he worked hard."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He said that I am busy.",
+          "right": "He said that I was busy."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tense Change होत नाही अशी परिस्थिती",
+      "english": "Tense does not change when the Reporting Verb is Present/Future, or the sentence expresses a universal truth, scientific fact, habitual fact, historical fact, or when Reported Speech is already in Past Perfect / Past Perfect Continuous.",
+      "marathi": "Reporting Verb Present/Future, Universal Truth, Scientific Fact, Habitual Fact, Historical Fact किंवा Reported Speech आधीच Past Perfect/Past Perfect Continuous मध्ये असेल तर Tense Change होत नाही.",
+      "examples": [
+        "The teacher said, \"The Sun rises in the East.\" → The teacher said that the Sun rises in the East.",
+        "He says, \"I am ready.\" → He says that he is ready."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Pronoun Change Rule",
+      "english": "While changing pronouns, consider the Speaker, the Listener, and any Third Person mentioned.",
+      "marathi": "Pronoun बदलताना Speaker, Listener आणि Third Person यांचा विचार करावा.",
+      "examples": [
+        "Ram said, \"I am happy.\" → Ram said that he was happy.",
+        "Ram said to Mohan, \"You are lazy.\" → Ram told Mohan that he was lazy."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Statement Sentence - Said + That",
+      "english": "For Assertive/Statement sentences, use Said + That before the reported clause.",
+      "marathi": "Statement Sentence साठी Said + That वापरतात.",
+      "examples": [
+        "He said, \"I am ready.\" → He said that he was ready."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Said To → Told Rule",
+      "english": "When the Reporting Verb is 'said to' followed by a person, it changes to 'told'.",
+      "marathi": "Reporting Verb 'said to' नंतर व्यक्ती असल्यास तो 'told' मध्ये बदलतो.",
+      "examples": [
+        "Ram said to Mohan, \"I am busy.\" → Ram told Mohan that he was busy."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He said to me that he was ready.",
+          "right": "He told me that he was ready."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Assertive Sentence Structure",
+      "english": "Assertive sentence structure in Indirect Speech: Subject + Said/Told + That + Sentence.",
+      "marathi": "Assertive Sentence ची रचना: Subject + Said/Told + That + Sentence.",
+      "examples": [
+        "He said that he was ready."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Interrogative Sentence - Yes/No Question",
+      "english": "For Yes/No questions, the Reporting Verb changes to Asked/Inquired/Wanted to know, and If/Whether connects the clause.",
+      "marathi": "Yes/No Question साठी Reporting Verb Asked/Inquired/Wanted to know होतो आणि If/Whether ने clause जोडतात.",
+      "examples": [
+        "He said, \"Are you ready?\" → He asked if I was ready."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Interrogative Sentence - WH Question",
+      "english": "For WH questions (Why, What, Who, Where, When, Which, Whose, How), the WH word remains unchanged and the Reporting Verb becomes Asked.",
+      "marathi": "WH Question मध्ये Why, What, Who, Where, When, Which, Whose, How हे शब्द तसेच राहतात आणि Reporting Verb Asked होतो.",
+      "examples": [
+        "He said, \"Where are you going?\" → He asked where I was going."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He asked that where I was going.",
+          "right": "He asked where I was going."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Imperative Sentence Rule",
+      "english": "For Imperative sentences, the Reporting Verb becomes Ordered/Requested/Advised/Warned/Commanded/Urged/Begged/Told, and V1 changes to To + V1.",
+      "marathi": "Imperative Sentence साठी Reporting Verb Ordered/Requested/Advised/Warned/Commanded/Urged/Begged/Told होतो आणि V1 चा To + V1 होतो.",
+      "examples": [
+        "Teacher said, \"Work hard.\" → Teacher advised us to work hard.",
+        "Mother said, \"Open the door.\" → Mother told me to open the door."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Negative Imperative - Not To + V1",
+      "english": "In negative commands, Don't + V1 changes to Not to + V1.",
+      "marathi": "Negative Imperative मध्ये Don't + V1 चा Not to + V1 होतो.",
+      "examples": [
+        "Mother said, \"Don't waste time.\" → Mother advised me not to waste time."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Mother advised me don't waste time.",
+          "right": "Mother advised me not to waste time."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Exclamatory Sentence Rule",
+      "english": "For Exclamatory sentences, the Reporting Verb changes to Exclaimed with joy/sorrow/surprise/wonder/regret depending on the emotion.",
+      "marathi": "Exclamatory Sentence साठी भावनेनुसार Reporting Verb Exclaimed with joy/sorrow/surprise/wonder/regret होतो.",
+      "examples": [
+        "He said, \"Hurrah! We won.\" → He exclaimed with joy that they had won."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Optative Sentence Rule",
+      "english": "For Optative sentences expressing a wish, blessing or prayer, the Reporting Verb becomes Prayed/Wished/Blessed/Cursed.",
+      "marathi": "Optative Sentence साठी Reporting Verb Prayed/Wished/Blessed/Cursed होतो.",
+      "examples": [
+        "He said, \"May God bless you.\" → He prayed that God might bless me."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Modal Changes",
+      "english": "Modals change as follows: Will→Would, Shall→Should/Would, Can→Could, May→Might, Must→Had to (context nusar Must can remain unchanged).",
+      "marathi": "Will→Would, Shall→Should/Would, Can→Could, May→Might, Must→Had to (Context नुसार Must तसाच राहू शकतो).",
+      "examples": [
+        "He said, \"I will come.\" → He said that he would come."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "He said that he will come.",
+          "right": "He said that he would come."
+        }
+      ]
+    }
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "He said that I am busy.",
+      "right": "He said that I was busy."
+    },
+    {
+      "wrong": "He said that he will come.",
+      "right": "He said that he would come."
+    },
+    {
+      "wrong": "He asked that where I was going.",
+      "right": "He asked where I was going."
+    },
+    {
+      "wrong": "He said to me that he was ready.",
+      "right": "He told me that he was ready."
+    },
+    {
+      "wrong": "Mother advised me don't waste time.",
+      "right": "Mother advised me not to waste time."
+    }
+  ],
+  "examStrategy": [
+    {
+      "tier": "Tier-1",
+      "english": "Focus on the basic Tense Change table, Said→That, Said to→Told, Pronoun Change, and the Present/Past Reporting Verb rule, since these are asked most frequently.",
+      "marathi": "मुख्यतः Tense Change Table, Said→That, Said to→Told, Pronoun Change आणि Present/Past Reporting Verb Rule वर लक्ष द्या, हे सर्वाधिक वेळा विचारले जातात."
+    },
+    {
+      "tier": "Tier-2",
+      "english": "Revise Yes/No and WH Questions, Imperative and Negative Imperative, Exclamatory, Optative sentences, Modal Changes, and the No-Tense-Change exceptions (universal truth, scientific/historical/habitual facts) together.",
+      "marathi": "Yes/No व WH Questions, Imperative व Negative Imperative, Exclamatory, Optative Sentences, Modal Changes आणि No-Tense-Change Exceptions (Universal Truth, Scientific/Historical/Habitual Facts) एकत्र revise करा."
+    }
+  ],
+  "goldenRevision": [
+    "Narration = Direct + Indirect",
+    "Reporting Verb = Said / Told / Asked",
+    "Reported Speech = Actual Words",
+    "Past Reporting Verb -> Tense Change",
+    "Present Reporting Verb -> No Tense Change",
+    "Said -> That",
+    "Said To -> Told",
+    "Question -> Asked",
+    "Yes/No -> If / Whether",
+    "WH -> Same WH Word",
+    "Imperative -> To + V1",
+    "Negative Imperative -> Not To + V1",
+    "Present -> Past",
+    "Past -> Past Perfect",
+    "Past Perfect -> No Change",
+    "Will -> Would",
+    "Can -> Could",
+    "May -> Might",
+    "Today -> That Day",
+    "Tomorrow -> The Next Day",
+    "Yesterday -> The Previous Day"
+  ]
+}

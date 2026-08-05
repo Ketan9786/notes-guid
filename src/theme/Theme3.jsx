@@ -35,7 +35,7 @@ const palette = {
   red: "#e2726f",
   redBg: "rgba(226,114,111,0.08)",
 
-  // extra section accents (dark-safe — used only as borders/text/glow, never fills)
+  // section accents
   purple: "#b48ce0",
   purpleBg: "rgba(180,140,224,0.08)",
   blue: "#7ba7e8",

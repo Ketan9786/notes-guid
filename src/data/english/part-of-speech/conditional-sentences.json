@@ -1,0 +1,377 @@
+{
+  "slug": "conditional-sentences",
+  "title": "Conditional Sentences (If-Clause)",
+  "subtitle": "SSC CGL Tier 1 + Tier 2 Complete Notes",
+  "tags": [
+    "Grammar",
+    "Conditional Sentences",
+    "SSC CGL"
+  ],
+  "definition": {
+    "english": "A Conditional Sentence expresses a condition and its possible result.",
+    "marathi": "ज्या वाक्यात एखादी अट (Condition) आणि तिचा परिणाम (Result) सांगितला जातो त्याला Conditional Sentence म्हणतात.",
+    "structure": "If-Clause (Condition) + Main Clause (Result)",
+    "examples": [
+      {
+        "word": "If you study hard, you will pass.",
+        "tag": "Condition -> Result"
+      }
+    ]
+  },
+  "parts": [
+    {
+      "name": "Condition Clause (If-Clause)",
+      "english": "Contains the condition.",
+      "marathi": "यामध्ये Condition (अट) सांगितली जाते."
+    },
+    {
+      "name": "Main Clause",
+      "english": "Shows the result.",
+      "marathi": "यामध्ये Result (परिणाम) दाखवला जातो."
+    }
+  ],
+  "partsExample": {
+    "sentence": "If you work hard, you will succeed.",
+    "condition": "If you work hard",
+    "result": "You will succeed"
+  },
+  "types": [
+    {
+      "id": 0,
+      "name": "Zero Conditional",
+      "use": [
+        "Universal truths",
+        "Scientific facts",
+        "General truths",
+        "Habitual actions"
+      ],
+      "structure": {
+        "ifClause": "Simple Present",
+        "mainClause": "Simple Present"
+      },
+      "examples": [
+        "If you heat water to 100°C, it boils.",
+        "If you touch fire, it burns.",
+        "If ice melts, it becomes water."
+      ]
+    },
+    {
+      "id": 1,
+      "name": "First Conditional",
+      "use": [
+        "Future result of a Present condition",
+        "Real possibility"
+      ],
+      "structure": {
+        "ifClause": "Simple Present",
+        "mainClause": "Will + V1"
+      },
+      "examples": [
+        "If you study hard, you will pass.",
+        "If it rains, we will stay home.",
+        "If you work honestly, you will succeed."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Second Conditional",
+      "use": [
+        "Imaginary situation",
+        "Hypothetical condition",
+        "Unreal Present/Future"
+      ],
+      "structure": {
+        "ifClause": "Simple Past",
+        "mainClause": "Would + V1"
+      },
+      "examples": [
+        "If I were rich, I would help the poor.",
+        "If I were a bird, I would fly.",
+        "If he had money, he would buy a car."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Third Conditional",
+      "use": [
+        "Past regret",
+        "Impossible Past",
+        "Imaginary Past"
+      ],
+      "structure": {
+        "ifClause": "Had + V3",
+        "mainClause": "Would have + V3"
+      },
+      "examples": [
+        "If he had studied, he would have passed.",
+        "If I had reached early, I would have met him.",
+        "If they had informed us, we would have attended."
+      ]
+    }
+  ],
+  "quickFormula": {
+    "columns": [
+      "type",
+      "ifClause",
+      "mainClause",
+      "use"
+    ],
+    "rows": [
+      {
+        "type": "Zero",
+        "ifClause": "Present",
+        "mainClause": "Present",
+        "use": "Facts"
+      },
+      {
+        "type": "First",
+        "ifClause": "Present",
+        "mainClause": "Will + V1",
+        "use": "Future Possibility"
+      },
+      {
+        "type": "Second",
+        "ifClause": "Past",
+        "mainClause": "Would + V1",
+        "use": "Imaginary Present"
+      },
+      {
+        "type": "Third",
+        "ifClause": "Had + V3",
+        "mainClause": "Would have + V3",
+        "use": "Past Regret"
+      }
+    ]
+  },
+  "rules": [
+    {
+      "id": 1,
+      "title": "Zero Conditional",
+      "english": "Use Simple Present in both the If-Clause and the Main Clause to state facts and general truths.",
+      "marathi": "Facts आणि General Truths साठी If-Clause आणि Main Clause दोन्हीमध्ये Simple Present वापरा.",
+      "examples": [
+        "If water boils, it evaporates."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 2,
+      "title": "First Conditional",
+      "english": "Use If + Simple Present in the condition and Will + V1 in the result for a real future possibility.",
+      "marathi": "खऱ्या Future Possibility साठी Condition मध्ये If + Simple Present आणि Result मध्ये Will + V1 वापरा.",
+      "examples": [
+        "If you work hard, you will succeed."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "If you will work hard, you will succeed.",
+          "right": "If you work hard, you will succeed."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Never Use Will in If-Clause",
+      "english": "Will should never be used in the If-Clause of a First Conditional sentence.",
+      "marathi": "First Conditional च्या If-Clause मध्ये Will कधीही वापरू नये.",
+      "examples": [
+        "If he comes, I will help."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "If he will come, I will help.",
+          "right": "If he comes, I will help."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Second Conditional",
+      "english": "Use If + Simple Past in the condition and Would + V1 in the result for imaginary present/future situations.",
+      "marathi": "Imaginary Present/Future साठी Condition मध्ये If + Simple Past आणि Result मध्ये Would + V1 वापरा.",
+      "examples": [
+        "If I had money, I would buy a car."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 5,
+      "title": "Were With Every Subject",
+      "english": "Use were instead of was with every subject in imaginary/hypothetical situations.",
+      "marathi": "Imaginary Situations मध्ये प्रत्येक Subject सोबत was ऐवजी were वापरा.",
+      "examples": [
+        "If I were you...",
+        "If he were rich..."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "If I was you, I would accept.",
+          "right": "If I were you, I would accept."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Third Conditional",
+      "english": "Use Had + V3 in the condition and Would have + V3 in the result to express past regret or impossible past.",
+      "marathi": "Past Regret साठी Condition मध्ये Had + V3 आणि Result मध्ये Would have + V3 वापरा.",
+      "examples": [
+        "If he had studied, he would have passed."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "If he had studied, he would pass.",
+          "right": "If he had studied, he would have passed."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Never Use Would in If-Clause",
+      "english": "Would should never be used in the If-Clause of a conditional sentence.",
+      "marathi": "If-Clause मध्ये Would कधीही वापरू नये.",
+      "examples": [
+        "If he came, I would help."
+      ],
+      "wrongRight": [
+        {
+          "wrong": "If he would come, I would help.",
+          "right": "If he came, I would help."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Had + V3 Rule",
+      "english": "Always use the V3 (past participle) form after Had, never the past tense form.",
+      "marathi": "Had नंतर नेहमी V3 (Past Participle) फॉर्म वापरा, Past Tense फॉर्म वापरू नये.",
+      "examples": [
+        "Had gone",
+        "Had taken",
+        "Had studied"
+      ],
+      "wrongRight": [
+        {
+          "wrong": "Had went",
+          "right": "Had gone"
+        },
+        {
+          "wrong": "Had took",
+          "right": "Had taken"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Mixed Conditional",
+      "english": "A past condition (Had + V3) can combine with a present result (Would + V1) in Mixed Conditionals.",
+      "marathi": "Mixed Conditional मध्ये Past Condition (Had + V3) आणि Present Result (Would + V1) एकत्र येतात.",
+      "examples": [
+        "If I had studied medicine, I would be a doctor now."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 10,
+      "title": "Inversion (Without If)",
+      "english": "If can be omitted by inverting the subject and auxiliary: Should + Subject + V1 (Type 1), Were + Subject (Type 2), Had + Subject + V3 (Type 3).",
+      "marathi": "If वगळून Subject आणि Auxiliary उलट क्रमाने वापरता येते: Should + Subject + V1 (Type 1), Were + Subject (Type 2), Had + Subject + V3 (Type 3).",
+      "examples": [
+        "Should you need help, call me.",
+        "Were I rich, I would travel.",
+        "Had he worked hard, he would have passed."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 11,
+      "title": "Can / Could",
+      "english": "Second Conditional can use Would/Could + V1; Third Conditional can use Would/Could have + V3.",
+      "marathi": "Second Conditional मध्ये Would/Could + V1 आणि Third Conditional मध्ये Would/Could have + V3 वापरता येते.",
+      "examples": [
+        "If I had time, I could help you.",
+        "If he had tried, he could have won."
+      ],
+      "wrongRight": []
+    },
+    {
+      "id": 12,
+      "title": "Modals Instead of Will",
+      "english": "Can, may, might, could, should, must may replace will in the main clause depending on the intended meaning.",
+      "marathi": "अर्थानुसार Main Clause मध्ये Will ऐवजी Can, may, might, could, should, must वापरता येते.",
+      "examples": [
+        "If you finish work, you may leave.",
+        "If it rains, we should stay home."
+      ],
+      "wrongRight": []
+    }
+  ],
+  "signalWords": [
+    "If",
+    "Unless",
+    "Provided that",
+    "Only if",
+    "In case",
+    "Suppose",
+    "Assuming"
+  ],
+  "pyqTraps": [
+    {
+      "wrong": "If he will come, I will help.",
+      "right": "If he comes, I will help."
+    },
+    {
+      "wrong": "If I was you, I would accept.",
+      "right": "If I were you, I would accept."
+    },
+    {
+      "wrong": "Had went",
+      "right": "Had gone"
+    },
+    {
+      "wrong": "Had took",
+      "right": "Had taken"
+    },
+    {
+      "wrong": "If he had studied, he would pass.",
+      "right": "If he had studied, he would have passed."
+    },
+    {
+      "wrong": "If I had reached, I would buy.",
+      "right": "If I had reached, I would have bought."
+    },
+    {
+      "wrong": "If he would study, he would pass.",
+      "right": "If he studied, he would pass."
+    }
+  ],
+  "examStrategy": [
+    {
+      "tier": "Tier-1",
+      "english": "Learn all 4 Types thoroughly, memorize the formulas, focus on Error Spotting, and practice Sentence Improvement.",
+      "marathi": "सर्व 4 Types पूर्णपणे शिका, Formulas पाठ करा, Error Spotting वर लक्ष द्या आणि Sentence Improvement चा सराव करा."
+    },
+    {
+      "tier": "Tier-2",
+      "english": "Master Mixed Conditionals, practice Inversion (Had/Were/Should), and solve Previous Year Questions.",
+      "marathi": "Mixed Conditionals मध्ये प्रवीण व्हा, Inversion (Had/Were/Should) चा सराव करा आणि Previous Year Questions सोडवा."
+    }
+  ],
+  "practice": {
+    "english": "Solve 70-100 Conditional Sentence PYQs. Before the exam, revise only the Golden Revision Page.",
+    "marathi": "70-100 Conditional Sentence PYQs सोडवा. परीक्षेपूर्वी फक्त Golden Revision Page Revise करा."
+  },
+  "goldenRevision": [
+    "Type 0 -> Present + Present",
+    "Type 1 -> Present -> Will + V1",
+    "Type 2 -> Past -> Would + V1",
+    "Type 3 -> Had + V3 -> Would have + V3",
+    "Never Will in If-Clause",
+    "Never Would in If-Clause",
+    "Had + V3 only",
+    "Were after If (Imaginary)",
+    "Had gone (not Had went)",
+    "Had taken (not Had took)",
+    "Had studied (not Had study)"
+  ]
+}

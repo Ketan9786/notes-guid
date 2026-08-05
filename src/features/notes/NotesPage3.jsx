@@ -1,14 +1,14 @@
 /**
- * NotesPage v4 — "Midnight Study" theme (read-along edition).
+ * NotesPage v4 — "Daylight Study" theme (read-along edition).
+ *
  * Same JSON schema as before (noun.json etc.) — only the visual + interaction
- * layer changed.
+ * layer changed. This is the bright counterpart of the "Midnight Study"
+ * build: warm paper surfaces, a deep amber-gold ink accent as the only
+ * working accent color, cream reserved for the single bookmark ribbon in
+ * the header (~2-3% of the page). Rule numbers are wax-seal medallions,
+ * not flat chips.
  *
- * Brief: dark-first "reading under a desk lamp at night" surfaces, gold lamp
- * light as the only working accent, cream reserved for the single bookmark
- * ribbon in the header (~2-3% of the page). Rule numbers are wax-seal
- * medallions, not flat chips.
- *
- * New in v4 — "book reading" interaction:
+ * "Book reading" interaction (unchanged from v4):
  * Every readable line (definitions, examples, wrong/right pairs, golden
  * revision, exam-strategy text, table rows…) is wrapped in <ReadLine />.
  * On hover it gets a soft gold glow + underline, like a finger tracing the
@@ -22,12 +22,12 @@
  *   import data from "./noun.json";
  *
  *   <ThemeProvider theme={studyTheme}>
- *     <NotesPage data={data} />
+ *     <NotesPage3 data={data} />
  *   </ThemeProvider>
  *
  * Note: this component sets all surface/text colors explicitly via sx, so
- * it renders correctly even if studyTheme itself is still in light mode.
- * If you do control studyTheme, setting palette.mode: "dark" there too
+ * it renders correctly even if studyTheme itself is still in dark mode.
+ * If you do control studyTheme, setting palette.mode: "light" there too
  * will keep MUI's own defaults (scrollbars, native inputs, etc.) consistent.
  */
 
@@ -56,20 +56,29 @@ import RadioButtonUncheckedIcon from "@mui/icons-material/RadioButtonUnchecked";
 import palette from "../../theme/Theme3.jsx";
 import CommonTable from "../../component/CommonTable.jsx";
 
-// ---------- type scale ----------
+// ---------------------------------------------------------------------------
+// Type scale
 // A serif display face for anything that should feel "written in a book",
 // a quiet sans for body copy that needs to be read fast at revision speed.
+// ---------------------------------------------------------------------------
 const FONT_DISPLAY = '"Source Serif Pro", Georgia, "Times New Roman", serif';
 const FONT_BODY =
   '"Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
 
-// ---------- ReadLine: the "finger tracing the page" primitive ----------
-// Wraps any line of text so it glows + underlines on hover, and "pins"
-// that same treatment on click (click again to release). Uses a unique
-// id per instance so multiple ReadLines on a page don't fight each other
-// when each manages its own pinned state — pinning is local to the line,
-// not global, which keeps behaviour predictable inside long accordions.
-const ReadLine = ({ children, sx, color, component = "div", variant = "body2", ...rest }) => {
+// ---------------------------------------------------------------------------
+// ReadLine — the "finger tracing the page" primitive
+// Wraps any line of text so it glows + underlines on hover, and "pins" that
+// same treatment on click (click again to release). Pinning is local to the
+// line, not global, which keeps behaviour predictable inside long accordions.
+// ---------------------------------------------------------------------------
+const ReadLine = ({
+  children,
+  sx,
+  color,
+  component = "div",
+  variant = "body2",
+  ...rest
+}) => {
   const [pinned, setPinned] = useState(false);
   const glowColor = color || palette.gold;
 
@@ -83,16 +92,17 @@ const ReadLine = ({ children, sx, color, component = "div", variant = "body2", .
         display: "inline-block",
         borderBottom: "1px solid transparent",
         textDecoration: "none",
-        transition: "color 0.18s ease, text-shadow 0.18s ease, border-color 0.18s ease",
+        transition:
+          "color 0.18s ease, text-shadow 0.18s ease, border-color 0.18s ease",
         "&:hover": {
           color: glowColor,
           borderBottomColor: glowColor,
-          textShadow: `0 0 10px ${glowColor}55`,
+          textShadow: `0 0 8px ${glowColor}33`,
         },
         ...(pinned && {
           color: glowColor,
           borderBottomColor: glowColor,
-          textShadow: `0 0 10px ${glowColor}66`,
+          textShadow: `0 0 8px ${glowColor}44`,
         }),
         ...sx,
       }}
@@ -103,7 +113,9 @@ const ReadLine = ({ children, sx, color, component = "div", variant = "body2", .
   );
 };
 
-// ---------- shared bits ----------
+// ---------------------------------------------------------------------------
+// Shared building blocks
+// ---------------------------------------------------------------------------
 
 const SectionHeading = ({ children }) => (
   <Typography
@@ -138,6 +150,7 @@ const Panel = ({ children, sx, ...rest }) => (
       borderRadius: 3,
       p: 3,
       mb: 3,
+      boxShadow: palette.shadow,
       ...sx,
     }}
     {...rest}
@@ -149,7 +162,7 @@ const Panel = ({ children, sx, ...rest }) => (
 const FormulaBox = ({ children }) => (
   <Box
     sx={{
-      bgcolor: "rgba(217,178,92,0.06)",
+      bgcolor: palette.goldSoft,
       borderLeft: `3px solid ${palette.gold}`,
       borderRadius: "0 8px 8px 0",
       px: 2,
@@ -182,13 +195,13 @@ const TagWrap = ({ tags }) => {
           sx={{
             bgcolor: palette.mintBg,
             color: palette.green,
-            border: `1px solid rgba(123,217,165,0.3)`,
+            border: `1px solid rgba(30,157,99,0.25)`,
             fontWeight: 600,
             fontFamily: FONT_BODY,
             cursor: "pointer",
             transition: "text-shadow 0.18s ease, border-color 0.18s ease",
             "&:hover": {
-              textShadow: `0 0 8px ${palette.green}66`,
+              textShadow: `0 0 6px ${palette.green}44`,
               borderColor: palette.green,
             },
           }}
@@ -198,15 +211,14 @@ const TagWrap = ({ tags }) => {
   );
 };
 
-// Wrong/right pair, rendered as one annotated card instead of a cream box —
-// a thin red rule for the crossed-out form, a thin green rule for the
-// corrected one, like a teacher's pen marks on a dark page. Each line is a
-// ReadLine so hovering/clicking either the wrong or right form glows/
-// underlines just that line.
+// Wrong/right pair, rendered as one annotated card — a thin red rule for the
+// crossed-out form, a thin green rule for the corrected one, like a
+// teacher's pen marks on the page. Each line is a ReadLine so hovering/
+// clicking either the wrong or right form glows/underlines just that line.
 const ExampleBlock = ({ wrong, right }) => (
   <Box
     sx={{
-      bgcolor: "rgba(255,255,255,0.02)",
+      bgcolor: palette.navyRaised,
       border: `1px solid ${palette.border}`,
       borderRadius: 2,
       overflow: "hidden",
@@ -267,24 +279,37 @@ const WrongRightList = ({ pairs }) => (
 // handy when scanning long irregular-plural / foreign-plural tables.
 const RuleTable = ({ rows, tableType }) => (
   <TableContainer
-    sx={{ mb: 2, borderRadius: 2, border: `1px solid ${palette.border}`, overflow: "hidden" }}
+    sx={{
+      mb: 2,
+      borderRadius: 2,
+      border: `1px solid ${palette.border}`,
+      overflow: "hidden",
+    }}
   >
     <Table size="small">
       <TableHead>
         <TableRow sx={{ bgcolor: palette.navyRaised }}>
-          <TableCell sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}>
+          <TableCell
+            sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}
+          >
             Singular
           </TableCell>
           {tableType === "meaningChange" && (
-            <TableCell sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}>
+            <TableCell
+              sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}
+            >
               Meaning
             </TableCell>
           )}
-          <TableCell sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}>
+          <TableCell
+            sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}
+          >
             Plural
           </TableCell>
           {tableType === "meaningChange" && (
-            <TableCell sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}>
+            <TableCell
+              sx={{ color: palette.gold, fontWeight: 700, fontFamily: FONT_BODY }}
+            >
               Meaning
             </TableCell>
           )}
@@ -295,7 +320,7 @@ const RuleTable = ({ rows, tableType }) => (
           <TableRow
             key={i}
             sx={{
-              "&:nth-of-type(even)": { bgcolor: "rgba(255,255,255,0.025)" },
+              "&:nth-of-type(even)": { bgcolor: palette.navyHover },
               "& .MuiTableCell-root": {
                 color: palette.text,
                 borderColor: palette.border,
@@ -310,7 +335,11 @@ const RuleTable = ({ rows, tableType }) => (
             </TableCell>
             {tableType === "meaningChange" && (
               <TableCell>
-                <ReadLine component="span" color={palette.muted} sx={{ fontFamily: FONT_BODY, color: palette.muted }}>
+                <ReadLine
+                  component="span"
+                  color={palette.muted}
+                  sx={{ fontFamily: FONT_BODY, color: palette.muted }}
+                >
                   {r.singularMeaning}
                 </ReadLine>
               </TableCell>
@@ -322,7 +351,11 @@ const RuleTable = ({ rows, tableType }) => (
             </TableCell>
             {tableType === "meaningChange" && (
               <TableCell>
-                <ReadLine component="span" color={palette.muted} sx={{ fontFamily: FONT_BODY, color: palette.muted }}>
+                <ReadLine
+                  component="span"
+                  color={palette.muted}
+                  sx={{ fontFamily: FONT_BODY, color: palette.muted }}
+                >
                   {r.pluralMeaning}
                 </ReadLine>
               </TableCell>
@@ -334,7 +367,9 @@ const RuleTable = ({ rows, tableType }) => (
   </TableContainer>
 );
 
-// ---------- rule accordion item ----------
+// ---------------------------------------------------------------------------
+// Rule accordion item
+// ---------------------------------------------------------------------------
 
 // A circular "wax seal" badge for the rule number, instead of a flat chip —
 // reads more like a chapter marker in a notebook than a UI control.
@@ -351,7 +386,7 @@ const RuleMedallion = ({ id, revised }) => (
       fontFamily: FONT_DISPLAY,
       fontWeight: 700,
       fontSize: "0.95rem",
-      bgcolor: revised ? palette.goldSoft : "rgba(255,255,255,0.04)",
+      bgcolor: revised ? palette.goldSoft : palette.navyHover,
       border: `1.5px solid ${revised ? palette.gold : palette.borderStrong}`,
       color: revised ? palette.gold : palette.muted,
       transition: "all 0.2s ease",
@@ -373,7 +408,7 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
       border: `1px solid ${expanded ? palette.gold : palette.border}`,
       overflow: "hidden",
       "&:before": { display: "none" },
-      boxShadow: expanded ? `0 4px 24px rgba(217,178,92,0.08)` : "none",
+      boxShadow: expanded ? palette.glow : "none",
       transition: "border-color 0.2s ease",
     }}
   >
@@ -392,7 +427,12 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
       <RuleMedallion id={rule.id} revised={revised} />
       <ReadLine
         component="span"
-        sx={{ color: palette.text, fontFamily: FONT_DISPLAY, fontWeight: 600, fontSize: "1.05rem" }}
+        sx={{
+          color: palette.text,
+          fontFamily: FONT_DISPLAY,
+          fontWeight: 600,
+          fontSize: "1.05rem",
+        }}
       >
         {rule.title}
       </ReadLine>
@@ -424,7 +464,7 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
                 p: 1.5,
                 borderRadius: 2,
                 border: `1px solid ${palette.border}`,
-                bgcolor: "rgba(255,255,255,0.02)",
+                bgcolor: palette.navyRaised,
               }}
             >
               <ReadLine
@@ -454,7 +494,7 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
                 p: 2,
                 borderRadius: 2,
                 border: `1px solid ${palette.border}`,
-                bgcolor: "rgba(255,255,255,0.02)",
+                bgcolor: palette.navyRaised,
               }}
             >
               <ReadLine
@@ -474,7 +514,9 @@ const RuleAccordion = ({ rule, expanded, onToggle, revised }) => (
   </Accordion>
 );
 
-// ---------- main component ----------
+// ---------------------------------------------------------------------------
+// Main component
+// ---------------------------------------------------------------------------
 
 const NotesPage3 = ({ data }) => {
   const [expandedId, setExpandedId] = useState(null);
@@ -501,8 +543,8 @@ const NotesPage3 = ({ data }) => {
         minHeight: "100%",
       }}
     >
-      {/* Header — the only place the gold "lamp glow" and the cream bookmark
-          ribbon appear. Everything else in the page stays quiet. */}
+      {/* Header — the only place the gold "ink glow" and the cream bookmark
+          ribbon appear. Everything else on the page stays quiet. */}
       <Paper
         elevation={0}
         sx={{
@@ -514,6 +556,7 @@ const NotesPage3 = ({ data }) => {
           border: `1px solid ${palette.border}`,
           borderRadius: 4,
           overflow: "hidden",
+          boxShadow: palette.shadow,
           backgroundImage: `radial-gradient(ellipse 70% 100% at 15% 0%, ${palette.goldGlow}, transparent 60%)`,
         }}
       >
@@ -527,7 +570,7 @@ const NotesPage3 = ({ data }) => {
             height: 56,
             bgcolor: palette.cream,
             clipPath: "polygon(0 0, 100% 0, 100% 100%, 50% 78%, 0 100%)",
-            boxShadow: "0 4px 10px rgba(0,0,0,0.35)",
+            boxShadow: "0 4px 10px rgba(30,26,20,0.15)",
           }}
         />
 
@@ -563,7 +606,7 @@ const NotesPage3 = ({ data }) => {
                   color: palette.gold,
                   fontWeight: 600,
                   fontFamily: FONT_BODY,
-                  border: `1px solid rgba(217,178,92,0.25)`,
+                  border: `1px solid rgba(176,118,42,0.25)`,
                 }}
               />
             ))}
@@ -590,7 +633,7 @@ const NotesPage3 = ({ data }) => {
               sx={{
                 height: 6,
                 borderRadius: 3,
-                bgcolor: "rgba(255,255,255,0.08)",
+                bgcolor: palette.navyHover,
                 "& .MuiLinearProgress-bar": { bgcolor: palette.gold },
               }}
             />
@@ -620,7 +663,7 @@ const NotesPage3 = ({ data }) => {
                     cursor: "pointer",
                     transition: "text-shadow 0.18s ease, border-color 0.18s ease, color 0.18s ease",
                     "&:hover": {
-                      textShadow: `0 0 8px ${palette.gold}66`,
+                      textShadow: `0 0 6px ${palette.gold}44`,
                       borderColor: palette.gold,
                       color: palette.gold,
                     },
@@ -645,7 +688,7 @@ const NotesPage3 = ({ data }) => {
                     height: "100%",
                     borderRadius: 2,
                     border: `1px solid ${palette.border}`,
-                    bgcolor: "rgba(255,255,255,0.02)",
+                    bgcolor: palette.navyRaised,
                   }}
                 >
                   <ReadLine
@@ -673,7 +716,7 @@ const NotesPage3 = ({ data }) => {
                             color: palette.green,
                             fontFamily: FONT_BODY,
                             cursor: "pointer",
-                            "&:hover": { textShadow: `0 0 8px ${palette.green}66` },
+                            "&:hover": { textShadow: `0 0 6px ${palette.green}44` },
                           }}
                         />
                       ))}
@@ -699,7 +742,7 @@ const NotesPage3 = ({ data }) => {
                     height: "100%",
                     borderRadius: 2,
                     border: `1px solid ${palette.border}`,
-                    bgcolor: "rgba(255,255,255,0.02)",
+                    bgcolor: palette.navyRaised,
                   }}
                 >
                   <ReadLine
@@ -727,7 +770,7 @@ const NotesPage3 = ({ data }) => {
                             color: palette.green,
                             fontFamily: FONT_BODY,
                             cursor: "pointer",
-                            "&:hover": { textShadow: `0 0 8px ${palette.green}66` },
+                            "&:hover": { textShadow: `0 0 6px ${palette.green}44` },
                           }}
                         />
                       ))}
@@ -753,7 +796,7 @@ const NotesPage3 = ({ data }) => {
                     height: "100%",
                     borderRadius: 2,
                     border: `1px solid ${palette.border}`,
-                    bgcolor: "rgba(255,255,255,0.02)",
+                    bgcolor: palette.navyRaised,
                   }}
                 >
                   <ReadLine
@@ -775,7 +818,7 @@ const NotesPage3 = ({ data }) => {
                           borderColor: palette.borderStrong,
                           fontFamily: FONT_BODY,
                           cursor: "pointer",
-                          "&:hover": { textShadow: `0 0 8px ${palette.gold}66`, borderColor: palette.gold },
+                          "&:hover": { textShadow: `0 0 6px ${palette.gold}44`, borderColor: palette.gold },
                         }}
                       />
                     ))}
@@ -829,7 +872,7 @@ const NotesPage3 = ({ data }) => {
                   color: palette.amber,
                   fontFamily: FONT_BODY,
                   cursor: "pointer",
-                  "&:hover": { textShadow: `0 0 8px ${palette.gold}77` },
+                  "&:hover": { textShadow: `0 0 6px ${palette.gold}55` },
                 }}
                 variant="outlined"
               />
@@ -858,7 +901,7 @@ const NotesPage3 = ({ data }) => {
                     p: 2,
                     borderRadius: 2,
                     border: `1px solid ${palette.border}`,
-                    bgcolor: "rgba(255,255,255,0.02)",
+                    bgcolor: palette.navyRaised,
                   }}
                 >
                   <ReadLine
@@ -889,7 +932,7 @@ const NotesPage3 = ({ data }) => {
             mb: 1,
             borderRadius: 3,
             bgcolor: palette.mintBg,
-            border: `1px solid rgba(123,217,165,0.25)`,
+            border: `1px solid rgba(30,157,99,0.25)`,
           }}
         >
           <ReadLine color={palette.green} sx={{ color: palette.green, fontWeight: 600, fontFamily: FONT_BODY }}>

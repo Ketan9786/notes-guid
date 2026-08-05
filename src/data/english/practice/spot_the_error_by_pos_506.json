@@ -1,0 +1,3629 @@
+{
+  "title": "SSC Spot the Error - Practice by Parts of Speech",
+  "description": "Grammar error-spotting practice questions from SSC CGL/CHSL/MTS/CPO/Stenographer exams, categorized by part of speech / grammar concept.",
+  "categories": [
+    {
+      "category": "Noun",
+      "topics": [
+        "Countable/Uncountable nouns",
+        "Singular/Plural nouns",
+        "Possessive nouns"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The committee has postponed 1 the announcement until 2 further informations is received 3 from the regional offices. 4",
+          "error_part": 3,
+          "correction": "further information is received",
+          "explanation": "Information is an uncountable noun and has no plural form."
+        },
+        {
+          "id": 2,
+          "sentence": "A large number of equipments were delivered to the warehouse 1 last week 2 to support the upcoming production schedule 3 without any delay. 4",
+          "error_part": 1,
+          "correction": "A large number of equipment",
+          "explanation": "Equipment is an uncountable noun; it has no plural form 'equipments'."
+        },
+        {
+          "id": 3,
+          "sentence": "The manager distributed 1 many important informations 2 during the morning briefing, 3 causing some confusion. 4",
+          "error_part": 2,
+          "correction": "many pieces of important information",
+          "explanation": "Information is uncountable; use 'pieces of information' instead of 'informations'."
+        },
+        {
+          "id": 4,
+          "sentence": "He had never seen 1 such a masterpiece 2 until he 3 visits the gallery last spring. 4",
+          "error_part": 4,
+          "correction": "visited the gallery last spring",
+          "explanation": "The action happened in the past, so the past tense verb 'visited' is required, not present tense 'visits'."
+        },
+        {
+          "id": 5,
+          "sentence": "They enjoyed 1 the sceneries 2 during their trip 3 to the mountains 4.",
+          "error_part": 2,
+          "correction": "the scenery",
+          "explanation": "Scenery is an uncountable noun and does not take a plural 's'."
+        },
+        {
+          "id": 6,
+          "sentence": "The news are 1 quite surprising 2 and hard to believe 3 for the public 4.",
+          "error_part": 1,
+          "correction": "The news is",
+          "explanation": "'News' is grammatically singular although it ends in 's'; hence it takes a singular verb 'is'."
+        },
+        {
+          "id": 7,
+          "sentence": "Had he been knowing 1 about the regulatory changes 2 he would not have proceeded 3 with the merger deal. 4",
+          "error_part": 1,
+          "correction": "Had he known",
+          "explanation": "Third conditional structure requires 'had + V3', not 'had been knowing'."
+        },
+        {
+          "sentence": "Two of the worlds best forwards has played alongside David Beckham.",
+          "error_part": "has played alongside",
+          "correction": "have played alongside",
+          "explanation": "'Two of the world's best forwards' is a plural subject and requires the plural verb 'have'.",
+          "id": 8
+        },
+        {
+          "sentence": "These pieces of equipments are handled by trained technicians.",
+          "error_part": "equipments",
+          "correction": "equipment",
+          "explanation": "Equipment, furniture, jewellery, scenery, poetry are always singular/uncountable and never take a plural 's'.",
+          "id": 9
+        },
+        {
+          "sentence": "I want to spend some quiet moments in the forest passing with trees and enjoy the peaceful natural scenery.",
+          "error_part": "forest passing with trees",
+          "correction": "forest passing by trees",
+          "explanation": "'Passing with trees' is illogical since trees are stationary; 'passing by' correctly conveys movement alongside them.",
+          "id": 10
+        },
+        {
+          "sentence": "The sceneries of Ooty was wonderful.",
+          "error_part": "The sceneries",
+          "correction": "The scenery",
+          "explanation": "'Scenery' is an uncountable noun and has no plural form.",
+          "id": 11
+        },
+        {
+          "sentence": "Mr. Suman asked me to pack my luggages.",
+          "error_part": "my luggages",
+          "correction": "my luggage",
+          "explanation": "'Luggage' is an uncountable noun and does not take a plural 's'.",
+          "id": 12
+        },
+        {
+          "sentence": "The manager distributed 1 many important informations 2 during the morning briefing.",
+          "error_part": 2,
+          "correction": "many pieces of important information",
+          "explanation": "'Information' is uncountable; use 'pieces of information' for quantity.",
+          "id": 13
+        },
+        {
+          "sentence": "I have a lot of work to complete but I wish I had eraser to erase all the mistakes in my life.",
+          "error_part": "I wish I had eraser",
+          "correction": "I wish I had an eraser",
+          "explanation": "'Eraser' is a countable singular noun and needs the indefinite article 'an' before it.",
+          "id": 14
+        },
+        {
+          "id": 15,
+          "sentence": "Two of the worlds best forwards has played alongside David Beckham.",
+          "error_part": "has played",
+          "correction": "have played",
+          "explanation": "Plural subject 'Two of the world's best forwards' needs plural verb 'have'."
+        },
+        {
+          "id": 16,
+          "sentence": "I have the hundred reasons to not attend the meeting tomorrow.",
+          "error_part": "the hundred reasons",
+          "correction": "a hundred reasons",
+          "explanation": "'A hundred' is the correct quantifier, not 'the hundred'."
+        },
+        {
+          "id": 17,
+          "sentence": "My students are waiting for their flights at the gate no. 6.",
+          "error_part": "at the gate no. 6",
+          "correction": "at gate no. 6",
+          "explanation": "Definite article 'the' is omitted before specific numbered gates/rooms."
+        },
+        {
+          "id": 18,
+          "sentence": "This artwork are a wonderful example of the period's vogue for realistic style.",
+          "error_part": "artwork are",
+          "correction": "artwork is",
+          "explanation": "'Artwork' is an uncountable singular noun and takes the singular verb 'is'."
+        },
+        {
+          "id": 19,
+          "sentence": "One must do his/her duty properly.",
+          "error_part": "his/her duty",
+          "correction": "one's duty",
+          "explanation": "With the indefinite pronoun 'one', the possessive 'one's' should be used for consistency."
+        },
+        {
+          "id": 20,
+          "sentence": "The soldiers were selected on the section of gallantry of spirits.",
+          "error_part": "on the section",
+          "correction": "on the basis",
+          "explanation": "'Basis' is the correct noun; 'section' does not fit the intended meaning."
+        },
+        {
+          "id": 21,
+          "sentence": "These pieces of equipments are handled by trained technicians.",
+          "error_part": "equipments",
+          "correction": "equipment",
+          "explanation": "'Equipment' is uncountable and never takes a plural 's'."
+        },
+        {
+          "id": 22,
+          "sentence": "A great culture of hospitality of the Spanish is well-known.",
+          "error_part": "A great culture",
+          "correction": "The great culture",
+          "explanation": "Referring to a specific, well-known cultural trait requires the definite article 'the'."
+        },
+        {
+          "id": 23,
+          "sentence": "He has a passion in writing short stories.",
+          "error_part": "passion in",
+          "correction": "passion for",
+          "explanation": "'Passion' takes the fixed preposition 'for'."
+        },
+        {
+          "id": 24,
+          "sentence": "Ms. Malathi is living lonely in an apartment.",
+          "error_part": "living lonely",
+          "correction": "living alone",
+          "explanation": "'Alone' means by oneself; 'lonely' describes feeling sad/isolated, not physical solitude here."
+        },
+        {
+          "id": 25,
+          "sentence": "My neighbours were serious injured in the car accident.",
+          "error_part": "serious injured",
+          "correction": "seriously injured",
+          "explanation": "Adverb 'seriously' is needed to modify 'injured', not the adjective 'serious'."
+        },
+        {
+          "id": 26,
+          "sentence": "Mr. Thomas is going to buy horse.",
+          "error_part": "buy horse",
+          "correction": "buy a horse",
+          "explanation": "'Horse' is a countable singular noun and needs the indefinite article 'a'."
+        },
+        {
+          "id": 27,
+          "sentence": "This is a doll and there is a umbrella.",
+          "error_part": "a umbrella",
+          "correction": "an umbrella",
+          "explanation": "'Umbrella' begins with a vowel sound requiring 'an'."
+        },
+        {
+          "id": 28,
+          "sentence": "The organization's data, which has been collected and analyzed for over a decade, support the conclusion.",
+          "error_part": "support the conclusion",
+          "correction": "supports the conclusion",
+          "explanation": "'Data' used as a mass noun here is singular and takes 'supports'."
+        },
+        {
+          "id": 29,
+          "sentence": "The constant interruptions by the workers was deeply annoyed the manager.",
+          "error_part": "was deeply annoyed",
+          "correction": "deeply annoyed",
+          "explanation": "'Was' is redundant; 'annoyed' functions as the main past-tense verb here."
+        },
+        {
+          "id": 30,
+          "sentence": "The basic principles of science is hard to grasp.",
+          "error_part": "principles of science is",
+          "correction": "principles of science are",
+          "explanation": "'Principles' is plural and requires the plural verb 'are'."
+        },
+        {
+          "id": 31,
+          "sentence": "Half of the rooms are empty.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Half of the rooms' (plural) correctly takes the plural verb 'are'."
+        },
+        {
+          "id": 32,
+          "sentence": "All of the cities in New York is being affected by the rain yesterday.",
+          "error_part": "is being affected",
+          "correction": "were affected",
+          "explanation": "'Cities' is plural, requiring plural verb; also tense should match 'yesterday' (past)."
+        },
+        {
+          "id": 33,
+          "sentence": "Most of coffee sold in Europe comes from India.",
+          "error_part": "Most of coffee",
+          "correction": "Most of the coffee",
+          "explanation": "'Most of' generally requires a determiner like 'the' before the noun."
+        },
+        {
+          "id": 34,
+          "sentence": "Twenty percent of the students in the class speak three languages.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Twenty percent of the students' (plural) correctly takes the plural verb 'speak'."
+        },
+        {
+          "id": 35,
+          "sentence": "Thirty-five minutes is a very long coffee break.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Time durations are treated as singular units, so 'is' is correct."
+        },
+        {
+          "id": 36,
+          "sentence": "The selection committee were undivided in their decision to hire the new recruits.",
+          "error_part": "were undivided",
+          "correction": "was undivided",
+          "explanation": "'Committee' acting as a single unit takes the singular verb 'was'."
+        },
+        {
+          "id": 37,
+          "sentence": "When the famous businessman faced a huge loss in his business, no one expressed simpathy.",
+          "error_part": "simpathy",
+          "correction": "sympathy",
+          "explanation": "Correct spelling is 'sympathy', not 'simpathy'."
+        },
+        {
+          "id": 38,
+          "sentence": "The make-up room was filled with incadescent lights.",
+          "error_part": "incadescent",
+          "correction": "incandescent",
+          "explanation": "Correct spelling is 'incandescent', not 'incadescent'."
+        },
+        {
+          "id": 39,
+          "sentence": "Riya's dress is bright and colorful.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 40,
+          "sentence": "These pieces of equipments are handled by trained technicians.",
+          "error_part": "equipments",
+          "correction": "equipment",
+          "explanation": "'Equipment' is uncountable and never takes a plural 's'."
+        },
+        {
+          "id": 41,
+          "sentence": "The compensation that the Government agreed to provide to the dependents of the train accident victims is fairly less.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence structure and vocabulary are correctly used here."
+        },
+        {
+          "id": 42,
+          "sentence": "Mr. Narayanan is a rather lazy man.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 43,
+          "sentence": "Brr, the city view from the Eiffel Tower is amazing!",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The interjection and sentence structure are correctly used here."
+        },
+        {
+          "id": 44,
+          "sentence": "Indian force are known for their loyalty and integrity.",
+          "error_part": "Indian force are",
+          "correction": "Indian forces are",
+          "explanation": "'Force' referring to military/police is typically pluralized as 'forces' in this context."
+        },
+        {
+          "id": 45,
+          "sentence": "The Aravallis are the oldest mountains of the west.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 46,
+          "sentence": "There are not many supporters of Netaji these days.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 47,
+          "sentence": "This is a doll and there is a umbrella.",
+          "error_part": "a umbrella",
+          "correction": "an umbrella",
+          "explanation": "'Umbrella' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 48,
+          "sentence": "A owl is a bird which has wide eyes, asymmetrical ears and is found mostly in forests.",
+          "error_part": "A owl",
+          "correction": "An owl",
+          "explanation": "'Owl' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 49,
+          "sentence": "I am going to buy a red car with a leather seats and a sunroof.",
+          "error_part": "a leather seats",
+          "correction": "leather seats",
+          "explanation": "'Seats' is plural and cannot take the singular article 'a'."
+        }
+      ]
+    },
+    {
+      "category": "Pronoun",
+      "topics": [
+        "Pronoun-antecedent agreement",
+        "Reflexive/possessive pronouns",
+        "Relative pronouns"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The rose tried A to move them B roots away C from the cactus D.",
+          "error_part": "B",
+          "correction": "to move its roots away",
+          "explanation": "The rose is a non-living/singular thing, so the possessive pronoun 'its' should be used instead of 'them'."
+        },
+        {
+          "id": 2,
+          "sentence": "It seems A the I am the most B beautiful tree C in this forest D.",
+          "error_part": "A",
+          "correction": "It seems that I am the most",
+          "explanation": "We do not use articles ('the') before personal pronouns like 'I'; the conjunction 'that' should join the clauses instead."
+        },
+        {
+          "id": 3,
+          "sentence": "One must keep his promises.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct; 'his' correctly refers back to the indefinite pronoun 'One'."
+        },
+        {
+          "id": 4,
+          "sentence": "This is the man A who I think B had stolen the book C in the train D.",
+          "error_part": "B",
+          "correction": "who I thought",
+          "explanation": "The sentence narrates a past event, so the past tense 'thought' is required instead of 'think'."
+        },
+        {
+          "id": 5,
+          "sentence": "Neither of the two girls have completed her assignment.",
+          "error_part": "b",
+          "correction": "girls has completed their",
+          "explanation": "'Neither of' is always singular and takes a singular verb; plural pronoun 'their' agrees with the implied singular subject in modern usage."
+        },
+        {
+          "sentence": "Ourselves should not boast of ones knowledge.",
+          "error_part": "Ourselves",
+          "correction": "One",
+          "explanation": "The reflexive pronoun 'Ourselves' cannot function as the subject; the indefinite pronoun 'One' should be used instead.",
+          "id": 6
+        },
+        {
+          "sentence": "Neither of the two girls have completed her assignment.",
+          "error_part": "girls have",
+          "correction": "girls has",
+          "explanation": "'Neither of' is always treated as singular, so it takes the singular verb 'has', not 'have'.",
+          "id": 7
+        },
+        {
+          "sentence": "He as well as his brothers were present.",
+          "error_part": "were present",
+          "correction": "was present",
+          "explanation": "With 'as well as', the verb agrees with the first subject 'He' (singular), so 'was' is correct.",
+          "id": 8
+        },
+        {
+          "sentence": "Mr. Vinu has never slept in a igloo.",
+          "error_part": "a igloo",
+          "correction": "an igloo",
+          "explanation": "'Igloo' starts with a vowel sound, so the article 'an' should be used instead of 'a'.",
+          "id": 9
+        },
+        {
+          "sentence": "They has some of the most intricate wood-carved figurines I have ever seen.",
+          "error_part": "They has",
+          "correction": "They have",
+          "explanation": "'They' is a plural pronoun and requires the plural auxiliary verb 'have', not 'has'.",
+          "id": 10
+        },
+        {
+          "id": 11,
+          "sentence": "Neither of the two brothers are trustworthy.",
+          "error_part": "are trustworthy",
+          "correction": "is trustworthy",
+          "explanation": "'Neither of' is always singular and takes a singular verb."
+        },
+        {
+          "id": 12,
+          "sentence": "Neither of the two girls have completed her assignment.",
+          "error_part": "have completed",
+          "correction": "has completed",
+          "explanation": "'Neither of' takes a singular verb 'has', not 'have'."
+        },
+        {
+          "id": 13,
+          "sentence": "One must keep his promises.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is correct; 'his' properly refers to the indefinite pronoun 'One'."
+        },
+        {
+          "id": 14,
+          "sentence": "He divided the sweets between his five friends.",
+          "error_part": "between",
+          "correction": "among",
+          "explanation": "'Between' is used for two entities; 'among' is correct for more than two, here five friends."
+        },
+        {
+          "id": 15,
+          "sentence": "The behaviour of these students leave much to be desired.",
+          "error_part": "leave much",
+          "correction": "leaves much",
+          "explanation": "'Behaviour' is singular and requires the singular verb 'leaves'."
+        },
+        {
+          "id": 16,
+          "sentence": "It seems the I am the most beautiful tree in this forest.",
+          "error_part": "the I am",
+          "correction": "that I am",
+          "explanation": "We do not use articles before personal pronouns; 'that' should join the two clauses."
+        },
+        {
+          "id": 17,
+          "sentence": "This is the man who I think had stolen the book in the train.",
+          "error_part": "who I think",
+          "correction": "who I thought",
+          "explanation": "The narration is in the past, so 'thought' (past tense) is required instead of 'think'."
+        },
+        {
+          "id": 18,
+          "sentence": "The rose tried to move them roots away from the cactus.",
+          "error_part": "move them roots",
+          "correction": "move its roots",
+          "explanation": "'Its' is the correct possessive pronoun for a non-living singular subject like 'rose'."
+        },
+        {
+          "id": 19,
+          "sentence": "They has some of the most intricate wood-carved figurines I have ever seen.",
+          "error_part": "They has",
+          "correction": "They have",
+          "explanation": "'They' is plural and takes the plural auxiliary verb 'have'."
+        },
+        {
+          "id": 20,
+          "sentence": "Each of the candidates were given a chance to present their ideas.",
+          "error_part": "were given",
+          "correction": "was given",
+          "explanation": "'Each' is always singular and requires the singular verb 'was'."
+        },
+        {
+          "id": 21,
+          "sentence": "The team, was confident about their strategy, and hoped it would succeed.",
+          "error_part": "about their strategy",
+          "correction": "about its strategy",
+          "explanation": "'Team' as a singular collective unit should be paired with 'its', not 'their'."
+        },
+        {
+          "id": 22,
+          "sentence": "Everyone is deeply concerned about the deteriorating air quality.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Everyone' correctly takes the singular verb 'is'."
+        },
+        {
+          "id": 23,
+          "sentence": "Many a man has sacrificed for the safety of this nation.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Many a' is always followed by a singular noun and singular verb, correctly used here."
+        },
+        {
+          "id": 24,
+          "sentence": "The number of emigrants has reduced significantly.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'The number of' is treated as singular and correctly takes 'has'."
+        },
+        {
+          "id": 25,
+          "sentence": "Neither of the boys are misbehaving.",
+          "error_part": "are misbehaving",
+          "correction": "is misbehaving",
+          "explanation": "'Neither of' is always singular and takes the singular verb 'is'."
+        },
+        {
+          "id": 26,
+          "sentence": "Either of the solutions seem to cause serious problems.",
+          "error_part": "seem to cause",
+          "correction": "seems to cause",
+          "explanation": "'Either of' is singular and requires the singular verb 'seems'."
+        },
+        {
+          "id": 27,
+          "sentence": "One of the houses in the colony is over a hundred years old.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'One' is the true singular subject, correctly taking 'is'."
+        },
+        {
+          "id": 28,
+          "sentence": "The Alps are the most picturesque mountains in the south and is very popular.",
+          "error_part": "and is very popular",
+          "correction": "and are very popular",
+          "explanation": "'The Alps' is plural throughout the sentence and must consistently take 'are'."
+        },
+        {
+          "id": 29,
+          "sentence": "A lot of books and notes placed in order look most fascinating.",
+          "error_part": "look most fascinating",
+          "correction": "look fascinating",
+          "explanation": "'Most' is redundant here as 'fascinating' does not require superlative degree in this context."
+        },
+        {
+          "id": 30,
+          "sentence": "The painter is painting the wall right now.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Present continuous tense correctly describes an action happening now."
+        },
+        {
+          "id": 31,
+          "sentence": "I am observing your mischievous activities for half an hour.",
+          "error_part": "I am observing",
+          "correction": "I have been observing",
+          "explanation": "Present perfect continuous is needed for an action that started in the past and continues, with duration 'for half an hour'."
+        },
+        {
+          "id": 32,
+          "sentence": "I have performed all my duties with utmost sincerity.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Present perfect tense correctly conveys a completed action with present relevance."
+        },
+        {
+          "id": 33,
+          "sentence": "The mother cooks delicious food for her children.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Simple present tense correctly describes a habitual action."
+        }
+      ]
+    },
+    {
+      "category": "Verb (Tense & Subject-Verb Agreement)",
+      "topics": [
+        "Subject-Verb agreement",
+        "Tense consistency",
+        "Modal verbs",
+        "Conditional sentences"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "Neither the students nor the teacher 1 were ready for the sudden fire drill, 2 leading to a moment of confusion 3 before everyone evacuated. 4",
+          "error_part": 2,
+          "correction": "was ready for the sudden fire drill",
+          "explanation": "When 'neither...nor' connects two subjects, the verb agrees with the subject closer to it - here 'teacher' (singular), so 'was' is correct."
+        },
+        {
+          "id": 2,
+          "sentence": "The manager, along with her entire team, 1 expects that the project will be completed 2 before the deadline, and they shall submits 3 the final report on Friday. 4",
+          "error_part": 3,
+          "correction": "they shall submit",
+          "explanation": "After modal verbs like 'shall', the main verb must be in its base form."
+        },
+        {
+          "id": 3,
+          "sentence": "The committee, which oversee multiple departments, 1 has been granted additional funds 2 to implement the new sustainability policies 3 across all regional offices. 4",
+          "error_part": 1,
+          "correction": "which oversees multiple departments",
+          "explanation": "'Committee' is singular, so it requires the singular verb 'oversees'."
+        },
+        {
+          "id": 4,
+          "sentence": "By the time they arrive, the concert had ended.",
+          "error_part": "b",
+          "correction": "By the time they arrived",
+          "explanation": "Past perfect 'had ended' requires a simple past tense in the accompanying clause: 'arrived', not 'arrive'."
+        },
+        {
+          "id": 5,
+          "sentence": "If the guidelines is enforced strictly 1 every participating institution 2 will be required to update its database 3 before the annual review begins. 4",
+          "error_part": 1,
+          "correction": "If the guidelines are enforced strictly",
+          "explanation": "'Guidelines' is plural, so it requires the plural verb 'are', not 'is'."
+        },
+        {
+          "id": 6,
+          "sentence": "If I was the manager, I would change the policy.",
+          "error_part": "b",
+          "correction": "If I were the manager",
+          "explanation": "In hypothetical/subjunctive conditional sentences, 'were' is used with 'I' instead of 'was'."
+        },
+        {
+          "id": 7,
+          "sentence": "By the end of this month, he will been working for five years.",
+          "error_part": "b",
+          "correction": "he will have been working",
+          "explanation": "Future perfect continuous tense requires the structure 'will have been + V-ing'."
+        },
+        {
+          "sentence": "Neither Ram nor his brothers is reliable.",
+          "error_part": "is reliable",
+          "correction": "are reliable",
+          "explanation": "When 'neither...nor' joins subjects of different number, the verb agrees with the nearer subject - here 'brothers' (plural), so 'are' is correct.",
+          "id": 8
+        },
+        {
+          "sentence": "The number of applicants have increased this year.",
+          "error_part": "have increased",
+          "correction": "has increased",
+          "explanation": "'The number of' is treated as singular and takes a singular verb 'has'.",
+          "id": 9
+        },
+        {
+          "sentence": "The jury was divided in their opinions.",
+          "error_part": "in their opinions",
+          "correction": "in its opinion",
+          "explanation": "'Jury' is a collective noun treated as a single unit here, so it takes the singular pronoun 'its', not 'their'.",
+          "id": 10
+        },
+        {
+          "sentence": "He has come yesterday.",
+          "error_part": "has come",
+          "correction": "came",
+          "explanation": "'Yesterday' indicates a definite past time, so the simple past tense 'came' is required instead of the present perfect.",
+          "id": 11
+        },
+        {
+          "sentence": "He is living in Chennai since five years.",
+          "error_part": "is living...since five years",
+          "correction": "has been living...for five years",
+          "explanation": "'Since' is used with a point in time, while 'for' is used with a duration; present perfect continuous ('has been living') is needed for ongoing actions.",
+          "id": 12
+        },
+        {
+          "sentence": "Hardly had he left the room when the guests have arrived.",
+          "error_part": "when the guests have arrived",
+          "correction": "when the guests arrived",
+          "explanation": "After 'hardly had...when', the second clause should be in the simple past tense, not present perfect.",
+          "id": 13
+        },
+        {
+          "sentence": "I have visited Agra last month.",
+          "error_part": "have visited",
+          "correction": "visited",
+          "explanation": "'Last month' indicates a definite past time, so simple past tense is required instead of present perfect.",
+          "id": 14
+        },
+        {
+          "sentence": "The committee have given its decision.",
+          "error_part": "have given",
+          "correction": "has given",
+          "explanation": "'Committee' acting as a single unit is a singular collective noun and takes the singular verb 'has'.",
+          "id": 15
+        },
+        {
+          "sentence": "One of the questions were very difficult.",
+          "error_part": "were",
+          "correction": "was",
+          "explanation": "'One of the questions' has 'one' as the actual subject, which is singular, so it takes the singular verb 'was'.",
+          "id": 16
+        },
+        {
+          "sentence": "When my father will come, I will make sure that I discuss the possibilities of a new business venture with him.",
+          "error_part": "When my father will come",
+          "correction": "When my father comes",
+          "explanation": "In time clauses beginning with 'when', the simple present tense is used to express future time, not 'will'.",
+          "id": 17
+        },
+        {
+          "sentence": "If I was the manager, I would change the policy.",
+          "error_part": "was the manager",
+          "correction": "were the manager",
+          "explanation": "In hypothetical/subjunctive conditionals, 'were' is used with 'I', not 'was'.",
+          "id": 18
+        },
+        {
+          "sentence": "Had she took the right turn, she would have reached on time.",
+          "error_part": "Had she took",
+          "correction": "Had she taken",
+          "explanation": "Third conditional structure requires 'had + past participle (V3)', so 'taken' should replace 'took'.",
+          "id": 19
+        },
+        {
+          "sentence": "The consultant suggested that the company discontinues the outdated product line.",
+          "error_part": "discontinues",
+          "correction": "discontinue",
+          "explanation": "After verbs like suggest, recommend, insist, demand, the subjunctive base form of the verb is used, not the present tense form.",
+          "id": 20
+        },
+        {
+          "sentence": "Students who does not read newspapers will never be able to receive knowledge in any way.",
+          "error_part": "who does not read",
+          "correction": "who do not read",
+          "explanation": "'Students' is plural, so the relative clause verb must also be plural: 'do not read'.",
+          "id": 21
+        },
+        {
+          "sentence": "He and his friends does not want to attend the meeting.",
+          "error_part": "does not",
+          "correction": "do not",
+          "explanation": "'He and his friends' is a plural compound subject and requires the plural auxiliary verb 'do'.",
+          "id": 22
+        },
+        {
+          "id": 23,
+          "sentence": "Neither Ram nor his brothers is reliable.",
+          "error_part": "is reliable",
+          "correction": "are reliable",
+          "explanation": "With 'neither...nor', the verb agrees with the nearer subject - 'brothers' (plural)."
+        },
+        {
+          "id": 24,
+          "sentence": "Neither the teacher nor the students has arrived yet.",
+          "error_part": "has arrived",
+          "correction": null,
+          "explanation": "With 'neither...nor', the verb agrees with the nearer subject - 'students' (plural), so 'have arrived' is correct; the given sentence is actually correct since 'students' is nearer, confirm no error."
+        },
+        {
+          "id": 25,
+          "sentence": "The number of applicants have increased this year.",
+          "error_part": "have increased",
+          "correction": "has increased",
+          "explanation": "'The number of' is treated as singular."
+        },
+        {
+          "id": 26,
+          "sentence": "The jury was divided in their opinions.",
+          "error_part": "in their opinions",
+          "correction": "in its opinion",
+          "explanation": "'Jury' acting as a unit is singular, taking 'its'."
+        },
+        {
+          "id": 27,
+          "sentence": "He has come yesterday.",
+          "error_part": "has come",
+          "correction": "came",
+          "explanation": "'Yesterday' needs simple past tense, not present perfect."
+        },
+        {
+          "id": 28,
+          "sentence": "He is living in Chennai since five years.",
+          "error_part": "is living...since five years",
+          "correction": "has been living...for five years",
+          "explanation": "'Since' pairs with a point in time; 'for' pairs with duration; present perfect continuous fits ongoing actions."
+        },
+        {
+          "id": 29,
+          "sentence": "Hardly had he left the room when the guests have arrived.",
+          "error_part": "have arrived",
+          "correction": "arrived",
+          "explanation": "After 'hardly had...when', the second clause needs simple past tense."
+        },
+        {
+          "id": 30,
+          "sentence": "I have visited Agra last month.",
+          "error_part": "have visited",
+          "correction": "visited",
+          "explanation": "'Last month' needs simple past tense."
+        },
+        {
+          "id": 31,
+          "sentence": "The committee have given its decision.",
+          "error_part": "have given",
+          "correction": "has given",
+          "explanation": "'Committee' as a unit is singular."
+        },
+        {
+          "id": 32,
+          "sentence": "One of the questions were very difficult.",
+          "error_part": "were",
+          "correction": "was",
+          "explanation": "'One' is the true subject and is singular."
+        },
+        {
+          "id": 33,
+          "sentence": "When my father will come, I will make sure that I discuss the possibilities.",
+          "error_part": "will come",
+          "correction": "comes",
+          "explanation": "Time clauses with 'when' use simple present to express future time."
+        },
+        {
+          "id": 34,
+          "sentence": "If I was the manager, I would change the policy.",
+          "error_part": "was the manager",
+          "correction": "were the manager",
+          "explanation": "Subjunctive mood requires 'were' with 'I' in hypothetical conditionals."
+        },
+        {
+          "id": 35,
+          "sentence": "Had she took the right turn, she would have reached on time.",
+          "error_part": "Had she took",
+          "correction": "Had she taken",
+          "explanation": "Third conditional needs 'had + past participle'."
+        },
+        {
+          "id": 36,
+          "sentence": "The consultant suggested that the company discontinues the outdated product line.",
+          "error_part": "discontinues",
+          "correction": "discontinue",
+          "explanation": "Subjunctive base form follows verbs like 'suggest', 'insist', 'recommend'."
+        },
+        {
+          "id": 37,
+          "sentence": "Students who does not read newspapers will never be able to receive knowledge.",
+          "error_part": "who does not read",
+          "correction": "who do not read",
+          "explanation": "'Students' plural subject needs plural verb 'do'."
+        },
+        {
+          "id": 38,
+          "sentence": "He and his friends does not want to attend the meeting.",
+          "error_part": "does not",
+          "correction": "do not",
+          "explanation": "Compound plural subject requires plural auxiliary verb."
+        },
+        {
+          "id": 39,
+          "sentence": "By the time they arrive, the concert had ended.",
+          "error_part": "arrive",
+          "correction": "arrived",
+          "explanation": "Sequence of tenses with past perfect requires simple past in the accompanying clause."
+        },
+        {
+          "id": 40,
+          "sentence": "She has been teaching in this school since five years.",
+          "error_part": "since five years",
+          "correction": "for five years",
+          "explanation": "'For' is used with duration, 'since' with a point in time."
+        },
+        {
+          "id": 41,
+          "sentence": "Each participant who registered online for the event were given a welcome kit.",
+          "error_part": "were given",
+          "correction": "was given",
+          "explanation": "'Each' is always singular, so singular verb 'was' is correct."
+        },
+        {
+          "id": 42,
+          "sentence": "One of the guest speakers who addressed the seminar were praised widely.",
+          "error_part": "were praised",
+          "correction": "was praised",
+          "explanation": "'One' is the actual subject and is singular."
+        },
+        {
+          "id": 43,
+          "sentence": "The application forms which were downloaded from the portal is being processed in batches.",
+          "error_part": "is being processed",
+          "correction": "are being processed",
+          "explanation": "'Forms' is plural, requiring plural verb 'are'."
+        },
+        {
+          "id": 44,
+          "sentence": "The new guidelines regarding safety protocols has not yet been implemented.",
+          "error_part": "has not yet been implemented",
+          "correction": "have not yet been implemented",
+          "explanation": "'Guidelines' is plural and needs plural verb 'have'."
+        },
+        {
+          "id": 45,
+          "sentence": "The official documents submitted by the vendor lacks some critical information.",
+          "error_part": "lacks",
+          "correction": "lack",
+          "explanation": "'Documents' is plural and needs plural verb 'lack'."
+        },
+        {
+          "id": 46,
+          "sentence": "He always is arriving late to meetings.",
+          "error_part": "always is arriving",
+          "correction": "is always arriving",
+          "explanation": "Adverb placement: 'always' should come between the auxiliary and main verb."
+        },
+        {
+          "id": 47,
+          "sentence": "The manager together with his staff have gone for lunch.",
+          "error_part": "have gone",
+          "correction": "has gone",
+          "explanation": "'Together with' phrases don't affect subject number; 'manager' (singular) takes 'has'."
+        },
+        {
+          "id": 48,
+          "sentence": "He prevented me from get lost when we drove back from the airport.",
+          "error_part": "from get lost",
+          "correction": "from getting lost",
+          "explanation": "'Prevent...from' is followed by a gerund, not the base verb."
+        },
+        {
+          "id": 49,
+          "sentence": "She prevented me to enter the hall.",
+          "error_part": "prevented me to enter",
+          "correction": "prevented me from entering",
+          "explanation": "'Prevent' takes 'from + gerund', not 'to + infinitive'."
+        },
+        {
+          "id": 50,
+          "sentence": "The team were playing well.",
+          "error_part": "were playing",
+          "correction": null,
+          "explanation": "'Team' can take plural verb when referring to individual members playing collectively; considered correct in this context - No error."
+        },
+        {
+          "id": 51,
+          "sentence": "She does not know to swim.",
+          "error_part": "know to swim",
+          "correction": "know how to swim",
+          "explanation": "'Know' with skills requires 'how to' rather than plain 'to'."
+        },
+        {
+          "id": 52,
+          "sentence": "She insisted to accompany me.",
+          "error_part": "insisted to accompany",
+          "correction": "insisted on accompanying",
+          "explanation": "'Insist' takes 'on + gerund', not 'to + infinitive'."
+        },
+        {
+          "id": 53,
+          "sentence": "He asked me that where I was going.",
+          "error_part": "asked me that where",
+          "correction": "asked me where",
+          "explanation": "'That' should not be used with an embedded question; 'where' alone suffices."
+        },
+        {
+          "id": 54,
+          "sentence": "Which of the following sentences is grammatically correct? He went to college in a train.",
+          "error_part": "in a train",
+          "correction": "by train",
+          "explanation": "The correct preposition with modes of transport like train/bus/car is 'by', without an article."
+        },
+        {
+          "id": 55,
+          "sentence": "If he had spoken to my father, he would tell him where I was.",
+          "error_part": "he would tell",
+          "correction": "he would have told",
+          "explanation": "Third conditional requires 'would have + past participle' in the main clause."
+        },
+        {
+          "id": 56,
+          "sentence": "No sooner had he entered the hall when the bell rang.",
+          "error_part": "when the bell rang",
+          "correction": "than the bell rang",
+          "explanation": "'No sooner...than' is the correct correlative pair, not 'when'."
+        },
+        {
+          "id": 57,
+          "sentence": "The report, which the internal examiner had insisted should have been uploaded, were actually uploaded three hours after the deadline.",
+          "error_part": "were actually uploaded",
+          "correction": "was actually uploaded",
+          "explanation": "'The report' is a singular subject and requires the singular verb 'was'."
+        },
+        {
+          "id": 58,
+          "sentence": "They celebration the win with music and dancing.",
+          "error_part": "celebration",
+          "correction": "celebrated",
+          "explanation": "A verb is required here; 'celebration' (noun) must be replaced with 'celebrated'."
+        },
+        {
+          "id": 59,
+          "sentence": "What the panel could not anticipate was that the regulatory changes were in fact a culmination of several years of there being dissatisfaction within the sector.",
+          "error_part": "of there being dissatisfaction",
+          "correction": "of dissatisfaction",
+          "explanation": "'There being' is redundant and awkward; simple noun phrase 'of dissatisfaction' is correct."
+        },
+        {
+          "id": 60,
+          "sentence": "We were driving home when suddenly a deer runs across the road.",
+          "error_part": "runs across the road",
+          "correction": "ran across the road",
+          "explanation": "The narrative is in past tense, so 'ran' (past) should replace 'runs' (present)."
+        },
+        {
+          "id": 61,
+          "sentence": "I will be arrange all the necessary materials for the programme.",
+          "error_part": "will be arrange",
+          "correction": "will be arranging",
+          "explanation": "Future continuous tense requires 'will be + V-ing'."
+        },
+        {
+          "id": 62,
+          "sentence": "We took dinner in a Chinese restaurant.",
+          "error_part": "took dinner",
+          "correction": "had dinner",
+          "explanation": "'Have dinner' is the correct idiomatic expression, not 'take dinner'."
+        },
+        {
+          "id": 63,
+          "sentence": "Milk products was provide protein for a nutritionally balanced diet to everyone.",
+          "error_part": "was provide protein",
+          "correction": "provide protein",
+          "explanation": "General truths use simple present tense; plural subject 'milk products' takes 'provide' without 'was'."
+        },
+        {
+          "id": 64,
+          "sentence": "This is the man who I think had stolen the book in the train.",
+          "error_part": "who I think",
+          "correction": "who I thought",
+          "explanation": "Narrating a past event requires past tense 'thought'."
+        },
+        {
+          "id": 65,
+          "sentence": "He had never seen such a masterpiece until he visits the gallery last spring.",
+          "error_part": "visits the gallery",
+          "correction": "visited the gallery",
+          "explanation": "Past context ('last spring') requires the past tense 'visited'."
+        },
+        {
+          "id": 66,
+          "sentence": "She married with a doctor.",
+          "error_part": "married with",
+          "correction": "married to",
+          "explanation": "'Married' takes preposition 'to', not 'with'."
+        },
+        {
+          "id": 67,
+          "sentence": "She is one of the guest speakers who addressed the seminar and interacted with students.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence structure and agreement are correct."
+        },
+        {
+          "id": 68,
+          "sentence": "The professor postponed the discussion until the research would be published.",
+          "error_part": "would be published",
+          "correction": "was published",
+          "explanation": "After 'until', the simple past tense is used, not 'would'."
+        },
+        {
+          "id": 69,
+          "sentence": "Were she to have known about the danger she might have taken different precautions.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The inverted conditional structure is correctly used here."
+        },
+        {
+          "id": 70,
+          "sentence": "Neither the students nor the teacher were aware that the schedule for the annual function have been changed.",
+          "error_part": "have been changed",
+          "correction": "had been changed",
+          "explanation": "Past perfect tense 'had been changed' is needed to show an earlier completed action."
+        },
+        {
+          "id": 71,
+          "sentence": "The new algorithm promises to revolutionise our approach to analytics, but it also rises concerns.",
+          "error_part": "rises concerns",
+          "correction": "raises concerns",
+          "explanation": "'Raise' means to lift or bring up (transitive); 'rise' is intransitive and incorrect here."
+        },
+        {
+          "id": 72,
+          "sentence": "The consensus was that its interpretation by the junior analysts were overly optimistic.",
+          "error_part": "were overly optimistic",
+          "correction": "was overly optimistic",
+          "explanation": "'Interpretation' is singular and requires the singular verb 'was'."
+        },
+        {
+          "id": 73,
+          "sentence": "Hardly did the manager knew that his decision would trigger such a massive protest.",
+          "error_part": "did the manager knew",
+          "correction": "did the manager know",
+          "explanation": "After 'did', the base form of the verb is required, not the past form."
+        },
+        {
+          "id": 74,
+          "sentence": "What we need right now are a strong leader who can unite the team.",
+          "error_part": "are a strong leader",
+          "correction": "is a strong leader",
+          "explanation": "'A strong leader' is singular and requires the singular verb 'is'."
+        },
+        {
+          "id": 75,
+          "sentence": "The new research facility is equipped with advanced instruments that allows scientists to conduct experiments.",
+          "error_part": "that allows",
+          "correction": "that allow",
+          "explanation": "'Instruments' (plural) requires the plural verb 'allow'."
+        },
+        {
+          "id": 76,
+          "sentence": "Seldom we realize how fortunate we are.",
+          "error_part": "Seldom we realize",
+          "correction": "Seldom do we realize",
+          "explanation": "Inversion is required after negative adverbs like 'seldom' at the start of a sentence."
+        },
+        {
+          "id": 77,
+          "sentence": "It was not until she finished her degree and gained some experience did she feel confident.",
+          "error_part": "did she feel confident",
+          "correction": "that she felt confident",
+          "explanation": "'Not until...that' is the correct correlative structure, not 'did'."
+        },
+        {
+          "id": 78,
+          "sentence": "The museum, which located near the river, attracts thousands of visitors every year.",
+          "error_part": "which located",
+          "correction": "which is located",
+          "explanation": "Passive voice requires 'is located', not the bare verb 'located'."
+        },
+        {
+          "id": 79,
+          "sentence": "The minister assured that all possible measures were being taken to address the crisis.",
+          "error_part": "assured that",
+          "correction": "assured everyone that",
+          "explanation": "'Assure' generally requires a direct object before 'that' clause."
+        },
+        {
+          "id": 80,
+          "sentence": "The committee recommended that the proposal is reviewed by an independent expert.",
+          "error_part": "is reviewed",
+          "correction": "be reviewed",
+          "explanation": "After 'recommend that', the subjunctive base form 'be' is required."
+        },
+        {
+          "id": 81,
+          "sentence": "So profound was the impact of the new policy that it not only changed recruitment standards but also reduced with overall efficiency.",
+          "error_part": "reduced with overall efficiency",
+          "correction": "reduced overall efficiency",
+          "explanation": "'Reduce' is transitive and does not require 'with' before its object."
+        },
+        {
+          "id": 82,
+          "sentence": "The committee, comprising experts from various fields, have submitted its report.",
+          "error_part": "have submitted",
+          "correction": "has submitted",
+          "explanation": "'Committee' as a unit takes the singular verb 'has'."
+        },
+        {
+          "id": 83,
+          "sentence": "The number of participants in the advanced workshop were surprisingly low.",
+          "error_part": "were surprisingly low",
+          "correction": "was surprisingly low",
+          "explanation": "'The number of' is treated as singular."
+        },
+        {
+          "id": 84,
+          "sentence": "The newly discovered species was quite unique, possessing characteristics that set it apart from all its known relatives.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct throughout."
+        },
+        {
+          "id": 85,
+          "sentence": "The committee insisted that each member provides a written report.",
+          "error_part": "provides a written report",
+          "correction": "provide a written report",
+          "explanation": "Subjunctive base form follows 'insisted that'."
+        },
+        {
+          "id": 86,
+          "sentence": "The director explained that the report was delayed because the data was not yet collected.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Data' can take singular verb 'was' in modern usage when treated as a mass noun; sentence stands correct."
+        },
+        {
+          "id": 87,
+          "sentence": "That the expedition faced unforeseen challenges were evident from their delayed return.",
+          "error_part": "were evident",
+          "correction": "was evident",
+          "explanation": "The noun clause subject is singular, requiring 'was'."
+        },
+        {
+          "id": 88,
+          "sentence": "The sudden influx of tourists, attracted by the newly opened resort, have caused significant strain.",
+          "error_part": "have caused",
+          "correction": "has caused",
+          "explanation": "'Influx' is singular and requires 'has'."
+        },
+        {
+          "id": 89,
+          "sentence": "The players in the national team works tirelessly to improve their performance.",
+          "error_part": "works tirelessly",
+          "correction": "work tirelessly",
+          "explanation": "'Players' is plural and requires the plural verb 'work'."
+        },
+        {
+          "id": 90,
+          "sentence": "The CEO, along with his senior advisors, are traveling to the international conference.",
+          "error_part": "are traveling",
+          "correction": "is traveling",
+          "explanation": "'Along with' does not affect the number of the main subject 'CEO' (singular)."
+        },
+        {
+          "id": 91,
+          "sentence": "The strict rules of the library don't let students to take more than two books out at a time.",
+          "error_part": "let students to take",
+          "correction": "let students take",
+          "explanation": "'Let' is followed by the bare infinitive, not 'to + verb'."
+        },
+        {
+          "id": 92,
+          "sentence": "They are planning to build a research centre near the river where will scientists conduct environmental studies.",
+          "error_part": "where will scientists conduct",
+          "correction": "where scientists will conduct",
+          "explanation": "Word order in a statement should not invert subject and auxiliary."
+        },
+        {
+          "id": 93,
+          "sentence": "Had she not postponed the meeting several times, the committee would have had a greater opportunity to discussing the budget allocations.",
+          "error_part": "to discussing",
+          "correction": "to discuss",
+          "explanation": "After 'opportunity to', the infinitive form is required, not the gerund."
+        },
+        {
+          "id": 94,
+          "sentence": "Hardly had the preliminary review been completed when the auditors noticed that several financial projections was calculated using outdated parameters.",
+          "error_part": "was calculated",
+          "correction": "were calculated",
+          "explanation": "'Projections' is plural and requires the plural verb 'were'."
+        },
+        {
+          "id": 95,
+          "sentence": "If the guidelines is enforced strictly every participating institution will be required to update its database.",
+          "error_part": "guidelines is enforced",
+          "correction": "guidelines are enforced",
+          "explanation": "'Guidelines' is plural and requires the plural verb 'are'."
+        },
+        {
+          "id": 96,
+          "sentence": "Had the manager explained the policy clearly to the staff members, they would not have made so many confusions.",
+          "error_part": "so many confusions",
+          "correction": "so much confusion",
+          "explanation": "'Confusion' is uncountable and takes 'much', not 'many', and no plural form."
+        },
+        {
+          "id": 97,
+          "sentence": "By the time the audit team reaches the headquarters, the financial report would already be submitted.",
+          "error_part": "would already be submitted",
+          "correction": "will already have been submitted",
+          "explanation": "Future perfect tense correctly conveys an action completed before a future point."
+        },
+        {
+          "id": 98,
+          "sentence": "The manager insisted that every member completes the survey before the deadline expired.",
+          "error_part": "every member completes",
+          "correction": "every member complete",
+          "explanation": "Subjunctive base form is required after 'insisted that'."
+        },
+        {
+          "id": 99,
+          "sentence": "He had never seen such a masterpiece until he visits the gallery last spring.",
+          "error_part": "visits the gallery",
+          "correction": "visited the gallery",
+          "explanation": "Past time reference 'last spring' requires past tense 'visited'."
+        },
+        {
+          "id": 100,
+          "sentence": "His influence lasted from a decade impacting key policies across sectors.",
+          "error_part": "lasted from a decade",
+          "correction": "lasted for a decade",
+          "explanation": "'For' indicates duration, not 'from'."
+        },
+        {
+          "id": 101,
+          "sentence": "The ostensibly transparent mechanism for employee feedback paradoxically obfuscating all channels of genuine expression.",
+          "error_part": "paradoxically obfuscating",
+          "correction": "paradoxically obfuscates",
+          "explanation": "A finite main verb 'obfuscates' is required, not the participle 'obfuscating'."
+        },
+        {
+          "id": 102,
+          "sentence": "Despite the team's well-thought strategy their efforts lacked coordination and consistent.",
+          "error_part": "coordination and consistent",
+          "correction": "coordination and consistency",
+          "explanation": "The object of 'lacked' must be a noun; 'consistent' (adjective) should be 'consistency' (noun)."
+        },
+        {
+          "id": 103,
+          "sentence": "They had put over the entire campaign due to unforeseen legal complications.",
+          "error_part": "had put over",
+          "correction": "had put off",
+          "explanation": "'Put off' is the correct phrasal verb meaning to postpone."
+        },
+        {
+          "id": 104,
+          "sentence": "If she exercises daily, she would remain energetic and fit forever.",
+          "error_part": "she would remain",
+          "correction": "she will remain",
+          "explanation": "First conditional requires 'will' in the main clause when the 'if' clause uses simple present."
+        },
+        {
+          "id": 105,
+          "sentence": "If you had apprised me about your problem earlier, I would have allow you to go.",
+          "error_part": "would have allow",
+          "correction": "would have allowed",
+          "explanation": "Third conditional requires 'would have + past participle'."
+        },
+        {
+          "id": 106,
+          "sentence": "On the bright side, if the condition are improving, the local communities will prosper.",
+          "error_part": "the condition are improving",
+          "correction": "the conditions are improving",
+          "explanation": "'Conditions' should be plural to agree with the plural verb 'are'."
+        },
+        {
+          "id": 107,
+          "sentence": "On the time of the inauguration ceremony of the school a number of people had appeared.",
+          "error_part": "On the time",
+          "correction": "At the time",
+          "explanation": "'At the time of' is the correct fixed expression, not 'on the time'."
+        },
+        {
+          "id": 108,
+          "sentence": "I'm fortunate that I have been doing a profession I enjoy, all my working life.",
+          "error_part": "have been doing",
+          "correction": "have done",
+          "explanation": "Simple present perfect 'have done' better fits a lifelong profession rather than continuous form."
+        },
+        {
+          "id": 109,
+          "sentence": "The more the population grow, the less resources remain available.",
+          "error_part": "population grow",
+          "correction": "population grows",
+          "explanation": "'Population' is singular and requires the singular verb 'grows'."
+        },
+        {
+          "id": 110,
+          "sentence": "Nowadays, academic pressure makes students devote too much times resting.",
+          "error_part": "too much times",
+          "correction": "too much time",
+          "explanation": "'Time' is uncountable in this context and takes no plural 's'."
+        },
+        {
+          "id": 111,
+          "sentence": "He damage his health by eating too much junk food every day.",
+          "error_part": "He damage",
+          "correction": "He damages",
+          "explanation": "Third-person singular subject 'He' requires the verb 'damages'."
+        },
+        {
+          "id": 112,
+          "sentence": "When asked why patients had started the cardio program, 70% of them saw it as vitals.",
+          "error_part": "saw it as vitals",
+          "correction": "saw it as vital",
+          "explanation": "'Vital' (adjective) is required here, not the plural noun 'vitals'."
+        },
+        {
+          "id": 113,
+          "sentence": "The annual festival is expected to kick up the celebrations across the city next week.",
+          "error_part": "kick up the celebrations",
+          "correction": "kick off the celebrations",
+          "explanation": "'Kick off' means to begin/start; 'kick up' does not fit this context."
+        },
+        {
+          "id": 114,
+          "sentence": "In order to overcome emotional anxiety and pressure, adopting relaxation techniques can be helped.",
+          "error_part": "can be helped",
+          "correction": "can help",
+          "explanation": "'Help' should be active here; 'techniques' are the subject that helps, not something being helped."
+        },
+        {
+          "id": 115,
+          "sentence": "How useful is verbal communication, such as tone of voice and clarity, during a presentation?",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as a well-formed question."
+        },
+        {
+          "id": 116,
+          "sentence": "The art historian argued that the painting's value has been greatly underestimated.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence correctly uses present perfect passive to describe an ongoing perception."
+        },
+        {
+          "id": 117,
+          "sentence": "I am working with him since 2002, but even today I am unable to understand his motives.",
+          "error_part": "I am working with him since 2002",
+          "correction": "I have been working with him since 2002",
+          "explanation": "Present perfect continuous with 'since' is needed for an action starting in the past and continuing."
+        },
+        {
+          "id": 118,
+          "sentence": "By the time I reaching the metro station, the train had departed.",
+          "error_part": "I reaching",
+          "correction": "I reached",
+          "explanation": "'By the time' requires the simple past tense, not the present participle."
+        },
+        {
+          "id": 119,
+          "sentence": "If I have recovered from fever, I will start going for swimming classes from tomorrow.",
+          "error_part": "If I have recovered",
+          "correction": "If I recover",
+          "explanation": "First conditional uses simple present in the 'if' clause, not present perfect."
+        },
+        {
+          "id": 120,
+          "sentence": "Last night I dreamed that I am looking for the abominable snowman high up in the Himalayas.",
+          "error_part": "I am looking for",
+          "correction": "I was looking for",
+          "explanation": "Past narrative requires past continuous 'was looking', not present continuous."
+        },
+        {
+          "id": 121,
+          "sentence": "Jerry driving home late when the incident took place.",
+          "error_part": "Jerry driving",
+          "correction": "Jerry was driving",
+          "explanation": "A finite verb 'was driving' (past continuous) is needed, not the bare participle."
+        },
+        {
+          "id": 122,
+          "sentence": "While I was walking to the store, my friend calls me and ask for a favour.",
+          "error_part": "calls me and ask",
+          "correction": "called me and asked",
+          "explanation": "Past narrative tense must be maintained consistently throughout the sentence."
+        },
+        {
+          "id": 123,
+          "sentence": "When it come to football, my brother is an addict.",
+          "error_part": "it come to",
+          "correction": "it comes to",
+          "explanation": "Third-person singular subject 'it' requires the verb 'comes'."
+        },
+        {
+          "id": 124,
+          "sentence": "Since the little girl answers a few simple questions, her parents say that she is too intelligent.",
+          "error_part": "Since the little girl answers",
+          "correction": "Since the little girl answered",
+          "explanation": "Past context requires the past tense 'answered' to match the parents' judgment."
+        },
+        {
+          "id": 125,
+          "sentence": "My aunt came from Switzerland by the flight which was landing at 500 a.m. yesterday.",
+          "error_part": "was landing",
+          "correction": "landed",
+          "explanation": "Simple past tense fits a completed past action rather than continuous tense."
+        },
+        {
+          "id": 126,
+          "sentence": "1 We knocked across 2 early on Saturday.",
+          "error_part": "We knocked across",
+          "correction": "We turned up",
+          "explanation": "'Turn up' means to arrive; 'knock across' is not idiomatic in this context."
+        },
+        {
+          "id": 127,
+          "sentence": "He bought strange vintage car on auction from the customs department.",
+          "error_part": "on auction",
+          "correction": "at auction",
+          "explanation": "'At auction' is the correct fixed expression for buying/selling through bidding."
+        },
+        {
+          "id": 128,
+          "sentence": "After the match, the stadium was the messiest I ever been.",
+          "error_part": "I ever been",
+          "correction": "I had ever been",
+          "explanation": "Past perfect 'had ever been' is required to express a superlative comparison up to that past point."
+        },
+        {
+          "id": 129,
+          "sentence": "Gita got onto the book she was reading this morning.",
+          "error_part": "got onto",
+          "correction": "got on with",
+          "explanation": "'Get on with' means to continue doing something; 'get onto' doesn't fit here."
+        },
+        {
+          "id": 130,
+          "sentence": "Although experts are worried that retail inflation is rising at a steep rate, the crisis will soon blow away.",
+          "error_part": "will soon blow away",
+          "correction": "will soon blow over",
+          "explanation": "'Blow over' means to subside or pass; 'blow away' means something different."
+        },
+        {
+          "id": 131,
+          "sentence": "My mother is 51 years old, and my uncle is 48 years old. So my mother is old than my uncle.",
+          "error_part": "is old than",
+          "correction": "is older than",
+          "explanation": "Comparative form 'older' is required before 'than'."
+        },
+        {
+          "id": 132,
+          "sentence": "Solutions to the country's interior problems are still a long way away.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 133,
+          "sentence": "They secret decided to leave the town.",
+          "error_part": "They secret decided",
+          "correction": "They secretly decided",
+          "explanation": "An adverb 'secretly' is needed to modify the verb 'decided', not the noun 'secret'."
+        },
+        {
+          "id": 134,
+          "sentence": "He ran quick to catch the bus.",
+          "error_part": "ran quick",
+          "correction": "ran quickly",
+          "explanation": "Adverb 'quickly' is required to modify the verb 'ran'."
+        },
+        {
+          "id": 135,
+          "sentence": "Mrs. Sreelakshmi's musical intelligence is superior than Mrs. Suma's.",
+          "error_part": "superior than",
+          "correction": "superior to",
+          "explanation": "'Superior' takes the preposition 'to', not 'than'."
+        },
+        {
+          "id": 136,
+          "sentence": "The employees were comfortable with me and they talked about their problems since I has worked there as a manager.",
+          "error_part": "I has worked",
+          "correction": "I had worked",
+          "explanation": "Past perfect 'had worked' correctly shows an action completed before another past action."
+        },
+        {
+          "id": 137,
+          "sentence": "Mr. Arun will pay dear for his financial mistake.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Pay dear' idiomatically means to suffer consequences and is correctly used here."
+        },
+        {
+          "id": 138,
+          "sentence": "My brother received his MBA degree into the university last year.",
+          "error_part": "degree into the university",
+          "correction": "degree from the university",
+          "explanation": "'From' is the correct preposition to indicate the source/institution of a degree."
+        },
+        {
+          "id": 139,
+          "sentence": "Mr. Surya have no interior motive in offering you support.",
+          "error_part": "have no interior motive",
+          "correction": "has no ulterior motive",
+          "explanation": "Singular subject 'Mr. Surya' needs 'has', and 'ulterior' (hidden) fits better than 'interior'."
+        },
+        {
+          "id": 140,
+          "sentence": "By the end of this month, he will been working for five years.",
+          "error_part": "will been working",
+          "correction": "will have been working",
+          "explanation": "Future perfect continuous requires 'will have been + V-ing'."
+        },
+        {
+          "id": 141,
+          "sentence": "Although the team had trained diligently for months, they had still overwhelmed by the opponent's unexpected tactics.",
+          "error_part": "had still overwhelmed",
+          "correction": "were still overwhelmed",
+          "explanation": "Passive voice requires 'were overwhelmed', not the active-form 'had overwhelmed'."
+        },
+        {
+          "id": 142,
+          "sentence": "Due to the pandemic, the prices of medicines increased every day since last December.",
+          "error_part": "increased every day since",
+          "correction": "have increased every day since",
+          "explanation": "Present perfect is needed with 'since' to show a continuing trend up to now."
+        },
+        {
+          "id": 143,
+          "sentence": "Dr. Sinha has brought about a new book on social impact of child labour.",
+          "error_part": "has brought about",
+          "correction": "has brought out",
+          "explanation": "'Bring out' means to publish; 'bring about' means to cause something to happen."
+        },
+        {
+          "id": 144,
+          "sentence": "In August, she will be enjoying all the fruits her grandmother will plant last January.",
+          "error_part": "will plant last January",
+          "correction": "planted last January",
+          "explanation": "'Last January' is a past reference and requires the simple past tense."
+        },
+        {
+          "id": 145,
+          "sentence": "Raghu did not get the job because he did not have experience enough for the post.",
+          "error_part": "experience enough",
+          "correction": "enough experience",
+          "explanation": "'Enough' should precede the noun it modifies, not follow it."
+        },
+        {
+          "id": 146,
+          "sentence": "I will have been studying English for three years by the end of this course.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Future perfect continuous tense is correctly used to describe an ongoing duration up to a future point."
+        },
+        {
+          "id": 147,
+          "sentence": "He had never seen such a masterpiece until he visits the gallery last spring.",
+          "error_part": "visits the gallery",
+          "correction": "visited the gallery",
+          "explanation": "Past time reference 'last spring' requires the simple past tense."
+        },
+        {
+          "id": 148,
+          "sentence": "Since his son has not yet completed the age of eighteen, he was reluctant to fulfil his son's demand.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Sequence of tenses correctly combines present perfect and simple past in this context."
+        },
+        {
+          "id": 149,
+          "sentence": "She will be studying for her exams tomorrow.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Future continuous tense is correctly used to describe a planned future action."
+        },
+        {
+          "id": 150,
+          "sentence": "He is a very good friend of mine.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 151,
+          "sentence": "How much sugar do you take?",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence correctly uses 'much' with the uncountable noun 'sugar'."
+        },
+        {
+          "id": 152,
+          "sentence": "Please hurry. It's getting late.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 153,
+          "sentence": "Beautiful furnitures made this penthouse elegant.",
+          "error_part": "furnitures",
+          "correction": "furniture",
+          "explanation": "'Furniture' is uncountable and does not take a plural 's'."
+        },
+        {
+          "id": 154,
+          "sentence": "Homeless are seeking shelter from the cold.",
+          "error_part": "Homeless are",
+          "correction": "The homeless are",
+          "explanation": "'The' is required before 'homeless' when using it as a collective noun referring to a group of people."
+        },
+        {
+          "id": 155,
+          "sentence": "The cat cleaned itself on the rug.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 156,
+          "sentence": "Which house is yours?",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 157,
+          "sentence": "This is the most difficult puzzle that I have solved.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 158,
+          "sentence": "Having been a member of the organisation for three years, the elevation to supervisor was surprising but deeply valued by her.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence correctly uses a participial phrase to introduce the main clause."
+        },
+        {
+          "id": 159,
+          "sentence": "The manager asked the cooking team, 'Who among you is to baked the Christmas cake this year?'",
+          "error_part": "is to baked",
+          "correction": "is to bake",
+          "explanation": "After 'to', the base form of the verb is required, not the past participle."
+        },
+        {
+          "id": 160,
+          "sentence": "When he resigned, the company offered him a huge sum of money but he refused to agree to it.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        }
+      ]
+    },
+    {
+      "category": "Adjective",
+      "topics": [
+        "Degrees of comparison",
+        "Adjective order",
+        "Confusable adjectives"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "Of the three runners, he was the faster.",
+          "error_part": "faster",
+          "correction": "fastest",
+          "explanation": "When comparing three or more, the superlative degree ('fastest') is required, not the comparative ('faster')."
+        },
+        {
+          "id": 2,
+          "sentence": "This route is most safer than the highway.",
+          "error_part": "safer",
+          "correction": "safer than the highway (remove 'most')",
+          "explanation": "Double comparatives are incorrect; 'most' should not be combined with the comparative form 'safer'."
+        },
+        {
+          "id": 3,
+          "sentence": "She is more smarter than her sister.",
+          "error_part": "more smarter",
+          "correction": "smarter",
+          "explanation": "Double comparative error - 'more' should not be used with the comparative form 'smarter'."
+        },
+        {
+          "id": 4,
+          "sentence": "Mount Everest is more highest peak in the world.",
+          "error_part": "more",
+          "correction": "the highest peak",
+          "explanation": "Superlative 'highest' is correct for referring to a single, unique peak; combining 'more' with 'highest' is incorrect."
+        },
+        {
+          "id": 5,
+          "sentence": "The latest laptop is, much more faster, and costlier than, the old one.",
+          "error_part": "much more faster",
+          "correction": "much faster",
+          "explanation": "Double comparative error; 'more' should not precede an already comparative adjective 'faster'."
+        },
+        {
+          "id": 6,
+          "sentence": "A elephant 1 was seen wandering 2 on the road 3 late at night 4.",
+          "error_part": 1,
+          "correction": "An elephant",
+          "explanation": "'Elephant' begins with a vowel sound, so the article 'an' is used instead of 'a'."
+        },
+        {
+          "sentence": "Rahul thinks he is as smarter as his friends in the class.",
+          "error_part": "as smarter as",
+          "correction": "as smart as",
+          "explanation": "The positive degree ('smart'), not the comparative ('smarter'), is used in the 'as...as' construction.",
+          "id": 7
+        },
+        {
+          "sentence": "Mrs. Sreelakshmis musical intelligence is superior than Mrs. Sumas.",
+          "error_part": "superior than",
+          "correction": "superior to",
+          "explanation": "Words like 'superior', 'inferior', 'senior', 'junior' take the preposition 'to', not 'than'.",
+          "id": 8
+        },
+        {
+          "sentence": "Camels tend to move slowly than other domestic animals in the plains.",
+          "error_part": "move slowly than",
+          "correction": "move more slowly than",
+          "explanation": "Comparative form 'more slowly' is required before 'than' for a proper comparison.",
+          "id": 9
+        },
+        {
+          "sentence": "He was senior than me in college.",
+          "error_part": "senior than",
+          "correction": "senior to",
+          "explanation": "Words implying comparison such as 'senior', 'junior', 'elder' take 'to' instead of 'than'.",
+          "id": 10
+        },
+        {
+          "sentence": "She is junior than me.",
+          "error_part": "junior than",
+          "correction": "junior to",
+          "explanation": "'Junior' takes the preposition 'to', not 'than', in comparisons.",
+          "id": 11
+        },
+        {
+          "sentence": "Among all the students he is the better in mathematics and physics.",
+          "error_part": "the better",
+          "correction": "the best",
+          "explanation": "When comparing among more than two, the superlative degree ('best') is required, not the comparative ('better').",
+          "id": 12
+        },
+        {
+          "sentence": "This book is gooder than the one we read last month.",
+          "error_part": "gooder",
+          "correction": "better",
+          "explanation": "'Good' has an irregular comparative form 'better'; 'gooder' is not a standard English word.",
+          "id": 13
+        },
+        {
+          "sentence": "Harmit is not innocent such as Uday.",
+          "error_part": "not innocent such as",
+          "correction": "not as innocent as",
+          "explanation": "Equal comparisons use the structure 'as...as', not 'such as'.",
+          "id": 14
+        },
+        {
+          "sentence": "Master Sam is a heaviest boy in grade twelve.",
+          "error_part": "is a heaviest",
+          "correction": "is the heaviest",
+          "explanation": "Superlative adjectives are always preceded by the definite article 'the', never 'a'.",
+          "id": 15
+        },
+        {
+          "id": 16,
+          "sentence": "Of the three runners, he was the faster.",
+          "error_part": "faster",
+          "correction": "fastest",
+          "explanation": "Comparing three or more requires the superlative degree."
+        },
+        {
+          "id": 17,
+          "sentence": "This route is most safer than the highway.",
+          "error_part": "most safer",
+          "correction": "safer",
+          "explanation": "Double comparative is incorrect; remove 'most' before 'safer'."
+        },
+        {
+          "id": 18,
+          "sentence": "She is more smarter than her sister.",
+          "error_part": "more smarter",
+          "correction": "smarter",
+          "explanation": "Double comparative error; 'more' should not precede 'smarter'."
+        },
+        {
+          "id": 19,
+          "sentence": "Mount Everest is more highest peak in the world.",
+          "error_part": "more highest",
+          "correction": "the highest",
+          "explanation": "Superlative form doesn't take 'more'; use 'the highest'."
+        },
+        {
+          "id": 20,
+          "sentence": "He was senior than me in college.",
+          "error_part": "senior than",
+          "correction": "senior to",
+          "explanation": "'Senior', 'junior', 'superior', 'inferior' take 'to', not 'than'."
+        },
+        {
+          "id": 21,
+          "sentence": "She is junior than me.",
+          "error_part": "junior than",
+          "correction": "junior to",
+          "explanation": "'Junior' takes preposition 'to'."
+        },
+        {
+          "id": 22,
+          "sentence": "Among all the students he is the better in mathematics and physics.",
+          "error_part": "the better",
+          "correction": "the best",
+          "explanation": "Comparing among many requires superlative 'best'."
+        },
+        {
+          "id": 23,
+          "sentence": "This book is gooder than the one we read last month.",
+          "error_part": "gooder",
+          "correction": "better",
+          "explanation": "'Good' has irregular comparative 'better'."
+        },
+        {
+          "id": 24,
+          "sentence": "Harmit is not innocent such as Uday.",
+          "error_part": "not innocent such as",
+          "correction": "not as innocent as",
+          "explanation": "Equal comparisons use 'as...as', not 'such as'."
+        },
+        {
+          "id": 25,
+          "sentence": "Master Sam is a heaviest boy in grade twelve.",
+          "error_part": "is a heaviest",
+          "correction": "is the heaviest",
+          "explanation": "Superlatives take 'the', not 'a'."
+        },
+        {
+          "id": 26,
+          "sentence": "My father is comparatively better today.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence correctly uses 'comparatively better' to indicate relative improvement."
+        },
+        {
+          "id": 27,
+          "sentence": "I prefer tea than coffee.",
+          "error_part": "tea than coffee",
+          "correction": "tea to coffee",
+          "explanation": "'Prefer' takes the preposition 'to', not 'than'."
+        },
+        {
+          "id": 28,
+          "sentence": "She is better in mathematics than English.",
+          "error_part": "better in mathematics than English",
+          "correction": "better at mathematics than at English",
+          "explanation": "'Better at' is the idiomatic form for skills/subjects, and comparison should be parallel."
+        },
+        {
+          "id": 29,
+          "sentence": "He always wants to be in the company of those who are intellectually superior than him.",
+          "error_part": "superior than him",
+          "correction": "superior to him",
+          "explanation": "'Superior' takes preposition 'to', not 'than'."
+        },
+        {
+          "id": 30,
+          "sentence": "A large box of chocolates were distributed among the children.",
+          "error_part": "were distributed",
+          "correction": "was distributed",
+          "explanation": "'A large box' (singular) is the true subject, requiring singular verb."
+        },
+        {
+          "id": 31,
+          "sentence": "The tall player proves to be a good shooter and more stronger than the rest.",
+          "error_part": "more stronger",
+          "correction": "stronger",
+          "explanation": "Double comparative error; remove 'more' before 'stronger'."
+        },
+        {
+          "id": 32,
+          "sentence": "The latest laptop is, much more faster, and costlier than the old one.",
+          "error_part": "much more faster",
+          "correction": "much faster",
+          "explanation": "Double comparative error; 'more' should not precede 'faster'."
+        },
+        {
+          "id": 33,
+          "sentence": "She is more smarter than her sister.",
+          "error_part": "more smarter",
+          "correction": "smarter",
+          "explanation": "Redundant double comparative."
+        },
+        {
+          "id": 34,
+          "sentence": "The behaviour of these students leave much to be desired.",
+          "error_part": "leave much",
+          "correction": "leaves much",
+          "explanation": "Singular subject 'behaviour' requires singular verb 'leaves'."
+        },
+        {
+          "id": 35,
+          "sentence": "It was rude about the teacher's niece to have crushed the white flower.",
+          "error_part": "rude about",
+          "correction": "rude of",
+          "explanation": "Adjectives describing behaviour take 'of', not 'about'."
+        },
+        {
+          "id": 36,
+          "sentence": "This strategy is the most perfect solution for our current problem.",
+          "error_part": "the most perfect",
+          "correction": "the perfect",
+          "explanation": "'Perfect' is already an absolute adjective and cannot take 'most'."
+        },
+        {
+          "id": 37,
+          "sentence": "The tall player proves to be a good shooter and more stronger than the rest.",
+          "error_part": "more stronger",
+          "correction": "stronger",
+          "explanation": "Double comparative; drop redundant 'more'."
+        },
+        {
+          "id": 38,
+          "sentence": "Camels tend to move slowly than other domestic animals in the plains.",
+          "error_part": "move slowly than",
+          "correction": "move more slowly than",
+          "explanation": "Comparative form 'more slowly' is needed before 'than'."
+        },
+        {
+          "id": 39,
+          "sentence": "Deepa and Seema are both good with running.",
+          "error_part": "good with running",
+          "correction": "good at running",
+          "explanation": "'Good' pairs with 'at' for skills/activities."
+        },
+        {
+          "id": 40,
+          "sentence": "Legends are a type of narratives that are handed down from one century to another.",
+          "error_part": "a type of narratives",
+          "correction": "a type of narrative",
+          "explanation": "'A type of' is followed by a singular noun."
+        },
+        {
+          "id": 41,
+          "sentence": "Every document submitted here is well-organized and specifically formatted to maintain its clarity.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 42,
+          "sentence": "The Alps are the most picturesque mountains in the south and is very popular.",
+          "error_part": "and is very popular",
+          "correction": "and are very popular",
+          "explanation": "'The Alps' is plural throughout and needs consistent plural verb 'are'."
+        },
+        {
+          "id": 43,
+          "sentence": "Mount Everest is more highest peak in the world.",
+          "error_part": "more highest",
+          "correction": "the highest",
+          "explanation": "Superlative forms don't take 'more'; the definite article 'the' should precede 'highest'."
+        }
+      ]
+    },
+    {
+      "category": "Adverb",
+      "topics": [
+        "Adverb formation",
+        "Adverb placement",
+        "Confusable adverbs"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "He drives 1 very reckless 2 on the highway, ignoring 3 all traffic rules. 4",
+          "error_part": 2,
+          "correction": "very recklessly",
+          "explanation": "The verb 'drives' must be modified by an adverb ('recklessly'), not the adjective 'reckless'."
+        },
+        {
+          "id": 2,
+          "sentence": "He drives very careful 1 especially at night 2 to avoid any accidents 3 on the road 4.",
+          "error_part": 1,
+          "correction": "He drives very carefully",
+          "explanation": "An adverb is needed to modify the verb 'drives', so 'carefully' replaces the adjective 'careful'."
+        },
+        {
+          "id": 3,
+          "sentence": "She danced graceful on stage during the annual show.",
+          "error_part": "graceful",
+          "correction": "gracefully",
+          "explanation": "The verb 'danced' requires an adverb ('gracefully'), not an adjective ('graceful')."
+        },
+        {
+          "id": 4,
+          "sentence": "He is a fastly growing leader in the organization.",
+          "error_part": "fastly",
+          "correction": "fast-growing",
+          "explanation": "'Fast' itself functions as an adverb; 'fastly' is not a standard English word."
+        },
+        {
+          "id": 5,
+          "sentence": "The bird flew, so highly that, it vanished into, the blue sky.",
+          "error_part": "so highly that",
+          "correction": "so high that",
+          "explanation": "'High' is used as an adverb of altitude ('flew high'); 'highly' is used for abstract degree, not physical height."
+        },
+        {
+          "id": 6,
+          "sentence": "My dog barks very louder at night.",
+          "error_part": "very louder",
+          "correction": "very loudly",
+          "explanation": "The verb 'barks' needs an adverb 'loudly', and comparative 'louder' is incorrectly combined with 'very'."
+        },
+        {
+          "sentence": "He ran quick to catch the bus.",
+          "error_part": "ran quick",
+          "correction": "ran quickly",
+          "explanation": "The verb 'ran' must be modified by the adverb 'quickly', not the adjective 'quick'.",
+          "id": 7
+        },
+        {
+          "sentence": "The windows violent banged during the storm yesterday.",
+          "error_part": "violent banged",
+          "correction": "violently banged",
+          "explanation": "An adverb ('violently') is required to modify the verb 'banged', not the adjective 'violent'.",
+          "id": 8
+        },
+        {
+          "sentence": "Human activity often has a negatively effect on the ecosystem of wetlands.",
+          "error_part": "a negatively effect",
+          "correction": "a negative effect",
+          "explanation": "'Effect' is a noun and must be modified by the adjective 'negative', not the adverb 'negatively'.",
+          "id": 9
+        },
+        {
+          "sentence": "The manager asked the interns to compile the data accurately and quick.",
+          "error_part": "accurately and quick",
+          "correction": "accurately and quickly",
+          "explanation": "To maintain parallelism with the adverb 'accurately', 'quick' must also be an adverb: 'quickly'.",
+          "id": 10
+        },
+        {
+          "sentence": "Since the little girl answers a few simple questions, her parents say that she is too intelligent.",
+          "error_part": "too intelligent",
+          "correction": "very intelligent",
+          "explanation": "'Too' implies excess/negative degree, while 'very' is the appropriate intensifier for a positive quality here.",
+          "id": 11
+        },
+        {
+          "id": 12,
+          "sentence": "He drives very reckless on the highway.",
+          "error_part": "very reckless",
+          "correction": "very recklessly",
+          "explanation": "Verb 'drives' needs an adverb, not the adjective 'reckless'."
+        },
+        {
+          "id": 13,
+          "sentence": "He drives very careful especially at night.",
+          "error_part": "drives very careful",
+          "correction": "drives very carefully",
+          "explanation": "Adverb 'carefully' is needed to modify the verb 'drives'."
+        },
+        {
+          "id": 14,
+          "sentence": "She danced graceful on stage during the annual show.",
+          "error_part": "danced graceful",
+          "correction": "danced gracefully",
+          "explanation": "Adverb 'gracefully' modifies the verb 'danced'."
+        },
+        {
+          "id": 15,
+          "sentence": "He is a fastly growing leader in the organization.",
+          "error_part": "fastly growing",
+          "correction": "fast-growing",
+          "explanation": "'Fast' itself is an adverb; 'fastly' is not standard English."
+        },
+        {
+          "id": 16,
+          "sentence": "My dog barks very louder at night.",
+          "error_part": "very louder",
+          "correction": "very loudly",
+          "explanation": "Verb 'barks' needs adverb 'loudly'; 'louder' comparative misused with 'very'."
+        },
+        {
+          "id": 17,
+          "sentence": "Having known that the train was already on the platform, they ran fastly to catch it.",
+          "error_part": "ran fastly",
+          "correction": "ran fast",
+          "explanation": "'Fast' functions as both adjective and adverb; 'fastly' is incorrect."
+        },
+        {
+          "id": 18,
+          "sentence": "The manager asked the interns to compile the data accurately and quick.",
+          "error_part": "accurately and quick",
+          "correction": "accurately and quickly",
+          "explanation": "Parallelism requires both modifiers to be adverbs."
+        },
+        {
+          "id": 19,
+          "sentence": "Mrs. Gomathi was that tired and weak that she could scarcely walk.",
+          "error_part": "that tired and weak",
+          "correction": "so tired and weak",
+          "explanation": "'So...that' is the correct correlative structure, not 'that...that'."
+        },
+        {
+          "id": 20,
+          "sentence": "He missed the college bus because he woke up unpardonably lately in the morning.",
+          "error_part": "unpardonably lately",
+          "correction": "unpardonably late",
+          "explanation": "'Late' is the correct adverb form here; 'lately' means 'recently', which doesn't fit."
+        },
+        {
+          "id": 21,
+          "sentence": "She was singing beautifully in the concert hall last night.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The adverb 'beautifully' correctly modifies the verb 'singing'."
+        },
+        {
+          "id": 22,
+          "sentence": "The bird flew, so highly that it vanished into the blue sky.",
+          "error_part": "so highly that",
+          "correction": "so high that",
+          "explanation": "'High' refers to physical altitude and should be used instead of 'highly'."
+        },
+        {
+          "id": 23,
+          "sentence": "The lions became violently when the visitors started throwing stones at them.",
+          "error_part": "became violently",
+          "correction": "became violent",
+          "explanation": "'Became' (linking verb) requires the adjective 'violent', not the adverb 'violently'."
+        },
+        {
+          "id": 24,
+          "sentence": "The bird flew, so highly that it vanished into the blue sky.",
+          "error_part": "so highly that",
+          "correction": "so high that",
+          "explanation": "'High' denotes physical altitude, appropriate here instead of 'highly'."
+        },
+        {
+          "id": 25,
+          "sentence": "Whenever she is coming here, she brings many gifts for everyone.",
+          "error_part": "she is coming here",
+          "correction": "she comes here",
+          "explanation": "Habitual actions use simple present tense, not present continuous."
+        },
+        {
+          "id": 26,
+          "sentence": "She was not allowed to enter the hotel as her clothes was dirtier.",
+          "error_part": "was dirtier",
+          "correction": "were dirty",
+          "explanation": "'Clothes' is plural (takes 'were'), and no comparison is intended, so 'dirty' (not comparative) is correct."
+        },
+        {
+          "id": 27,
+          "sentence": "My aunt came from Switzerland by the flight which was landing at 500 a.m. yesterday.",
+          "error_part": "was landing",
+          "correction": "landed",
+          "explanation": "Simple past tense 'landed' fits the completed past action, not the continuous form."
+        },
+        {
+          "id": 28,
+          "sentence": "I thought of this idea just when you called me yesterday.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence correctly uses past tense throughout."
+        },
+        {
+          "id": 29,
+          "sentence": "The lions became violently when the visitors started throwing stones at them.",
+          "error_part": "became violently",
+          "correction": "became violent",
+          "explanation": "Linking verb 'became' requires the adjective 'violent', not the adverb."
+        },
+        {
+          "id": 30,
+          "sentence": "My dog barks very louder at night.",
+          "error_part": "very louder",
+          "correction": "very loudly",
+          "explanation": "Verb 'barks' needs the adverb 'loudly'; 'louder' misused with 'very'."
+        },
+        {
+          "id": 31,
+          "sentence": "He missed the college bus because he woke up unpardonably lately in the morning.",
+          "error_part": "unpardonably lately",
+          "correction": "unpardonably late",
+          "explanation": "'Late' (adverb of time) fits here, not 'lately' (meaning recently)."
+        },
+        {
+          "id": 32,
+          "sentence": "Having known that the train was already on the platform, they ran fastly to catch it.",
+          "error_part": "ran fastly",
+          "correction": "ran fast",
+          "explanation": "'Fast' functions as an adverb itself; 'fastly' is nonstandard."
+        },
+        {
+          "id": 33,
+          "sentence": "Mrs. Gomathi was that tired and weak that she could scarcely walk.",
+          "error_part": "that tired and weak",
+          "correction": "so tired and weak",
+          "explanation": "'So...that' is the correct correlative structure."
+        },
+        {
+          "id": 34,
+          "sentence": "She spotted the novel and shouted, 'Here the book lies that we were searching for all around.'",
+          "error_part": "that we were searching for all around",
+          "correction": "that we had been searching for all along",
+          "explanation": "Past perfect continuous 'had been searching' fits better, and 'all along' (throughout) is the correct idiom, not 'all around'."
+        },
+        {
+          "id": 35,
+          "sentence": "a The more it rains, worse the roads become.",
+          "error_part": "worse the roads become",
+          "correction": "the worse the roads become",
+          "explanation": "The correlative comparative structure 'the more...the worse' requires 'the' before both comparatives."
+        },
+        {
+          "id": 36,
+          "sentence": "Since the little girl answers a few simple questions correctly, her parents say that she is too intelligent.",
+          "error_part": "too intelligent",
+          "correction": "very intelligent",
+          "explanation": "'Too' implies excess to the point of a negative consequence; 'very' is the correct intensifier for a positive quality being praised."
+        }
+      ]
+    },
+    {
+      "category": "Preposition",
+      "topics": [
+        "Fixed prepositions with verbs/adjectives/nouns",
+        "Preposition of time/place",
+        "Phrasal prepositions"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "She was accused 1 with stealing the money 2 by the cashier 3 at the bank 4.",
+          "error_part": 2,
+          "correction": "accused of stealing the money",
+          "explanation": "'Accused' takes the fixed preposition 'of', not 'with'."
+        },
+        {
+          "id": 2,
+          "sentence": "He came across 1 with an interesting article 2 while browsing 3 the newspaper 4.",
+          "error_part": 2,
+          "correction": "came across an interesting article",
+          "explanation": "'Come across' is a complete phrasal verb and should not be followed by 'with'."
+        },
+        {
+          "id": 3,
+          "sentence": "It is very stupid about the father to have spent ten lakh rupees on this car.",
+          "error_part": "stupid about the father",
+          "correction": "stupid of the father",
+          "explanation": "Adjectives describing behaviour (stupid, kind, rude, foolish) take the preposition 'of', not 'about'."
+        },
+        {
+          "id": 4,
+          "sentence": "Rohit has a passion in writing short stories based on real events, and he is really adept at it.",
+          "error_part": "passion in writing",
+          "correction": "passion for writing",
+          "explanation": "'Passion' takes the fixed preposition 'for' when referring to enthusiasm for an activity."
+        },
+        {
+          "id": 5,
+          "sentence": "He read an excellent story that was published on the newspaper.",
+          "error_part": "published on the newspaper",
+          "correction": "published in the newspaper",
+          "explanation": "'In' is used for things printed within publications like newspapers/books; 'on' is used for surfaces."
+        },
+        {
+          "id": 6,
+          "sentence": "We look forward to meet 1 you at the orientation session 2 scheduled for next Friday 3 in the seminar hall. 4",
+          "error_part": 1,
+          "correction": "look forward to meeting",
+          "explanation": "'Look forward to' must be followed by a gerund (V-ing) or noun, not the base infinitive."
+        },
+        {
+          "id": 7,
+          "sentence": "The child is afraid from the dark.",
+          "error_part": "afraid from the dark",
+          "correction": "afraid of the dark",
+          "explanation": "'Afraid' takes the fixed preposition 'of', not 'from'."
+        },
+        {
+          "id": 8,
+          "sentence": "My elder sister is married with a doctor.",
+          "error_part": "married with a doctor",
+          "correction": "married to a doctor",
+          "explanation": "'Married' takes the preposition 'to', not 'with'."
+        },
+        {
+          "sentence": "The only disadvantage with training is repeating the same instruction again and again.",
+          "error_part": "disadvantage with training",
+          "correction": "disadvantage of training",
+          "explanation": "'Disadvantage' and 'advantage' take the fixed preposition 'of'.",
+          "id": 9
+        },
+        {
+          "sentence": "My neighbor constantly complains for the noise coming from the children playing in the park.",
+          "error_part": "complains for",
+          "correction": "complains about",
+          "explanation": "'Complain' takes the preposition 'about' or 'of', not 'for'.",
+          "id": 10
+        },
+        {
+          "sentence": "She emphasized on the need for regular practice to improve performance.",
+          "error_part": "emphasized on",
+          "correction": "emphasized",
+          "explanation": "'Emphasize' is a transitive verb and does not require the preposition 'on' before its object.",
+          "id": 11
+        },
+        {
+          "sentence": "The coordinator carefully explained about the revised procedures to all the participants.",
+          "error_part": "explained about",
+          "correction": "explained",
+          "explanation": "'Explain' is directly transitive and should not be followed by 'about' when specifying the topic explained.",
+          "id": 12
+        },
+        {
+          "sentence": "She congratulated him for his success.",
+          "error_part": "congratulated him for",
+          "correction": "congratulated him on",
+          "explanation": "'Congratulate' takes the fixed preposition 'on', not 'for'.",
+          "id": 13
+        },
+        {
+          "sentence": "You should not laugh on others.",
+          "error_part": "laugh on",
+          "correction": "laugh at",
+          "explanation": "'Laugh' takes the preposition 'at' when referring to mocking someone, not 'on'.",
+          "id": 14
+        },
+        {
+          "sentence": "She resembles with her mother.",
+          "error_part": "resembles with",
+          "correction": "resembles",
+          "explanation": "'Resemble' is a transitive verb and should not be followed by any preposition.",
+          "id": 15
+        },
+        {
+          "sentence": "She adopted a honest approach to resolving the issue.",
+          "error_part": "a honest approach",
+          "correction": "an honest approach",
+          "explanation": "'Honest' begins with a silent 'h', producing a vowel sound, so 'an' is required instead of 'a'.",
+          "id": 16
+        },
+        {
+          "sentence": "This book comprises of five chapters.",
+          "error_part": "comprises of",
+          "correction": "comprises",
+          "explanation": "'Comprise' is already transitive and should not be followed by 'of'.",
+          "id": 17
+        },
+        {
+          "sentence": "You should avail of every opportunity.",
+          "error_part": "avail of",
+          "correction": "avail yourself of",
+          "explanation": "'Avail' requires a reflexive pronoun before 'of': 'avail oneself of'.",
+          "id": 18
+        },
+        {
+          "sentence": "She is angry upon me.",
+          "error_part": "angry upon",
+          "correction": "angry with",
+          "explanation": "'Angry' takes the preposition 'with' when directed at a person, not 'upon'.",
+          "id": 19
+        },
+        {
+          "sentence": "He succeeded to win the prize.",
+          "error_part": "succeeded to win",
+          "correction": "succeeded in winning",
+          "explanation": "'Succeed' takes the preposition 'in' followed by a gerund, not the infinitive 'to win'.",
+          "id": 20
+        },
+        {
+          "sentence": "He could not cope up with the pressure.",
+          "error_part": "cope up with",
+          "correction": "cope with",
+          "explanation": "'Cope' is correctly followed by 'with' alone; 'up' is redundant.",
+          "id": 21
+        },
+        {
+          "sentence": "The cybersecurity team is proficient for detecting vulnerabilities in legacy systems.",
+          "error_part": "proficient for",
+          "correction": "proficient in",
+          "explanation": "'Proficient' takes the fixed preposition 'in', not 'for'.",
+          "id": 22
+        },
+        {
+          "sentence": "The committee is committed for ensuring that all members have an equal opportunity.",
+          "error_part": "committed for",
+          "correction": "committed to",
+          "explanation": "'Committed' takes the fixed preposition 'to', not 'for'.",
+          "id": 23
+        },
+        {
+          "sentence": "Deepak is studying B.tech at IIT Delhi to become the engineer.",
+          "error_part": "the engineer",
+          "correction": "an engineer",
+          "explanation": "When referring to a profession in general (not a specific person), the indefinite article 'an' is used, not 'the'.",
+          "id": 24
+        },
+        {
+          "id": 25,
+          "sentence": "She was accused with stealing the money by the cashier.",
+          "error_part": "accused with",
+          "correction": "accused of",
+          "explanation": "'Accused' takes the fixed preposition 'of'."
+        },
+        {
+          "id": 26,
+          "sentence": "He came across with an interesting article while browsing the newspaper.",
+          "error_part": "came across with",
+          "correction": "came across",
+          "explanation": "'Come across' is complete without 'with'."
+        },
+        {
+          "id": 27,
+          "sentence": "It is very stupid about the father to have spent ten lakh rupees.",
+          "error_part": "stupid about the father",
+          "correction": "stupid of the father",
+          "explanation": "Adjectives describing behaviour take 'of', not 'about'."
+        },
+        {
+          "id": 28,
+          "sentence": "Rohit has a passion in writing short stories.",
+          "error_part": "passion in writing",
+          "correction": "passion for writing",
+          "explanation": "'Passion' takes the fixed preposition 'for'."
+        },
+        {
+          "id": 29,
+          "sentence": "He read an excellent story that was published on the newspaper.",
+          "error_part": "published on the newspaper",
+          "correction": "published in the newspaper",
+          "explanation": "'In' is used for content within publications; 'on' is for surfaces."
+        },
+        {
+          "id": 30,
+          "sentence": "We look forward to meet you at the orientation session.",
+          "error_part": "look forward to meet",
+          "correction": "look forward to meeting",
+          "explanation": "'Look forward to' takes a gerund, not an infinitive."
+        },
+        {
+          "id": 31,
+          "sentence": "The child is afraid from the dark.",
+          "error_part": "afraid from the dark",
+          "correction": "afraid of the dark",
+          "explanation": "'Afraid' takes the fixed preposition 'of'."
+        },
+        {
+          "id": 32,
+          "sentence": "My elder sister is married with a doctor.",
+          "error_part": "married with a doctor",
+          "correction": "married to a doctor",
+          "explanation": "'Married' takes the preposition 'to'."
+        },
+        {
+          "id": 33,
+          "sentence": "The committee is committed for ensuring that all members have an equal opportunity.",
+          "error_part": "committed for",
+          "correction": "committed to",
+          "explanation": "'Committed' takes 'to', not 'for'."
+        },
+        {
+          "id": 34,
+          "sentence": "The cybersecurity team is proficient for detecting vulnerabilities.",
+          "error_part": "proficient for",
+          "correction": "proficient in",
+          "explanation": "'Proficient' takes 'in', not 'for'."
+        },
+        {
+          "id": 35,
+          "sentence": "He could not cope up with the pressure.",
+          "error_part": "cope up with",
+          "correction": "cope with",
+          "explanation": "'Cope' takes only 'with'; 'up' is redundant."
+        },
+        {
+          "id": 36,
+          "sentence": "She congratulated him for his success.",
+          "error_part": "congratulated him for",
+          "correction": "congratulated him on",
+          "explanation": "'Congratulate' takes 'on', not 'for'."
+        },
+        {
+          "id": 37,
+          "sentence": "You should not laugh on others.",
+          "error_part": "laugh on",
+          "correction": "laugh at",
+          "explanation": "'Laugh' takes 'at' when mocking someone."
+        },
+        {
+          "id": 38,
+          "sentence": "She resembles with her mother.",
+          "error_part": "resembles with",
+          "correction": "resembles",
+          "explanation": "'Resemble' is transitive and takes no preposition."
+        },
+        {
+          "id": 39,
+          "sentence": "She adopted a honest approach to resolving the issue.",
+          "error_part": "a honest approach",
+          "correction": "an honest approach",
+          "explanation": "'Honest' starts with a silent 'h', producing a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 40,
+          "sentence": "This book comprises of five chapters.",
+          "error_part": "comprises of",
+          "correction": "comprises",
+          "explanation": "'Comprise' is already transitive; 'of' is redundant."
+        },
+        {
+          "id": 41,
+          "sentence": "You should avail of every opportunity.",
+          "error_part": "avail of",
+          "correction": "avail yourself of",
+          "explanation": "'Avail' requires a reflexive pronoun."
+        },
+        {
+          "id": 42,
+          "sentence": "She is angry upon me.",
+          "error_part": "angry upon",
+          "correction": "angry with",
+          "explanation": "'Angry' takes 'with' for a person, not 'upon'."
+        },
+        {
+          "id": 43,
+          "sentence": "He succeeded to win the prize.",
+          "error_part": "succeeded to win",
+          "correction": "succeeded in winning",
+          "explanation": "'Succeed' takes 'in + gerund'."
+        },
+        {
+          "id": 44,
+          "sentence": "She emphasized on the need for regular practice.",
+          "error_part": "emphasized on",
+          "correction": "emphasized",
+          "explanation": "'Emphasize' is transitive and needs no preposition."
+        },
+        {
+          "id": 45,
+          "sentence": "The coordinator carefully explained about the revised procedures.",
+          "error_part": "explained about",
+          "correction": "explained",
+          "explanation": "'Explain' is directly transitive."
+        },
+        {
+          "id": 46,
+          "sentence": "My neighbor constantly complains for the noise coming from the children.",
+          "error_part": "complains for",
+          "correction": "complains about",
+          "explanation": "'Complain' takes 'about' or 'of', not 'for'."
+        },
+        {
+          "id": 47,
+          "sentence": "He divided the sweets between his five friends.",
+          "error_part": "between his five friends",
+          "correction": "among his five friends",
+          "explanation": "'Among' is used for more than two entities."
+        },
+        {
+          "id": 48,
+          "sentence": "Deepa and Seema are both good with running.",
+          "error_part": "good with running",
+          "correction": "good at running",
+          "explanation": "'Good' takes the preposition 'at' for skills."
+        },
+        {
+          "id": 49,
+          "sentence": "He never talks for anybody.",
+          "error_part": "talks for anybody",
+          "correction": "talks to anybody",
+          "explanation": "'Talk' takes 'to' when addressing someone."
+        },
+        {
+          "id": 50,
+          "sentence": "Mr. Ali's shop is further to the hospital.",
+          "error_part": "further to the hospital",
+          "correction": "further from the hospital",
+          "explanation": "'Further' with distance takes 'from', not 'to'."
+        },
+        {
+          "id": 51,
+          "sentence": "In some countries, you are not able to drink until you are 21.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence uses prepositions and structure correctly."
+        },
+        {
+          "id": 52,
+          "sentence": "She is one of the best singer in the city.",
+          "error_part": "best singer",
+          "correction": "best singers",
+          "explanation": "'One of the best' is followed by a plural noun."
+        },
+        {
+          "id": 53,
+          "sentence": "People admired him, for he lived by the same principals that he preached.",
+          "error_part": "lived by the same principals",
+          "correction": "lived by the same principles",
+          "explanation": "'Principles' (rules/values) is the correct word, not 'principals' (heads of institutions) - a spelling/word-choice issue tied to context."
+        },
+        {
+          "id": 54,
+          "sentence": "He spoke to a MLA regarding the issue on infrastructure.",
+          "error_part": "a MLA",
+          "correction": "an MLA",
+          "explanation": "'MLA' is pronounced starting with a vowel sound ('em'), requiring 'an'."
+        },
+        {
+          "id": 55,
+          "sentence": "We walked beside the road and found shelter under a tree.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Prepositions 'beside' and 'under' are correctly used here."
+        },
+        {
+          "id": 56,
+          "sentence": "She returned back the borrowed books to the library on time.",
+          "error_part": "returned back",
+          "correction": "returned",
+          "explanation": "'Return' already implies going back; 'back' is redundant."
+        },
+        {
+          "id": 57,
+          "sentence": "She broke down the complicated topic down in simple terms.",
+          "error_part": "topic down",
+          "correction": "topic",
+          "explanation": "The second 'down' is redundant since 'broke down' already conveys the action."
+        },
+        {
+          "id": 58,
+          "sentence": "We discussed the project in very details during the meeting.",
+          "error_part": "in very details",
+          "correction": "in great detail",
+          "explanation": "'Detail' is typically used in singular with 'great', not 'very details'."
+        },
+        {
+          "id": 59,
+          "sentence": "He is a fastly growing leader in the organization.",
+          "error_part": "fastly growing",
+          "correction": "fast-growing",
+          "explanation": "'Fast' functions as an adverb; 'fastly' is nonstandard."
+        },
+        {
+          "id": 60,
+          "sentence": "This route is most safer than the highway.",
+          "error_part": "most safer",
+          "correction": "safer",
+          "explanation": "Redundant double comparative; drop 'most'."
+        },
+        {
+          "id": 61,
+          "sentence": "I returned back from Mumbai last week.",
+          "error_part": "returned back",
+          "correction": "returned",
+          "explanation": "'Return' already means to come back; 'back' is redundant."
+        },
+        {
+          "id": 62,
+          "sentence": "He succeeded to win the prize.",
+          "error_part": "succeeded to win",
+          "correction": "succeeded in winning",
+          "explanation": "'Succeed' takes 'in + gerund'."
+        },
+        {
+          "id": 63,
+          "sentence": "The report was submitted by the manager to friday evening.",
+          "error_part": "to friday evening",
+          "correction": "by Friday evening",
+          "explanation": "'By' indicates a deadline, and 'Friday' should be capitalized."
+        },
+        {
+          "id": 64,
+          "sentence": "She delivered a speech in the prize distribution function.",
+          "error_part": "in the prize distribution function",
+          "correction": "at the prize distribution function",
+          "explanation": "'At' is used for events/functions, not 'in'."
+        },
+        {
+          "id": 65,
+          "sentence": "We ran into some old friends at the mall and catch up.",
+          "error_part": "and catch up",
+          "correction": "and caught up",
+          "explanation": "Past narrative requires past tense 'caught up', matching 'ran into'."
+        },
+        {
+          "id": 66,
+          "sentence": "He came across with an interesting article while browsing the newspaper.",
+          "error_part": "came across with",
+          "correction": "came across",
+          "explanation": "'Come across' needs no additional preposition."
+        },
+        {
+          "id": 67,
+          "sentence": "He is one of the few manager who consistently leads by example.",
+          "error_part": "few manager",
+          "correction": "few managers",
+          "explanation": "'One of the' requires a plural noun."
+        },
+        {
+          "id": 68,
+          "sentence": "They had put over the entire campaign due to unforeseen legal complications.",
+          "error_part": "put over",
+          "correction": "put off",
+          "explanation": "'Put off' correctly conveys postponement, not 'put over'."
+        },
+        {
+          "id": 69,
+          "sentence": "The team leader called up each employee but failed to bring on their actual grievances.",
+          "error_part": "bring on",
+          "correction": "bring out",
+          "explanation": "'Bring out' means to reveal/elicit; 'bring on' does not convey that meaning here."
+        },
+        {
+          "id": 70,
+          "sentence": "The CEO called off the meeting without giving any reason out.",
+          "error_part": "reason out",
+          "correction": "reason",
+          "explanation": "'Reason out' is a phrasal verb meaning to think through, which doesn't fit; simple 'reason' suffices."
+        },
+        {
+          "id": 71,
+          "sentence": "My father is comparatively better today.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Comparatively' correctly modifies 'better' in this context."
+        },
+        {
+          "id": 72,
+          "sentence": "It is a cheap reasonably restaurant in this part of the town.",
+          "error_part": "a cheap reasonably restaurant",
+          "correction": "a reasonably cheap restaurant",
+          "explanation": "Adverb 'reasonably' should precede the adjective it modifies, 'cheap'."
+        },
+        {
+          "id": 73,
+          "sentence": "Two of the world's best forwards has played alongside David Beckham.",
+          "error_part": null,
+          "correction": null,
+          "explanation": "Duplicate skip"
+        },
+        {
+          "id": 74,
+          "sentence": "The volunteer gave on to the food packets to the children of the orphanage.",
+          "error_part": "gave on to",
+          "correction": "gave out",
+          "explanation": "'Give out' means to distribute; 'gave on to' is not idiomatic."
+        },
+        {
+          "id": 75,
+          "sentence": "The companies were giving in the prizes to attract customers during the festive season.",
+          "error_part": "giving in the prizes",
+          "correction": "giving out the prizes",
+          "explanation": "'Give out' means to distribute; 'give in' means to surrender."
+        },
+        {
+          "id": 76,
+          "sentence": "The police inspector was trying to give out the contradicting stories in the scene of the accident.",
+          "error_part": "trying to give out",
+          "correction": "trying to sort out",
+          "explanation": "'Sort out' means to resolve confusion; 'give out' doesn't fit this context."
+        },
+        {
+          "id": 77,
+          "sentence": "Prateek could not muster up the courage. So, he blacked out.",
+          "error_part": "he blacked out",
+          "correction": "he chickened out",
+          "explanation": "'Chicken out' means to withdraw from fear; 'black out' means to lose consciousness."
+        },
+        {
+          "id": 78,
+          "sentence": "They have decided to wind out their business without delay.",
+          "error_part": "wind out",
+          "correction": "wind up",
+          "explanation": "'Wind up' is the correct phrasal verb meaning to close down a business."
+        },
+        {
+          "id": 79,
+          "sentence": "Throw of the old shoes nobody will wear them now.",
+          "error_part": "Throw of",
+          "correction": "Throw away",
+          "explanation": "'Throw away' means to discard; 'throw of' is not correct usage."
+        },
+        {
+          "id": 80,
+          "sentence": "The workers called out the strike because the management acceded to all their demands.",
+          "error_part": "called out the strike",
+          "correction": "called off the strike",
+          "explanation": "'Call off' means to cancel; 'call out' means to summon or shout."
+        },
+        {
+          "id": 81,
+          "sentence": "The aeroplane took down without the passengers after making a sudden announcement.",
+          "error_part": "took down",
+          "correction": "took off",
+          "explanation": "'Take off' means to depart (for aircraft); 'take down' means to remove/note."
+        },
+        {
+          "id": 82,
+          "sentence": "The judge ordered the prisoner to hung till death.",
+          "error_part": "to hung",
+          "correction": "to be hanged",
+          "explanation": "Passive infinitive 'to be hanged' is required, with correct past participle 'hanged' for execution."
+        },
+        {
+          "id": 83,
+          "sentence": "The thief was hung for his crimes.",
+          "error_part": "was hung",
+          "correction": "was hanged",
+          "explanation": "'Hanged' is used specifically for execution; 'hung' is used for objects."
+        },
+        {
+          "id": 84,
+          "sentence": "The ship drowned in the sea.",
+          "error_part": "The ship drowned",
+          "correction": "The ship sank",
+          "explanation": "'Sink' is used for vessels; 'drown' is used for living beings."
+        },
+        {
+          "id": 85,
+          "sentence": "He made a quick shower before heading to the office.",
+          "error_part": "made a quick shower",
+          "correction": "took a quick shower",
+          "explanation": "The correct collocation is 'take a shower', not 'make a shower'."
+        },
+        {
+          "id": 86,
+          "sentence": "He is 1035 hours now and the bus is going to come to the station within ten minutes.",
+          "error_part": "within ten minutes",
+          "correction": "in ten minutes",
+          "explanation": "'Within' is for a time range; 'in' is for a specific point when the exact time is known."
+        },
+        {
+          "id": 87,
+          "sentence": "Samantha came in the room crying and complained that the lilies had lost their fragrance.",
+          "error_part": "came in the room",
+          "correction": "came into the room",
+          "explanation": "'Into' shows movement from outside to inside; 'in' indicates static position."
+        },
+        {
+          "id": 88,
+          "sentence": "Let's move all the magazines kept on this rack on the lower one.",
+          "error_part": "rack on the lower one",
+          "correction": "rack onto the lower one",
+          "explanation": "'Onto' indicates movement of an object from one place to another."
+        },
+        {
+          "id": 89,
+          "sentence": "The institute will invest more five hundred crores in the next five years.",
+          "error_part": "invest more five hundred crores",
+          "correction": "invest over five hundred crores",
+          "explanation": "'Over' is used before an amount to indicate 'more than'; 'more' comes after."
+        },
+        {
+          "id": 90,
+          "sentence": "The whole group would burst into peals for laughter.",
+          "error_part": "peals for laughter",
+          "correction": "peals of laughter",
+          "explanation": "'Peals of laughter' is the correct fixed idiom."
+        },
+        {
+          "id": 91,
+          "sentence": "Anita took such an offense at the remark that she refused to speak with the manager.",
+          "error_part": "took such an offense",
+          "correction": "took such offense",
+          "explanation": "'Take offense' is used without an article."
+        },
+        {
+          "id": 92,
+          "sentence": "In response to fraudulent transactions, the bank introduced mechanism to verify customer identities.",
+          "error_part": "introduced mechanism",
+          "correction": "introduced a mechanism",
+          "explanation": "'Mechanism' is a singular countable noun starting with a consonant sound, needing 'a'."
+        },
+        {
+          "id": 93,
+          "sentence": "Among all the diplomatic envoys, she is undoubtedly more trusted and relied upon by both factions.",
+          "error_part": "more trusted",
+          "correction": "most trusted",
+          "explanation": "Comparing among many (envoys) requires the superlative 'most', not comparative 'more'."
+        },
+        {
+          "id": 94,
+          "sentence": "She was not allowed to enter the hotel as her clothes was dirtier.",
+          "error_part": "was dirtier",
+          "correction": "were dirty",
+          "explanation": "'Clothes' (plural) needs 'were', and simple 'dirty' fits better than the comparative here."
+        },
+        {
+          "id": 95,
+          "sentence": "My sister is allergic with peanuts, so be cautious when preparing her meal.",
+          "error_part": "allergic with peanuts",
+          "correction": "allergic to peanuts",
+          "explanation": "'Allergic' takes the fixed preposition 'to'."
+        },
+        {
+          "id": 96,
+          "sentence": "They have an information about the event.",
+          "error_part": "an information",
+          "correction": "information",
+          "explanation": "'Information' is uncountable and cannot take the indefinite article 'an'."
+        },
+        {
+          "id": 97,
+          "sentence": "He never talks for anybody. He is alone all day.",
+          "error_part": "talks for anybody",
+          "correction": "talks to anybody",
+          "explanation": "'Talk' takes the preposition 'to' when addressing someone."
+        },
+        {
+          "id": 98,
+          "sentence": "The police told the agitators to back in, else they would lathi-charge.",
+          "error_part": "to back in",
+          "correction": "to back off",
+          "explanation": "'Back off' means to retreat/withdraw; 'back in' does not convey this meaning."
+        },
+        {
+          "id": 99,
+          "sentence": "Deepa and Seema are both good with running, but Deepa is also good at catching the ball.",
+          "error_part": "good with running",
+          "correction": "good at running",
+          "explanation": "'Good' takes the preposition 'at' for skills."
+        },
+        {
+          "id": 100,
+          "sentence": "People admired him, for he lived by the same principals that he preached.",
+          "error_part": "principals",
+          "correction": "principles",
+          "explanation": "'Principles' (values/rules) is the correct word here, not 'principals' (heads of institutions)."
+        },
+        {
+          "id": 101,
+          "sentence": "We were on the way to the party suddenly, there will a heavy downpour.",
+          "error_part": "there will a heavy downpour",
+          "correction": "there was a heavy downpour",
+          "explanation": "A missing verb 'was' is required, and past tense fits the narrative."
+        },
+        {
+          "id": 102,
+          "sentence": "We were grateful for a book they gave us.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Grateful for' is correctly used here with the object 'a book'."
+        },
+        {
+          "id": 103,
+          "sentence": "Can we go visit a Statue of Liberty on our trip to the United States?",
+          "error_part": "a Statue of Liberty",
+          "correction": "the Statue of Liberty",
+          "explanation": "Unique landmarks require the definite article 'the'."
+        },
+        {
+          "id": 104,
+          "sentence": "I am understanding you like her because she has a generous nature.",
+          "error_part": "I am understanding",
+          "correction": "I understand",
+          "explanation": "'Understand' is a stative verb and is not normally used in continuous form."
+        },
+        {
+          "id": 105,
+          "sentence": "When he resigned, the company offered him a huge sum of money but he refused to agree to it.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 106,
+          "sentence": "You expressed your opinion very clearly but I am sorry I cannot agree to you.",
+          "error_part": "agree to you",
+          "correction": "agree with you",
+          "explanation": "'Agree with' is used when referring to a person; 'agree to' is used for a proposal or plan."
+        },
+        {
+          "id": 107,
+          "sentence": "Our plane arrived at the Mumbai airport at the right time.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Arrived at' is correctly used with a specific location."
+        },
+        {
+          "id": 108,
+          "sentence": "I am writing to invite you to give a presentation for our Jobs and Careers Conference.",
+          "error_part": "for our Jobs and Careers Conference",
+          "correction": "at our Jobs and Careers Conference",
+          "explanation": "'At' is used to indicate a specific event/occasion, not 'for'."
+        },
+        {
+          "id": 109,
+          "sentence": "Mr. Unkerton glanced to the inspector, who merely snorted and looked at the ceiling.",
+          "error_part": "glanced to the inspector",
+          "correction": "glanced at the inspector",
+          "explanation": "'Glance' takes the preposition 'at', not 'to'."
+        },
+        {
+          "id": 110,
+          "sentence": "Every candidate has to take the preliminary test.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 111,
+          "sentence": "Priyanka is my brother's best friend.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 112,
+          "sentence": "The principles of science are difficult to understand.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Principles' (plural) correctly takes the plural verb 'are'."
+        },
+        {
+          "id": 113,
+          "sentence": "Responses to the annual play have been favourable.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 114,
+          "sentence": "The writer of the stories in these books is Mary Gomes.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "Singular subject 'the writer' correctly takes the singular verb 'is'."
+        },
+        {
+          "id": 115,
+          "sentence": "Several lines in the poem are particularly good.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'Lines' (plural) correctly takes the plural verb 'are'."
+        },
+        {
+          "id": 116,
+          "sentence": "Eleven people were rescued from the fire.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 117,
+          "sentence": "Some of the online shows are very interesting.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 118,
+          "sentence": "Amit has three cousins.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 119,
+          "sentence": "Horses can run very fast.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        }
+      ]
+    },
+    {
+      "category": "Conjunction",
+      "topics": [
+        "Correlative conjunctions (not only...but also, neither...nor)",
+        "Parallelism",
+        "Subordinating conjunctions"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The committees objectives included 1 increasing membership, improving communication channels, and 2 to foster a sense of community 3 among its diverse members. 4",
+          "error_part": 3,
+          "correction": "and fostering a sense of community",
+          "explanation": "Rule of Parallelism: all items in a list must share the same grammatical form (gerund phrases here)."
+        },
+        {
+          "id": 2,
+          "sentence": "She was confident that her plan would succeed, 1 for it was not only innovative 2 but also it was thoroughly tested 3 by an independent team. 4",
+          "error_part": 3,
+          "correction": "but also thoroughly tested",
+          "explanation": "'Not only...but also' requires parallel structure on both sides of the correlative conjunction."
+        },
+        {
+          "id": 3,
+          "sentence": "The manager appreciated 1 not only her dedication 2 but also for her innovative ideas. 3 Everyone was motivated by her example. 4",
+          "error_part": 3,
+          "correction": "but also her innovative ideas",
+          "explanation": "To maintain parallelism with the noun phrase 'her dedication', the second part must also be a noun phrase, without 'for'."
+        },
+        {
+          "id": 4,
+          "sentence": "The proposal seeks to neither expand existing facilities 1 nor hire additional staff members 2 until the budget allocation 3 for the next fiscal year is confirmed. 4",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The correlative conjunction 'neither...nor' correctly joins two parallel verb phrases here."
+        },
+        {
+          "id": 5,
+          "sentence": "He speaks more persuasively than he writes, which according to his critics, makes him a better orator rather than an accomplished communicator.",
+          "error_part": 3,
+          "correction": "makes him a better orator than",
+          "explanation": "Comparative degree ('better') must be followed by 'than', not 'rather than'."
+        },
+        {
+          "sentence": "They are, not only late and careless, but also rude.",
+          "error_part": "not only late and careless",
+          "correction": "not only late and careless,",
+          "explanation": "Correlative conjunction 'not only...but also' should join parallel structures without unnecessary commas breaking the flow.",
+          "id": 6
+        },
+        {
+          "sentence": "The lecture, which our teacher delivered, was not only engaging, but also inspire.",
+          "error_part": "but also inspire",
+          "correction": "but also inspiring",
+          "explanation": "To maintain parallel structure with 'engaging', the second element must also be an adjective ending in '-ing': 'inspiring'.",
+          "id": 7
+        },
+        {
+          "sentence": "Not only did the committee reject the proposal for its impracticality, but also criticized the team for poor presentation.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The correlative structure 'not only...but also' is correctly used with parallel verb phrases here.",
+          "id": 8
+        },
+        {
+          "sentence": "She enjoys reading novels, listening to music and to paint landscapes during her free time.",
+          "error_part": "and to paint landscapes",
+          "correction": "and painting landscapes",
+          "explanation": "To maintain parallelism with the gerunds 'reading' and 'listening', the third item must also be a gerund: 'painting'.",
+          "id": 9
+        },
+        {
+          "sentence": "Because of he was exhausted, he could not finish the task on time.",
+          "error_part": "Because of he was exhausted",
+          "correction": "Because he was exhausted",
+          "explanation": "'Because' (a conjunction) is followed directly by a clause, while 'because of' is followed by a noun phrase, not a full clause.",
+          "id": 10
+        },
+        {
+          "id": 11,
+          "sentence": "She was confident that her plan would succeed, for it was not only innovative but also it was thoroughly tested.",
+          "error_part": "but also it was thoroughly tested",
+          "correction": "but also thoroughly tested",
+          "explanation": "'Not only...but also' requires parallel structure."
+        },
+        {
+          "id": 12,
+          "sentence": "The manager appreciated not only her dedication but also for her innovative ideas.",
+          "error_part": "but also for her innovative ideas",
+          "correction": "but also her innovative ideas",
+          "explanation": "To maintain parallelism, no preposition should precede the second element."
+        },
+        {
+          "id": 13,
+          "sentence": "She enjoys reading novels, listening to music and to paint landscapes.",
+          "error_part": "and to paint landscapes",
+          "correction": "and painting landscapes",
+          "explanation": "Parallelism requires all listed items to be gerunds."
+        },
+        {
+          "id": 14,
+          "sentence": "Because of he was exhausted, he could not finish the task on time.",
+          "error_part": "Because of he was exhausted",
+          "correction": "Because he was exhausted",
+          "explanation": "'Because' (conjunction) is followed by a clause; 'because of' takes a noun phrase."
+        },
+        {
+          "id": 15,
+          "sentence": "The lecture, which our teacher delivered, was not only engaging, but also inspire.",
+          "error_part": "but also inspire",
+          "correction": "but also inspiring",
+          "explanation": "Parallel structure requires 'inspiring' to match 'engaging'."
+        },
+        {
+          "id": 16,
+          "sentence": "They are, not only late and careless, but also rude.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The correlative conjunction correctly joins parallel adjectives."
+        },
+        {
+          "id": 17,
+          "sentence": "Not only did the committee reject the proposal for its impracticality, but also criticized the team for poor presentation.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The correlative structure correctly uses parallel verb phrases."
+        },
+        {
+          "id": 18,
+          "sentence": "He speaks more persuasively than he writes, which makes him a better orator rather than an accomplished communicator.",
+          "error_part": "rather than",
+          "correction": "than",
+          "explanation": "Comparative degree ('better') must be followed by 'than', not 'rather than'."
+        },
+        {
+          "id": 19,
+          "sentence": "The proposal seeks to neither expand existing facilities nor hire additional staff members.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The correlative conjunction 'neither...nor' correctly joins two parallel verb phrases."
+        },
+        {
+          "id": 20,
+          "sentence": "We were on the way to the party suddenly, there will a heavy downpour.",
+          "error_part": "there will a heavy downpour",
+          "correction": "there was a heavy downpour",
+          "explanation": "Past narrative requires past tense 'was', and a verb 'was' is missing before 'a heavy downpour'."
+        },
+        {
+          "id": 21,
+          "sentence": "They did nothing but argue.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "'But' followed by the bare infinitive 'argue' is the correct idiomatic structure after 'do nothing but'."
+        },
+        {
+          "id": 22,
+          "sentence": "They did nothing but to argue.",
+          "error_part": "but to argue",
+          "correction": "but argue",
+          "explanation": "After 'do nothing but', the bare infinitive (without 'to') is required."
+        },
+        {
+          "id": 23,
+          "sentence": "She was not prevented to go out by the guard.",
+          "error_part": "prevented to go out",
+          "correction": "prevented from going out",
+          "explanation": "'Prevent' takes 'from + gerund', not 'to + infinitive'."
+        },
+        {
+          "id": 24,
+          "sentence": "The teacher, as well as his students, was late.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "With 'as well as', the verb agrees with the first subject 'teacher' (singular)."
+        },
+        {
+          "id": 25,
+          "sentence": "I look forward to meet you soon.",
+          "error_part": "look forward to meet",
+          "correction": "look forward to meeting",
+          "explanation": "'Look forward to' requires a gerund, not an infinitive."
+        },
+        {
+          "id": 26,
+          "sentence": "Since his son has not yet completed the age of eighteen, he was reluctant to fulfil his son's demand of getting a motorbike.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence maintains correct tense and structure throughout."
+        },
+        {
+          "id": 27,
+          "sentence": "It is difficult to live in the societal expectations when one has fewer resources.",
+          "error_part": "live in the societal expectations",
+          "correction": "live up to societal expectations",
+          "explanation": "'Live up to' is the correct idiom meaning to meet expectations."
+        },
+        {
+          "id": 28,
+          "sentence": "The reason for the delay is because it rained heavily all day long.",
+          "error_part": "is because",
+          "correction": "is that",
+          "explanation": "'The reason...is that' is the standard correct construction; 'is because' is redundant."
+        },
+        {
+          "id": 29,
+          "sentence": "It is said that Joseph was not ready to go to war.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 30,
+          "sentence": "Karl Marx was a renowned social scientist.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        },
+        {
+          "id": 31,
+          "sentence": "It is impossible to wake Christine up in the morning.",
+          "error_part": null,
+          "correction": "No error",
+          "explanation": "The sentence is grammatically correct as written."
+        }
+      ]
+    },
+    {
+      "category": "Article",
+      "topics": [
+        "Definite article 'the'",
+        "Indefinite articles 'a/an'",
+        "Article omission"
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "sentence": "The teacher gave 1 a advice 2 which was really 3 helpful 4.",
+          "error_part": 2,
+          "correction": "gave advice",
+          "explanation": "'Advice' is an uncountable noun and does not take the indefinite article 'a'."
+        },
+        {
+          "id": 2,
+          "sentence": "He has never slept in a igloo.",
+          "error_part": "a igloo",
+          "correction": "an igloo",
+          "explanation": "'Igloo' begins with a vowel sound, requiring 'an' instead of 'a'."
+        },
+        {
+          "id": 3,
+          "sentence": "Emily is a American living in Paris for her work.",
+          "error_part": "a American",
+          "correction": "an American",
+          "explanation": "'American' begins with a vowel sound, so 'an' is required."
+        },
+        {
+          "id": 4,
+          "sentence": "My students are waiting for their flights at the gate no. 6.",
+          "error_part": "at the gate no. 6",
+          "correction": "at gate no. 6",
+          "explanation": "The definite article 'the' is generally omitted before specific numbered gates, rooms, or sections."
+        },
+        {
+          "id": 5,
+          "sentence": "This is a doll and there is a umbrella.",
+          "error_part": "a umbrella",
+          "correction": "an umbrella",
+          "explanation": "'Umbrella' begins with a vowel sound, so 'an' should be used, not 'a'."
+        },
+        {
+          "id": 6,
+          "sentence": "Master Sam is a heaviest boy in grade twelve.",
+          "error_part": "is a heaviest",
+          "correction": "is the heaviest",
+          "explanation": "Superlative adjectives ('heaviest') are always preceded by the definite article 'the', not 'a'."
+        },
+        {
+          "sentence": "A owl is a bird which has wide eyes, asymmetrical ears and is found mostly in forests.",
+          "error_part": "A owl",
+          "correction": "An owl",
+          "explanation": "'Owl' begins with a vowel sound, so 'an' is required instead of 'a'.",
+          "id": 7
+        },
+        {
+          "sentence": "I am going to buy a red car with a leather seats and a sunroof.",
+          "error_part": "a leather seats",
+          "correction": "leather seats",
+          "explanation": "'Seats' is plural and cannot take the singular indefinite article 'a'.",
+          "id": 8
+        },
+        {
+          "sentence": "It is very stupid about the father to have spent ten lakh rupees on this car.",
+          "error_part": "stupid about the father",
+          "correction": "stupid of the father",
+          "explanation": "Adjectives describing behaviour (stupid, kind, rude) take the preposition 'of', not 'about' - relevant alongside article usage in such constructions.",
+          "id": 9
+        },
+        {
+          "sentence": "The teacher gave a advice which was really helpful.",
+          "error_part": "a advice",
+          "correction": "advice",
+          "explanation": "'Advice' is an uncountable noun and cannot take the indefinite article 'a'.",
+          "id": 10
+        },
+        {
+          "sentence": "He is one of the few manager who consistently leads by example.",
+          "error_part": "few manager",
+          "correction": "few managers",
+          "explanation": "'One of the' is always followed by a plural noun, so 'manager' must become 'managers'.",
+          "id": 11
+        },
+        {
+          "id": 12,
+          "sentence": "A owl is a bird which has wide eyes.",
+          "error_part": "A owl",
+          "correction": "An owl",
+          "explanation": "'Owl' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 13,
+          "sentence": "I am going to buy a red car with a leather seats.",
+          "error_part": "a leather seats",
+          "correction": "leather seats",
+          "explanation": "'Seats' is plural and cannot take the singular article 'a'."
+        },
+        {
+          "id": 14,
+          "sentence": "The teacher gave a advice which was really helpful.",
+          "error_part": "a advice",
+          "correction": "advice",
+          "explanation": "'Advice' is uncountable and takes no indefinite article."
+        },
+        {
+          "id": 15,
+          "sentence": "He is one of the few manager who consistently leads by example.",
+          "error_part": "few manager",
+          "correction": "few managers",
+          "explanation": "'One of the' requires a plural noun."
+        },
+        {
+          "id": 16,
+          "sentence": "Emily is a American living in Paris for her work.",
+          "error_part": "a American",
+          "correction": "an American",
+          "explanation": "'American' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 17,
+          "sentence": "This is a doll and there is a umbrella.",
+          "error_part": "a umbrella",
+          "correction": "an umbrella",
+          "explanation": "'Umbrella' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 18,
+          "sentence": "Mr. Vinu has never slept in a igloo.",
+          "error_part": "a igloo",
+          "correction": "an igloo",
+          "explanation": "'Igloo' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 19,
+          "sentence": "Can we go visit a Statue of Liberty on our trip.",
+          "error_part": "a Statue of Liberty",
+          "correction": "the Statue of Liberty",
+          "explanation": "Unique landmarks take the definite article 'the'."
+        },
+        {
+          "id": 20,
+          "sentence": "Deepak is studying B.tech at IIT Delhi to become the engineer.",
+          "error_part": "the engineer",
+          "correction": "an engineer",
+          "explanation": "Referring to a profession generally requires the indefinite article 'an'."
+        },
+        {
+          "id": 21,
+          "sentence": "This is the story of eight round planets, the few rocks in between, and some comets.",
+          "error_part": "the few rocks",
+          "correction": "a few rocks",
+          "explanation": "'A few' (some) is correct, not 'the few' (specific known ones)."
+        },
+        {
+          "id": 22,
+          "sentence": "UNESCO works to strengthen an intellectual and moral solidarity of humankind.",
+          "error_part": "an intellectual",
+          "correction": "the intellectual",
+          "explanation": "Abstract concept referred to specifically should take 'the', not 'an'."
+        },
+        {
+          "id": 23,
+          "sentence": "A elephant was seen wandering on the road late at night.",
+          "error_part": "A elephant",
+          "correction": "An elephant",
+          "explanation": "'Elephant' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 24,
+          "sentence": "He has been working as a poet since five years.",
+          "error_part": "since five years",
+          "correction": "for five years",
+          "explanation": "'For' indicates duration, not 'since'."
+        },
+        {
+          "id": 25,
+          "sentence": "This is the story of eight round planets, the few rocks in between, and some comets.",
+          "error_part": "the few rocks",
+          "correction": "a few rocks",
+          "explanation": "'A few' (some) fits better than 'the few' (specific known set)."
+        },
+        {
+          "id": 26,
+          "sentence": "Which sentence uses the article correctly? Dr. Johnson met the Shakespeare in England.",
+          "error_part": "the Shakespeare",
+          "correction": null,
+          "explanation": "'The' should not precede a proper noun like 'Shakespeare' unless used metaphorically (e.g., 'the Shakespeare of India')."
+        },
+        {
+          "id": 27,
+          "sentence": "Which among the following uses honour correctly? It is honour to be here.",
+          "error_part": "It is honour",
+          "correction": "It is an honour",
+          "explanation": "'Honour' begins with a silent 'h', producing a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 28,
+          "sentence": "My students are waiting for their flights at the gate no. 6.",
+          "error_part": "at the gate no. 6",
+          "correction": "at gate no. 6",
+          "explanation": "Definite article is dropped before specific numbered locations."
+        },
+        {
+          "id": 29,
+          "sentence": "Master Sam is a heaviest boy in grade twelve.",
+          "error_part": "a heaviest",
+          "correction": "the heaviest",
+          "explanation": "Superlatives require the definite article 'the'."
+        },
+        {
+          "id": 30,
+          "sentence": "Master Sam is a heaviest boy in grade twelve.",
+          "error_part": "a heaviest",
+          "correction": "the heaviest",
+          "explanation": "Superlatives require the definite article 'the'."
+        },
+        {
+          "id": 31,
+          "sentence": "In the recent past, the IT industry has emerged as a major contributor to an industry revenue.",
+          "error_part": "an industry revenue",
+          "correction": "industry revenue",
+          "explanation": "'Industry revenue' here is used generally/abstractly and does not need the indefinite article."
+        },
+        {
+          "id": 32,
+          "sentence": "UNESCO works to strengthen an intellectual and moral solidarity of humankind.",
+          "error_part": "an intellectual",
+          "correction": "the intellectual",
+          "explanation": "A specific abstract concept referred to should take 'the', not 'an'."
+        },
+        {
+          "id": 33,
+          "sentence": "Emily is a American living in Paris for her work.",
+          "error_part": "a American",
+          "correction": "an American",
+          "explanation": "'American' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 34,
+          "sentence": "Mr. Vinu has never slept in a igloo.",
+          "error_part": "a igloo",
+          "correction": "an igloo",
+          "explanation": "'Igloo' begins with a vowel sound, requiring 'an'."
+        },
+        {
+          "id": 35,
+          "sentence": "This is the story of eight round planets, the few rocks in between, and some comets.",
+          "error_part": "the few rocks",
+          "correction": "a few rocks",
+          "explanation": "'A few' (some) fits better than 'the few' (specific known set)."
+        }
+      ]
+    }
+  ]
+}

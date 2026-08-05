@@ -248,10 +248,10 @@ const SummaryTable = ({ rows, colA = "Tense", colB = "Structure" }) => {
         <TableBody>
           {rows.map((r, i) => (
             <TableRow key={i} sx={{ "&:nth-of-type(odd)": { bgcolor: palette.navyHover } }}>
-              <TableCell sx={{ fontFamily: FONT_BODY, fontSize: 13.5, color: palette.text, fontWeight: 600 }}>
+              <TableCell sx={{ fontFamily: FONT_BODY, fontSize: 13.5, color: palette.text, fontWeight: 600,bgcolor: palette.navyHover  }}>
                 {r[keys[0]]}
               </TableCell>
-              <TableCell sx={{ fontFamily: "monospace", fontSize: 13, color: palette.blue }}>
+              <TableCell sx={{ fontFamily: "monospace", fontSize: 13, color: palette.blue,bgcolor: palette.navyHover  }}>
                 {r[keys[1]]}
               </TableCell>
             </TableRow>
@@ -904,7 +904,7 @@ const NotesPage2 = ({ data }) => {
   const parts = data.parts || [];
 
   return (
-    <Box sx={{ bgcolor: palette.ink, minHeight: "100vh", pb: 6 }}>
+    <Box sx={{ bgcolor: palette.ink, minHeight: "100vh", pb: 6 ,width: "100%" }}>
       {/* Header */}
       <Box
         sx={{
@@ -912,6 +912,7 @@ const NotesPage2 = ({ data }) => {
           borderBottom: `1px solid ${palette.border}`,
           px: { xs: 2, md: 5 },
           py: 4,
+          
         }}
       >
         <Typography
@@ -943,7 +944,7 @@ const NotesPage2 = ({ data }) => {
         )}
       </Box>
 
-      <Box sx={{ px: { xs: 2, md: 5 }, pt: 3, maxWidth: 1100, mx: "auto" }}>
+      <Box sx={{ px: { xs: 2, md: 5 }, pt: 3, mx: "auto" }}>
         {/* Top-level definition + types — always visible, gives context before tabs */}
         {data.definition && (
           <Panel sx={{ mb: 2 }}>

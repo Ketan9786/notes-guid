@@ -69,7 +69,7 @@
   "rules": [
     {
       "id": 1,
-      "title": "Uncountable Nouns - Always Plural",
+      "title": "Uncountable Nouns - Always Singular",
       "marathi": "Uncountable nouns नेहमी Singular असतात.",
       "english": "Uncountable nouns are always singular.",
       "wrongRight": [
